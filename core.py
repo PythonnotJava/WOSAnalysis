@@ -62,6 +62,22 @@ def journal_statistics(items : list[str]):
             pys[py] = 1
     return sos, pys
 
+# 自定义匹配
+def self_define_pattern(entry : str, key : str):
+    so = re.search(fr'^{key} (.+)', entry, flags=re.MULTILINE)
+    return so.group(1).strip() if so else None
+
+# 自定义统计，键必须和数量有关才行
+def self_define_statistics(items : list[str], key : str):
+    selves = {}
+    for item in items:
+        rt = self_define_pattern(item, key)
+        if selves.get(rt):
+            selves[rt] += 1
+        else:
+            selves[rt] = 1
+    return selves
+
 # 对值排序 True表示从大到小
 def sort_value(data : dict, reverse : bool = True):
     sorted_data = dict(sorted(data.items(), key=lambda item: item[1], reverse=reverse))

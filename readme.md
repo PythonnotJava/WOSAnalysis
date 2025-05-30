@@ -64,3 +64,13 @@
 > 在大量（如下图，200+期刊源，柱状图表现很差，于是需要词云或者其他图显示）
 > 
 ![src](example/5.png)
+
+## 依赖
+```text
+Python >= 3.12
+pyside6
+matplotlib
+wordcloud
+qtawesome
+
+```
