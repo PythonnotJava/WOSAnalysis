@@ -1,0 +1,54 @@
+PT J
+AU Socrates, SS
+   Sriram, V
+   Sundar, V
+AF Socrates, S. Sandana
+   Sriram, V.
+   Sundar, V.
+TI Experimental investigation on an array of OWCs integrated with
+   Semi-circular breakwater
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE OWC; SCBW; Hybrid structure; Wave energy; Spacing; Capture width
+AB The study of hybrid wave energy devices in the ocean environment has become increasingly important. It can serve as an energy absorption device and coastal protection measure. This study comprehensively investigates the hydrodynamic performance of a hybrid structure comprising an array of two oscillating water columns (OWC) integrated with an impermeable semi-circular breakwater (SCBW). The analysis focuses on the influence of wave steepness and wave period under regular and random wave conditions. The center-to-center spacing between the OWC units is maintained at three times the width of an individual OWC. Key performance metrics considered for OWC include the OWC chamber oscillation, air pressure, and capture width (CW). For SCBW, wave run-up and the hydrodynamic pressure exerted on the seaside face are considered. A maximum CW ratio of 2.5 was achieved under regular wave conditions. Additionally, the wave reflection are investigated, and they are found to be a maximum of 0.75, respectively, which are critical for the design and effectiveness of the hybrid structure. The findings indicate that the combined OWC-SCBW system exhibits promising hydrodynamic performance. These results underscore the potential of this hybrid design to contribute significantly to advancements in renewable energy and coastal engineering.
+C1 [Socrates, S. Sandana; Sriram, V.; Sundar, V.] Indian Inst Technol Madras, Dept Ocean Engn, Chennai 600036, India.
+   [Socrates, S. Sandana; Sriram, V.] Indian Inst Technol Madras, Ctr Maritime Expt Maritime Experience ME2ME, Chennai, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Madras; Indian Institute of Technology System (IIT
+   System); Indian Institute of Technology (IIT) - Madras
+RP Sriram, V (通讯作者)，Indian Inst Technol Madras, Dept Ocean Engn, Chennai 600036, India.; Sriram, V (通讯作者)，Indian Inst Technol Madras, Ctr Maritime Expt Maritime Experience ME2ME, Chennai, India.
+EM oe20d011@smail.iitm.ac.in; vsriram@iitm.ac.in; vallamsundar@gmail.com
+FU Department of Ocean Engineering, Indian Institute of Technology Madras
+FX The authors acknowledge the financial and laboratory support from the
+   Department of Ocean Engineering, Indian Institute of Technology Madras,
+   for conducting the experiments. The authors also want to thank
+   Varatharaj K, Project Associate from the Department of Ocean
+   Engineering, Indian Institute of Technology Madras, for contributing
+   instruments and experiment setup.
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD JUL 1
+PY 2025
+VL 331
+AR 121323
+DI 10.1016/j.oceaneng.2025.121323
+PG 16
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 2JN0B
+UT WOS:001484145700001
+DA 2025-05-29
+ER

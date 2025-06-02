@@ -1,0 +1,58 @@
+PT J
+AU Hoang, AT
+   Pham, VV
+   Nguyen, XP
+AF Anh Tuan Hoang
+   Van Viet Pham
+   Xuan Phuong Nguyen
+TI Integrating renewable sources into energy system for smart city as a
+   sagacious strategy towards clean and sustainable process
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Smart city; Smart energy system; Renewable energy; Integrated energy
+   system; Low-carbon economy; CO2 reduction
+ID DISTRICT-HEATING SYSTEMS; HYBRID POWER-GENERATION; DEMAND-SIDE
+   MANAGEMENT; PHASE-CHANGE MATERIALS; ZERO-ENERGY; LOW-CARBON; FUEL-CELL;
+   RURAL ELECTRIFICATION; ELECTRIC VEHICLES; GEOTHERMAL-ENERGY
+AB Among the main components of a smart city, the energy system plays a vital and core role in the transition towards a sustainable urban life. Furthermore, the utilization of renewable energy sources has been demonstrated as a significant contribution to reducing pollutant emissions and enhancing the quality of the living environment. Therefore, designing the energy systems based on clean and renewable criteria is considered a sustainable solution for smart cities. Indeed, the deep and rapid penetration of renewable energy-based technologies have been believed to very well fit into a smart city under various scales, this could supply a secure basis for a modern society with a low-carbon economy. In this review paper, the main components and roles of renewable energy resources (such as solar, wind, geothermal, hydropower, ocean, and biofuels) for the smart city were fully introduced. Besides, integrating the renewable sources form into the energy systems of smart cities was thoroughly analyzed on the basis of technical and economic criteria. Finally, existing challenges and future scenarios were also discussed in detail to clarify the progress and perspective of smart renewable energy systems for the smart city. In general, the integration of renewables into energy systems of the smart city is a sagacious perspective and solution aiming to achieve cleaner process and more sustainable development. However, the optimization issues of the energy system for integrating of renewable components, ensuring good stability, maximizing the operating range, and minimizing the investment costs should be critically evaluated in the future works. (C) 2021 Elsevier Ltd. All rights reserved.
+C1 [Anh Tuan Hoang] Ho Chi Minh City Univ Technol HUTECH, Inst Engn, Ho Chi Minh City, Vietnam.
+   [Van Viet Pham; Xuan Phuong Nguyen] Ho Chi Minh City Univ Transport, Inst Maritime, Ho Chi Minh City, Vietnam.
+C3 Ho Chi Minh City University of Technology (HUTECH); Ho Chi Minh City
+   University of Transport
+RP Hoang, AT (通讯作者)，Ho Chi Minh City Univ Technol HUTECH, Inst Engn, Ho Chi Minh City, Vietnam.; Nguyen, XP (通讯作者)，Ho Chi Minh City Univ Transport, Inst Maritime, Ho Chi Minh City, Vietnam.
+EM hatuan@hutech.edu.vn; phuong@ut.edu.vn
+RI Van Viet, Pham/ABA-4038-2020; Nguyen Xuan, Phuong/AAT-9669-2021; Hoang,
+   Anh Tuan/C-4780-2019
+OI Nguyen Xuan, Phuong/0000-0003-0354-8648; Hoang, Anh
+   Tuan/0000-0002-1767-8040; Hoang, Anh Tuan/0000-0002-3433-7029
+NR 398
+TC 349
+Z9 351
+U1 32
+U2 336
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD JUL 10
+PY 2021
+VL 305
+AR 127161
+DI 10.1016/j.jclepro.2021.127161
+EA APR 2021
+PG 33
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA SJ6ZK
+UT WOS:000655680400008
+HC Y
+HP N
+DA 2025-05-29
+ER

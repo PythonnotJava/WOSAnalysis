@@ -1,0 +1,84 @@
+PT J
+AU Li, H
+   Li, RB
+   Tu, H
+   Cao, B
+   Liu, FJ
+   Bian, ZJ
+   Hu, T
+   Du, YM
+   Sun, L
+   Liu, QH
+AF Li, Hua
+   Li, Ruibo
+   Tu, Hao
+   Cao, Biao
+   Liu, Fangjian
+   Bian, Zunjian
+   Hu, Tian
+   Du, Yongming
+   Sun, Lin
+   Liu, Qinhuo
+TI An Operational Split-Window Algorithm for Generating Long-Term Land
+   Surface Temperature Products From Chinese Fengyun-3 Series Satellite
+   Data
+SO IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
+LA English
+DT Article
+DE Ocean temperature; Atmospheric modeling; Land surface temperature;
+   Radiometry; Sea surface; Satellite broadcasting; Land surface;
+   Emissivity; evaluation; land surface temperature (LST); split-window
+   (SW) algorithm; Visible and Infrared Radiometer (VIRR)
+ID EMISSIVITY SEPARATION; ARID AREA; VALIDATION; RETRIEVAL; GEOSTATIONARY;
+   AATSR; VIIRS; MAPS
+AB Land surface temperature (LST) is an important parameter that characterizes the energy balance of the land surface, and it is widely used in various research fields. This article proposes an operational split-window (SW) algorithm for use with the Chinese Fengyun-3 (FY-3) series satellite data, with the purpose of generating long-term global LST products. The algorithm primarily involves three steps. First, the brightness temperatures of the FY-3 Visible and Infrared Radiometer (VIRR) were recalibrated using historical recalibration coefficients to improve the accuracy of the absolute radiometric calibration. Second, daily dynamic emissivity maps were estimated using the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) global emissivity dataset (GED) and vegetation/snow cover products based on the vegetation cover method. Finally, the coefficients of the SW algorithm were simulated using MODTRAN 5 combined with the SeeBor V5.0 atmospheric profile library and ASTER spectral library, and then, the coefficients were stratified by the view zenith angle (VZA) and atmospheric water vapor content (WVC) to improve the fitting accuracy. The proposed SW algorithm was integrated into the MUlti-source data SYnergized Quantitative (MUSYQ) remote sensing production system to then generate FY-3 VIRR LST products. Ten land surface sites from the Heihe Watershed Allied Telemetry Experimental Research (HiWATER), Surface Radiation Budget (SURFRAD) networks, and nine water surface sites from the National Data Buoy Center (NDBC) were used to evaluate the accuracy of the FY-3 VIRR LST products. The results demonstrated that the accuracy of the historical recalibration coefficients of the FY-3A/B VIRR is higher than that of the operational calibration coefficients for LST retrieval. The evaluation results revealed that the FY-3A VIRR LST products (2009-2013) had a bias of 0.13 K and an RMSE of 2.77 K, and the FY-3B VIRR LST products (2011-2020) had a bias of -0.07 K and an RMSE of 2.83 K. These results demonstrate that the proposed operational SW algorithm has reasonable accuracy and can be used to produce global LST products from the FY-3 VIRR data.
+C1 [Li, Hua; Li, Ruibo; Tu, Hao; Cao, Biao] Chinese Acad Sci, Aerosp Informat Res Inst, State Key Lab Remote Sensing Sci, Beijing 100101, Peoples R China.
+   [Liu, Fangjian] Chinese Acad Sci, Aerosp Informat Res Inst, Key Lab Technol Geospatial Informat Proc & Applica, Beijing 100190, Peoples R China.
+   [Hu, Tian] Luxembourg Inst Sci & Technol, Dept Environm Res & Innovat, L-4362 Belvaux, Luxembourg.
+   [Sun, Lin] Shandong Univ Sci & Technol, Coll Geodesy & Geomat, Qingdao 266590, Peoples R China.
+C3 Chinese Academy of Sciences; Aerospace Information Research Institute,
+   CAS; Chinese Academy of Sciences; Aerospace Information Research
+   Institute, CAS; Luxembourg Institute of Science & Technology; Shandong
+   University of Science & Technology
+RP Cao, B (通讯作者)，Chinese Acad Sci, Aerosp Informat Res Inst, State Key Lab Remote Sensing Sci, Beijing 100101, Peoples R China.
+EM lihua@aircas.ac.cn; caobiao@aircas.ac.cn; liufj@aircas.ac.cn;
+   tian.hu@list.lu; sunlin@sdust.edu.cn
+RI Hu, Laurence/GWZ-9131-2022; Bian, Zunjian/ABC-2068-2021; Li,
+   Hua/S-3644-2018; 曹, 彪/AFQ-0478-2022; LIU, Qinhuo/S-1647-2016; Li,
+   Ruibo/AAW-3176-2020
+OI Cao, Biao/0000-0001-7877-8398; LIU, Qinhuo/0000-0002-3713-9511; li,
+   hua/0000-0003-3834-2682; Li, Ruibo/0000-0002-0857-7707; Hu,
+   Tian/0000-0001-7280-1921; Bian, Zunjian/0000-0002-2433-9901
+FU Chinese Natural Science Foundation Project [42071317, 41930111,
+   42271362, 42130111]; National Key Research and Development Program of
+   China [2018YFB0504900, 2018YFB0504905]
+FX This work was supported in part by the Chinese Natural Science
+   Foundation Project under Grant 42071317,Grant 41930111, Grant 42271362,
+   and Grant 42130111; and in part by National Key Research and Development
+   Program of China under Grant 2018YFB0504900 and Grant 2018YFB0504905
+NR 66
+TC 17
+Z9 17
+U1 12
+U2 36
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0196-2892
+EI 1558-0644
+J9 IEEE T GEOSCI REMOTE
+JI IEEE Trans. Geosci. Remote Sensing
+PY 2023
+VL 61
+AR 5004514
+DI 10.1109/TGRS.2023.3315968
+PG 14
+WC Geochemistry & Geophysics; Engineering, Electrical & Electronic; Remote
+   Sensing; Imaging Science & Photographic Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics; Engineering; Remote Sensing; Imaging Science
+   & Photographic Technology
+GA W3EC5
+UT WOS:001090483200008
+DA 2025-05-29
+ER

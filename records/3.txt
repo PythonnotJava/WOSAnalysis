@@ -1,0 +1,52 @@
+PT J
+AU Yilmaz, F
+   Ozturk, M
+   Selbas, R
+AF Yilmaz, Fatih
+   Ozturk, Murat
+   Selbas, Resat
+TI Thermodynamic performance assessment of ocean thermal energy conversion
+   based hydrogen production and liquefaction process
+SO INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+LA English
+DT Article
+DE OTEC; Integrated system; Hydrogen energy
+ID PLANT; SIMULATION; SYSTEM; CYCLE; CELL
+AB In the proposed study, the thermodynamic performance assessment of ocean thermal energy conversion (OTEC) based hydrogen generation and liquefaction system are evaluated. In this context, the energetic and exergetic analyses of integrated system are conducted for multigeneration. This integrated process is consisted of the heat exchangers, turbine, condenser, pumps, solar collector system, hot storage tank, cold storage tank and proton exchange membrane (PEM) electrolyzer. In addition to that, the impacts of different design indicators and reference ambient parameters on the exergetic performance and exergy destruction rate of OTEC based hydrogen production system are analyzed. The energetic and exergetic efficiencies of integrated system are founded as 43.49% and 36.49%, respectively. (C) 2018 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.
+C1 [Yilmaz, Fatih] Aksaray Univ, Vocat Sch Tech Sci, Dept Elect & Energy, TR-68100 Aksaray, Turkey.
+   [Ozturk, Murat] Suleyman Demirel Univ, Fac Technol, Dept Mechatron Engn, TR-32100 Isparta, Turkey.
+   [Selbas, Resat] Suleyman Demirel Univ, Fac Technol, Dept Energy Syst Engn, TR-32100 Isparta, Turkey.
+C3 Aksaray University; Suleyman Demirel University; Suleyman Demirel
+   University
+RP Yilmaz, F (通讯作者)，Aksaray Univ, Vocat Sch Tech Sci, Dept Elect & Energy, TR-68100 Aksaray, Turkey.
+EM fatiyilmaz7@gmail.com; muratorturk@sdu.edu.tr; resatselbas@sdu.edu.tr
+RI yilmaz, Fatih/O-1004-2014; Ozturk, Murat/AAH-9917-2021
+OI YILMAZ, Fatih/0000-0002-4401-4266; ozturk, murat/0000-0003-1585-0449
+NR 29
+TC 51
+Z9 52
+U1 1
+U2 25
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-3199
+EI 1879-3487
+J9 INT J HYDROGEN ENERG
+JI Int. J. Hydrog. Energy
+PD JUN 7
+PY 2018
+VL 43
+IS 23
+SI SI
+BP 10626
+EP 10636
+DI 10.1016/j.ijhydene.2018.02.021
+PG 11
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry; Energy & Fuels
+GA GK5OY
+UT WOS:000436225600014
+DA 2025-05-29
+ER

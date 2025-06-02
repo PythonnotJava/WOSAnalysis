@@ -1,0 +1,59 @@
+PT J
+AU Wu, F
+   Zhou, NP
+   Ju, P
+   Zhang, XP
+AF Wu, Feng
+   Zhou, Neng-Ping
+   Ju, Ping
+   Zhang, Xiao-Ping
+TI Wind Wave Coupling Model for Wave Energy Forecast
+SO IEEE TRANSACTIONS ON SUSTAINABLE ENERGY
+LA English
+DT Article
+DE Wave energy forecast; copula function; wind-wave coupling model; wind
+   wave and swell
+ID GENERATION; PREDICTION; CONVERSION; SYSTEM; SOUTH; SEA
+AB Since waves fluctuate continuously, the forecast of the wave energy is very important for the operation of the power system integrated with large-scale wave energy generations. Waves are driven by wind, so that the relationship between wind and wave is very useful in wave energy forecast. Hence, a wave energy forecast method based on the wind-wave coupling model is proposed in this paper. The wave is first divided into wind waves and swells. The correlation between wind and wind wave is analyzed, and a wind-wave coupling model is established using copula function. Based on the coupling model and the forecasted wind speed, the average wave height of the wind wave can be forecasted, while the time series method is used to forecast the average wave height of the swell. Combining the wind wave and the swell, the average wave height of the integrated wave is obtained and the wave energy can be forecasted. Using the measured wind and wave data from a real ocean, the day-ahead wave energy is forecasted by the proposed method. The forecast result is close to the measured data and the effectiveness of the proposed wave energy forecast method is validated.
+C1 [Wu, Feng; Zhou, Neng-Ping; Ju, Ping] Hohai Univ, Coll Energy & Elect Engn, Nanjing 210098, Jiangsu, Peoples R China.
+   [Zhang, Xiao-Ping] Univ Birmingham, Dept Elect Elect & Comp Engn, Birmingham B15 2TT, W Midlands, England.
+C3 Hohai University; University of Birmingham
+RP Wu, F (通讯作者)，Hohai Univ, Coll Energy & Elect Engn, Nanjing 210098, Jiangsu, Peoples R China.
+EM wufeng@hhu.edu.cn; neveral@163.com; pju@hhu.edu.cn; x.p.zhang@bham.ac.uk
+RI Zhang, Xiao-Ping/AAE-2866-2020; Wu, Feng/KCY-3017-2024
+OI Zhang, Xiao-Ping/0000-0003-0995-4989; Zhou, Nengping/0000-0001-8723-6208
+FU National Natural Science Foundation of China [51422701]; Chinese
+   National "111" Project of "Renewable Energy and Smart Grid" at Hohai
+   University [B14022]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grant 51422701 and in part by the Chinese
+   National "111" Project of "Renewable Energy and Smart Grid" at Hohai
+   University (B14022). Paper no. TSTE-00986-2017. (Corresponding author:
+   Feng Wu.)
+NR 25
+TC 16
+Z9 18
+U1 14
+U2 144
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1949-3029
+J9 IEEE T SUSTAIN ENERG
+JI IEEE Trans. Sustain. Energy
+PD APR
+PY 2019
+VL 10
+IS 2
+BP 586
+EP 595
+DI 10.1109/TSTE.2018.2839358
+PG 10
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering,
+   Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA HQ4JG
+UT WOS:000462375900010
+DA 2025-05-29
+ER

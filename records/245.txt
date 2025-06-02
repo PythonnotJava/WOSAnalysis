@@ -1,0 +1,51 @@
+PT J
+AU Park, J
+   Martinez, T
+   Jordon, S
+   Choi, Y
+   Wereley, N
+   Flatau, A
+AF Park, J.
+   Martinez, T.
+   Jordon, S.
+   Choi, Y.
+   Wereley, N.
+   Flatau, A.
+TI Wave-driven electromagnetic energy harvesters: Analysis of different
+   magnetic configurations
+SO AIP ADVANCES
+LA English
+DT Article
+ID RENEWABLE ENERGY
+AB This research focuses on the development and optimization of a wave-driven electromagnetic energy harvester designed to efficiently capture and store energy from low-frequency ocean waves (<0.3 Hz). The harvester configuration was optimized by adjusting the number of levitating magnets and fixed base magnets to enhance energy conversion. Experiments simulating a sine wave 0.2 Hz demonstrated successfully induced output voltage ranging from 2 to 4 V. This study in magnetic configuration led to observable variations in induced voltage as the repulsive interaction changed between the levitating magnets and base magnets. Performance was evaluated across a range of frequencies (0.05 Hz - 0.3 Hz) to assess the harvester's adaptability to variable wave conditions. To facilitate energy storage, a rectifier and capacitor were integrated into the system, converting and storing the harvested AC energy as DC, allowing the system to store 2.8 V within 5 minutes. Experimental results demonstrate efficient energy harvesting, highlighting the potential for this technology in low-power marine applications. (c) 2025 Author(s). All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license(https://creativecommons.org/licenses/by/4.0/).
+C1 [Park, J.; Martinez, T.; Jordon, S.; Choi, Y.; Wereley, N.; Flatau, A.] Univ Maryland, Dept Aerosp Engn, College Pk, MD 20742 USA.
+C3 University System of Maryland; University of Maryland College Park
+RP Flatau, A (通讯作者)，Univ Maryland, Dept Aerosp Engn, College Pk, MD 20742 USA.
+RI Wereley, Norman/I-8122-2012
+NR 15
+TC 0
+Z9 0
+U1 3
+U2 3
+PU AIP Publishing
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+EI 2158-3226
+J9 AIP ADV
+JI AIP Adv.
+PD MAR 1
+PY 2025
+VL 15
+IS 3
+AR 035016
+DI 10.1063/9.0000920
+PG 6
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science; Physics
+GA Z8T1E
+UT WOS:001441553000011
+OA gold
+DA 2025-05-29
+ER

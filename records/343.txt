@@ -1,0 +1,58 @@
+PT J
+AU Fox, BN
+   Gomes, RPF
+   Gato, LMC
+AF Fox, Brooklyn N.
+   Gomes, Rui P. F.
+   Gato, Luis M. C.
+TI Analysis of oscillating-water-column wave energy converter
+   configurations for integration into caisson breakwaters
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Wave energy; Oscillating water column; Caisson breakwater integration;
+   Numerical modelling; Linearization method
+ID POWER ABSORPTION; SURFACE-PRESSURE; OWC; EXTRACTION; PLANT; PERFORMANCE;
+   DEVICE
+AB Energy production from ocean waves remains in the research and development phase, due in part to the lack of maturity of the technology, as well as the economical unfeasibility of large-scale projects. Integration of wave energy converters into breakwaters is a strategy to improve the economic viability of the energy conversion system. The cost of electricity is reduced through the sharing of construction, installation, maintenance and operation activities. This work focuses on the design of an oscillating-water-column device to be integrated into a caisson used for breakwaters. A numerical model based on linear potential flow theory was developed. The viscous flow effects in the duct and the nonlinear turbine damping characteristic were linearized for the application of a frequency domain analysis. Furthermore, the device performance was estimated under irregular wave conditions using stochastic modelling for three wave climates and the influence of tidal variability is studied. The design and performance optimization of the submerged duct, air chamber and turbine are considered for the following oscillating-water-column duct configurations: conventional; U-shape; and L-shape. The results show all devices have better power conversion performance for the lower wave periods observed in the Mediterranean Sea than for the studied North Atlantic Ocean wave climates. The U-shaped converter outperforms the other configurations in all three locations, with a maximum theoretical annual pneumatic power of 46.8 kW/m when compared with 39.4 kW/m and 38.0 kW/m for the L-shape and conventional device, respectively. The tidal level variation does have some influence on the device performance, but the impact is minor.
+C1 [Fox, Brooklyn N.; Gomes, Rui P. F.; Gato, Luis M. C.] Univ Lisbon, Inst Super Tecn, IDMEC, Av Rovisco Pais 1, P-1049001 Lisbon, Portugal.
+C3 Universidade de Lisboa
+RP Gato, LMC (通讯作者)，Univ Lisbon, Inst Super Tecn, IDMEC, Av Rovisco Pais 1, P-1049001 Lisbon, Portugal.
+EM luis.gato@tecnico.ulisboa.pt
+RI Gomes, Rui/I-7674-2015
+OI Gomes, Rui/0000-0001-5397-8692; Gato, Luis/0000-0002-0334-7275; Fox,
+   Brooklyn/0000-0002-1295-072X
+FU Portuguese Foundation for Science and Technology (FCT) through IDMEC
+   [LAETA UIDB/50022/2020, MIT-EXPL/SOE/0094/2019]; Kymaner-Tecnologias
+   Energeticas Lda, Portugal; Fundação para a Ciência e a Tecnologia
+   [MIT-EXPL/SOE/0094/2019] Funding Source: FCT
+FX This work was partially funded by the Portuguese Foundation for Science
+   and Technology (FCT) through IDMEC, under LAETA UIDB/50022/2020, and
+   project MITEXPL/SOE/0094/2019. The first author received a scholarship
+   grant funded by KymanerTecnologias Energeticas Lda, Portugal.
+NR 68
+TC 36
+Z9 36
+U1 2
+U2 36
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD AUG 1
+PY 2021
+VL 295
+AR 117023
+DI 10.1016/j.apenergy.2021.117023
+EA MAY 2021
+PG 17
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA SV1QT
+UT WOS:000663600400003
+DA 2025-05-29
+ER

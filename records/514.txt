@@ -1,0 +1,58 @@
+PT J
+AU Tittensor, DP
+   Worm, B
+AF Tittensor, Derek P.
+   Worm, Boris
+TI A neutral-metabolic theory of latitudinal biodiversity
+SO GLOBAL ECOLOGY AND BIOGEOGRAPHY
+LA English
+DT Article
+DE Global model; latitudinal diversity gradient; macroecology; metabolic
+   theory; neutral theory
+ID GLOBAL PATTERNS; SPECIES-DIVERSITY; TEMPERATURE; GRADIENTS; EVOLUTION;
+   RICHNESS; DYNAMICS; ECOLOGY; TROPICS; ENERGY
+AB Aim Latitudinal gradients of species richness represent Earth's first-order biodiversity pattern. Most species groups display a near-monotonic decline in richness from the equator to the poles, yet there exists little mechanistic theory to derive such patterns from first principles. Here we integrate two key advances - neutral theory and the metabolic theory of ecology - to reconstruct global species richness gradients and test underlying causes.
+   Location Simulated global meta-community.
+   Methods We constructed a spatially explicit global meta-community with constant per capita rates of disturbance, speciation and dispersal. No gradient emerged in this neutral base model. Focusing on the oceans as a model system, we added a water temperature gradient of 0-30 degrees C that independently affected rates of community turnover and speciation based on established metabolic scaling laws. We also added a gradient in habitat area that roughly parallels the observed decrease in ocean area from tropical to polar waters.
+   Results Thermal effects on the community turnover rate caused a transient latitudinal gradient that ultimately disappeared. Thermal effects on speciation produced a dynamically stable but relatively weak gradient. Increasing habitat area towards the equator in combination with thermal effects on speciation rate produced a more realistic gradient that emerged from the combined effects of species-area and species-energy theory.
+   Main conclusions This reasonably simple model provides a platform to explore support for processes underpinning large-scale biodiversity gradients, and the ability of prominent ecological theories, independently or in combination, to capture them.
+C1 [Tittensor, Derek P.; Worm, Boris] Dalhousie Univ, Dept Biol, Halifax, NS B3H 4R2, Canada.
+   [Tittensor, Derek P.] United Nations Environm Programme World Conservat, Sci Programme, Cambridge CB3 0DL, England.
+C3 Dalhousie University
+RP Tittensor, DP (通讯作者)，Dalhousie Univ, Dept Biol, Halifax, NS B3H 4R2, Canada.
+EM derek.tittensor@unep-wcmc.org
+RI Worm, Boris/ADW-9659-2022; Tittensor, Derek/AAV-1117-2021
+OI Worm, Boris/0000-0002-5742-8716; Tittensor, Derek/0000-0002-9550-3123
+FU National Science and Engineering Research Council of Canada
+FX We gratefully acknowledge helpful comments and advice from J. Rosindell,
+   particularly with regard to the implementation of the coalescence model.
+   Financial support was provided by The National Science and Engineering
+   Research Council of Canada. All code used to run the models is available
+   at the Github repository of Derek Tittensor (https://github.com/derekt).
+NR 37
+TC 32
+Z9 32
+U1 2
+U2 80
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1466-822X
+EI 1466-8238
+J9 GLOBAL ECOL BIOGEOGR
+JI Glob. Ecol. Biogeogr.
+PD JUN
+PY 2016
+VL 25
+IS 6
+BP 630
+EP 641
+DI 10.1111/geb.12451
+PG 12
+WC Ecology; Geography, Physical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Physical Geography
+GA DW3BC
+UT WOS:000383516100001
+DA 2025-05-29
+ER

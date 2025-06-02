@@ -1,0 +1,55 @@
+PT J
+AU Khedkar, K
+   Bhalla, APS
+AF Khedkar, Kaustubh
+   Bhalla, Amneet Pal Singh
+TI A model predictive control (MPC)-integrated multiphase immersed boundary
+   (IB) framework for simulating wave energy converters (WECs)
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Optimal control; Ocean energy; Wave-structure interaction; Brinkman
+   penalization method; CFD; Level set method; Adaptive mesh refinement
+ID FLUID-STRUCTURE INTERACTION; IRREGULAR WAVES; GENERATION; ABSORPTION;
+   CYLINDER; ACCURATE; FORCE; TANK
+AB In this work, we present a novel MPC-integrated multiphase IB framework that can compute the optimal energy-maximizing control force "on-the-fly"by dynamically interacting with a high-fidelity numerical wave tank (NWT). The computational model closely mimics the working setup of the device at its site of operation. Due to the requirement of solving a constrained optimization problem at each time step of the IB simulation, the MPC algorithm utilizes a low-dimensional dynamical model of the device that is based on the linear potential theory (LPT). The multiphase IB solver, on the other hand, is based on the high-dimensional fictitious domain Brinkman penalization (FD/BP) method, which fully-resolves the hydrodynamic non-linearities associated with the wave-structure interaction (WSI). A time-series forecasting auto-regressive model is implemented that predicts wave heights (from the past NWT data) to estimate the future wave excitation/Froude-Krylov forces for the MPC algorithm. Moreover, we also experiment with non-linear Froude-Krylov (NLFK) forces for the first time in an MPC formulation. The NLFK forces are computed efficiently using a static Cartesian grid, in which the WEC geometry is implicitly represented by a signed distance function. Under varying sea conditions, the predictions of the MPC-integrated multiphase IB solver are compared to the widely popular LPT-based solvers. In agitated sea conditions and/or under aggressive control, the LPT-based WSI solvers produce too optimistic (and misleading) power output values. Overall, six WSI/MPC solver combinations are compared for a heaving vertical cylinder to determine the reasons for discrepancies between high-and low-fidelity predictions. We also determine the pathway of energy transfer from the waves to the power take-off (PTO) system and verify the relationships using IB simulations. Additionally, three different sea states are simulated within the IB simulation to test the adaptive capability of MPC for WECs. MPC is demonstrated to adapt to changing sea conditions and find the optimal solution for each sea state.The interaction between the distributed-memory parallel multiphase IB solver (written in C++) and the serial MPC solver (written in MATLAB) is fully described to facilitate reproducibility. A bespoke communication layer between the two solvers is developed, which can be easily modified by the WEC community to experiment with other optimal controllers and computational fluid dynamics (CFD) solvers. All codes for this work are made open-source for pedagogical and research purposes.
+C1 [Khedkar, Kaustubh; Bhalla, Amneet Pal Singh] San Diego State Univ, Dept Mech Engn, San Diego, CA 92182 USA.
+C3 California State University System; San Diego State University
+RP Bhalla, APS (通讯作者)，San Diego State Univ, Dept Mech Engn, San Diego, CA 92182 USA.
+EM asbhalla@sdsu.edu
+RI Bhalla, Amneet Pal Singh/IZQ-5687-2023
+FU National Science Foundation, United States of America [OAC 1931368]
+FX K.K and A.P.S.B acknowledge support from National Science Foundation,
+   United States of America award OAC 1931368. NSF XSEDE and SDSU Fermi
+   compute resources are particularly acknowledged. The authors also
+   acknowledge helpful discussions with Barry Smith related to the
+   PETSc-MATLAB interface and enabling the glue code to run on clusters
+   without requiring any intervention from the cluster admin.
+NR 73
+TC 10
+Z9 13
+U1 1
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD SEP 15
+PY 2022
+VL 260
+AR 111908
+DI 10.1016/j.oceaneng.2022.111908
+EA JUL 2022
+PG 25
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 5D1UM
+UT WOS:000864735800004
+OA Green Submitted, hybrid
+DA 2025-05-29
+ER

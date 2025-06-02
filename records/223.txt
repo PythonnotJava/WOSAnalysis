@@ -1,0 +1,69 @@
+PT J
+AU Jolliff, JK
+   Jarosz, E
+   Ladner, S
+   Smith, T
+   Anderson, S
+   Dykes, J
+AF Jolliff, Jason K.
+   Jarosz, Ewa
+   Ladner, Sherwin
+   Smith, Travis
+   Anderson, Stephanie
+   Dykes, James
+TI The Optical Signature of a Bottom Boundary Layer Ventilation Event in
+   the Northern Gulf of Mexico's Hypoxic Zone
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+DE hypoxia; ocean color; ventilation; shelf front; hyperspectral; coastal
+   sediment
+ID DOWNWELLING-FAVORABLE WIND; CONTINENTAL-SHELF; REGIONS; PLUME
+AB Oceanographic observations in the northern Gulf of Mexico captured an unusual combination of atmospheric forcing and shelf frontal dynamics that brought about the surface ventilation of sediment-laden bottom waters. Colorimetric analysis of in situ optical data indicates a specific turquoise-white color signature for turbid and low-oxygen bottom waters that match a coincident shelf-wide feature detected in Moderate Resolution Imaging Spectroradiometer satellite true color images. The physical processes leading to this ventilation event are simulated using the Coupled Ocean Atmosphere Mesoscale Prediction System, which includes an integrated surface wave model. The combined model-data analysis suggests that low-oxygen, bottom water ventilation may occur episodically during boreal spring and summer in the northern Gulf of Mexico following the passage of high-energy atmospheric systems, and these events may be identified in the historical satellite record based on the unique bottom water optical characteristics.
+C1 [Jolliff, Jason K.; Jarosz, Ewa; Ladner, Sherwin; Smith, Travis; Anderson, Stephanie; Dykes, James] US Naval Res Lab, Stennis Space Ctr, Hancock Cty, MS 39529 USA.
+RP Jolliff, JK (通讯作者)，US Naval Res Lab, Stennis Space Ctr, Hancock Cty, MS 39529 USA.
+EM jason.jolliff@nrlssc.navy.mil
+RI Dykes, James/ABA-5175-2020
+OI Jolliff, Jason/0000-0002-0829-6294
+FU Naval Research Laboratory (NRL) Research Program "Buoyancy Plume
+   Modulation of Coastal Air-Sea Exchange Processes (PlumeCASE)"
+FX We thank the Captain and crew of the R/V Pelican, Andrew Quaid, Mark
+   Hurlburt, Wesley Goode, Allison Mojzis, and Adam Boyette for assistance
+   with the field program. We also thank two anonymous reviewers for
+   insightful comments that improved the manuscript. This research was
+   supported by the Naval Research Laboratory (NRL) Research Program
+   "Buoyancy Plume Modulation of Coastal Air-Sea Exchange Processes
+   (PlumeCASE)." Raw data from the NRL PlumeCASE program are archived at
+   the Naval Research Laboratory, Oceanography Division, Stennis Space
+   Center, Mississippi, and available via request from the NRL public
+   affairs office: https://www.nrl.navy.mil/media/public-affairs-office/.
+   MODIS satellite data are archived and publically available from NASA via
+   https://ladsweb.modaps.eosdis.nasa.gov/.
+NR 27
+TC 5
+Z9 6
+U1 0
+U2 5
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD AUG 28
+PY 2018
+VL 45
+IS 16
+BP 8390
+EP 8398
+DI 10.1029/2018GL078228
+PG 9
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA GU8SO
+UT WOS:000445612500057
+OA hybrid
+DA 2025-05-29
+ER

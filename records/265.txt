@@ -1,0 +1,61 @@
+PT J
+AU Adewumi, IJ
+   de Vivero, JLS
+   Iglesias-Campos, A
+AF Adewumi, Ibukun J.
+   Suarez de Vivero, Juan Luis
+   Iglesias-Campos, Alejandro
+TI The Salient Dynamics of Cross-Border Ocean Governance in a Regional
+   Setting: An Evaluation of Ocean Governance Systems and Institutional
+   Frameworks in the Guinea Current Large Marine Ecosystem
+SO FRONTIERS IN MARINE SCIENCE
+LA English
+DT Article
+DE ocean governance; ocean policy; Gulf of Guinea; integrated ocean
+   management; cross-border cooperation; Guinea Current large Marine
+   Ecosystem; Africa ocean governance
+ID MANAGEMENT; WEST; CHALLENGES; POLLUTION; AFRICAN; CONTEXT; LADDER; BENIN
+AB This article contributes to a growing body of research on the Large Marine Ecosystems Concept. It particularly shines the light on the Guinea Current Large Marine Ecosystem (GCLME), a biodiverse maritime domain providing essential ecosystem services for the survival of a large population while at the same time under intense pressure from both anthropogenic and natural factors. With the need for coordination and cross-border ocean management and governance becoming imperative due to the magnitude of challenges and maritime domain, we examine the factors that underpin ocean governance and those key elements necessary for cross-border ocean governance cooperation in the region. The research draws on qualitative data collected from peer-reviewed literature and documents sourced from different official portals. Three countries in the region (Benin, Nigeria, and Cameroon) are selected as the descriptive and comparative case studies to examine: (i) the factors that drive ocean governance (including geographical features, maritime jurisdictions, political framework, maritime activities, and associated pressures), and (ii) key enabling factors for cross-border ocean governance and cooperation in the GCLME (including marine and coastal related policy and legal framework convergence from international to national including, and shared experiences, common issues and joint solutions). We show that the biophysical maritime features, the implementation of the United Nations Convention on the Law of the Sea (UNCLOS), otherwise known as the Law of the Sea (LOS), inherent political characteristics and the relics of colonization, and increasing ocean use and pressure on the ecosystem make ocean governance challenging in the region. Our analysis also reveals a varying level of convergence on international, regional and national legal, policy and institutional frameworks between the case studies on ocean-related aspects. Significant convergence is observed in maritime security, ocean research, and energy aspects, mostly from countries adopting international, regional and sub-regional frameworks. National level convergence is not well established as administrative and political arrangement differs from country to country in the region. These different levels of convergence help reveal procedural and operational shortcomings, strengths, weaknesses, and functional capability of countries within a cooperative ocean governance system in the region. However, experience from joint-implementation of projects, pre- and post-colonial relations between countries and the availability of transboundary organizations that have mainly emerged due to sectoral ocean challenges would play a crucial role in fostering cross-border ocean governance cooperation in the region.
+C1 [Adewumi, Ibukun J.] Univ New South Wales, Inst Global Dev, Global Ocean Accounts Partnership, Sydney, NSW, Australia.
+   [Adewumi, Ibukun J.] Univ Wollongong, Australian Natl Ctr Ocean Resources & Secur, Wollongong, NSW, Australia.
+   [Adewumi, Ibukun J.] African Marine Environm Sustainabil Initiat, Lagos, Nigeria.
+   [Adewumi, Ibukun J.] Univ Seville, Univ IUAV Venezia, Erasmus Mundus Master Course Maritime Spatial Pla, Venice, Italy.
+   [Adewumi, Ibukun J.] Univ Azores, Venice, Italy.
+   [Suarez de Vivero, Juan Luis] Univ Seville, Dept Human Geog, Seville, Spain.
+   [Iglesias-Campos, Alejandro] OSPAR Commiss, London, England.
+C3 University of New South Wales Sydney; University of Wollongong; IUAV
+   University Venice; University of Sevilla
+RP Adewumi, IJ (通讯作者)，Univ New South Wales, Inst Global Dev, Global Ocean Accounts Partnership, Sydney, NSW, Australia.; Adewumi, IJ (通讯作者)，Univ Wollongong, Australian Natl Ctr Ocean Resources & Secur, Wollongong, NSW, Australia.; Adewumi, IJ (通讯作者)，African Marine Environm Sustainabil Initiat, Lagos, Nigeria.; Adewumi, IJ (通讯作者)，Univ Seville, Univ IUAV Venezia, Erasmus Mundus Master Course Maritime Spatial Pla, Venice, Italy.; Adewumi, IJ (通讯作者)，Univ Azores, Venice, Italy.
+EM ibukunadewumi@gmail.com
+OI Adewumi, Ibukun J./0000-0001-5468-061X
+FU European Commission Education, Audio-visual Culture Executive Agency
+   (EACEA)
+FX The corresponding author would like to thank the Erasmus Mundus Master
+   Course on Maritime Spatial Planning (EMMCMSP) program for the study
+   opportunity and the European Commission Education, Audio-visual Culture
+   Executive Agency (EACEA) for the scholarship support.
+NR 113
+TC 4
+Z9 4
+U1 2
+U2 9
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-7745
+J9 FRONT MAR SCI
+JI Front. Mar. Sci.
+PD JAN 4
+PY 2022
+VL 8
+AR 674804
+DI 10.3389/fmars.2021.674804
+PG 25
+WC Environmental Sciences; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA L9OA2
+UT WOS:001026475300001
+OA gold
+DA 2025-05-29
+ER

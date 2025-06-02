@@ -1,0 +1,79 @@
+PT J
+AU Wang, LG
+   Lin, J
+   Li, H
+   Jiang, JC
+   Wu, SX
+   Lu, GY
+AF Wang, LiGuo
+   Lin, Jing
+   Li, Hui
+   Jiang, JunChuan
+   Wu, ShiXuan
+   Lu, GuanYu
+TI Achieving efficient power generation for an enclosed drifting buoy by
+   multi-DOF wave energy harvesting
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Drifting buoy; Wave energy; Multi-DOF energy harvester; Open sea trials
+ID WIND; COST
+AB Wave energy is a practical option for the sustainable powering of the drifting buoy beyond solar energy. However, efficient harvesting of wave energy from a complex and dynamic ocean environment for a drifting buoy is significantly challenging, since the buoy's global location and orientation are always in spatiotemporal variation. Herein, we propose a novel multi-DOF wave energy harvesting mechanism that integrates three sets of frequency -tunable harvesting systems into an enclosed drifting buoy, which can greatly enhance the energy harvesting ability of a long-term working drifting buoy that encounters direction -varying and frequency -varying waves. A time -averaged electric power up to 9.18 mW was achieved by a prototype that has a diameter of 45 cm, which is 32.76 % higher than the single-DOF case in sea trials. Additionally, laboratory dry test results show that the prototype provided a power up to 288.76 mW in one direction. This work provides an effective strategy for sustainably generating electricity in the offshore environment for drifting buoys.
+C1 [Wang, LiGuo; Lin, Jing; Li, Hui; Jiang, JunChuan; Wu, ShiXuan; Lu, GuanYu] Sun Yat Sen Univ, Sch Ocean Engn & Technol, Zhuhai 519082, Peoples R China.
+   [Wang, LiGuo] Southern Marine Sci & Engn Guangdong Lab ZhuHai, Zhuhai 519082, Peoples R China.
+   [Wang, LiGuo] Sun Yat Sen Univ, Key Lab Comprehens Observat Polar Environm, Minist Educ, Zhuhai 519082, Peoples R China.
+C3 Sun Yat Sen University; Southern Marine Science & Engineering Guangdong
+   Laboratory; Southern Marine Science & Engineering Guangdong Laboratory
+   (Zhuhai); Ministry of Education - China; Sun Yat Sen University
+RP Wang, LG (通讯作者)，Sun Yat Sen Univ, Sch Ocean Engn & Technol, Zhuhai 519082, Peoples R China.; Wang, LG (通讯作者)，Southern Marine Sci & Engn Guangdong Lab ZhuHai, Zhuhai 519082, Peoples R China.; Wang, LG (通讯作者)，Sun Yat Sen Univ, Key Lab Comprehens Observat Polar Environm, Minist Educ, Zhuhai 519082, Peoples R China.
+EM wanglg7@mail.sysu.edu.cn
+RI 卢, 冠宇/HLG-3011-2023; Wang, LiGuo/G-8685-2018
+OI Wang, LiGuo/0000-0002-4842-1029
+FU The 2024 Marine Economy Development Project of Guangdong Province [GDNRC
+   [2024] 21]; National Natural Science Foundation of China [252101342];
+   Guangdong Basic and Applied Basic Research Foundation [2022A1515010792];
+   Qingdao Marine Science and Technology Innovation Demonstration Project
+   [23-1-3-hysf-2-hy]; ZhuHai Basic and Applied Basic Research Foundation
+   [2220004002921-03]; Key-Area Research and Development Program of
+   Guangdong Province [2021B0202070002]; Young Talent Support Project of
+   Guangzhou Association for Science and Technology [QT-2023-052];
+   Innovation Group Project of Southern Marine Science and Engineering
+   Guangdong Laboratory (Zhuhai)
+FX Project is financially supported by 2024 Marine Economy Development
+   Project of Guangdong Province (GDNRC [2024] 21) , National Natural
+   Science Foundation of China (Grant No. 252101342) , Guangdong Basic and
+   Applied Basic Research Foundation (Grant No. 2022A1515010792) , Qingdao
+   Marine Science and Technology Innovation Demonstration Project (Project
+   No. 23-1-3-hysf-2-hy) , ZhuHai Basic and Applied Basic Research
+   Foundation (Grant No. 2220004002921-03) , Key-Area Research and
+   Development Program of Guangdong Province (Grant No. 2021B0202070002) ,
+   the Young Talent Support Project of Guangzhou Association for Science
+   and Technology (Project No. QT-2023-052) , Innovation Group Project of
+   Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai) .
+NR 42
+TC 6
+Z9 6
+U1 9
+U2 41
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD AUG 1
+PY 2024
+VL 305
+AR 117834
+DI 10.1016/j.oceaneng.2024.117834
+EA APR 2024
+PG 9
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA PT7O8
+UT WOS:001216403800001
+DA 2025-05-29
+ER

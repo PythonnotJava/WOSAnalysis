@@ -1,0 +1,53 @@
+PT J
+AU Wang, JL
+   Lian, J
+   Zhu, GL
+AF Wang, Jiale
+   Lian, Jie
+   Zhu, Guolei
+TI A Weighted Mahalanobis Distance Target Sensing Strategy for Underwater
+   Integrated Sensing and Communication Systems
+SO IEEE WIRELESS COMMUNICATIONS LETTERS
+LA English
+DT Article
+DE Ocean ambient noise; target sensing; OTFS; statistic model;
+   Gaussian-mixture model
+ID ISAC
+AB Underwater integrated sensing and communication (UISAC) systems employ a unified signal waveform to facilitate both data exchange and sense. However, communication-centric UISAC systems face challenges due to the stochastic nature of communication signals used for sensing, leading to diminished sensing performance. Meanwhile, sonar systems, in comparison to radar systems, operate in a complex noise environment with time-varying and non-Gaussian properties, further deteriorating sensing capabilities. To address these challenges, we propose an adaptive algorithm using orthogonal time-frequency space (OTFS) signals for underwater target sensing. Our approach incorporates an online Gaussian-mixture model (GMM) to track time-varying background noise and utilizes a weighted Mahalanobis distance as a statistical measure to differentiate between reflected OTFS signals and ambient noise rather than relying solely on waveform. Comparative evaluations with existing energy detectors in UISAC system show that our strategy improves sensing accuracy, enhancing performance even in the presence of complex oceanic noise.
+C1 [Wang, Jiale; Lian, Jie; Zhu, Guolei] Northwestern Polytech Univ, Sch Marine Sci & Technol, Xian 710072, Peoples R China.
+C3 Northwestern Polytechnical University
+RP Lian, J (通讯作者)，Northwestern Polytech Univ, Sch Marine Sci & Technol, Xian 710072, Peoples R China.
+EM jielian@nwpu.edu.cn
+RI Wang, Jiale/KFA-2703-2024
+OI Lian, Jie/0000-0002-8646-7845; Wang, Jiale/0009-0006-3916-1209; Zhu,
+   Guolei/0000-0002-0487-8406
+FU Young Scientists Fund of the National Science Foundation of China (NSFC)
+FX No Statement Available
+NR 22
+TC 6
+Z9 7
+U1 2
+U2 15
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2162-2337
+EI 2162-2345
+J9 IEEE WIREL COMMUN LE
+JI IEEE Wirel. Commun. Lett.
+PD JAN
+PY 2024
+VL 13
+IS 1
+BP 79
+EP 83
+DI 10.1109/LWC.2023.3320121
+PG 5
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA EQ9A1
+UT WOS:001140494600038
+DA 2025-05-29
+ER

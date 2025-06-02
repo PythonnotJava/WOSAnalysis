@@ -1,0 +1,61 @@
+PT J
+AU Du, JF
+   Zhang, DQ
+   Zhang, YF
+   Xu, K
+   Chang, AT
+   Zhao, SJ
+AF Du, Junfeng
+   Zhang, Deqing
+   Zhang, Yanfeng
+   Xu, Kun
+   Chang, Anteng
+   Zhao, Shujie
+TI Design and comparative analysis of alternative mooring systems for
+   offshore floating photovoltaics arrays in ultra-shallow water with
+   significant tidal range
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Mooring systems; Floating photovoltaics arrays; Multibody hydrodynamic;
+   Shallow water; Significant tidal range
+ID COUPLED ANALYSIS; MOTION
+AB Large-scale floating photovoltaics (FPV) are garnering increased attention as a sustainable solution for renewable energy production and efficient utilization of ocean spaces. These FPV arrays are predominantly deployed in shallow water environments, which present significant challenges in mooring system design due to substantial tidal fluctuations. In such settings, mooring systems may become slack and lose functionality at low tide or risk damage from excessive stiffness at high tide. The primary aim of this study is to develop a mooring system tailored to FPV arrays, capable of withstanding extensive tidal variations without causing damage to the floating modules due to high mooring line tension. Employing HydroD, a hydrodynamic analysis tool based on potential flow theory, alongside OrcaFlex, a time-domain coupled analysis tool predicated on the lumped mass method, we conducted a comparative assessment of six distinct mooring configurations. These configurations, varying in mooring line materials and components, were evaluated from static, dynamic, and fatigue analysis standpoints across a range of tidal levels. The results indicate that taut mooring systems integrated with buoys or clumps consistently exhibit superior performance in all test scenarios. Accordingly, these systems are highly recommended for securing FPV arrays in shallow water environments characterized by severe tidal variations, offering optimal stability and resilience.
+C1 [Du, Junfeng; Zhang, Deqing; Zhang, Yanfeng; Xu, Kun; Chang, Anteng; Zhao, Shujie] Ocean Univ China, Coll Engn, Qingdao 266100, Peoples R China.
+C3 Ocean University of China
+RP Zhang, DQ (通讯作者)，Ocean Univ China, Coll Engn, Qingdao 266100, Peoples R China.
+EM zhangdeqing@ouc.edu.cn
+RI Zhang, Deqing/LGZ-7837-2024; Xu, Kun/LZH-4252-2025
+OI Zhang, De-Qing/0009-0004-1709-9040
+FU National Natural Science Foundation of China [52088102]; Key R & D
+   projects of Shandong Prov- ince [2021ZLGX04]
+FX This study is supported by the National Natural Science Foundation of
+   China (No. 52088102) and the Key R & D projects of Shandong Prov- ince
+   (No. 2021ZLGX04) .
+NR 34
+TC 24
+Z9 25
+U1 22
+U2 59
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD JUN 15
+PY 2024
+VL 302
+AR 117649
+DI 10.1016/j.oceaneng.2024.117649
+EA MAR 2024
+PG 13
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA PQ8R8
+UT WOS:001215645700001
+DA 2025-05-29
+ER

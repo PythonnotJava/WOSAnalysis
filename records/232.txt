@@ -1,0 +1,59 @@
+PT J
+AU Wang, N
+   He, ZG
+AF Wang, Nan
+   He, Zhi-Guo
+TI Near-resonance tidal evolution of the Earth-Moon system influenced by
+   orbital-scale climate change
+SO RESEARCH IN ASTRONOMY AND ASTROPHYSICS
+LA English
+DT Article
+DE Moon; planets and satellites: dynamical evolution and stability; planets
+   and satellites: oceans
+ID LAST GLACIAL MAXIMUM; TIDES; OCEAN; MODEL; INSOLATION; PALEOCLIMATE;
+   INSTABILITY; AGAIN
+AB We build a conceptual coupled model of the climate and tidal evolution of the Earth-Moon system to find the influence of the former on the latter. An energy balance model is applied to calculate steady-state temperature field from the mean annual insolation as a function of varying astronomical parameters. A harmonic oscillator model is applied to integrate the lunar orbit and Earth's rotation with the tidal torque dependent on the dominant natural frequency of ocean. An ocean geometry acts as a bridge between temperature and oceanic frequency. On assumptions of a fixed hemispherical continent and an equatorial circular lunar orbit, considering only the 41 kyr periodicity of Earth's obliquity epsilon and the M-2 tide, simulations are performed near tidal resonance for 10(6) yr. It is verified that the climate can influence the tidal evolution via ocean. Compared with the tidal evolution with constant epsilon, that with varying epsilon is slowed down; the Earth-Moon distance oscillates in phase with epsilon before the resonance maximum but exactly out of phase after that; the displacement of the oscillation is in positive correlation with the difference between oceanic frequency and tidal frequency.
+C1 [Wang, Nan; He, Zhi-Guo] Zhejiang Univ, Ocean Coll, Hangzhou 310058, Zhejiang, Peoples R China.
+C3 Zhejiang University
+RP He, ZG (通讯作者)，Zhejiang Univ, Ocean Coll, Hangzhou 310058, Zhejiang, Peoples R China.
+EM hezhiguo@zju.edu.cn
+RI He, Zhiguo/M-5164-2015; Wang, Nan/HLV-7836-2023
+FU National Key Research and Development Program of China [2017YFC0305905];
+   Natural Science Foundation of Zhejiang Province [LR16E090001];
+   NSFC-Zhejiang Joint Fund for the Integration of Industrialization and
+   Informatization [U1709204]
+FX We thank the referee for constructive comments. We are grateful that
+   Professor Kwang-Yul Kim helped in climate simulations. The code of tidal
+   evolution was developed in Nanjing University when the author Nan Wang
+   was under the supervision of Professor JiLin Zhou, and further improved
+   in Zhejiang University. This work was funded by the National Key
+   Research and Development Program of China (2017YFC0305905), the Natural
+   Science Foundation of Zhejiang Province (LR16E090001) and NSFC-Zhejiang
+   Joint Fund for the Integration of Industrialization and Informatization
+   (U1709204).
+NR 41
+TC 1
+Z9 2
+U1 3
+U2 19
+PU NATL ASTRONOMICAL OBSERVATORIES, CHIN ACAD SCIENCES
+PI BEIJING
+PA 20A DATUN RD, CHAOYANG, BEIJING, 100012, PEOPLES R CHINA
+SN 1674-4527
+J9 RES ASTRON ASTROPHYS
+JI Res. Astron. Astrophys.
+PD SEP
+PY 2019
+VL 19
+IS 9
+AR 122
+DI 10.1088/1674-4527/19/9/122
+PG 10
+WC Astronomy & Astrophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Astronomy & Astrophysics
+GA IW7EP
+UT WOS:000485147000001
+OA Green Submitted, Bronze
+DA 2025-05-29
+ER

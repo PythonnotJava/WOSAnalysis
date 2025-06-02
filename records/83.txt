@@ -1,0 +1,55 @@
+PT J
+AU Luo, HJ
+   Cao, SL
+AF Luo, Haojie
+   Cao, Sunliang
+TI Fine-tuning ocean energy storages for reservoir-integrated wave energy
+   converters with dynamic activation of mechanical energy storage features
+SO JOURNAL OF ENERGY STORAGE
+LA English
+DT Article
+DE Wave energy storage; Mechanical energy storage; Ocean energy storage;
+   Electric storage; Zero energy system
+ID SYSTEM; CURTAILMENT
+AB The proportion of renewable energy in the power supply has experienced substantial growth; however, its intermittent nature and inherent uncertainty present notable challenges in its integration. This study aims to explore the significance of energy flexibility in energy management by focusing on a hybrid renewable wavewind zero-energy system implemented in a coastal building. Specifically, the study investigates various sources of flexibility within the system and introduces a novel energy storage mechanism utilising the in-built reservoir of the wave energy converter. The research provides new insights into the flexibility of control strategies from the generation and storage sides. The cost-responsive controls involved on/off-peak periods and monthly variations. Several attempts have been made to develop cost-responsive controls that depend upon the electricity tariffs; these include energy shift and peak shaving. The lower discharging limits and trigger lines were compared in the simulation environment to improve the cost-saving, energy-matching, and peak-shaving performances. In this study, the first group scheduled discharging; however, only limited improvements (0.5%) were achieved. Consequently, the second group shifted to varying the minimum fraction state of the reservoir under a lower discharging limit, which reduced operational cost by 4.5%. Using different discharging lines by considering the current month and the period, the third group achieved the expected peak shaving and correspondingly reduced the operational cost to 90.3 %. The final group showed that an additional battery could improve the peak-shaving and cost-saving performance but not the net present value, owing to high investment costs. Furthermore, annual savings increased for different battery capacities from 4.5 % to 6.8 % by conducting the energy shift. Peak shaving control with additional battery reduced maximum demand and substantially reduced costs from 6.4% to 10.8 %. The study recommends focusing on peak shaving with extra batteries for further cost savings during the on-peak period. This research brings novelty by integrating flexibility control for both generation- and storage-sides in ocean renewable energy systems. It proposes using a wave energy converter as a mechanical energy storage reservoir, reducing costs and ensuring adequate capacity. The study emphasises dynamic storage control, adjusting in real time based on conditions and energy demands.
+C1 [Luo, Haojie; Cao, Sunliang] Hong Kong Polytech Univ, Fac Construct & Environm, Dept Bldg Environm & Energy Engn, Renewable Energy Res Grp RERG, Hong Kong, Peoples R China.
+   [Cao, Sunliang] Hong Kong Polytech Univ, Res Inst Sustainable Urban Dev RISUD, Hong Kong, Peoples R China.
+   [Cao, Sunliang] Hong Kong Polytech Univ, Res Inst Smart Energy RISE, Hong Kong, Peoples R China.
+C3 Hong Kong Polytechnic University; Hong Kong Polytechnic University; Hong
+   Kong Polytechnic University
+RP Cao, SL (通讯作者)，Hong Kong Polytech Univ, Fac Construct & Environm, Dept Bldg Environm & Energy Engn, Renewable Energy Res Grp RERG, Hong Kong, Peoples R China.
+EM sunliang.cao@polyu.edu.hk
+FU Research Institute for Sustainable Urban Development (RISUD) [P0033880];
+   Research Institute for Smart Energy (RISE), the Hong Kong Polytechnic
+   University [P0039664, P0043916]
+FX This research is partially supported by Project "P0033880" from Research
+   Institute for Sustainable Urban Development (RISUD), and partially
+   supported by Projects "P0039664" and "P0043916" from Research Institute
+   for Smart Energy (RISE), the Hong Kong Polytechnic University.
+NR 60
+TC 1
+Z9 1
+U1 4
+U2 4
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-152X
+EI 2352-1538
+J9 J ENERGY STORAGE
+JI J. Energy Storage
+PD NOV 15
+PY 2024
+VL 102
+AR 113911
+DI 10.1016/j.est.2024.113911
+EA OCT 2024
+PN A
+PG 31
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA L0F8X
+UT WOS:001347577100001
+DA 2025-05-29
+ER

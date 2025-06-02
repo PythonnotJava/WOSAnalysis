@@ -1,0 +1,65 @@
+PT J
+AU Zhou, SH
+   Liu, XY
+   Feng, Y
+   Bian, YN
+   Shen, SQ
+AF Zhou, Shihe
+   Liu, Xinyu
+   Feng, Yin
+   Bian, Yongning
+   Shen, Shengqiang
+TI Parametric study and multi-objective optimization of a combined cooling,
+   desalination and power system
+SO DESALINATION AND WATER TREATMENT
+LA English
+DT Article
+DE Combined cooling; Desalination and power system; Organic Rankine cycle;
+   Multi-effect distillation; Ejector refrigeration; Ocean thermal energy;
+   Multi-objective optimization
+ID ORGANIC RANKINE-CYCLE; OFF-DESIGN PERFORMANCE; MULTIEFFECT DISTILLATION;
+   THERMOECONOMIC ANALYSIS; POLYGENERATION SYSTEM; ECONOMIC-ANALYSIS;
+   WASTE-HEAT; ENERGY; EXERGY; SIMULATION
+AB Multi-generation system driven by alternative energies provides a promising solution for meeting the challenges of energy and fresh water with the rapid development of economy. In this paper, an innovative combined cooling, desalination and power (CCDP) cycle is proposed, which integrates multi-effect distillation (MED) and ejector refrigeration cycle with organic Rankine cycle. The surface warm seawater further heated by the solar energy and the deep cold seawater are taken as the heating and cooling sources, respectively. Mathematical model of the combined cycle is developed to evaluate the thermodynamic and economic performances. The effects of generation temperature, condensing temperature and evaporating temperature are investigated, and comparative analysis of five working fluids is conducted as well. The results indicate that the CCDP system with lower condensing temperature and generation temperature is conducive to obtaining higher exergy efficiency eta(ex), but leads to the increase of total cost rate (TCR). Furthermore, for the trade-off between thermodynamic and economic performances, a multi-objective optimization is conducted in terms of eta(ex) and TCR as objective functions. The Pareto optimal solutions (POS) for the five working fluids are determined based on a fast and elitist non-dominated sorting genetic algorithm (NSGA-II) and decision-making technique. According to the results of POS, R601 has the best performance with 6.51 x 10(4) $/y of TCR and 31.62% of exergy efficiency, followed by R245fa, R600a, R236ea and R152a. The percentage of initial investment and the distribution of exergy flow for the POS of R601 are obtained as well.
+C1 [Zhou, Shihe; Liu, Xinyu; Bian, Yongning] Dalian Univ Technol, Sch Ocean Sci & Technol, Panjin 124221, Liaoning, Peoples R China.
+   [Feng, Yin] bDalian Chenggao Technol Co Ltd, Dalian 116024, Liaoning, Peoples R China.
+   [Shen, Shengqiang] Dalian Univ Technol, Sch Energy & Power Engn, Dalian 116024, Liaoning, Peoples R China.
+C3 Dalian University of Technology; Dalian University of Technology
+RP Zhou, SH; Bian, YN (通讯作者)，Dalian Univ Technol, Sch Ocean Sci & Technol, Panjin 124221, Liaoning, Peoples R China.; Shen, SQ (通讯作者)，Dalian Univ Technol, Sch Energy & Power Engn, Dalian 116024, Liaoning, Peoples R China.
+EM zhoushihe@dlut.edu.cn; liuxinyu1996@mail.dlut.edu.cn; 407506049@qq.com;
+   ybian@dlut.edu.cn; zzbshen@dlut.edu.cn
+RI Liu, Xinyu/AFI-4662-2022
+FU National Natural Science Foundation of China [51936002, 52076027];
+   National Key R&D Program of China [2019YFB1504301]; project of the
+   Fundamental Research Funds for the Central Universities [DUT19RC (4)040]
+FX This research is supported by the project of National Natural Science
+   Foundation of China (No.51936002, No.52076027), the National Key R&D
+   Program of China (No.2019YFB1504301), and the project of the Fundamental
+   Research Funds for the Central Universities (DUT19RC (4)040). The
+   authors are grateful for the support.
+NR 50
+TC 1
+Z9 1
+U1 1
+U2 25
+PU DESALINATION PUBL
+PI HOPKINTON
+PA 36 WALCOTT VALLEY DRIVE,, HOPKINTON, MA 01748 USA
+SN 1944-3994
+EI 1944-3986
+J9 DESALIN WATER TREAT
+JI Desalin. Water Treat.
+PD MAR
+PY 2021
+VL 217
+BP 1
+EP 21
+DI 10.5004/dwt.2021.26994
+PG 21
+WC Engineering, Chemical; Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Water Resources
+GA SD0SZ
+UT WOS:000651074100001
+DA 2025-05-29
+ER

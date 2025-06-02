@@ -1,0 +1,50 @@
+PT J
+AU Zhang, YM
+   Liu, HX
+AF Zhang, Yuming
+   Liu, Haixiao
+TI Methodology for the Assessment and Optimization of Connection Parameter
+   Combinations for Modular Floating Structures
+SO JOURNAL OF OFFSHORE MECHANICS AND ARCTIC ENGINEERING-TRANSACTIONS OF THE
+   ASME
+LA English
+DT Article
+DE modular floating structure; connector; connection parameter; wave energy
+   converter; mobile offshore base; performance assessment; optimization;
+   design of offshore structures; dynamics of structures; floating and
+   moored production systems; ocean energy technology; reliability of
+   offshore structures and pipelines
+AB To obtain an optimum connection parameter combination for modular floating structures of multiple functions, an integrated methodology for the assessment and optimization is proposed in the present work, out of consideration for the balance between the functional performance and economic effect. To illustrate the whole process, two types of modular floating structures, i.e., a modular wave energy converter (WEC) and a modular mobile offshore base (MOB), are taken as the cases. For the two cases, connection configurations are first specified based on structural functions as well as environment conditions; then, quantified measurements are established and studied, based on which the following process of selection of optimization algorithms is done and the optimum solutions are obtained, making up a whole process of specification of the connection parameter combination for modular floating structures. The proposed methodology possesses the potential of offering guidance for the phase of preliminary design of connection structures of modular floating structures.
+C1 [Zhang, Yuming; Liu, Haixiao] Tianjin Univ, State Key Lab Hydraul Engn Simulat & Safety, Tianjin 300072, Peoples R China.
+C3 Tianjin University
+RP Liu, HX (通讯作者)，Tianjin Univ, State Key Lab Hydraul Engn Simulat & Safety, Tianjin 300072, Peoples R China.
+EM 13821409296@163.com; liuhx@tju.edu.cn
+FU National Natural Science Foundation of China [51539008, 51890915]
+FX The financial support from the National Natural Science Foundation of
+   China (Grant Nos. 51539008 and 51890915) is greatly acknowledged.
+NR 42
+TC 5
+Z9 5
+U1 4
+U2 39
+PU ASME
+PI NEW YORK
+PA TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0892-7219
+EI 1528-896X
+J9 J OFFSHORE MECH ARCT
+JI J. Offshore Mech. Arct. Eng. Trans. ASME
+PD APR 1
+PY 2021
+VL 143
+IS 2
+AR 021301
+DI 10.1115/1.4047929
+PG 15
+WC Engineering, Ocean; Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA QR3SE
+UT WOS:000625131700010
+DA 2025-05-29
+ER

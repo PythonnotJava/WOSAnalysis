@@ -1,0 +1,66 @@
+PT J
+AU Chen, Y
+   Liu, WF
+   Niu, ZA
+   Feng, ZX
+   Hu, QW
+   Jiang, T
+AF Chen, Yun
+   Liu, Wenfeng
+   Niu, Zhiang
+   Feng, Zhongxiu
+   Hu, Qiwei
+   Jiang, Tao
+TI Pervasive intelligent endogenous 6G wireless systems: Prospects,
+   theories and key technologies
+SO DIGITAL COMMUNICATIONS AND NETWORKS
+LA English
+DT Article
+DE 6G; Artificial intelligence; Full-band; Aerospace-ground-ocean
+   integrated network; Security
+ID OF-THE-ART; 5G; FUTURE; CHALLENGES; OPPORTUNITIES; ARCHITECTURE;
+   SELECTION; NETWORK
+AB The worldwide large-scale commercial deployment of 5G has commenced in 2020 for supporting enhanced Mobile BroadBand (eMBB), ultra-Reliable and Low-Latency Communications (uRLLC), and massive Machine-Type Communications (mMTC) services. Nevertheless, the upsurge of Artificial Intelligence (AI)-powered applications, the developmental law of one-decade-one-generation of wireless communications and the inherent limitations of 5G have also been spurring the industry and academia to dedicate their efforts to the research of future 6G wireless systems. 6G will be a disruptive, pervasive, intelligent, and endogenous wireless system, which will revolutionize all walks of life and accelerate the transformation and innovation of the global society. In this paper, we present a forward-looking, comprehensive and in-depth analysis and technical identification of 6G. Specifically, we firstly introduce the fundamental theories of 6G in terms of potential requirements. Then, we focus our attention on the discussion of promising key technologies in terms of spectrum, air interface, delay, access, energy consumption, coverage, AI, electromagnetism, interaction, etc.
+C1 [Chen, Yun; Liu, Wenfeng; Niu, Zhiang; Feng, Zhongxiu; Hu, Qiwei; Jiang, Tao] Huazhong Univ Sci & Technol, Wuhan Natl Lab Optoelect, Wuhan 430074, Peoples R China.
+   [Chen, Yun; Liu, Wenfeng; Niu, Zhiang; Feng, Zhongxiu; Hu, Qiwei; Jiang, Tao] Huazhong Univ Sci & Technol, Sch Elect Informat & Commun, Wuhan 430074, Peoples R China.
+C3 Huazhong University of Science & Technology; Huazhong University of
+   Science & Technology
+RP Jiang, T (通讯作者)，Huazhong Univ Sci & Technol, Wuhan Natl Lab Optoelect, Wuhan 430074, Peoples R China.
+EM tao.jiang@ieee.org
+RI jiang, tao/GWC-7108-2022; Chen, Yun/S-9492-2019
+OI Chen, Yun/0000-0003-3982-3058; Hu, Qiwei/0000-0003-0220-961X; Liu,
+   Wenfeng/0000-0002-5724-8352
+FU National Key Ramp;D Program of China [2019YFB180003400]; National
+   Science Foundation of China [61771216]; Innovation Fund of WNLO
+FX This work was supported in part by National Key R&D Program of China
+   with Grant number 2019YFB180003400, National Science Foundation of China
+   with Grant number 61771216, and Innovation Fund of WNLO.
+NR 50
+TC 66
+Z9 68
+U1 1
+U2 40
+PU KEAI PUBLISHING LTD
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING, DONGHENG DISTRICT 100717,
+   PEOPLES R CHINA
+SN 2468-5925
+EI 2352-8648
+J9 DIGIT COMMUN NETW
+JI Digit. Commun. Netw.
+PD AUG
+PY 2020
+VL 6
+IS 3
+BP 312
+EP 320
+DI 10.1016/j.dcan.2020.07.002
+PG 9
+WC Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Telecommunications
+GA NZ0PJ
+UT WOS:000576794300009
+OA gold
+DA 2025-05-29
+ER

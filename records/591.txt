@@ -1,0 +1,73 @@
+PT J
+AU Liu, M
+   Fang, CG
+   Chen, DZ
+AF Liu, Mu
+   Fang, Chaogang
+   Chen, Daizhao
+TI Syndepositional and diagenetic processes in the pigmentation of Middle
+   Ordovician carbonate red beds in South China
+SO SEDIMENTARY GEOLOGY
+LA English
+DT Article
+DE Nodular limestone; Hematite; Mineral coloration; Middle Ordovician;
+   Carbonate geochemistry
+ID RARE-EARTH-ELEMENT; ISOTOPIC COMPOSITION; MARINE CARBONATE; YANGTZE
+   PLATFORM; OCEAN REDOX; BASIN; REFLECTANCE; IODINE; BIODIVERSIFICATION;
+   GEOCHEMISTRY
+AB Marine red beds (MRBs) are often attributed to specific redox environments during syndepositional and early diagenetic phases. During the Middle Ordovician, a succession of reddish, deeper-water nodular argillaceous limestones (i.e., Zitai and Kuniutan formations) were deposited along the margin of Yangtze Platform in South China. However, the origin of their color remains enigmatic. In this study, we investigated the Middle Ordovician MRBs from a borehole core newly drilled in the Lower Yangtze area of South China whose stratigraphy frameworks are constrained by carbon isotope and biostratigraphy. This study investigates the pigmentation of these MRBs by integrating petrographic observations, elemental geochemistry, diffusive reflectance spectrometry (DRS), and scanning electron microscope (SEM) coupled with energy dispersive X-ray spectrometry (EDS). DRS results show that the red pigment is caused by hematite particles in submicron- to micron-level size. SEM demonstrates that the hematite grains are either detrital grains with traces of physical transport from terrestrial source, or flaky amorphous hematite aggregates situated within the calcite crystal interstices, implicating both syndepositional and early diagenetic origins, respectively. In terms of the geochemical result of the bulk rocks, the close positive correlation between Al2O3 and Fe2O3 indicates that the iron pigment materials may mainly originate from terrestrial Fe-bearing phyllosilicates. These observations are also consistent with the distribution patterns of rare earth elements (REEs) in carbonate leachates. The MRB limestones are characterized by MREE-bulged patterns and close to similar to 1 Ce anomalies, suggesting active reductive dissolution and subsequent reprecipitation of iron oxides during diagenesis in pore systems. This study proposes that the coloration of Middle Ordovician MRBs in Lower Yangtze Platform was linked to the enhanced input of terrestrial clay minerals rich in iron. The reductive dissolution released iron ions from terrestrial detrital and allowed subsequent reprecipitation of iron-oxides in pore water system during the fluid-buffered diagenesis. In this light, hematites formed during both the syndepositional and diagenetic processes thus could have involved the coloration of the Middle Ordovician carbonate red beds in this case. (c) 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+C1 [Liu, Mu; Chen, Daizhao] Chinese Acad Sci, Inst Geol & Geophys, State Key Lab Lithospher & Environm Coevolut, Beijing 100029, Peoples R China.
+   [Liu, Mu; Chen, Daizhao] Chinese Acad Sci, Innovat Acad Earth Sci, Beijing, Peoples R China.
+   [Fang, Chaogang] China Geol Survey, Nanjing Ctr, Nanjing, Jiangsu, Peoples R China.
+   [Fang, Chaogang] China Univ Min & Technol, Key Lab Coalbed Methane Resources & Reservoir Form, Minist Educ, Xuzhou 221116, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Geology & Geophysics, CAS;
+   Chinese Academy of Sciences; China Geological Survey; Nanjing Center,
+   China Geological Survey; Ministry of Education - China; China University
+   of Mining & Technology
+RP Liu, M (通讯作者)，Chinese Acad Sci, Inst Geol & Geophys, State Key Lab Lithospher & Environm Coevolut, Beijing 100029, Peoples R China.; Fang, CG (通讯作者)，China Geol Survey, Nanjing Ctr, Nanjing, Jiangsu, Peoples R China.
+EM liumu@mail.iggcas.ac.cn; fangcg@mail.cgs.gov.cn
+RI Chen/陈, Daizhao/代钊/L-7137-2019; Liu, Mu/AGS-4098-2022
+OI Chen/chen, Daizhao/dai zhao/0000-0002-1131-3630; Liu,
+   Mu/0000-0003-3030-5377
+FU National Key Research and Development Program of China [2023YFF0806200,
+   2022YFF0800401]; National Natural Science Foundation of China [42102123,
+   42302124]; Fundamental and Commonwealth Geological Survey of Oil and Gas
+   of China [DD 20221662]; Key Laboratory of Coalbed Methane Resources and
+   Reservoir Formation Process of the Ministry of Education (China
+   University of Mining and Technology) [2023-001]
+FX We are grateful to Ondrej Babek and another anonymous reviewer for their
+   critical and valuable comments. We also thank chief editor Massimo
+   Moretti for editing and comments on this manuscript. This work is funded
+   by the National Key Research and Development Program of China
+   (2023YFF0806200; 2022YFF0800401) , National Natural Science Foundation
+   of China (42102123; 42302124) , Fundamental and Commonwealth Geological
+   Survey of Oil and Gas of China (DD 20221662) , and Key Laboratory of
+   Coalbed Methane Resources and Reservoir Formation Process of the
+   Ministry of Education (China University of Mining and Technology-No.
+   2023-001) .
+NR 104
+TC 8
+Z9 8
+U1 6
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0037-0738
+EI 1879-0968
+J9 SEDIMENT GEOL
+JI Sediment. Geol.
+PD AUG
+PY 2024
+VL 470
+AR 106722
+DI 10.1016/j.sedgeo.2024.106722
+EA AUG 2024
+PG 16
+WC Geology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA D2G8P
+UT WOS:001294431200001
+DA 2025-05-29
+ER

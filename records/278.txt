@@ -1,0 +1,64 @@
+PT J
+AU Gao, Y
+   Zhang, YY
+   Huang, LB
+   Hua, XL
+   Dong, BQ
+AF Gao, Ying
+   Zhang, Yuanyuan
+   Huang, Long-Biao
+   Hua, Xianle
+   Dong, Biqin
+TI Converting wave scouring damage into opportunities: Advancing marine
+   structure protection through a wave-energy harvesting protective layer
+SO NANO ENERGY
+LA English
+DT Article
+DE Marine structure; Multifunctional protective layer;
+   Triboelectrification; Cathodic protection; Wave force buffering
+ID TRIBOELECTRIC NANOGENERATOR; SEISMIC VULNERABILITY;
+   CORROSION-INHIBITORS; COATINGS; MECHANISMS; CONCRETE; BEHAVIOR; SYSTEM
+AB The ocean harbors immense energy with the potential to benefit humanity through judicious utilization, yet concurrently poses threats to marine structures. Traditional approaches have focused on harnessing wave energy or protecting against wave scouring damage individually, often overlooking the dialectical treatment of wave energy. This study introduces a novel concept, aiming to convert wave scouring damage into opportunities for advancing marine structure protection technology through the development of a wave-energy harvesting protective layer. This groundbreaking protective layer integrates an X-shaped triboelectric nanogenerator (X-TENG) with a surface protection coating, effectively buffering wave forces, and converting wave energy into electric energy based on its fundamental role in preventing ion diffusion. Furthermore, the protective layer energizes a cathodic protection system for rebar protection, thereby, providing double-effect protection for marine reinforced concrete through anticorrosion and wave force buffering. Our investigation systematically explores the performance of the X-TENG-based multifunctional protective layer, revealing highly promising results. This breakthrough solution has the potential to revolutionize marine structure protection, offering a sustainable and reliable approach to enhance the operational stability and service life of marine equipment.
+C1 [Gao, Ying; Zhang, Yuanyuan; Hua, Xianle; Dong, Biqin] Shenzhen Univ, Coll Civil & Transportat Engn, Guangdong Prov Key Lab Durabil Marine Civil Engn, Key Lab Durabil Civil Engn Shenzhen, Shenzhen 518060, Peoples R China.
+   [Huang, Long-Biao] Shenzhen Univ, Coll Phys & Optoelect Engn, Shenzhen 518060, Peoples R China.
+C3 Shenzhen University; Shenzhen University
+RP Dong, BQ (通讯作者)，Shenzhen Univ, Coll Civil & Transportat Engn, Guangdong Prov Key Lab Durabil Marine Civil Engn, Key Lab Durabil Civil Engn Shenzhen, Shenzhen 518060, Peoples R China.
+EM incise@szu.edu.cn
+RI zhang, yuanyuan/GYA-4428-2022; Dong, Biqin/M-7589-2016
+FU National Natural Science Foundation of China [52208272, 51925805];
+   Guangdong Provincial Key Laboratory of Marine Civil Engineering (SZU)
+   [2020B1212060074]; Shenzhen Key Laboratory for Low -carbon Construction
+   Material and Technology [ZDSYS20220606100406016]
+FX This work is financially supported by the National Natural Science
+   Foundation of China (Nos. 52208272 and 51925805) and Guangdong
+   Provincial Key Laboratory of Marine Civil Engineering (SZU)
+   (No.2020B1212060074) , and Shenzhen Key Laboratory for Low -carbon
+   Construction Material and Technology (ZDSYS20220606100406016) .
+NR 68
+TC 2
+Z9 2
+U1 27
+U2 69
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD MAY
+PY 2024
+VL 123
+AR 109367
+DI 10.1016/j.nanoen.2024.109367
+EA FEB 2024
+PG 10
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA NU5M0
+UT WOS:001202980500001
+DA 2025-05-29
+ER

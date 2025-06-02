@@ -1,0 +1,60 @@
+PT J
+AU Pretis, F
+AF Pretis, Felix
+TI Econometric modelling of climate systems: The equivalence of energy
+   balance models and cointegrated vector autoregressions
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE Cointegration; Vector autoregression; Climate; Energy balance; Indicator
+   saturation
+ID ANTHROPOGENIC IMPACT; STATISTICAL-ANALYSIS; TEMPERATURE CONTAIN; TIME;
+   SERIES; TESTS; SELECTION; POLICY
+AB Estimates of both the human impact on climate as well as the economic impacts of climate change are crucial to inform policy decisions. Econometric modelling allows us to quantify these impacts and their uncertainties, but models have to be consistent with the underlying physics and the time series properties of the data. Here I show that energy-balance models of climate are equivalent to an econometric cointegrated system and can be estimated in discrete time. This equivalence provides a basis for the use of cointegration methods to estimate climate responses and test their feedback. Further, it is possible to use the estimated parameters to quantify uncertainties in integrated assessment models of the economic impacts of climate change. In an application I estimate a system of temperatures, ocean heat content, and radiative forcing including greenhouse gases, and find statistical support for the cointegrated energy balance model. Accounting for structural breaks from volcanic eruptions highlights large parameter uncertainties and shows that previous empirical estimates of the temperature response to increased CO2 concentrations may be misleadingly low due to model-misspecification. Crown Copyright (C) 2019 Published by Elsevier B.V. All rights reserved.
+C1 [Pretis, Felix] Univ Victoria, Dept Econ, Victoria, BC, Canada.
+   [Pretis, Felix] Univ Oxford, Nuffield Coll, Oxford Martin Sch, Oxford, England.
+   [Pretis, Felix] Univ Oxford, INET, Oxford Martin Sch, Oxford, England.
+C3 University of Victoria; University of Oxford; University of Oxford
+RP Pretis, F (通讯作者)，Univ Victoria, Dept Econ, Victoria, BC, Canada.
+EM fpretis@uvic.ca
+FU Oxford Martin School, UK; Open Society Foundations, United States;
+   Robertson Foundation, United States; British Academy, UK
+FX Financial support from the Oxford Martin School, UK, Open Society
+   Foundations, United States, Robertson Foundation, United States, and
+   British Academy, UK is gratefully acknowledged. I thank two anonymous
+   reviewers for helpful comments. I am grateful to Janine Aron, John Fyfe,
+   Niels Haldrup, James Hamilton, David F. Hendry, Eric Hillebrand, Ole
+   Jann, Soren Johansen, Katarina Juselius, Robert K. Kaufmann, Andrew B.
+   Martinez, Bent Nielsen, Heino Bohn Nielsen, Peter C.B. Phillips, Bary
+   Pradelski, Tommaso Proietti, Anders Rahbek, David Ronayne, and Max Roser
+   for comments and suggestions.
+NR 78
+TC 37
+Z9 38
+U1 1
+U2 15
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 1872-6895
+J9 J ECONOMETRICS
+JI J. Econom.
+PD JAN
+PY 2020
+VL 214
+IS 1
+SI SI
+BP 256
+EP 273
+DI 10.1016/j.jeconom.2019.05.013
+PG 18
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences,
+   Mathematical Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Mathematics; Mathematical Methods In Social
+   Sciences
+GA JW5IC
+UT WOS:000503084600013
+DA 2025-05-29
+ER

@@ -1,0 +1,58 @@
+PT J
+AU Richard, GL
+   Msheik, K
+   Duran, A
+AF Richard, G. L.
+   Msheik, K.
+   Duran, A.
+TI A preliminary depth-integrated model for tsunamis propagation including
+   water compressibility and seafloor elasticity
+SO EUROPEAN JOURNAL OF MECHANICS B-FLUIDS
+LA English
+DT Article
+DE Tsunami propagation; Seafloor elasticity; Seawater compressibility;
+   Arrival time delay; Leading negative phase; Reverse dispersion
+ID WAVE-PROPAGATION; 26 DECEMBER; EARTH; DEFORMATION; SIMULATION;
+   EQUATIONS; DENSITY; DISPERSION
+AB A model for tsunamis propagation is derived by coupling a weakly compressible liquid layer, standing for the ocean, to a viscoelastic solid layer of constant depth, representing the upper layer of the Earth. Below this layer, the Earth is assumed to be perfectly rigid. The resulting equations are averaged over the depth of the water layer for the liquid part and are integrated over the thickness of the solid layer for the solid part. The obtained system of equations is hyperbolic and admits an exact equation of energy conservation. The model is dispersive and includes an elastic branch, an acoustic branch and a gravity branch. The elasticity of the solid layer entails: (1) a reverse dispersion effect i.e. the phase velocity of the gravity branch decreases for small wave numbers if the wave number decreases; (2) an arrival time delay of the tsunami and (3) a leading negative phase i.e. a negative water elevation before the arrival of the main wave. All these effects are absent if the sea floor is assumed to be perfectly rigid. The arrival time delay due to elasticity comes in addition to the delay due to seawater compressibility. These effects are in agreement with previous works on tsunamis propagation. This preliminary model is a promising alternative approach for tsunamis propagation due to its ability to capture the main physical effects with a relatively simple mathematical structure of equations, which is easy to solve numerically.(c) 2023 Elsevier Masson SAS. All rights reserved.
+C1 [Richard, G. L.] Univ Grenoble Alpes, INRAE, UR ETNA, F-38000 Grenoble, France.
+   [Msheik, K.; Duran, A.] Univ Claude Bernard Lyon 1, Inst Camille Jordan, CNRS, UMR 5208, F-69100 Villeurbanne, France.
+C3 Communaute Universite Grenoble Alpes; Universite Grenoble Alpes (UGA);
+   INRAE; Centre National de la Recherche Scientifique (CNRS); CNRS -
+   National Institute for Mathematical Sciences (INSMI); Ecole Centrale de
+   Lyon; Institut National des Sciences Appliquees de Lyon - INSA Lyon;
+   Universite Claude Bernard Lyon 1; Universite Jean Monnet
+RP Richard, GL (通讯作者)，Univ Grenoble Alpes, INRAE, UR ETNA, F-38000 Grenoble, France.
+EM gael.richard@inrae.fr
+RI Richard, Gaël/AAB-3429-2019; Msheik, Khawla/JNT-3466-2023
+FU French National Research Agency project NABUCO [ANR-17-CE40-0025]
+FX Funding This work was supported by the French National Research Agency
+   project NABUCO [grant ANR-17-CE40-0025] .
+NR 33
+TC 2
+Z9 2
+U1 0
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0997-7546
+EI 1873-7390
+J9 EUR J MECH B-FLUID
+JI Eur. J. Mech. B-Fluids
+PD MAY-JUN
+PY 2023
+VL 99
+BP 84
+EP 97
+DI 10.1016/j.euromechflu.2023.01.004
+EA JAN 2023
+PG 14
+WC Mechanics; Physics, Fluids & Plasmas
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mechanics; Physics
+GA I2OI5
+UT WOS:001001224900001
+OA Green Submitted, Bronze
+DA 2025-05-29
+ER

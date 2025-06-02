@@ -1,0 +1,87 @@
+PT J
+AU Hang, X
+   Jiang, T
+   Liu, GX
+   Xiao, TX
+   Xu, L
+   Li, W
+   Xi, FB
+   Zhang, C
+   Wang, ZL
+AF Hang, Xi
+   Jiang, Tao
+   Liu, Guoxu
+   Xiao, Tianxiao
+   Xu, Liang
+   Li, Wei
+   Xi, Fengben
+   Zhang, Chi
+   Wang, Zhong Lin
+TI Triboelectric Nanogenerator Networks Integrated with Power Management
+   Module for Water Wave Energy Harvesting
+SO ADVANCED FUNCTIONAL MATERIALS
+LA English
+DT Article
+DE blue energy; power management module; spring-assisted multilayered
+   structure; triboelectric nanogenerator networks; water wave energy
+   harvesting
+ID MECHANICAL ENERGY; SYSTEM; OPTIMIZATION; EFFICIENCY; CONTACT; DRIVEN;
+   MODE
+AB Ocean waves are one of the most promising renewable energy sources for large-scope applications. Recently, triboelectric nanogenerator (TENG) network has been demonstrated to effectively harvest water wave energy possibly toward large-scale blue energy. However, the absence of effective power management severely restricts the practicability of TENGs. In this work, a hexagonal TENG network consisting of spherical TENG units based on spring-assisted multilayered structure, integrated with a power management module (PMM), is constructed for harvesting water wave energy. The output performance of the TENG network is found to be determined by water wave frequencies and amplitudes, as well as the wave type. Moreover, with the implemented PMM, the TENG network could output a steady and continuous direct current (DC) voltage on the load resistance, and the stored energy is dramatically improved by up to 96 times for charging a capacitor. The TENG network integrated with the PMM is also applied to effectively power a digital thermometer and a wireless transmitter. The thermometer can constantly measure the water temperature with the water wave motions, and the transmitter can send signals that enable an alarm to go off once every 10 s. This study extends the application of the power management module in the water wave energy harvesting.
+C1 [Hang, Xi; Jiang, Tao; Liu, Guoxu; Xiao, Tianxiao; Xu, Liang; Li, Wei; Xi, Fengben; Zhang, Chi; Wang, Zhong Lin] Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Key Lab Micronano Energy & Sensor, Beijing Inst Nanoenergy & Nanosyst, Beijing 100083, Peoples R China.
+   [Hang, Xi; Jiang, Tao; Liu, Guoxu; Xiao, Tianxiao; Xu, Liang; Xi, Fengben; Zhang, Chi; Wang, Zhong Lin] Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.
+   [Wang, Zhong Lin] Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+C3 Chinese Academy of Sciences; Beijing Institute of Nanoenergy &
+   Nanosystems, CAS; Chinese Academy of Sciences; University of Chinese
+   Academy of Sciences, CAS; University System of Georgia; Georgia
+   Institute of Technology
+RP Zhang, C; Wang, ZL (通讯作者)，Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Key Lab Micronano Energy & Sensor, Beijing Inst Nanoenergy & Nanosyst, Beijing 100083, Peoples R China.; Zhang, C; Wang, ZL (通讯作者)，Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.; Wang, ZL (通讯作者)，Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+EM czhang@binn.cas.cn; zlwang@gatech.edu
+RI Liu, Guoxu/AAC-1335-2021; chiyu, zhang/G-7239-2011; Li, Wei/U-4016-2017;
+   Xiao, Tianxiao/JWO-2479-2024; Xu, Liang/U-6709-2018; jiang,
+   tao/GWC-7108-2022; Wang, Zhong Lin/E-2176-2011; Xi, Fengben/P-8403-2018;
+   Zhang, Chi/F-5430-2013
+OI Wang, Zhong Lin/0000-0002-5530-0380; Xi, Fengben/0000-0002-1616-1525;
+   Xiao, Tianxiao/0000-0002-5013-4010; Jiang, Tao/0000-0001-7941-7703;
+   Zhang, Chi/0000-0002-7511-805X
+FU National Key R AMP; D Project from the Minister of Science and
+   Technology [2016YFA0202704]; Beijing Municipal Science AMP; Technology
+   Commission [Z171100000317001]; National Natural Science Foundation of
+   China [51432005, 51702018, 51561145021]
+FX X.L., T.J., and G.L. contributed equally to this work. Supports from the
+   National Key R & D Project from the Minister of Science and Technology
+   (2016YFA0202704), the Beijing Municipal Science & Technology Commission
+   (Z171100000317001), and the National Natural Science Foundation of China
+   (Grant Nos. 51432005, 51702018, and 51561145021) were appreciated. The
+   authors also thank Wei Tang, Kai Han, Yawei Feng, Jie An, Shaohang Xu,
+   Wenbo Liu, and Xiaodan Yang for device fabrications and measurements.
+NR 40
+TC 211
+Z9 217
+U1 31
+U2 414
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1616-301X
+EI 1616-3028
+J9 ADV FUNCT MATER
+JI Adv. Funct. Mater.
+PD OCT
+PY 2019
+VL 29
+IS 41
+SI SI
+AR 1807241
+DI 10.1002/adfm.201807241
+PG 8
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA JC1PZ
+UT WOS:000489051200008
+DA 2025-05-29
+ER

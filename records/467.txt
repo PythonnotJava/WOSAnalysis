@@ -1,0 +1,52 @@
+PT J
+AU Jankowska, E
+   Gorman, MR
+   Frischmann, CJ
+AF Jankowska, Emilia
+   Gorman, Miranda R.
+   Frischmann, Chad J.
+TI Transforming the Plastic Production System Presents Opportunities to
+   Tackle the Climate Crisis
+SO SUSTAINABILITY
+LA English
+DT Article
+DE plastic reduction; plastic replacement; GHG emissions; circular economy;
+   SDGs
+ID LIFE-CYCLE ASSESSMENT; GHG EMISSIONS; HUMAN HEALTH; WASTE; PLA;
+   ASSESSMENTS; BIOPOLYMERS; FUTURE; CARBON; PAPER
+AB Due to the rapid growth in global plastic production, in short-term applications, and negative impacts on natural ecosystems, plastics have received much attention. Additionally, the entire plastic value chain generates a significant amount of GHGs, and plastic use reductions should be considered as interventions addressing the climate crisis. This work investigates the life cycle of plastics in non-durable goods holistically. It identifies interventions to improve the sustainability and circularity of the system of production and analyzes the potential benefit of these interventions as climate change solutions. A baseline global market for plastics is defined and forecast to 2050, to which four interventions are applied: (1) plastic reduction through elimination and reuse; (2) replacement with paper; (3) replacement with recycled feedstock, (4) replacement with bioplastics. The highest potential in GHG emissions reduction lies in plastic reduction, followed by replacement with recycled plastics, paper, and, finally, bioplastics. Together the integrated system can reduce between 9.5 and 14.9 Gt CO2-eq from 2020 to 2050. The environmental and social impact of applying all these interventions in parallel is significant, as plastics are at the intersection of many challenges, including waste production, energy use, ocean pollution, and land disruption from fossil extraction.
+C1 [Jankowska, Emilia; Gorman, Miranda R.; Frischmann, Chad J.] Project Drawdown, San Francisco, CA 94118 USA.
+RP Frischmann, CJ (通讯作者)，Project Drawdown, San Francisco, CA 94118 USA.
+EM ejankowska.ocean@gmail.com; mgorman@alumni.cmu.edu;
+   chfrischmann@gmail.com
+OI Jankowska, Emilia/0000-0002-7969-1400; Gorman,
+   Miranda/0000-0002-8367-6932
+FU Project Drawdown
+FX This research was funded by Project Drawdown.
+NR 85
+TC 8
+Z9 8
+U1 5
+U2 46
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD JUN
+PY 2022
+VL 14
+IS 11
+AR 6539
+DI 10.3390/su14116539
+PG 18
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 1Z6KH
+UT WOS:000808930400001
+OA gold
+DA 2025-05-29
+ER

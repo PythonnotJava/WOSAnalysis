@@ -1,0 +1,53 @@
+PT J
+AU Rasool, S
+   Muttaqi, KM
+   Sutanto, D
+AF Rasool, Safdar
+   Muttaqi, Kashem M.
+   Sutanto, Danny
+TI Modelling of a wave-to-wire system for a wave farm and its response
+   analysis against power quality and grid codes
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Wave-to-wire; Wave energy; Wave flux; Linear generator; Power quality;
+   Flicker level
+ID ENERGY CONVERTER; RESOURCE; PERFORMANCE; FLICKER; IMPACT; OPERATION;
+   DESIGN; ARRAYS; COAST
+AB A single wave energy converter (WEC) produces a low and fluctuating power, and the use of a permanent magnet linear generator (PMLG) as an electric power take-off unit can make the situation worse because the power produced from a PMLG varies with each incident wave. The use of a short-term energy storage unit as an energy buffer will become necessary to mitigate the fluctuating power. However, the addition of the energy storage system will further increase the cost of the WEC. This paper proposes a modelling strategy for the wave-to-wire system of WEC arrays, consisting of Archimedes wave swings coupled with PMLGs, to analyze its power output quality and grid compliance without the integration of any energy storage system. The measured hydrodynamics of ocean waves are used for the analysis of the system. The developed model for the wave-to-wire system is tested under various scenarios for its power output quality while maintaining grid code compliance. The flicker level at the point of common coupling for the wave farm is evaluated for grids of varying strength. The simulation results show that the proposed configuration of the wave-to-wire system can be integrated with the grids of sufficient strength, without the need for expensive energy storage units, while complying with the grid code in the respective countries, such as Ireland, UK and Nordic countries. The main contributions of this paper are (i) a new modelling strategy to analyze a wave-to-wire system, (ii) simulation studies to analyze the power quality and grid code compliance of a wave-to-wire system, (iii) recommendations for the required grid strength to integrate wave farms to the grid. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Rasool, Safdar; Muttaqi, Kashem M.; Sutanto, Danny] Univ Wollongong, Sch Elect Comp & Telecommun Engn, Wollongong, NSW 2522, Australia.
+C3 University of Wollongong
+RP Rasool, S (通讯作者)，Univ Wollongong, Sch Elect Comp & Telecommun Engn, Wollongong, NSW 2522, Australia.
+EM sr785@uowmail.edu.au
+RI Rasool, Safdar/ABA-7450-2021; Muttaqi, Kashem/J-8040-2012
+OI Sutanto, Darmawan/0000-0002-2497-2766; Rasool,
+   Safdar/0000-0002-6319-3255
+FU HEC Pakistan; University of Wollongong, Australia
+FX This research work is carried out with the financial support from HEC
+   Pakistan and University of Wollongong, Australia.
+NR 61
+TC 18
+Z9 18
+U1 0
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+EI 1879-0682
+J9 RENEW ENERG
+JI Renew. Energy
+PD DEC
+PY 2020
+VL 162
+BP 2041
+EP 2055
+DI 10.1016/j.renene.2020.10.035
+PG 15
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA OT2HO
+UT WOS:000590673200006
+DA 2025-05-29
+ER

@@ -1,0 +1,80 @@
+PT J
+AU Hu, SJ
+   Sprintall, J
+   Guan, C
+   McPhaden, MJ
+   Wang, F
+   Hu, DX
+   Cai, WJ
+AF Hu, Shijian
+   Sprintall, Janet
+   Guan, Cong
+   McPhaden, Michael J.
+   Wang, Fan
+   Hu, Dunxin
+   Cai, Wenju
+TI Deep-reaching acceleration of global mean ocean circulation over the
+   past two decades
+SO SCIENCE ADVANCES
+LA English
+DT Article
+ID WESTERN BOUNDARY CURRENTS; HEAT-TRANSPORT; INDONESIAN SEAS; PACIFIC;
+   WIND; VARIABILITY; CLIMATE; DRIVEN; INTENSIFICATION; SLOWDOWN
+AB Ocean circulation redistributes Earth's energy and water masses and influences global climate. Under historical greenhouse warming, regional ocean currents show diverse tendencies, but whether there is an emerging trend of the global mean ocean circulation system is not yet clear. Here, we show a statistically significant increasing trend in the globally integrated oceanic kinetic energy since the early 1990s, indicating a substantial acceleration of global mean ocean circulation. The increasing trend in kinetic energy is particularly prominent in the global tropical oceans, reaching depths of thousands of meters. The deep-reaching acceleration of the ocean circulation is mainly induced by a planetary intensification of surface winds since the early 1990s. Although possibly influenced by wind changes associated with the onset of a negative Pacific decadal oscillation since the late 1990s, the recent acceleration is far larger than that associated with natural variability, suggesting that it is principally part of a long-term trend.
+C1 [Hu, Shijian; Guan, Cong; Wang, Fan; Hu, Dunxin] Chinese Acad Sci, Inst Oceanol, CAS Key Lab Ocean Circulat & Waves, Qingdao 266071, Peoples R China.
+   [Hu, Shijian; Guan, Cong; Wang, Fan; Hu, Dunxin] Chinese Acad Sci, Ctr Ocean Megasci, Qingdao 266071, Peoples R China.
+   [Hu, Shijian; Guan, Cong; Wang, Fan; Hu, Dunxin; Cai, Wenju] Pilot Natl Lab Marine Sci & Technol Qingdao, Qingdao 266237, Peoples R China.
+   [Hu, Shijian; Guan, Cong; Wang, Fan; Hu, Dunxin] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+   [Sprintall, Janet] Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA 92093 USA.
+   [McPhaden, Michael J.] NOAA, Pacific Marine Environm Lab, Seattle, WA 98115 USA.
+   [Cai, Wenju] CSIRO Oceans & Atmosphere Flagship, Aspendale, Vic 3195, Australia.
+   [Cai, Wenju] CSIRO Oceans & Atmosphere, CSHOR, Hobart, Tas 7004, Australia.
+C3 Chinese Academy of Sciences; Institute of Oceanology, CAS; Chinese
+   Academy of Sciences; Laoshan Laboratory; Chinese Academy of Sciences;
+   University of Chinese Academy of Sciences, CAS; University of California
+   System; University of California San Diego; Scripps Institution of
+   Oceanography; National Oceanic Atmospheric Admin (NOAA) - USA;
+   Commonwealth Scientific & Industrial Research Organisation (CSIRO);
+   Commonwealth Scientific & Industrial Research Organisation (CSIRO);
+   CSIRO Oceans & Atmosphere
+RP Hu, SJ; Wang, F (通讯作者)，Chinese Acad Sci, Inst Oceanol, CAS Key Lab Ocean Circulat & Waves, Qingdao 266071, Peoples R China.; Hu, SJ; Wang, F (通讯作者)，Chinese Acad Sci, Ctr Ocean Megasci, Qingdao 266071, Peoples R China.; Hu, SJ; Wang, F (通讯作者)，Pilot Natl Lab Marine Sci & Technol Qingdao, Qingdao 266237, Peoples R China.; Hu, SJ; Wang, F (通讯作者)，Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+EM sjhu@qdio.ac.cn; fwang@qdio.ac.cn
+RI Guan, Cong/AAE-3163-2019; Hu, Shijian/Q-6838-2016; McPhaden,
+   Michael/D-9799-2016; cai, wenju/C-2864-2012; Wang, Fan/J-5119-2012
+OI Hu, Dunxin/0000-0002-9285-8287; cai, wenju/0000-0001-6520-0829;
+   Sprintall, Janet/0000-0002-7428-7580; Wang, Fan/0000-0001-5932-7567
+FU National Natural Science Foundation of China [41730534]; Key Research
+   Program of Frontier Sciences, CAS [QYZDB-SSW-SYS023]
+FX This work was supported by the National Natural Science Foundation of
+   China (grants 91858101 and 41776018) and the Key Research Program of
+   Frontier Sciences, CAS (QYZDB-SSW-SYS023). C.G. was supported by the
+   National Natural Science Foundation of China (grant 41806016). F.W. was
+   supported by the National Natural Science Foundation of China (grant
+   41730534). This is PMEL contribution no. 5000.
+NR 50
+TC 107
+Z9 123
+U1 6
+U2 81
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 2375-2548
+J9 SCI ADV
+JI Sci. Adv.
+PD FEB
+PY 2020
+VL 6
+IS 6
+AR eaax7727
+DI 10.1126/sciadv.aax7727
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA KK7EW
+UT WOS:000512902300012
+PM 32076640
+OA gold, Green Published
+DA 2025-05-29
+ER

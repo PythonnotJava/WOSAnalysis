@@ -1,0 +1,67 @@
+PT J
+AU Xiong, CK
+   Lu, D
+   Zeng, Z
+   Lian, L
+   Yu, CY
+AF Xiong, Chengke
+   Lu, Di
+   Zeng, Zheng
+   Lian, Lian
+   Yu, Caoyang
+TI Path Planning of Multiple Unmanned Marine Vehicles for Adaptive Ocean
+   Sampling Using Elite Group-Based Evolutionary Algorithms
+SO JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+LA English
+DT Article
+DE Path planning; Multiple unmanned marine vehicles; Adaptive ocean
+   sampling; Simulated annealing algorithm; Particle swarm optimization
+ID AUTONOMOUS UNDERWATER VEHICLES; DYNAMIC TASK ASSIGNMENT; INITIAL
+   TEMPERATURE; AUV SYSTEM; OPTIMIZATION; DECISION
+AB This paper presents elite group-based evolutionary algorithms (EGEA) for adaptive ocean sampling using multiple unmanned marine vehicles (UMVs). The EGEA integrate a group-based framework and elitist selection methods into evolutionary path planner, which combine main advantages of these two techniques.The group-based framework allows each offspring individual of evolutionary algorithm to generate its own group of new solutions with a certain probability. Two elitist selection methods, herein referred to as group individual elitist selection (GIES) and whole population elitist selection (WPES), are proposed to facilitate selecting preferable solutions to be passed on to the next generation in the procedure of evolutionary algorithms. The EGEA path planners based on simulated annealing algorithm (SA) and particle swarm optimization (PSO) are tested to find trajectories for multiple UMVs to collect maximum interested ocean information from regions under investigation. The mixed integer linear programming (MILP) is also described and evaluated with the proposed EGEA for solving the adaptive sampling problem. Simulation results show that the whole elite group-based simulated annealing algorithm (WEGSA) is able to generate trajectories with more information gain from regions of high scientific interest with constrained energy of multiple UMVs than other techniques. Monte Carlo simulations demonstrate the inherent robustness and superiority of the proposed planner based on the EGEA in comparison with other techniques.
+C1 [Xiong, Chengke; Lu, Di; Zeng, Zheng; Lian, Lian; Yu, Caoyang] Shanghai Jiao Tong Univ, State Key Lab Ocean Engn, Shanghai, Peoples R China.
+   [Xiong, Chengke; Lu, Di; Zeng, Zheng; Lian, Lian; Yu, Caoyang] Shanghai Jiao Tong Univ, Sch Oceanog, Shanghai, Peoples R China.
+   [Zeng, Zheng; Lian, Lian] Qingdao Collaborat Innovat Ctr Marine Sci & Techn, Qingdao, Peoples R China.
+C3 Shanghai Jiao Tong University; Shanghai Jiao Tong University
+RP Zeng, Z; Lian, L (通讯作者)，Shanghai Jiao Tong Univ, State Key Lab Ocean Engn, Shanghai, Peoples R China.; Zeng, Z; Lian, L (通讯作者)，Shanghai Jiao Tong Univ, Sch Oceanog, Shanghai, Peoples R China.; Zeng, Z; Lian, L (通讯作者)，Qingdao Collaborat Innovat Ctr Marine Sci & Techn, Qingdao, Peoples R China.
+EM zheng.zeng@sjtu.edu.cn; llian@sjtu.edu.cn
+RI Lu, Di/KBQ-7002-2024; Zeng, Zheng/C-8808-2016; Yu,
+   Caoyang/AAB-4785-2020; Wang, Xiaofei/W-8267-2019
+OI Xiong, Chengke/0000-0002-3563-6055
+FU National Natural Science Foundation of China [41706108, 41527901];
+   Shanghai Sailing Program [17YF1409600]; open project of Qingdao National
+   Laboratory for Marine Science and Technology [QNLM2016ORP0104]
+FX This work is supported by the National Natural Science Foundation of
+   China under Grant No.41706108 and No.41527901, the Shanghai Sailing
+   Program under Grant No.17YF1409600 and the open project of Qingdao
+   National Laboratory for Marine Science and Technology under Grant
+   No.QNLM2016ORP0104.
+NR 40
+TC 17
+Z9 19
+U1 3
+U2 60
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-0296
+EI 1573-0409
+J9 J INTELL ROBOT SYST
+JI J. Intell. Robot. Syst.
+PD SEP
+PY 2020
+VL 99
+IS 3-4
+SI SI
+BP 875
+EP 889
+DI 10.1007/s10846-020-01155-7
+EA FEB 2020
+PG 15
+WC Computer Science, Artificial Intelligence; Robotics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Robotics
+GA MT2IS
+UT WOS:000516499300001
+DA 2025-05-29
+ER

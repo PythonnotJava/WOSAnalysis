@@ -1,0 +1,58 @@
+PT J
+AU Portilla-Yandún, J
+   Salazar, A
+   Cavaleri, L
+AF Portilla-Yandun, Jesus
+   Salazar, Andres
+   Cavaleri, Luigi
+TI Climate patterns derived from ocean wave spectra
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+ID SEA-SURFACE TEMPERATURE; PACIFIC; SWELL
+AB The fact that ocean surface waves are an integrated effect of meteorological activity has the interesting consequence that the memory of the wave systems is larger than that of the wind and storms that generated them. At each single point the related information is stored as its wave spectrum, a matrix containing the energy distribution of wave systems with different origins in space and time. We describe the concept of spectral partitioning and the technique used to obtain spectral statistics, whose outcome we associate with the physical reality. Using long series of spectral data we derive information of the, possibly very far, generation zones climatologically connected at a confluent point. Working on the eastern equatorial Pacific we focus on the prominent effects of El Nino events, for which interactions of mesoscale phenomena are revealed from the analysis of the local situation.
+C1 [Portilla-Yandun, Jesus; Salazar, Andres] Escuela Politec Nacl, Dept Mech Engn, Quito, Ecuador.
+   [Cavaleri, Luigi] ISMAR CNR, Inst Marine Sci, Venice, Italy.
+C3 Escuela Politecnica Nacional Ecuador; Consiglio Nazionale delle Ricerche
+   (CNR); Istituto di Scienze Marine (ISMAR-CNR)
+RP Portilla-Yandún, J (通讯作者)，Escuela Politec Nacl, Dept Mech Engn, Quito, Ecuador.
+EM jportilla@ymail.com
+OI Portilla-Yandun, Jesus/0000-0003-4985-4325; Salazar, Andres
+   A./0000-0001-9194-2543
+FU Escuela Politecnica Nacional [PIMI-1402]; ModeMat (Centro de
+   Modelizacion Matematica)
+FX We acknowledge funding from the Escuela Politecnica Nacional (project
+   PIMI-1402) and the support from ModeMat (Centro de Modelizacion
+   Matematica). Part of this work has been carried out during two stays of
+   J. Portilla at the Institute of Marine Sciences, in Venice. We are very
+   grateful to Alvise Benetazo, Francesco Barbariol, and Paulo Pezzuto, and
+   also to the anonymous reviewers for their useful comments in preparing
+   this manuscript.
+NR 26
+TC 27
+Z9 28
+U1 0
+U2 5
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD NOV 28
+PY 2016
+VL 43
+IS 22
+BP 11736
+EP 11743
+DI 10.1002/2016GL071419
+PG 8
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA EJ4SV
+UT WOS:000393208100030
+OA Bronze
+DA 2025-05-29
+ER

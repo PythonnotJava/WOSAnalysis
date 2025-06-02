@@ -1,0 +1,53 @@
+PT J
+AU Rellán, AG
+   Brea, CV
+   Bugallo, PMB
+AF Garcia Rellan, A.
+   Vazquez Brea, C.
+   Bello Bugallo, P. M.
+TI Towards sustainable mobile systems configurations: Application to a tuna
+   purse seiner
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Marine pollution; Best available techniques; Sustainable tuna fishing;
+   Material and energy flow analysis; Purse seiner; Life cycle thinking;
+   Improvable flows
+ID GALICIA NW SPAIN; INTEGRATED POLLUTION PREVENTION; ENERGY-FLOW ANALYSIS;
+   AVAILABLE TECHNIQUES; INDUSTRY; OPTIMIZATION; EMISSIONS; FISHERIES;
+   VESSELS; OCEAN
+AB Fishing is one of the most important marine activities. It contributes to both overfishing and marine pollution, the two main threats to the ocean environment. In this context, the aim of this work is to investigate and validate methodologies for the identification of more sustainable operating configurations for a tuna purse seiner. The proposed methodology is based on a previous one applied to secondary industrial systems, taking into account the Integrated Pollution Prevention and Control focus, developed for the most potentially industrial polluting sources. The idea is to apply the same type of methodologies and concepts used for secondary industrial punctual sources, to a primary industrial mobile activity. This methodology combines two tools: "Material and Energy Flow Analysis" (a tool from industrial metabolism), and "Best Available Techniques Analysis". The first provides a way to detect "Improvable Flows" into de system, and the second provides a way to define sustainable options to improve them.
+   Five main Improvable Flows have been identified in the selected case study, the activity of a purse seiner, most of them related with energy consumption and air emission, in different stages of the fishing activity. Thirty-one Best Available Techniques candidates for the system have been inventoried, that potentially could improve the sustainability of the activity. Seven of them are not implemented yet to the case study. The potential improvements of the system proposed by this work are related to energy efficiency, waste management, prevention and control of air emissions. This methodology demonstrates to be a good tool towards sustainable punctual systems, but also towards sustainable mobile systems such as the fishing activity in oceans, as the tuna purse seiner validated here. The practical application of the identified technologies to fishing systems will contribute to prevent and reduce marine pollution, one of the greatest threats of today's oceans. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Garcia Rellan, A.; Vazquez Brea, C.; Bello Bugallo, P. M.] Univ Santiago de Compostela, Dept Chem Engn, Av Lope Gomez De Marzoa S-N, E-15782 Santiago De Compostela, Spain.
+C3 Universidade de Santiago de Compostela
+RP Bugallo, PMB (通讯作者)，Univ Santiago de Compostela, Dept Chem Engn, Av Lope Gomez De Marzoa S-N, E-15782 Santiago De Compostela, Spain.
+EM pastora.bello.bugallo@usc.es
+RI Bello Bugallo, Pastora Maria/C-4111-2013
+OI Bello Bugallo, Pastora Maria/0000-0002-6005-5041
+NR 65
+TC 0
+Z9 0
+U1 0
+U2 24
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD AUG 1
+PY 2018
+VL 631-632
+BP 1623
+EP 1637
+DI 10.1016/j.scitotenv.2018.03.133
+PG 15
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology
+GA GG1UC
+UT WOS:000432471900161
+PM 29727986
+DA 2025-05-29
+ER

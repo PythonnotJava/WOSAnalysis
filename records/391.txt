@@ -1,0 +1,65 @@
+PT J
+AU Chakraborty, T
+   Pattnaik, S
+   Baisya, H
+AF Chakraborty, Tapajyoti
+   Pattnaik, Sandeep
+   Baisya, Himadri
+TI Investigating the precipitation features of monsoon deep depressions
+   over the Bay of Bengal using high-resolution stand-alone and coupled
+   simulations
+SO QUARTERLY JOURNAL OF THE ROYAL METEOROLOGICAL SOCIETY
+LA English
+DT Article
+DE Bay of Bengal; bulk kinetic energy; Coupled
+   Ocean-Atmosphere-Wave-Sediment Transport (COAWST) model; energetics;
+   moisture source; sinks (Q(m)); monsoon deep depressions; vertical
+   advection
+ID COMPOSITE STRUCTURE; MODEL; SURFACE; WAVE; PARAMETERIZATION; CONVECTION;
+   EXPLICIT; SCHEMES; SKILL
+AB A comprehensive attempt has been made to simulate the characteristics of monsoon deep depressions (MDD) originating over the Bay of Bengal (BoB) basin, with special emphasis on their rainfall using a coupled ocean-atmospheric model, that is, the Coupled Ocean-Atmosphere-Wave-Sediment Transport (COAWST) model, and a stand-alone atmospheric model, that is, the Weather Research and Forecasting (WRF) model, with a lead time of up to 72 hr. It is to be noted that COAWST employs WRF as its atmospheric component, while the Regional Ocean Modeling System (ROMS) is used as the oceanic component. It is found that though the tracks of the four MDDs considered have been reasonably simulated, the intensity was overestimated in both sets of simulations compared to India Meteorological Department (IMD) best estimates. Decomposition of the contributors to rain rate for the composite of the storms in the deep depression (DD) phase revealed that the moisture sources/sinks (Q(m)) are the major component in modulating the rain rate compared to the cloud sources/sinks. Further analysis of Q(m) suggested that vertical and horizontal advection of moisture forms the leading contributors to Q(m). Validation against Modern Era Retrospective-Analysis for Research and Analysis (MERRA) reanalysis showed that COAWST captured a more realistic evolution of Q(m) (specifically vertical advection) compared to its stand-alone counterpart. Investigation of the composite storm energetics in a vortex-following control volume showed a scarcity of bulk kinetic energy (volume-integrated kinetic energy over the control volume) in the later hours of the DD phase in COAWST which led to the dissipation of the storm core, unlike in WRF, where a re-intensification took place through condensational heating. It is inferred that in spite of the stand-alone atmospheric model capturing the moisture incursion from the lateral boundaries in the lower levels significantly, the better representation of the vertical structure in COAWST led to more realistic simulations of the storms, increasing the skill in rainfall prediction.
+C1 [Chakraborty, Tapajyoti; Pattnaik, Sandeep] Indian Inst Technol Bhubaneswar, Sch Earth Ocean & Climate Sci, Khurja, India.
+   [Baisya, Himadri] LGB Int Airport, India Meteorol Dept, Reg Meteorol Ctr, Gauhati, India.
+   [Pattnaik, Sandeep] IIT Bhubaneswar, Sch Earth Ocean & Climate Sci, Khurja 752050, Odisha, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Bhubaneswar; Ministry of Earth Sciences (MoES) -
+   India; India Meteorological Department (IMD); Indian Institute of
+   Technology System (IIT System); Indian Institute of Technology (IIT) -
+   Bhubaneswar
+RP Pattnaik, S (通讯作者)，IIT Bhubaneswar, Sch Earth Ocean & Climate Sci, Khurja 752050, Odisha, India.
+EM spt@iitbbs.ac.in
+RI Baisya, Himadri/AAB-4759-2019; pattnaik, s/HRA-9507-2023
+OI Baisya, Dr Himadri/0000-0003-0582-0449; pattnaik,
+   sandeep/0000-0003-3128-6972; Chakraborty, Tapajyoti/0000-0002-8639-8341
+FU Indian Institute of Technology Bhubaneswar India; New Venture Fund
+   [RP316]; University of Grant Commission India
+FX Indian Institute of Technology Bhubaneswar India; New Venture Fund,
+   Grant/Award Number: RP316; University of Grant Commission India
+NR 66
+TC 5
+Z9 5
+U1 1
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0035-9009
+EI 1477-870X
+J9 Q J ROY METEOR SOC
+JI Q. J. R. Meteorol. Soc.
+PD APR
+PY 2023
+VL 149
+IS 753
+BP 1213
+EP 1235
+DI 10.1002/qj.4449
+EA APR 2023
+PG 23
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA I3LP0
+UT WOS:000980057200001
+DA 2025-05-29
+ER

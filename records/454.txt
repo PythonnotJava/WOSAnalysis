@@ -1,0 +1,69 @@
+PT J
+AU Green, DB
+   Titaud, O
+   Bestley, S
+   Corney, SP
+   Hindell, MA
+   Trebilco, R
+   Conchon, A
+   Lehodey, P
+AF Green, David B.
+   Titaud, Olivier
+   Bestley, Sophie
+   Corney, Stuart P.
+   Hindell, Mark A.
+   Trebilco, Rowan
+   Conchon, Anna
+   Lehodey, Patrick
+TI KRILLPODYM: a mechanistic, spatially resolved model of Antarctic krill
+   distribution and abundance
+SO FRONTIERS IN MARINE SCIENCE
+LA English
+DT Article
+DE Southern Ocean; ecosystem modelling; earth systems; population
+   connectivity; fisheries; mid-trophic prey; spatial processes
+ID EUPHAUSIA-SUPERBA DANA; NATURAL GROWTH-RATES; SCOTIA SEA; ICE-EDGE; ROSS
+   SEA; TEMPORAL VARIABILITY; LARVAL RECRUITMENT; ECOSYSTEM APPROACH;
+   ENERGY BUDGETS; INDIAN SECTOR
+AB Robust prediction of population responses to changing environments requires the integration of factors controlling population dynamics with processes affecting distribution. This is true everywhere but especially in polar pelagic environments. Biological cycles for many polar species are synchronised to extreme seasonality, while their distributions may be influenced by both the prevailing oceanic circulation and sea-ice distribution. Antarctic krill (krill, Euphausia superba) is one such species exhibiting a complex life history that is finely tuned to the extreme seasonality of the Southern Ocean. Dependencies on the timing of optimal seasonal conditions have led to concerns over the effects of future climate on krill's population status, particularly given the species' important role within Southern Ocean ecosystems. Under a changing climate, established correlations between environment and species may breakdown. Developing the capacity for predicting krill responses to climate change therefore requires methods that can explicitly consider the interplay between life history, biological conditions, and transport. The Spatial Ecosystem And Population Dynamics Model (SEAPODYM) is one such framework that integrates population and general circulation modelling to simulate the spatial dynamics of key organisms. Here, we describe a modification to SEAPODYM, creating a novel model - KRILLPODYM - that generates spatially resolved estimates of krill biomass and demographics. This new model consists of three major components: (1) an age-structured population consisting of five key life stages, each with multiple age classes, which undergo age-dependent growth and mortality, (2) six key habitats that mediate the production of larvae and life stage survival, and (3) spatial dynamics driven by both the underlying circulation of ocean currents and advection of sea-ice. We present the first results of KRILLPODYM, using published deterministic functions of population processes and habitat suitability rules. Initialising from a non-informative uniform density across the Southern Ocean our model independently develops a circumpolar population distribution of krill that approximates observations. The model framework lends itself to applied experiments aimed at resolving key population parameters, life-stage specific habitat requirements, and dominant transport regimes, ultimately informing sustainable fishery management.
+C1 [Green, David B.; Bestley, Sophie; Corney, Stuart P.; Hindell, Mark A.] Univ Tasmania, Inst Marine & Antarctic Studies, Hobart, Tas, Australia.
+   [Green, David B.; Bestley, Sophie] Univ Tasmania, Australian Ctr Excellence Antarctic Sci ACEAS, Hobart, Tas, Australia.
+   [Titaud, Olivier; Conchon, Anna] Collecte Localisat Satell, Ramonville St Agne, France.
+   [Bestley, Sophie; Corney, Stuart P.] Univ Tasmania, Australian Antarctic Program Partnership, Hobart, Tas, Australia.
+   [Corney, Stuart P.; Trebilco, Rowan] Univ Tasmania, Ctr Marine Socioecol, Hobart, Tas, Australia.
+   [Trebilco, Rowan] CSIRO Environm, Hobart, Tas, Australia.
+   [Lehodey, Patrick] Pacific Community, Ocean Fisheries Programme, Noumea, New Caledonia.
+C3 University of Tasmania; University of Tasmania; University of Tasmania;
+   University of Tasmania; Commonwealth Scientific & Industrial Research
+   Organisation (CSIRO)
+RP Green, DB (通讯作者)，Univ Tasmania, Inst Marine & Antarctic Studies, Hobart, Tas, Australia.; Green, DB (通讯作者)，Univ Tasmania, Australian Ctr Excellence Antarctic Sci ACEAS, Hobart, Tas, Australia.
+EM david.green@utas.edu.au
+RI Hindell, Mark/K-1131-2013; Green, David/U-5570-2019; Trebilco,
+   Rowan/I-5311-2012; Bestley, Sophie/AAN-2483-2021; Lehodey,
+   Patrick/KPY-7728-2024; Green, David/E-8985-2019
+OI Green, David/0000-0002-0346-3129
+NR 107
+TC 5
+Z9 5
+U1 8
+U2 16
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-7745
+J9 FRONT MAR SCI
+JI Front. Mar. Sci.
+PD JUL 25
+PY 2023
+VL 10
+AR 1218003
+DI 10.3389/fmars.2023.1218003
+PG 18
+WC Environmental Sciences; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA O4YU9
+UT WOS:001043893700001
+OA gold
+DA 2025-05-29
+ER

@@ -1,0 +1,60 @@
+PT J
+AU Dokur, E
+   Erdogan, N
+   Yuzgec, U
+AF Dokur, Emrah
+   Erdogan, Nuh
+   Yuzgec, Ugur
+TI Swarm intelligence-based Multi-Layer Kernel Meta Extreme Learning
+   Machine for tidal current to power prediction
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Extreme Learning Machine; Forecasting; Ocean renewable energy; Swarm
+   decomposition; Tidal energy
+AB Tidal energy, with its predictable and consistent nature, offers a scalable ocean renewable resource that can diversify the energy generation mix for countries with suitable coastal conditions. Accurate tidal current-to- power forecasting is essential to optimize power system management, improve grid stability, and inform the design of power processing and storage units. This study proposes a novel hybrid model integrating Swarm Decomposition with a Multi-Layer Kernel Meta Extreme Learning Machine to forecast non-stationary tidal currents. The Swarm Decomposition isolates key oscillatory components, reducing noise and improving feature extraction, while the kernel-based architecture enhances generalization and scalability by minimizing the need for extensive parameter tuning, resulting in higher forecasting accuracy and computational efficiency. The model is validated on two real-world tidal current datasets from distinct locations, incorporating seasonal variations, and compared against well-established extreme learning machines and deep learning models. A sensitivity analysis of signal decomposition parameters demonstrated their impact on decomposition quality and computational cost. The proposed model outperformed superior performance on both tidal datasets, achieving a 5-fold reduction in mean squared error and increased R2 from 0.9653 to 0.9933. These findings highlight the model's robustness and adaptability to diverse tidal conditions, making it a reliable tool for tidal power forecasting.
+C1 [Dokur, Emrah] Bilecik Seyh Edebali Univ, Fac Engn, Dept Elect Elect Engn, Bilecik, Turkiye.
+   [Erdogan, Nuh] Nottingham Trent Univ, Sch Sci & Technol, Dept Engn, Nottingham, England.
+   [Yuzgec, Ugur] Bilecik Seyh Edebali Univ, Fac Engn, Dept Comp Engn, Bilecik, Turkiye.
+C3 Bilecik Seyh Edebali University; Nottingham Trent University; Bilecik
+   Seyh Edebali University
+RP Erdogan, N (通讯作者)，Nottingham Trent Univ, Sch Sci & Technol, Dept Engn, Nottingham, England.
+EM emrah.dokur@bilecik.edu.tr; nuh.erdogan@ntu.ac.uk;
+   ugur.yuzgec@bilecik.edu.tr
+RI Yuzgec, Ugur/Z-2329-2019; Dokur, Emrah/AHD-5116-2022
+OI Yuzgec, Ugur/0000-0002-5364-6265
+FU Marine Renewable Energy Centre of Ireland (MaREI) at University College
+   Cork (UCC) , Ireland
+FX The authors acknowledges the invaluable support and resources provided
+   by the "Marine Renewable Energy Centre of Ireland (MaREI) at University
+   College Cork (UCC) , Ireland". The foundational infrastructure and
+   expertise developed during Authors' postdoctoral research tenure at
+   MaREI significantly contributed to the knowledge and tools applied in
+   this study.
+NR 34
+TC 1
+Z9 1
+U1 2
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+EI 1879-0682
+J9 RENEW ENERG
+JI Renew. Energy
+PD APR 15
+PY 2025
+VL 243
+AR 122516
+DI 10.1016/j.renene.2025.122516
+EA FEB 2025
+PG 10
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA X5D9M
+UT WOS:001425565400001
+OA hybrid
+DA 2025-05-29
+ER

@@ -1,0 +1,63 @@
+PT J
+AU Gao, YH
+   Li, JC
+   Wang, WW
+   Tian, YJ
+AF Gao, Yunhong
+   Li, Jianchao
+   Wang, Wenwen
+   Tian, Yongjun
+TI Molecular and physiological responses of black rockfish
+   (Sebastes schlegelii) to short- and medium-term ocean
+   acidification
+SO ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE Ocean acidification; Sebastes schlegelii; Histopathological damage;
+   Physiological response; Transcriptome
+ID SALMON SALMO-SALAR; SEAWATER ACIDIFICATION; ANTIOXIDANT RESPONSES;
+   OXIDATIVE STRESS; CARBON-DIOXIDE; PACIFIC OYSTER; GAS-EXCHANGE;
+   SEA-URCHINS; ACID; GILL
+AB Ocean acidification (OA) is one of the greatest threats to marine species, with widespread impacts on their physiological functions. However, the adaptive capacities of many marine species to OA and the underlying mechanisms remain unclear. In this study, we investigated the effects of short-term (4 days) and medium-term (30 days) CO2 exposure (pH 8.0, 7.6, and 7.3) on black rockfish (Sebastes schlegelii), focusing on histopathological changes in gill tissues, ion transport biomarkers, oxidative stress indicators, and transcriptomic responses. The results showed that both short-term and medium-term OA induced significant morphological changes in gill tissues, including epithelial lifting, hyperplasia, hypertrophy, and lamellar clubbing, which are likely adaptive mechanisms for maintaining homeostasis. Both Na+/K+-ATPase and carbonic anhydrase (CA) activities increased significantly in both short- and medium-term exposure, while Ca2+-ATPase activity was elevated only in the short-term, suggesting differential enzyme regulation over time to sustain ionic balance. Additionally, oxidative stress indicators (superoxide dismutase (SOD), catalase (CAT), malondialdehyde (MDA), reduced glutathione (GSH) and glutathione peroxidase (GPx)) were significantly elevated after both exposure durations, indicating that the antioxidant defense system was activated. Moreover, the integrated biomarker response (IBR) index further indicated that the stress response was more pronounced during short-term exposure. Transcriptomic analysis reveals significant alterations in pathways related to calcium signaling, cytoskeletal structure, energy metabolism, and oxidative stress following short-term exposure. In contrast, medium-term exposure leads to significant enrichment of pathways associated with cell-environment interactions, highlighting the molecular adaptations of S. schlegelii to OA-induced stress. These findings provide valuable insights into the mechanisms of OA tolerance in S. schlegelii and contribute to understanding the adaptability of marine species in future ocean environments.
+C1 [Gao, Yunhong; Li, Jianchao; Wang, Wenwen; Tian, Yongjun] Ocean Univ China, Deep Sea & Polar Fisheries Res Ctr, Qingdao, Peoples R China.
+   [Gao, Yunhong; Li, Jianchao; Wang, Wenwen; Tian, Yongjun] Ocean Univ China, Key Lab Mariculture, Minist Educ, Qingdao, Peoples R China.
+   [Gao, Yunhong; Li, Jianchao; Wang, Wenwen; Tian, Yongjun] Ocean Univ China, Frontiers Sci Ctr Deep Ocean Multispheres & Earth, Qingdao, Peoples R China.
+C3 Ocean University of China; Ocean University of China; Ministry of
+   Education - China; Ocean University of China
+RP Tian, YJ (通讯作者)，Ocean Univ China, Coll Fisheries, Qingdao 266100, Peoples R China.
+EM yjtian@ouc.edu.cn
+FU National Natural Science Foundation of China [42376100, 41930534]
+FX This study was supported by National Natural Science Foundation of China
+   (grant no. 42376100, 41930534). Furthermore, we thank the Simulation
+   Laboratory of Yantai Institute of Coastal Zone Research for providing
+   the experimental facilities and equipment for this study. We are also
+   grateful to the editor and two reviewers for their meticulous review and
+   insightful suggestions, which have greatly enhanced the quality of this
+   manuscript.
+NR 76
+TC 0
+Z9 0
+U1 12
+U2 12
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0013-9351
+EI 1096-0953
+J9 ENVIRON RES
+JI Environ. Res.
+PD JUN 15
+PY 2025
+VL 275
+AR 121431
+DI 10.1016/j.envres.2025.121431
+PG 13
+WC Environmental Sciences; Public, Environmental & Occupational Health
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health
+GA 0SV9S
+UT WOS:001455208500001
+PM 40118312
+DA 2025-05-29
+ER

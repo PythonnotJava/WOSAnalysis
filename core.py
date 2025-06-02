@@ -2,6 +2,7 @@ import re
 from typing import *
 from collections import OrderedDict
 
+from matplotlib.pyplot import ylabel
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
@@ -40,6 +41,12 @@ def load(path : str = 'savedrecs.txt') -> list[str]:
 
     return matches
 
+# 将每个记录单独写入
+def write_record(fileName : str, text : str) -> None:
+    with open(fileName, 'w', encoding='U8') as f:
+        f.write(text)
+    f.close()
+
 # 匹配`SO+一个空格`字符串、`PY+一个空格`字符串
 def get_journal_data(entry: str) -> tuple:
     so = re.search(r'^SO (.+)', entry, flags=re.MULTILINE)
@@ -62,9 +69,19 @@ def journal_statistics(items : list[str]):
             pys[py] = 1
     return sos, pys
 
+# 文章被引用次数统计，不考虑主流引用，考虑综合引用 -> {文章名字：被引次数}
+def get_cite_count(items : list[str]) -> dict[str, int]:
+    rt = {}
+    for item in items:
+        name = re.search(r'^TI (.+)', item, flags=re.MULTILINE)
+        z9_match = re.search(r'^Z9\s+(\d+)', item, flags=re.MULTILINE)
+        z9 = int(z9_match.group(1)) if z9_match else 0
+        rt[name.group(1).strip()] = z9
+    return rt
+
 # 自定义匹配
 def self_define_pattern(entry : str, key : str):
-    so = re.search(fr'^{key} (.+)', entry, flags=re.MULTILINE)
+    so = re.search(key, entry, flags=re.MULTILINE)
     return so.group(1).strip() if so else None
 
 # 自定义统计，键必须和数量有关才行
@@ -120,7 +137,7 @@ def draw_bar(
     data : dict,
     title : Optional[str] = '',
     figsize : Optional[tuple[int, int]] = None,
-    barColor : str = 'skyblue',
+    barColor : str = '#128fab',
     horizontal : bool = True,
     xlabel : str = '',
     ylabel : str = '',
@@ -131,13 +148,17 @@ def draw_bar(
     fig = plt.figure() if not figsize else plt.figure(figsize=figsize)
     if not horizontal:
         plt.bar(keys, values, color=barColor)
+        plt.xticks(rotation=rotation)
     else:
         plt.barh(keys, values, color=barColor)
     if title:
         plt.title(title)
-    plt.xticks(rotation=rotation)
+    ax = plt.gca()
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
+
     plt.tight_layout()
     return fig
 
@@ -250,14 +271,19 @@ def complete_task(app):
             app.tabs.addTab(MpWdiegt(draw_bar(
                 data_slice,
                 title=state['title'],
-                horizontal=False
+                horizontal=False,
+                xlabel='Year',
+                rotation=45,
+                ylabel='Number of related articles published in the current year'
             )), qtIcon('fa5s.chart-bar'), 'Bar')
         # 画横向柱状图
         if state['barh']:
             app.tabs.addTab(MpWdiegt(draw_bar(
                 data_slice,
                 title=state['title'],
-                horizontal=True
+                horizontal=True,
+                xlabel='Number of journals collected',
+                ylabel='Journals',
             )), qtIcon('fa6.chart-bar'), 'Barh')
         # 画词云图
         if state['cloud']:

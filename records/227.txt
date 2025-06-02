@@ -1,0 +1,48 @@
+PT J
+AU Harikrishnan, TA
+   Manu
+   Rao, S
+AF Harikrishnan, T. A.
+   Manu
+   Rao, Subba
+TI Experimental investigation on L-Oscillating Water Column wave energy
+   converter integrated with floating cylindrical breakwater
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE OWC; WEC; Hydrodynamic efficiency; Reflection coefficient (K r );
+   Transmission coefficient (K t )
+ID HYDRODYNAMIC PERFORMANCE; DEVICE
+AB One promising renewable energy source for the future is wave energy, harnessed through L-Oscillating Water Column (L-OWC) Wave Energy Converters (WECs). Combining this device with lightweight floating breakwaters can have several advantages, including absorbing wave energy and attenuating waves. L-OWC and two cylindrical floating breakwaters, one in front of the structure and one at the back are coupled in the current study. Previous research indicates that the L-shaped OWC configuration is highly effective due to its increased added mass and enhanced structural stability. The 1:30 scale model, combining a floating breakwater with an Oscillating Water Column (OWC) system, was experimentally investigated in the wave flume at the NITK, Department of Water Resources and Ocean Engineering. This setup included L-shaped OWCs integrated with cylindrical breakwater configurations (2C, 3C, and 4C). OWCs integrate with lightweight floating breakwaters, offering both wave attenuation and energy extraction. The OWC achieved maximum efficiency of 30% under optimal conditions, with a wave period of approximately 1.8s and a wave height of 0.06 m for the model with three floating breakwaters. The work aligns with the United Nations' Sustainable Development Goals (SDG), specifically addressing clean and affordable energy (SDG 7), industry, innovation, and infrastructure (SDG 9), life below water (SDG 14), and life on land (SDG 15), highlighting its significant impact.
+C1 [Harikrishnan, T. A.; Manu; Rao, Subba] Natl Inst Technol, Dept Water Resources & Ocean Engn, Surathkal 575025, Karnataka, India.
+C3 National Institute of Technology (NIT System); National Institute of
+   Technology Karnataka
+RP Harikrishnan, TA (通讯作者)，Natl Inst Technol, Dept Water Resources & Ocean Engn, Surathkal 575025, Karnataka, India.
+EM hta226@gmail.com; manunitk77@gmail.com; surakrec@gmail.com
+NR 30
+TC 1
+Z9 1
+U1 19
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD JAN 1
+PY 2025
+VL 315
+AR 119806
+DI 10.1016/j.oceaneng.2024.119806
+EA NOV 2024
+PG 13
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA N0Q8D
+UT WOS:001361486500001
+DA 2025-05-29
+ER

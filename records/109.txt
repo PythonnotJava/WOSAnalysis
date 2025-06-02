@@ -1,0 +1,65 @@
+PT J
+AU Chen, BZ
+   Yang, CJ
+   Yao, ZS
+   Xia, QC
+   Chen, YH
+AF Chen, Bingzhe
+   Yang, Canjun
+   Yao, Zesheng
+   Xia, Qingchao
+   Chen, Yanhu
+TI Research on coupling enhanced heat transfer with energy storage in ocean
+   thermal engine systems
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Ocean thermal engine; Energy storage; Heat -transfer enhancement;
+   Molecular dynamics; Coupling model
+ID MOLECULAR-DYNAMICS SIMULATIONS; PHASE-CHANGE MATERIAL; N-ALKANES;
+   FORCE-FIELD; OPLS-AA; TEMPERATURE; PREDICTION; CONVERSION; MODEL
+AB Underwater vehicles are generally supplemented and driven by ocean thermal engine systems (OTES), leveraging the large thermal-energy reserves via solid-liquid phase change materials (PCMs). However, the low thermal conductivity and high-pressure melting point migration of PCMs severely limit their energy-storage performance. In this study, alkane binary mixture PCMs and enhanced heat transfer structures were integrated into the OTES to increase the energy storage power. The melting point of pure n-hexadecane was reduced using a 5% mass fraction of n-octane. The density and melting interval of an alkane binary mixture PCM at different pressures were studied using molecular dynamics simulations. An OTES coupling model based on the enhanced heattransfer theory of metal foams was developed. The minimum relative error in the model prediction of melting time was 1.13%. The effects of different precharge pressures, nominal volumes, and energy-storage strategies of the accumulator on the energy-storage process were investigated. The results indicate that a large nominal volume, precharge pressure, and energy-storage interval are beneficial for improving the energy storage power. For 5 L accumulator, the maximum power for single energy-storage strategy is 13.92 W, while multiple energystorage strategy improves by 41.52% to 19.7 W.
+C1 [Chen, Bingzhe; Yang, Canjun; Yao, Zesheng; Chen, Yanhu] Zhejiang Univ, State Key Lab Fluid Power & Mechatron Syst, Hangzhou 310027, Zhejiang, Peoples R China.
+   [Xia, Qingchao] Ningbo Tech Univ, Sch Mech & Energy Engn, Ningbo 31500, Peoples R China.
+   [Xia, Qingchao] Zhejiang Univ, Ningbo Innovat Ctr, Ningbo 315100, Peoples R China.
+C3 Zhejiang University; Zhejiang University
+RP Chen, YH (通讯作者)，Zhejiang Univ, State Key Lab Fluid Power & Mechatron Syst, Hangzhou 310027, Zhejiang, Peoples R China.
+EM yanhuchen@zju.edu.cn
+RI Yang, Can-jun/AAM-6416-2020
+OI Yao, Zesheng/0000-0002-4736-1327
+FU National Natural Science Foundation of China [51979246, 52205074];
+   National Key Research and Development Program of China [2021YFC2800202];
+   Strategic Priority Research Program of the Chinese Academy of Sciences
+   [XDA22000000]
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant No. 51979246) , the National Key Research and Development
+   Program of China (Grant No. 2021YFC2800202) , the Strategic Priority
+   Research Program of the Chinese Academy of Sciences (Grant No.
+   XDA22000000) , and the National Natural Science Foundation of China
+   (Grant No. 52205074) .
+NR 38
+TC 0
+Z9 0
+U1 4
+U2 22
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD APR 15
+PY 2024
+VL 360
+AR 122712
+DI 10.1016/j.apenergy.2024.122712
+EA FEB 2024
+PG 14
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA KZ2V5
+UT WOS:001183735000001
+DA 2025-05-29
+ER

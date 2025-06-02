@@ -1,0 +1,60 @@
+PT J
+AU Zhang, YS
+   Yuan, CY
+   Du, XY
+   Chen, T
+   Hu, QR
+   Wang, Z
+   Lu, JZ
+AF Zhang, Yuanshi
+   Yuan, Chaoyang
+   Du, Xinye
+   Chen, Tao
+   Hu, Qinran
+   Wang, Zheng
+   Lu, Jianzhong
+TI Capacity configuration of hybrid energy storage system for ocean
+   renewables
+SO JOURNAL OF ENERGY STORAGE
+LA English
+DT Article
+DE Offshore wind energy; Wave energy; Moving average filter; Variational
+   mode decomposition (VMD); Hybrid energy storage system (HESS)
+ID ADAPTIVE DROOP CONTROL; MODE DECOMPOSITION
+AB Ocean renewables, including offshore wind and wave energy, are plentiful and crucial energy sources for attaining future emission-free goals. Nevertheless, their power generation processes are intermittent and unstable, which mandates the utilization of energy storage systems to mitigate power fluctuations. In light of this challenge, this study designs a Hybrid Energy Storage System (HESS) composed of supercapacitors and lithium iron phosphate batteries integrating wind and wave energies. Through the application of improved moving average filter and amplitude limiting filter algorithm, it proficiently regulates power fluctuations, secures the stability of grid connection, and reasonably allocates grid-connected power and energy storage power. Then, the variational mode decomposition (VMD) is adopted to decompose the original power generation. Subsequently, the Hilbert transform is employed to ascertain the frequency for frequency division, thereby enabling a reasonable distribution of energy storage power between supercapacitors and lithium iron phosphate batteries. Taking into account the state of charge constraints of the hybrid energy storage system, the present work aims to minimize the annual comprehensive cost by optimizing rated power and capacity of the HESS. The results show that the improved moving average filter and amplitude limiting filter algorithm (IMAF-ALF) can smooth the grid connection fluctuation of offshore energy and optimize the HESS capacity effectively.
+C1 [Zhang, Yuanshi; Yuan, Chaoyang; Du, Xinye; Chen, Tao; Hu, Qinran] Southeast Univ, Sch Elect Engn, Nanjing 210096, Peoples R China.
+   [Wang, Zheng; Lu, Jianzhong] State Grid Corp China, Dept Dev & Planning, East China Branch, Shanghai, Peoples R China.
+C3 Southeast University - China; State Grid Corporation of China
+RP Chen, T (通讯作者)，Southeast Univ, Sch Elect Engn, Nanjing 210096, Peoples R China.
+EM taoc@seu.edu.cn
+RI Hu, Qinran/A-2359-2016
+FU National Natural Science Foundation of China [52207083, U24B2081]
+FX This work was supported by the National Natural Science Foundation of
+   China under Grant 52207083 and National Natural Science Founda-tion of
+   China under Grant U24B2081.
+NR 32
+TC 2
+Z9 2
+U1 4
+U2 4
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-152X
+EI 2352-1538
+J9 J ENERGY STORAGE
+JI J. Energy Storage
+PD APR 30
+PY 2025
+VL 116
+AR 116090
+DI 10.1016/j.est.2025.116090
+EA MAR 2025
+PG 11
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA 0AP5C
+UT WOS:001442815300001
+DA 2025-05-29
+ER

@@ -1,0 +1,55 @@
+PT J
+AU Ramesh, NR
+   Thirumurugan, K
+   Raphael, DC
+   Ramadass, GA
+   Atmanand, MA
+AF Ramesh, Narayanmurthy Renganayahi
+   Thirumurugan, Karuppiah
+   Raphael, Deepak Chullickal
+   Ramadass, Gidugu Ananda
+   Atmanand, Malayath Aravindakshan
+TI Development and Subsea Testing of Polymetallic Nodule Crusher for
+   Underwater Mining Machine
+SO MARINE TECHNOLOGY SOCIETY JOURNAL
+LA English
+DT Article
+DE polymetallic nodule; artificial nodules; subsea crushing; single roll
+   crusher; transportation of nodules
+AB Polymetallic nodules found in the deep oceans are viewed as potential resources for meeting the world's demand of many metals in the near future. Polymetallic nodule mining systems require subsea crushing systems for reducing the size of nodules to facilitate energy-efficient and safe pumping through risers of optimum size. Polymetallic nodules are friable, and deep-sea crushing has to be done with care to minimize the formation of fines, while obtaining the required size reduction. The crusher could also encounter objects with greater hardness during operation like small rocks, splinters, long fish bones, and shark teeth. All components in the crusher should be capable of operating in the deep ocean environment, which is hyperbaric and sediment laden. The equipment should be compact with minimum weight. Reversal of direction and dumping arrangements in the event of stalling are other essential design requirements. An underwater crusher capable of crushing mined nodules from a maximum size of 100 mm to a crushed size of 30 mm was developed using principles of design synthesis. The crusher was tested in land and integrated into a remotely operated crawler-based underwater mining machine that could mine and pump nodules through a flexible riser. The system was tested using artificial nodules at 512-m water depth off the Malvan coast in the Arabian Sea. This paper describes developmental methodology, land-based performance tests, and sea trials conducted on the developed crusher.
+C1 [Ramesh, Narayanmurthy Renganayahi; Thirumurugan, Karuppiah; Raphael, Deepak Chullickal; Ramadass, Gidugu Ananda; Atmanand, Malayath Aravindakshan] Minist Earth Sci, Natl Inst Ocean Technol, Chennai 600100, Tamil Nadu, India.
+C3 Ministry of Earth Sciences (MoES) - India; National Institute of Ocean
+   Technology (NIOT)
+RP Ramesh, NR (通讯作者)，Minist Earth Sci, Natl Inst Ocean Technol, Chennai 600100, Tamil Nadu, India.
+EM ramesh19.nr@gmail.com
+RI M A, Atmanand/A-1610-2016
+FU Ministry of Earth Sciences, Government of India
+FX The authors gratefully acknowledge the support extended by Ministry of
+   Earth Sciences, Government of India, in funding research on the
+   development of deep-sea mining systems.
+NR 14
+TC 3
+Z9 4
+U1 2
+U2 27
+PU MARINE TECHNOLOGY SOC INC
+PI COLUMBIA
+PA 5565 STERRETT PLACE, STE 108, COLUMBIA, MD 21044 USA
+SN 0025-3324
+EI 1948-1209
+J9 MAR TECHNOL SOC J
+JI Mar. Technol. Soc. J.
+PD NOV-DEC
+PY 2021
+VL 55
+IS 6
+BP 65
+EP 72
+PG 8
+WC Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA YX2RV
+UT WOS:000753956200008
+DA 2025-05-29
+ER

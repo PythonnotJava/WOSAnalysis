@@ -1,0 +1,77 @@
+PT J
+AU He, FL
+   Wagner, M
+   Zhang, LJ
+   Shao, CS
+   Xu, WH
+   Chen, WQ
+   Yan, Y
+   Li, Y
+AF He, Fenglan
+   Wagner, Markus
+   Zhang, Lijun
+   Shao, Changsheng
+   Xu, Wenhao
+   Chen, Weiqiu
+   Yan, Yun
+   Li, Ye
+TI A novel integrated approach for offshore wind power optimization
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Offshore wind energy; Array optimization; Integrated modeling; Multiple
+   prevailing wind directions; Ocean space utilization
+ID PARTICLE SWARM OPTIMIZATION; LAYOUT OPTIMIZATION; FARM LAYOUT; TURBINE;
+   PLACEMENT; DESIGN; ARRAY
+AB When an offshore wind farm is designed, the available ocean space limits the overall farm's output. Conse-quently, over the last few decades, the density of turbines has increased, which in turn intensified the aero-dynamic interactions between the turbines. The interaction is a consequence of the farm layout, which is affected by the macro siting and micro siting optimization concerns. However, existing optimization approaches cannot satisfy the complicated offshore condition. To provide a more competitive cost, this paper proposes an advanced optimization approach that combines fluid mechanics methods and mathematical models to analyze the optimal array layout of large offshore wind farms. First, to obtain the maximum power generation, we propose an in-tegrated interference model to describe the aerodynamic interaction between any two adjacent turbines. Second, we study the changing relation of the layout of wind turbines and the power generation of the system. Third, we investigate three different scenarios with aligned and staggered layouts under different wind conditions. We also perform an extensive sensitivity analysis on the influence of the occurrence probabilities of multiple prevailing wind directions on the power efficiency of wind farms. Finally, we suggest some policies to support the market development.
+C1 [He, Fenglan] Shanghai Jiao Tong Univ, Sch Int & Publ Affairs, Shanghai 200030, Peoples R China.
+   [He, Fenglan] Shanghai Jiao Tong Univ, China Inst Urban Governance, Shanghai 200030, Peoples R China.
+   [Wagner, Markus] Univ Adelaide, Sch Comp Sci, Adelaide, SA 5005, Australia.
+   [Zhang, Lijun; Xu, Wenhao; Li, Ye] Shanghai Jiao Tong Univ, Multiple Funct Towing Tank Lab, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+   [Shao, Changsheng] Southern Marine Sci & Engn Guangdong Lab Zhanjian, Zhanjiang 524013, Guangdong, Peoples R China.
+   [Chen, Weiqiu; Yan, Yun] Guangdong Yuedian Zhanjiang Wind Power Co Ltd, Zhanjiang 524100, Guangdong, Peoples R China.
+C3 Shanghai Jiao Tong University; Shanghai Jiao Tong University; University
+   of Adelaide; Shanghai Jiao Tong University; Southern Marine Science &
+   Engineering Guangdong Laboratory; Southern Marine Science & Engineering
+   Guangdong Laboratory (Zhanjiang)
+RP Li, Y (通讯作者)，Shanghai Jiao Tong Univ, Multiple Funct Towing Tank Lab, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+EM ye.li@sjtu.edu.cn
+RI Shao, Changsheng/AFP-0098-2022; he, fenglan/HNJ-3164-2023; Wagner,
+   Markus/HZM-6101-2023; li, ye/D-5633-2016
+OI Zhang, Xiaofeng/0000-0003-2738-3286; Zhang, Lijun/0000-0003-1529-1771;
+   Xu, Wenhao/0000-0003-1735-3956
+FU Ministry of Science and Technology of China; National Natural Science
+   Foundation of China; Science Founda-tion of Donghai Laboratory of China;
+    [2017YFE0132000];  [51709171];  [11872248];  [DH-2022KF0304]
+FX Acknowledgments This work was financially supported by the Ministry of
+   Science and Technology of China (Nos. 2017YFE0132000) , National Natural
+   Science Foundation of China (51709171 and 11872248) , and Science
+   Founda-tion of Donghai Laboratory of China (DH-2022KF0304) .
+NR 43
+TC 9
+Z9 9
+U1 9
+U2 50
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD DEC 15
+PY 2022
+VL 266
+AR 112827
+DI 10.1016/j.oceaneng.2022.112827
+EA OCT 2022
+PN 2
+PG 15
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 5W0CK
+UT WOS:000877589700002
+DA 2025-05-29
+ER

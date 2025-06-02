@@ -1,0 +1,58 @@
+PT J
+AU Cheong, S
+   Kim, YJ
+   Chun, JH
+   Kim, JK
+   Huh, S
+AF Cheong, Snons
+   Kim, Young-Jun
+   Chun, Jong-Hwa
+   Kim, Jung-Ki
+   Huh, Shin
+TI Integrated Offshore Seismic Survey Using an Unmanned Wave Glider
+SO ENERGIES
+LA English
+DT Article
+DE wave glider; seismic refraction; acoustic wave velocity; wide-offset
+   seismic
+AB An autonomous surface vehicle, known as a wave glider, was used to record refracted and reflected signals from a seismic source penetrating the shallow subsurface. An integrated survey system consisting of a wave gilder and a human-operated source vessel was deployed. These survey systems are used to acquire wide-offset seismic survey data from specific areas, such as offshore structures. The wave gliders can collect seismic refraction and reflection data, which can be used to estimate subsurface information, e.g., acoustic wave velocity and subsurface structure. We processed raw data collected by a receiver equipped with the wave glider and used the relationship between travel time and offset distance to calculate the velocities of shallow sedimentary deposits and the acoustic basement. The velocities of the sedimentary deposits and basement were estimated to be 1557 and 3507 m/s, respectively. We then overlaid the velocities on subsurface data measured using a single-channel streamer. Our results indicate that unmanned equipment can be used for ocean exploration to aid offshore energy development.
+C1 [Cheong, Snons; Kim, Young-Jun; Chun, Jong-Hwa; Kim, Jung-Ki] Korea Inst Geosci & Mineral Resources, 124,Gwahak Ro, Daejeon 34132, South Korea.
+   [Huh, Shin] Ocean Tech, 214,Haengjusanseong Ro, Goyang Si 10440, Gyeonggi Do, South Korea.
+C3 Korea Institute of Geoscience & Mineral Resources (KIGAM)
+RP Kim, YJ (通讯作者)，Korea Inst Geosci & Mineral Resources, 124,Gwahak Ro, Daejeon 34132, South Korea.
+EM snons@kigam.re.kr; kimyj@kigam.re.kr; jhchun@kigam.re.kr;
+   kjk@kigam.re.kr; support@oceantech.co.kr
+OI Cheong, Snons/0000-0003-1129-6866; Kim, Young-Jun/0000-0002-0685-3624
+FU Korea Institute of Geoscience and Mineral Resources (KIGAM) [20-3413-1,
+   20-3111-2]
+FX This research was funded by the Korea Institute of Geoscience and
+   Mineral Resources (KIGAM), grant numbers 20-3413-1 (Technology
+   development for storage efficiency improvement and safety assessment of
+   CO2 geological storage) and 20-3111-2 (Geological survey in the Korean
+   Peninsula and publication of the geological maps).
+NR 26
+TC 6
+Z9 7
+U1 2
+U2 12
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD JAN
+PY 2021
+VL 14
+IS 2
+AR 297
+DI 10.3390/en14020297
+PG 12
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA PX2WS
+UT WOS:000611221700001
+OA gold, Green Published
+DA 2025-05-29
+ER

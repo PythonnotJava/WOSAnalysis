@@ -1,0 +1,79 @@
+PT J
+AU Sanchez, PJB
+   Márquez, FPG
+   Govindara, S
+   But, A
+   Sportich, B
+   Marini, S
+   Jantara, V Jr
+   Papaelias, M
+AF Bernalte Sanchez, Pedro Jose
+   Garcia Marquez, Fausto Pedro
+   Govindara, Shashank
+   But, Alexandru
+   Sportich, Benjamin
+   Marini, Simone
+   Jantara Junior, Valter
+   Papaelias, Mayorkinos
+TI USE OF UIOT FOR OFFSHORE SURVEYS THROUGH AUTONOMOUS VEHICLES
+SO POLISH MARITIME RESEARCH
+LA English
+DT Article
+DE Underwater Internet of Things (UIoT); autonomous underwater vehicles;
+   unmanned surface vehicles; clean energy; data management; data
+   transmission
+ID WIRELESS SENSOR NETWORKS; UNDERWATER VEHICLES; BACK-END; INTERNET;
+   ADVANCEMENT; SYSTEM; KEY; AUV
+AB The ENDURUNS project is a European Research project of the Horizon 2020 framework, which has as its main objective to achieve the optimum and intelligent use of green hydrogen energy for long-term ocean surveys. The ENDURUNS system comprises an Unmanned Surface Vehicle (USV) and an Autonomous Underwater Vehicle (AUV) with gliding capability. The power pack of the USV integrates Li-ion batteries with photovoltaic panels, whilst the AUV employs Li-ion batteries and a hydrogen fuel cell. It is essential to develop a continuous monitoring ca-pability for the different systems of the vehicles. Data transmission between the devices onboard presents challenges due to the volume and structure of the different datasets. A telecommunications network has been designed to manage the operational components considered in the project. The autonomous vehicles perform measurements, providing their position and other data wirelessly. The system will generate a great volume of various signals during the survey. The Remote Control Centre needs to be interfaced with the vehicles in order to receive, manage and store the acquired data. An Underwater Internet of Things (IoT) platform is designed to establish efficient and smart data management. This study presents an exhaustive survey to analyse the telecommunication systems employed in the autonomous vehicles, including the back-end, user interface and mobile units. This paper presents the novel design of the hardware and software structure of the ENDURUNS project with regard to the literature, where its components and their in-terconnection layers are detailed, which is a novel scientific and technological approach for autonomous seabed surveying in deep oceans or in coastal areas.
+C1 [Bernalte Sanchez, Pedro Jose; Garcia Marquez, Fausto Pedro] Univ Castilla La Mancha, ETII Campus Univ SN, Ciudad Real 13004, Spain.
+   [Govindara, Shashank; But, Alexandru; Sportich, Benjamin] Space Applicat Serv NV SA, Sint Stevens Woluwe, Brussels Area, B-56987 Brussels, Belgium.
+   [Marini, Simone] Natl Res Council Italy CNR, Inst Marine Sci, I-789965 La Spezia, Italy.
+   [Jantara Junior, Valter] Univ Birmingham, Edbaston 5698745, Birmingham, W Midlands, England.
+   [Papaelias, Mayorkinos] Univ Birmingham, Sch Met & Mat, Edbaston 5698745, Birmingham, W Midlands, England.
+C3 Universidad de Castilla-La Mancha; Consiglio Nazionale delle Ricerche
+   (CNR); Istituto di Scienze Marine (ISMAR-CNR); University of Birmingham;
+   University of Birmingham
+RP Márquez, FPG (通讯作者)，Univ Castilla La Mancha, ETII Campus Univ SN, Ciudad Real 13004, Spain.
+EM Pedro.Bernalte@uclm.es; faustopedro.garcia@uclm.es;
+   shashank.govindaraj@spaceapplications.com;
+   alexandru.but@spaceapplications.com; bsp@spaceapplications.com;
+   simone.marini@sp.ismar.cnr.it; V.L.JantaraJunior@bham.ac.uk;
+   m.papaelias@bham.ac.uk
+RI Bernalte, Pedro/AAT-3857-2020; Papaelias, Mayorkinos/AAD-5324-2019;
+   Marini, Simone/C-3872-2012; Jantara Junior, Valter Luiz/AAR-7577-2020;
+   Bernalte, Pedro/A-8700-2019; Garcia Marquez, Fausto Pedro/D-7529-2011
+OI Marini, Simone/0000-0003-0665-7815; Jantara Junior, Valter
+   Luiz/0000-0001-9034-0583; Papaelias, Mayorkinos/0000-0003-2140-5923;
+   Bernalte, Pedro/0000-0002-9954-4432; Garcia Marquez, Fausto
+   Pedro/0000-0002-9245-440X
+FU European Project H2020 [H2020-MG-2018-2019-2020]
+FX The work reported herewith has been supported by the European Project
+   H2020 under the Research Grants H2020-MG-2018-2019-2020, ENDURUNS.
+NR 117
+TC 13
+Z9 13
+U1 3
+U2 44
+PU SCIENDO
+PI WARSAW
+PA BOGUMILA ZUGA 32A, WARSAW, MAZOVIA, POLAND
+SN 1233-2585
+EI 2083-7429
+J9 POL MARIT RES
+JI Pol. Marit. Res.
+PD OCT
+PY 2021
+VL 28
+IS 3
+BP 175
+EP 189
+DI 10.2478/pomr-2021-0044
+PG 15
+WC Engineering, Marine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA WM6MQ
+UT WOS:000711197900005
+OA gold, Green Published
+DA 2025-05-29
+ER

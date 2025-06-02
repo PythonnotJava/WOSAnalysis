@@ -1,0 +1,73 @@
+PT J
+AU Wang, JS
+   Song, YN
+   Maw, MM
+   Song, YX
+   Pan, XX
+   Sun, YQ
+   Li, DQ
+AF Wang, Junsheng
+   Song, Younan
+   Maw, Myint Myint
+   Song, Yongxin
+   Pan, Xinxiang
+   Sun, Yeqing
+   Li, Dongqing
+TI Detection of size spectrum of microalgae cells in an integrated
+   underwater microfluidic device
+SO JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY
+LA English
+DT Article
+DE Size spectrum of particle; Live status of algae; Microfludic chip
+ID CHLOROPHYLL FLUORESCENCE; MARINE-PHYTOPLANKTON; FLOW-CYTOMETRY;
+   PARTICLE-SIZE; IMAGE-ANALYSIS; CHIP; SYSTEMS; OCEAN; PHOTOSYNTHESIS;
+   TERRESTRIAL
+AB Size spectrum of biological particles directly affects nutrient cycling and energy flow distribution of marine ecosystems. Fast and accurate detection of the size and distribution of marine phytoplankton plays a very important role for in-depth study of physiological characteristics of marine phytoplankton community structure and function. In this paper, a novel detection method and system of size spectrum of microalgae cells on a microfluidic chip is presented. In this device, a microfluidic resistance pulse sensor (RPS) technology is adopted to determine the particle size of microalgae cells; chlorophyll fluorescence intensity is used to judge if a particle is a live microalgae cell or not. Inside a waterproof case, the system mainly comprises a microfluidic chip platform, a sample acquisition module, an optoelectronic detection unit, and a module performing data acquisition, data processing and system control. To demonstrate the performance of the developed system, experiments were conducted with three species of microalgae cells (Isochrysis galbana, Dunaliella sauna and Tetraselmis chui), typical phytoplankton cells in marine environments, as samples. Comparison experiments between the developed detection system and a commercial flow cytometer were conducted. The results demonstrate that the developed system is reliable and accurate. The limit of detection of microalgae cell size is 3 tun for the current device and can be improved in the future. The presented microfluidic system provides a very promising method of size spectrum detection of microalgae cells with the advantages such as fast detection, small size and easy operation. It has a great potential for in-situ underwater detection of micro phytoplanktons pending further product development. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Wang, Junsheng; Song, Younan] Dalian Maritime Univ, Coll Informat & Sci Technol, Dalian 116026, Peoples R China.
+   [Maw, Myint Myint; Song, Yongxin; Pan, Xinxiang; Li, Dongqing] Dalian Maritime Univ, Coll Marine Engn, Dalian 116026, Peoples R China.
+   [Sun, Yeqing] Dalian Maritime Univ, Coll Environm Sci & Engn, Dalian 116026, Peoples R China.
+   [Li, Dongqing] Univ Waterloo, Dept Mech & Mechatron Engn, Waterloo, ON N2L 3G1, Canada.
+C3 Dalian Maritime University; Dalian Maritime University; Dalian Maritime
+   University; University of Waterloo
+RP Li, DQ (通讯作者)，Univ Waterloo, Dept Mech & Mechatron Engn, Waterloo, ON N2L 3G1, Canada.
+EM dongqing@uwaterloo.ca
+RI Wang, Junsheng/L-7472-2019
+FU National Natural Science Foundation of China [51309042]; Ministry of
+   Transport of China [2014329225140]; Liaoning Provincial Natural Science
+   Foundation of China [2014025017]; Fundamental Research Funds for the
+   Central University [3132014207]; Changjiang Scholar Program; Dalian
+   Maritime University; China 111 Talent Project
+FX This research is supported by the National Natural Science Foundation of
+   China (51309042), the Applied Basic Research Programs of Ministry of
+   Transport of China (2014329225140), the Liaoning Provincial Natural
+   Science Foundation of China (2014025017), the Fundamental Research Funds
+   for the Central University (3132014207) to J. Wang, and the Changjiang
+   Scholar Program and Dalian Maritime University to D. Li, and the
+   financial support from China 111 Talent Project are also greatly
+   appreciated. [SS]
+NR 51
+TC 27
+Z9 28
+U1 1
+U2 108
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-0981
+EI 1879-1697
+J9 J EXP MAR BIOL ECOL
+JI J. Exp. Mar. Biol. Ecol.
+PD DEC
+PY 2015
+VL 473
+BP 129
+EP 137
+DI 10.1016/j.jembe.2015.08.016
+PG 9
+WC Ecology; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA CV4TI
+UT WOS:000364259000015
+DA 2025-05-29
+ER

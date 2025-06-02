@@ -1,0 +1,54 @@
+PT J
+AU Anheuser, J
+   Liu, YH
+   Key, JR
+AF Anheuser, James
+   Liu, Yinghui
+   Key, Jeffrey R.
+TI A simple model for daily basin-wide thermodynamic sea ice thickness
+   growth retrieval
+SO CRYOSPHERE
+LA English
+DT Article
+ID MASS-BALANCE BUOYS; SNOW DEPTH; LASER ALTIMETRY; ENVISAT RADAR;
+   HEAT-FLUX; FREEBOARD; CRYOSAT-2; TEMPERATURE; PRODUCTS; IMPLEMENTATION
+AB As changes to Earth's polar climate accelerate, the need for robust, long-term sea ice thickness observation datasets for monitoring those changes and for verification of global climate models is clear. By linking an algorithm for retrieving snow-ice interface temperature from passive microwave satellite data to a thermodynamic sea ice energy balance relation known as Stefan's law, we have developed a retrieval method for estimating thermodynamic sea ice thickness growth from space: Stefan's Law Integrated Conducted Energy (SLICE). With an initial condition at the beginning of the sea ice growth season, the method can model basin-wide absolute sea ice thickness by combining the one-dimensional SLICE retrieval with an ice motion dataset. The advantages of the SLICE retrieval method include daily basin-wide coverage, lack of atmospheric reanalysis product input requirement, and a potential for use beginning in 1987. Validation of the retrieval against measurements from 10 ice mass balance buoys shows a mean correlation of 0.89 and a mean bias of 0.06 m over the course of an entire sea ice growth season. Despite its simplifications and assumptions relative to models like the Pan-Arctic Ice-Ocean Modeling and Assimilation System (PIOMAS), basin-wide SLICE performs nearly as well as PIOMAS when compared against CryoSat-2 and Operation IceBridge using a linear correlation between collocated points.
+C1 [Anheuser, James] Univ Wisconsin, Dept Atmospher & Ocean Sci, Madison, WI 53715 USA.
+   [Liu, Yinghui; Key, Jeffrey R.] NOAA, Ctr Satellite Applicat & Res, NESDIS, Madison, WI USA.
+C3 University of Wisconsin System; University of Wisconsin Madison;
+   National Oceanic Atmospheric Admin (NOAA) - USA
+RP Anheuser, J (通讯作者)，Univ Wisconsin, Dept Atmospher & Ocean Sci, Madison, WI 53715 USA.
+EM anheuser@wisc.edu
+RI Anheuser, James/AHB-9832-2022
+OI Anheuser, James/0000-0002-9724-0259
+FU National Oceanic and Atmospheric Administration (NOAA) [NA20NES4320003]
+FX This research has been supported by the National Oceanic and Atmospheric
+   Administration (NOAA; grant no. NA20NES4320003).
+NR 81
+TC 4
+Z9 4
+U1 3
+U2 8
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1994-0416
+EI 1994-0424
+J9 CRYOSPHERE
+JI Cryosphere
+PD OCT 20
+PY 2022
+VL 16
+IS 10
+BP 4403
+EP 4421
+DI 10.5194/tc-16-4403-2022
+PG 19
+WC Geography, Physical; Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physical Geography; Geology
+GA 5L2DE
+UT WOS:000870224600001
+OA Green Published, gold, Green Submitted
+DA 2025-05-29
+ER

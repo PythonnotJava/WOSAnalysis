@@ -1,0 +1,58 @@
+PT J
+AU Li, YX
+   Kumar, GMS
+   Cao, SL
+   Wang, SW
+AF Li, Yaxuan
+   Kumar, Gokula Manikandan Senthil
+   Cao, Sunliang
+   Wang, Shengwei
+TI Electric vehicle-based distant energy sharing between zero-emission
+   coastal office and hotel buildings
+SO JOURNAL OF BUILDING ENGINEERING
+LA English
+DT Article
+DE Distant energy sharing; Zero energy buildings; Ocean energy sharing;
+   Ocean renewable energy; Electric vehicles
+AB With the rapid growth of distributed renewable energy systems, energy sharing brings a practical solution to mitigate mismatching between intermittent electricity generation and building demand. In past research, energy sharing was designed mostly for onshore energy integrated systems and is commonly realised with the assistance of microgrids, distributed battery storage, or peer-to-peer energy trading. This research innovatively proposed a distant energy sharing between the ocean energy-supported coastal office building and hotel building by ten electric vehicles, enabling the circulation of ocean renewable energy between two buildings. This project aims to accomplish maximum technical, environmental and economic benefits for the stakeholder. Using bidirectional vehicle-building interaction, advanced control algorithms, including shifting vehicle batches, sizing renewable capacity, and involving stationary batteries, are implemented successively in the TRNSYS simulation as analysis groups to enhance the current system's performance. According to the results, the vehicle-based bidirectional energy sharing between these two buildings can attain a relative net present value of 49.18 million HKD and a weighted matching index of 0.63. After implementing advanced controls with stationary batteries, the system achieved a relative net present value of 62.15 million HKD with an improved matching index of 0.70. Both batteries contributed to increase the matching performance of the system, but the increase in battery capacity reduces the benefit due to their replacement cost. This research developed an energy management system for effectively utilising electric vehicles and coastal renewable energy for distant energy sharing. It elucidated the technological, environmental, and economic benefits to the stakeholders for effective decision-making.
+C1 [Li, Yaxuan; Kumar, Gokula Manikandan Senthil; Cao, Sunliang; Wang, Shengwei] Hong Kong Polytech Univ, Fac Construct & Environm, Dept Bldg Environm & Energy Engn, Renewable Energy Res Grp RERG,Kowloon, Hong Kong, Peoples R China.
+   [Cao, Sunliang; Wang, Shengwei] Hong Kong Polytech Univ, Res Inst Smart Energy RISE, Kowloon, Hong Kong, Peoples R China.
+   [Cao, Sunliang; Wang, Shengwei] Hong Kong Polytech Univ, Res Inst Sustainable Urban Dev RISUD, Kowloon, Hong Kong, Peoples R China.
+C3 Hong Kong Polytechnic University; Hong Kong Polytechnic University; Hong
+   Kong Polytechnic University
+RP Cao, SL (通讯作者)，Hong Kong Polytech Univ, Fac Construct & Environm, Dept Bldg Environm & Energy Engn, Renewable Energy Res Grp RERG,Kowloon, Hong Kong, Peoples R China.; Cao, SL (通讯作者)，Hong Kong Polytech Univ, Res Inst Smart Energy RISE, Kowloon, Hong Kong, Peoples R China.; Cao, SL (通讯作者)，Hong Kong Polytech Univ, Res Inst Sustainable Urban Dev RISUD, Kowloon, Hong Kong, Peoples R China.
+EM sunliang.cao@polyu.edu.hk
+RI Senthil kumar, Gokula Manikandan/ADJ-4291-2022
+OI Li, Yaxuan/0009-0000-3906-3074; Senthil Kumar, Gokula
+   Manikandan/0000-0002-5220-2662
+FU HK RGC (Hong Kong Research Grants Council) Research Project [15211822];
+   Research Institute for Smart Energy (RISE), The Hong Kong Polytechnic
+   University [P0044567]
+FX This research is partially supported by the HK RGC (Hong Kong Research
+   Grants Council) Research Project 15211822. This research is also
+   partially supported by the Project "P0044567" from the Research
+   Institute for Smart Energy (RISE), The Hong Kong Polytechnic University.
+NR 70
+TC 6
+Z9 6
+U1 4
+U2 13
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+EI 2352-7102
+J9 J BUILD ENG
+JI J. Build. Eng.
+PD AUG 1
+PY 2024
+VL 90
+AR 109496
+DI 10.1016/j.jobe.2024.109496
+PG 30
+WC Construction & Building Technology; Engineering, Civil
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Construction & Building Technology; Engineering
+GA TC7D5
+UT WOS:001239117200001
+DA 2025-05-29
+ER

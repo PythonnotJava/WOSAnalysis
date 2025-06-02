@@ -1,0 +1,65 @@
+PT J
+AU Qu, K
+   Tang, HS
+   Agrawal, A
+AF Qu, K.
+   Tang, H. S.
+   Agrawal, A.
+TI Integration of fully 3D fluid dynamics and geophysical fluid dynamics
+   models for multiphysics coastal ocean flows: Simulation of local complex
+   free-surface phenomena
+SO OCEAN MODELLING
+LA English
+DT Article
+DE Multiscale; Multiphysics; Near field; Free surface; Model coupling;
+   Overset grids; The SIFUM-FVCOM system
+ID OVERSET-GRID METHOD; FINITE-VOLUME; SHALLOW-WATER; TIDAL ENERGY;
+   STORM-SURGE; CIRCULATION; SCALE; EQUATIONS; ALGORITHM; SCHEMES
+AB A modeling system is presented for simulation of multiphysics coastal ocean flows at scales from O (1) m to O (1,000) km, especially for high-fidelity simulation of local, complicated, free-surface phenomena. The system integrates the solver for incompressible flow on unstructured mesh (SIFUM) and the finite volume coastal ocean model (FVCOM) on the basis of domain decomposition. In this system, the former is built on the Navier-Stokes equations and simulates small-scale, fully three-dimensional phenomena in local flows, whereas the latter is based on the geophysical fluid dynamics equations and predicts large-scale, background ocean currents. The integrated SIFUM-FVCOM system is developed from a previous system consisting of a structured-grid model and an unstructured-grid model (Tang et al., J. Comput. Phys. 273, 2014), and it combines two unstructured-grid models and has the capability of dealing with free-surface phenomena and complex geometries in local flows. In the new system, SIFUM and FVCOM are two-way coupled via Schwarz iteration, and they march in time together as a single system. The SIFUM-FVCOM system performs as intended with regard to capturing physical phenomena (e.g., generation of dam-break wave and slashing of water at a structure), converging with grid spacing and time step, and permitting seamless transition of solutions for far and near fields. In addition, its prediction of benchmark flow problems matches well with analytical, computational, and experimental data. The system is able to simultaneously and directly simulate many multiscale, multiphysics, real-world phenomena that could not be handled before. Such capability is illustrated by its application to coastal flooding and the resulting impact on a coastal bridge and a beachfront house.
+C1 [Qu, K.] Changsha Univ Sci & Technol, Sch Hydraul Engn, Changsha 410114, Hunan, Peoples R China.
+   [Qu, K.; Tang, H. S.; Agrawal, A.] CUNY City Coll, Dept Civil Engn, New York, NY 10031 USA.
+C3 Changsha University of Science & Technology; City University of New York
+   (CUNY) System; City College of New York (CUNY)
+RP Tang, HS (通讯作者)，CUNY City Coll, Dept Civil Engn, 160 Convent Ave, New York, NY 10031 USA.
+EM htang@ccny.cuny.edu
+RI Tang, Hansong/AFV-8043-2022
+OI Qu, Ke/0000-0003-0054-4617
+FU National Science Foundation (CMMI) [1334551]; UTRC program; National
+   Natural Science Foundation of China [51809021]; National Science
+   Foundation (DMS) [1622459]; Direct For Mathematical & Physical Scien;
+   Division Of Mathematical Sciences [1622459] Funding Source: National
+   Science Foundation; Directorate For Engineering; Div Of Civil,
+   Mechanical, & Manufact Inn [1334551] Funding Source: National Science
+   Foundation
+FX This work is sponsored by the National Science Foundation (CMMI #
+   1334551, DMS # 1622459). Partial support also comes from the UTRC
+   program and, for KQ, the National Natural Science Foundation of China (#
+   51809021). The authors thank Dr. C.S. Chen for his input on FVCOM and
+   the anonymous reviewers for their valuable suggestions.
+NR 79
+TC 21
+Z9 22
+U1 2
+U2 25
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1463-5003
+EI 1463-5011
+J9 OCEAN MODEL
+JI Ocean Model.
+PD MAR
+PY 2019
+VL 135
+BP 14
+EP 30
+DI 10.1016/j.ocemod.2019.01.001
+PG 17
+WC Meteorology & Atmospheric Sciences; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences; Oceanography
+GA HM5FW
+UT WOS:000459502400002
+OA Bronze
+DA 2025-05-29
+ER

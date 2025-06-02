@@ -1,0 +1,79 @@
+PT J
+AU Liang, X
+   Liu, ZR
+   Feng, YW
+   Han, JJ
+   Li, LL
+   An, J
+   Chen, PF
+   Jiang, T
+   Wang, ZL
+AF Liang, Xi
+   Liu, Zhirong
+   Feng, Yawei
+   Han, Jiajia
+   Li, Linlin
+   An, Jie
+   Chen, Pengfei
+   Jiang, Tao
+   Wang, Zhong Lin
+TI Spherical triboelectric nanogenerator based on spring-assisted swing
+   structure for effective water wave energy harvesting
+SO NANO ENERGY
+LA English
+DT Article
+DE Triboelectric nanogenerator; Spring-assisted swing structure; Charge
+   excitation circuit; Blue energy harvesting
+AB Ocean wave energy is one of the most promising clean and renewable energy sources, so developing effective methods to collect such ?random? and ultra-low frequency energy is indispensable. The invention of triboelectric nanogenerators (TENGs) provides new prospects for large-scale blue energy harvesting. In this work, a new spherical TENG based on the coupling of spring-assisted structure and swing structure, integrated with a charge excitation circuit (CEC), was constructed to scavenge water wave energy. The particular structure can transform low-frequency water wave vibrations to high-frequency motions, elevating the frequencies of electrical outputs. Moreover, a TENG array consisting of four TENGs with CECs was fabricated, exhibiting a maximum output power of 16.6 mW and a 205 times enhanced output current of 23.3 mA. The charge excitation TENG array was demonstrated to successfully power a digital thermometer and a wireless signal transmission and reception system without any external power supply. Our study not only provides a new type of TENG with improved performance, but also offers a strategy for constructing maritime internet of things (IoTs) system.
+C1 [Liang, Xi; Liu, Zhirong; Feng, Yawei; Han, Jiajia; Li, Linlin; An, Jie; Chen, Pengfei; Jiang, Tao; Wang, Zhong Lin] Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, Beijing 101400, Peoples R China.
+   [Liang, Xi; Liu, Zhirong; Feng, Yawei; Han, Jiajia; Li, Linlin; An, Jie; Chen, Pengfei; Jiang, Tao; Wang, Zhong Lin] Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.
+   [Jiang, Tao; Wang, Zhong Lin] CUSPEA Inst Technol, Wenzhou 325024, Zhejiang, Peoples R China.
+   [Wang, Zhong Lin] Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+C3 Chinese Academy of Sciences; Beijing Institute of Nanoenergy &
+   Nanosystems, CAS; Chinese Academy of Sciences; University of Chinese
+   Academy of Sciences, CAS; University System of Georgia; Georgia
+   Institute of Technology
+RP Jiang, T; Wang, ZL (通讯作者)，Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, Beijing 101400, Peoples R China.
+EM jiangtao@binn.cas.cn; zlwang@gatech.edu
+RI wang, z/A-4607-2016; Li, Linlin/AAI-6331-2020; Jiang, Tao/IWM-7503-2023;
+   chen, pengfei/ISU-2056-2023; Wang, Zhong Lin/E-2176-2011
+OI Feng, Yawei/0000-0002-9184-7260; Jiang, Tao/0000-0001-7941-7703; Wang,
+   Zhong Lin/0000-0002-5530-0380; jie, an/0000-0002-0028-0079
+FU National Key R&D Project from Minister of Science and Technology
+   [2016YFA0202704]; National Natural Science Foundation of China
+   [51432005, 51702018, 51561145021]; Youth Innovation Promotion
+   Association, CAS
+FX Support from the National Key R&D Project from Minister of Science and
+   Technology (2016YFA0202704), National Natural Science Foundation of
+   China (grant nos. 51432005, 51702018, and 51561145021), and Youth
+   Innovation Promotion Association, CAS, are appreciated. The authors also
+   thank Zewei Ren, Kai Han, Hao Pang and Pinjing Lu for device
+   fabrications and measurements.
+NR 30
+TC 111
+Z9 121
+U1 10
+U2 285
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD MAY
+PY 2021
+VL 83
+AR 105836
+DI 10.1016/j.nanoen.2021.105836
+EA FEB 2021
+PG 9
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA RM6UB
+UT WOS:000639795000001
+DA 2025-05-29
+ER

@@ -1,0 +1,69 @@
+PT J
+AU Nezhad, MM
+   Neshat, M
+   Piras, G
+   Garcia, DA
+   Sylaios, G
+AF Majidi Nezhad, Meysam
+   Neshat, Mehdi
+   Piras, Giuseppe
+   Astiaso Garcia, Davide
+   Sylaios, Georgios
+TI Marine Online Platforms of Services to Public End-Users-The Innovation
+   of the ODYSSEA Project
+SO REMOTE SENSING
+LA English
+DT Article
+DE marine observing systems; ODYSSEA platform; satellite remote sensing;
+   data product development; public end-user services
+ID RURAL ELECTRIFICATION; INFORMATION-SYSTEM; RENEWABLE ENERGY; TECHNOLOGY;
+   MANAGEMENT; ANALYTICS; WIND
+AB Recently, various Earth Observation Networks (EONs) have been designed, developed and launched by in-situ, on-site and off-site collected data from fixed and moving marine sensors and remote sensing (RS) satellite data. This information can significantly help a wide range of public and private end-users better understand the medium- and high-resolution numerical models for regional, national and global coverage. In this context, such EON core services' operational numerical data can be seen of the growing demand result for marine sustainability development of developing countries and the European Union (EU). In this case, marine platforms can offer a wide range of benefits to users of human communities in the same environment using meticulous analyses. Furthermore, marine platforms can contribute to a deeper discourse on the ocean, given the required regulations, technical and legal considerations and users to a common typology using clear scientific terminology. In this regard, firstly, the following six steps have been used to develop a better understanding of the essential data structure that is commensurate with the efficiency of the marine end-user's service: (1) steps and challenges of collecting data, (2) stakeholder engagement to identify, detect and assess the specific needs of end-users, (3) design, develop and launch the products offered to meet the specific needs of users, (4) achieve sustainable development in the continuous provision of these products to end-users, (5) identify future needs and challenges, and (6) online platform architecture style related to providing these products to end-users. Secondly, the innovation of the ODYSSEA (Operating a Network of Integrated Observatory Systems in the Mediterranean Sea) platform project has been evaluated and reviewed as a successful project on marine online platforms to better understand how marine online platforms are being used, designed, developed and launched. The ODYSSEA platform provides a system that bridges the gap between operational oceanographic capabilities and the need for information on marine conditions, including for the end-user community. The project aims to develop a fully integrated and cost-effective cross-platform, multi-platform network of observation and forecasting systems across the Mediterranean Sea.
+C1 [Majidi Nezhad, Meysam; Piras, Giuseppe] Sapienza Univ Rome, Dept Astronaut Elect & Energy Engn, I-00184 Rome, Italy.
+   [Neshat, Mehdi] Torrens Univ Australia, Ctr Artificial Intelligence Res & Optimizat, Brisbane, Qld 4006, Australia.
+   [Astiaso Garcia, Davide] Sapienza Univ Rome, Dept Planning Design Technol Architecture, Via Flaminia 72, I-00196 Rome, Italy.
+   [Sylaios, Georgios] Democritus Univ Thrace, Dept Environm Engn, Lab Ecol Engn & Technol, Xanthi 67100, Greece.
+C3 Sapienza University Rome; Torrens University Australia; Sapienza
+   University Rome; Democritus University of Thrace
+RP Nezhad, MM (通讯作者)，Sapienza Univ Rome, Dept Astronaut Elect & Energy Engn, I-00184 Rome, Italy.
+EM meysam.majidinezhad@uniroma1.it; mehdi.neshat@laureate.edu.au;
+   giuseppe.piras@uniroma1.it; davide.astiasogarcia@uniroma1.it;
+   gsylaios@env.duth.gr
+RI Piras, Giuseppe/AAL-9812-2021; Sylaios, Georgios/AAM-6994-2020; Neshat,
+   Mehdi/AAO-7963-2020; Garcia, Davide/H-6478-2019
+OI PIRAS, GIUSEPPE/0000-0002-2800-3962; Astiaso Garcia,
+   Davide/0000-0003-0752-2146; Neshat, Mehdi/0000-0002-9537-9513; SYLAIOS,
+   GEORGIOS/0000-0003-2327-4015
+FU European Union [727277]; H2020 Societal Challenges Programme [727277]
+   Funding Source: H2020 Societal Challenges Programme
+FX This research has been carried out within the ODYSSEA project that
+   received funding from the European Union's Horizon 2020 Research and
+   Innovation Programme under grant agreement No 727277.
+NR 63
+TC 3
+Z9 4
+U1 2
+U2 5
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2072-4292
+J9 REMOTE SENS-BASEL
+JI Remote Sens.
+PD FEB
+PY 2022
+VL 14
+IS 3
+AR 572
+DI 10.3390/rs14030572
+PG 20
+WC Environmental Sciences; Geosciences, Multidisciplinary; Remote Sensing;
+   Imaging Science & Photographic Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Geology; Remote Sensing; Imaging
+   Science & Photographic Technology
+GA ZA4AL
+UT WOS:000756108300001
+OA gold, Green Published
+DA 2025-05-29
+ER

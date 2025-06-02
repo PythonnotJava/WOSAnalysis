@@ -1,0 +1,66 @@
+PT J
+AU Paulikas, D
+   Katona, S
+   Ilves, E
+   Ali, SH
+AF Paulikas, Daina
+   Katona, Steven
+   Ilves, Erika
+   Ali, Saleem H.
+TI Deep-sea nodules versus land ores: A comparative systems analysis of
+   mining and processing wastes for battery-metal supply chains
+SO JOURNAL OF INDUSTRIAL ECOLOGY
+LA English
+DT Article
+DE battery metals; industrial ecology; metal production waste; nodules;
+   sustainable supply chain; systems analysis
+ID LIFE-CYCLE ASSESSMENT; COPPER SLAG; TAILINGS; RESOURCE; SERVICES;
+   MANAGEMENT; IMPACTS
+AB To meet UN Sustainable Development goals, a clean-energy transition with minimal ecological impact from its raw-material supply chain is essential. Polymetallic nodules lying unattached on the abyssal seafloor of the Pacific Ocean's Clarion Clipperton Zone contain four critical metals (nickel, cobalt, manganese, copper) in large quantities, and the International Seabed Authority may soon enact regulations to allow their commercial exploitation. There are complex global ecological implications of doing so. Nodule exploitation would damage abyssal habitats and may impact midwater-column organisms; but in the absence of nodule exploitation, terrestrial mining's environmental and social impacts would intensify. This paper adds to the growing systems-based literature on nodule collection by contributing a preliminary material flow analysis of global-average cradle-to-gate waste streams using either nodules or terrestrial sources as part of a preliminary life cycle assessment, as well as integrated risk assessments of those waste streams. System endpoints are battery precursors (nickel sulfate, cobalt sulfate, manganese sulfate), copper cathode, and a 40% or 75% manganese product. Overburden, tailings, and processing and refining wastes from terrestrial mining are compared to the nodule industry's anticipated offshore and onshore wastes, including sediment disrupted by nodule-collection machines. Robustness to offshore technology assumptions is tested using Monte Carlo simulation, while onshore mass-flow scenarios incorporate a "negligible-waste" flowsheet and high-waste flowsheets where manganese is not recovered. A billion-EV scenario incorporates the effects of declining terrestrial copper and nickel ore grades. Results imply that metal production from nodules may produce less waste of lower severities, caveated by uncertain impacts of disrupted sediment.
+C1 [Paulikas, Daina; Ali, Saleem H.] Univ Delaware, Dept Geog & Spatial Sci, Minerals Mat & Soc Program, Pearson Hall, Newark, DE 19711 USA.
+   [Katona, Steven] Coll Atlantic, Bar Harbor, ME USA.
+   [Ilves, Erika] Metals Co, Vancouver, BC, Canada.
+   [Ali, Saleem H.] Univ Queensland, Sustainable Minerals Inst, St Lucia, Qld, Australia.
+C3 University of Delaware; University of Queensland
+RP Paulikas, D (通讯作者)，Univ Delaware, Dept Geog & Spatial Sci, Minerals Mat & Soc Program, Pearson Hall, Newark, DE 19711 USA.
+EM daina.paulikas@gmail.com
+RI ; Ali, Saleem/I-1545-2013
+OI Paulikas, Daina/0000-0002-4766-2381; Ali, Saleem/0000-0002-2943-9557
+FU TheMetalsCompany (formerlyDeepGreen Metals, Inc.), Vancouver, Canada
+FX This research was funded by TheMetalsCompany (formerlyDeepGreen Metals,
+   Inc.), Vancouver, Canada, of which one coauthor (E. Ilves) isVPof
+   Strategy and BusinessDevelopment, and which also provided access to data
+   and expertise in both terrestrial and deep-sea extraction and processing
+   techniques.
+NR 148
+TC 22
+Z9 22
+U1 16
+U2 69
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1088-1980
+EI 1530-9290
+J9 J IND ECOL
+JI J. Ind. Ecol.
+PD DEC
+PY 2022
+VL 26
+IS 6
+SI SI
+BP 2154
+EP 2177
+DI 10.1111/jiec.13225
+EA JAN 2022
+PG 24
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA 8L2GH
+UT WOS:000742205000001
+OA hybrid
+DA 2025-05-29
+ER

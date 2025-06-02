@@ -1,0 +1,135 @@
+PT J
+AU Landerer, FW
+   Flechtner, FM
+   Save, H
+   Webb, FH
+   Bandikova, T
+   Bertiger, WI
+   Bettadpur, SV
+   Byun, SH
+   Dahle, C
+   Dobslaw, H
+   Fahnestock, E
+   Harvey, N
+   Kang, ZG
+   Kruizinga, GLH
+   Loomis, BD
+   McCullough, C
+   Murböck, M
+   Nagel, P
+   Paik, M
+   Pie, N
+   Poole, S
+   Strekalov, D
+   Tamisiea, ME
+   Wang, FR
+   Watkins, MM
+   Wen, HY
+   Wiese, DN
+   Yuan, DN
+AF Landerer, Felix W.
+   Flechtner, Frank M.
+   Save, Himanshu
+   Webb, Frank H.
+   Bandikova, Tamara
+   Bertiger, William, I
+   Bettadpur, Srinivas, V
+   Byun, Sung Hun
+   Dahle, Christoph
+   Dobslaw, Henryk
+   Fahnestock, Eugene
+   Harvey, Nate
+   Kang, Zhigui
+   Kruizinga, Gerhard L. H.
+   Loomis, Bryant D.
+   McCullough, Christopher
+   Murboeck, Michael
+   Nagel, Peter
+   Paik, Meegyeong
+   Pie, Nadege
+   Poole, Steve
+   Strekalov, Dmitry
+   Tamisiea, Mark E.
+   Wang, Furun
+   Watkins, Michael M.
+   Wen, Hui-Ying
+   Wiese, David N.
+   Yuan, Dah-Ning
+TI Extending the Global Mass Change Data Record: GRACE Follow-On Instrument
+   and Science Data Performance
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+DE GRACE-FO; satellite gravimetry; mass change; hydrogeodesy; ice melt;
+   mass transport
+ID RADIO OCCULTATION DATA; CLIMATE EXPERIMENT; GRAVITY RECOVERY; MODEL;
+   RECONSTRUCTION; ASSIMILATION; CHAMP; FO
+AB Since June, 2018, the Gravity Recovery and Climate Experiment Follow-On (GRACE-FO) is extending the 15-year monthly mass change record of the GRACE mission, which ended in June 2017. The GRACE-FO instrument and flight system performance has improved over GRACE. Better attitude solutions and enhanced pointing performance result in reduced fuel consumption and gravity range rate post-fit residuals. One accelerometer requires additional calibrations due to unexpected measurement noise. The GRACE-FO gravity and mass change fields from June 2018 through December 2019 continue the GRACE record at an equivalent precision and spatiotemporal sampling. During this period, GRACE-FO observed large interannual terrestrial water variations associated with excess rainfall (Central US, Middle East), drought (Europe, Australia), and ice melt (Greenland). These observations are consistent with independent mass change estimates, providing high confidence that no intermission biases exist from GRACE to GRACE-FO, despite the 11-month gap. GRACE-FO has also successfully demonstrated satellite-to-satellite laser ranging interferometry.
+   Plain Language Summary Mass change is a fundamental climate system indicator and provides an integrated global view of how Earth's water cycle and energy balance are evolving. The Gravity Recovery and Climate Experiment (GRACE) mission monitored mass changes every month from 2002 through 2017. Since June 2018, GRACE Follow-On (GRACE-FO) continues this data record, tracking and monitoring changes in ice sheets and glaciers, near-surface and underground water storage, as well as changes in sea level and ocean currents. GRACE-FO instruments have been successfully calibrated and are providing new monthly mass change observations at a consistent spatial resolution and data quality with GRACE. Since its launch, GRACE-FO has measured record land water storage changes in 2018 and 2019 in response to extreme heat waves and droughts over Europe and Australia, as well as to extreme rainfall events over the United States and Middle East. In the summer of 2019, GRACE-FO measured record-level Greenland mass loss rates. A novel laser ranging interferometer was successfully demonstrated on GRACE-FO, laying the groundwork for improved future satellite gravity observations.
+C1 [Landerer, Felix W.; Webb, Frank H.; Bandikova, Tamara; Bertiger, William, I; Byun, Sung Hun; Fahnestock, Eugene; Harvey, Nate; Kruizinga, Gerhard L. H.; McCullough, Christopher; Paik, Meegyeong; Strekalov, Dmitry; Watkins, Michael M.; Wen, Hui-Ying; Wiese, David N.; Yuan, Dah-Ning] CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+   [Flechtner, Frank M.; Dahle, Christoph; Dobslaw, Henryk; Murboeck, Michael] Helmholtz Ctr Potsdam GFZ, German Res Ctr Geosci, Potsdam, Germany.
+   [Save, Himanshu; Bettadpur, Srinivas, V; Kang, Zhigui; Nagel, Peter; Pie, Nadege; Poole, Steve; Tamisiea, Mark E.; Wang, Furun] Univ Texas Austin, Ctr Space Res, Austin, TX 78712 USA.
+   [Loomis, Bryant D.] NASA, Geodesy & Geophys Lab, Goddard Space Flight Ctr, Greenbelt, MD USA.
+   [Flechtner, Frank M.; Murboeck, Michael] Tech Univ Berlin, FG Phys Geodesy, Berlin, Germany.
+C3 California Institute of Technology; National Aeronautics & Space
+   Administration (NASA); NASA Jet Propulsion Laboratory (JPL); Helmholtz
+   Association; Helmholtz-Center Potsdam GFZ German Research Center for
+   Geosciences; University of Texas System; University of Texas Austin;
+   National Aeronautics & Space Administration (NASA); NASA Goddard Space
+   Flight Center; Technical University of Berlin
+RP Landerer, FW (通讯作者)，CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+EM landerer@jpl.nasa.gov
+RI Bettadpur, Srinivas/IWM-3922-2023; Dobslaw, Henryk/AFI-0131-2022;
+   Landerer, Felix/ABG-2849-2021; Loomis, Bryant/AIC-7436-2022
+OI Flechtner, Frank/0000-0002-3093-5558; Landerer,
+   Felix/0000-0003-2678-095X; Bertiger, Willy/0000-0001-7762-9470;
+   Bandikova, Tamara/0009-0007-8594-2556; McCullough,
+   Christopher/0000-0001-7424-8349; Strekalov, Dmitry/0000-0001-6058-7390;
+   Dobslaw, Henryk/0000-0003-1776-3314; Save, Himanshu/0000-0003-4565-9354
+FU German Ministry for Education and Research (BMBF) [03F0654A]; UT-CSR
+   [1604489]
+FX GRACE-FO is a partnership between NASA and the Helmholtz Centre Potsdam
+   GFZ German Research Centre for Geosciences. The twin GRACE-FO spacecraft
+   are operated from the German Space Operations Center in
+   Oberpfaffenhofen, Germany, under a GFZ contract with the German
+   Aerospace Center. JPL manages the mission for NASA's Science Mission
+   Directorate at NASA Headquarters in Washington. Caltech in Pasadena,
+   California, manages JPL for NASA. This work represents research carried
+   out at the Jet Propulsion Laboratory/California Institute of Technology,
+   under a contract with the National Aeronautics and Space Administration.
+   The preparation of the GFZ contribution to the GRACE-FO Science Data
+   System was funded by the German Ministry for Education and Research
+   (BMBF) under grant 03F0654A. Part of this work described in this paper
+   was carried out at UT-CSR under JPL Contract 1604489. The use of the
+   facilities of the Texas Advanced Computational Center (TACC) is
+   acknowledged. We thank Natthachet Tangdamrongsub and an anonymous
+   reviewer for their constructive comments.
+NR 38
+TC 436
+Z9 465
+U1 10
+U2 170
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD JUN 28
+PY 2020
+VL 47
+IS 12
+AR e2020GL088306
+DI 10.1029/2020GL088306
+PG 10
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA MO3YE
+UT WOS:000551464800020
+OA Green Published, Green Accepted
+HC Y
+HP N
+DA 2025-05-29
+ER

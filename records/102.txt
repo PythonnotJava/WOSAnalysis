@@ -1,0 +1,66 @@
+PT J
+AU Li, XF
+   Liang, CW
+   Chen, CA
+   Xiong, QC
+   Parker, RG
+   Zuo, L
+AF Li, Xiaofan
+   Liang, Changwei
+   Chen, Chien-An
+   Xiong, Qiuchi
+   Parker, Robert G.
+   Zuo, Lei
+TI Optimum power analysis of a self-reactive wave energy point absorber
+   with mechanically-driven power take-offs
+SO ENERGY
+LA English
+DT Article
+DE Ocean wave energy; Power take-off; Energy optimization
+ID DESIGN; CONVERTERS; SIMULATION; MOTION; BODY
+AB This paper studies a self-reactive ocean wave energy converter (WEC) where energy is absorbed through the relative motion between a floating buoy on the ocean surface and a submerged body. Two types of direct-drive power take off (PTO) systems are examined. One adopts a ball screw system in inverse driving mode with mechanical motion rectifier (MMR) that converts the oscillating bi-directional input heave motion into unidirectional rotation to drive an electromagnetic generator, and another one uses a ball screw system to directly drive the generator (called non-MMR). Dynamic models for both types of PTOs are established and integrated with the overall WEC system model in both the time and frequency domains. Numerical simulation is used to investigate the dynamic performance of both PTOs. The influences of the PTO inerter, which is from the rotational inertia of the flywheel and generator, and the WEC drag damping coefficient are discussed and explored. The analytical closed-form solution for the optimum condition of the non-MMR system is derived based on the criterion of maximum power absorption, and numerical simulation yields the optimum condition for the MMR system. The results under regular and irregular waves show that the PTO inerter in the MMR system can improve the power absorption for small wave periods and maintain the same performance for large wave periods. The PTO inerter in the non-MMR system shifts the peak frequency. The WEC drag damping negatively influences the power absorption in both PTO systems, especially at large wave periods. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Li, Xiaofan; Xiong, Qiuchi; Zuo, Lei] Virginia Tech, Dept Mech Engn, Blacksburg, VA 24061 USA.
+   [Liang, Changwei] SUNY Stony Brook, Dept Mech Engn, Stony Brook, NY 11794 USA.
+   [Chen, Chien-An] Virginia Tech, Bradley Dept Elect & Comp Engn, Blacksburg, VA 24061 USA.
+   [Parker, Robert G.] Univ Utah, Dept Mech Engn, Salt Lake City, UT 84112 USA.
+C3 Virginia Polytechnic Institute & State University; State University of
+   New York (SUNY) System; Stony Brook University; Virginia Polytechnic
+   Institute & State University; Utah System of Higher Education;
+   University of Utah
+RP Zuo, L (通讯作者)，Virginia Tech, Dept Mech Engn, Blacksburg, VA 24061 USA.
+EM leizuo@vt.edu
+RI Parker, Robert/A-3792-2008
+OI Parker, Robert/0000-0003-3320-8898; Liu, Mingyi/0000-0002-7172-7667; Li,
+   Xiaofan/0000-0002-7956-4823
+FU National Science Foundation [1530122]; U.S. Department of Energy
+   [DE-EE0007174]; Directorate For Engineering; Div Of Civil, Mechanical, &
+   Manufact Inn [1530122] Funding Source: National Science Foundation
+FX This material in this paper is based upon work supported by the National
+   Science Foundation under Grant No. 1530122 and the U.S. Department of
+   Energy under Grant No. DE-EE0007174.
+NR 51
+TC 44
+Z9 45
+U1 6
+U2 63
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD MAR 15
+PY 2020
+VL 195
+AR 116927
+DI 10.1016/j.energy.2020.116927
+PG 13
+WC Thermodynamics; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels
+GA LF6ZA
+UT WOS:000527565500080
+OA Green Submitted, Bronze
+DA 2025-05-29
+ER

@@ -1,0 +1,50 @@
+PT J
+AU Fayek, HH
+   Fayek, FH
+   Rusu, E
+AF Fayek, Hady H.
+   Fayek, Fady H.
+   Rusu, Eugen
+TI Quantum-Inspired MoE-Based Optimal Operation of a Wave Hydrogen
+   Microgrid for Integrated Water, Hydrogen, and Electricity Supply and
+   Trade
+SO JOURNAL OF MARINE SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE wave energy converters; hydrogen energy; mixture of experts; Humboldt
+   Bay; Pacific Ocean; QSAR optimization
+AB This research explores the optimal operation of an offshore wave-powered hydrogen system, specifically designed to supply electricity and water to a bay in Humboldt, California, USA, and also sell it with hydrogen. The system incorporates a desalination unit to provide the island with fresh water and feed the electrolyzer to produce hydrogen. The optimization process utilizes a mixture of experts in conjunction with the Quantitative Structure-Activity Relationship (QSAR) algorithm traditionally used in drug design, to achieve two main objectives: minimizing operational costs and maximizing revenue from the sale of water, hydrogen, and electricity. Many case studies are examined, representing typical electricity demand and wave conditions during typical summer, winter, spring, and fall days. The simulation, optimization, and results are carried out using MATLAB 2018 and SAM 2024 software applications. The findings demonstrate that the combination of the QSAR algorithm and quantum-inspired MoE results in higher revenue and lower costs compared to other current techniques, with hydrogen sales being the primary contributor to increased income.
+C1 [Fayek, Hady H.] Egyptian Chinese Univ, Fac Engn & Technol, Dept Energy & Renewable Energy Engn, Cairo 11786, Egypt.
+   [Fayek, Fady H.] Egyptian Chinese Univ, Fac Pharm, Cairo 11786, Egypt.
+   [Rusu, Eugen] Dunarea Jos Univ Galati, Fac Engn, Dept Mech Engn, Galati 800008, Romania.
+C3 Dunarea De Jos University Galati
+RP Rusu, E (通讯作者)，Dunarea Jos Univ Galati, Fac Engn, Dept Mech Engn, Galati 800008, Romania.
+EM hadyhabib@hotmail.com; habib.fady@yahoo.com; eugen.rusu@ugal.ro
+RI RUSU, EUGEN/B-6766-2011
+OI habib, hady/0000-0002-6294-5144
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2077-1312
+J9 J MAR SCI ENG
+JI J. Mar. Sci. Eng.
+PD FEB 27
+PY 2025
+VL 13
+IS 3
+AR 461
+DI 10.3390/jmse13030461
+PG 25
+WC Engineering, Marine; Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 0PV4I
+UT WOS:001453153100001
+OA gold
+DA 2025-05-29
+ER

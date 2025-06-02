@@ -1,0 +1,93 @@
+PT J
+AU Kato, S
+   Loeb, NG
+   Fasullo, JT
+   Trenberth, KE
+   Lauritzen, PH
+   Rose, FG
+   Rutan, DA
+   Satoh, M
+AF Kato, Seiji
+   Loeb, Norman G.
+   Fasullo, John T.
+   Trenberth, Kevin E.
+   Lauritzen, Peter H.
+   Rose, Fred G.
+   Rutan, David A.
+   Satoh, Masaki
+TI Regional Energy and Water Budget of a Precipitating Atmosphere over
+   Ocean
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+DE Atmosphere-ocean interaction; Climatology; Diabatic heating; Energy
+   budget; balance
+ID PART I; TRANSPORTS; COMPONENTS; RETRIEVAL; BALANCE; SYSTEMS; MODEL;
+   CERES
+AB Effects of water mass imbalance and hydrometeor transport on the enthalpy flux and water phase on diabatic heating rate in computing the regional energy and water budget of the atmosphere over ocean are investigated. Equations of energy and water budget of the atmospheric column that explicitly consider the velocity of liquid and ice cloud particles, and rain and snow are formulated by separating water variables from dry air. Differences of energy budget equations formulated in this study from those used in earlier studies are that 1) diabatic heating rate depends on water phase, 2) diabatic heating due to net condensation of nonprecipitating hydrometeors is included, and 3) hydrometeors can be advected with a different velocity from the dry-air velocity. Convergence of water vapor associated with phase change and horizontal transport of hydrometeors is to increase diabatic heating in the atmospheric column where hydrometeors are formed and exported and to reduce energy where hydrometeors are imported and evaporated. The process can improve the regional energy and water mass balance when energy data products are integrated. Effects of enthalpy transport associated with water mass transport through the surface are cooling to the atmosphere and warming to the ocean when the enthalpy is averaged over the global ocean. There is no net effect to the atmosphere and ocean columns combined. While precipitation phase changes the regional diabatic heating rate up to 15 W m(-2), the dependence of the global mean value on the temperature threshold of melting snow to form rain is less than 1 W m(-2).
+C1 [Kato, Seiji; Loeb, Norman G.] NASA, Langley Res Ctr, Hampton, VA 23665 USA.
+   [Fasullo, John T.; Trenberth, Kevin E.; Lauritzen, Peter H.] Natl Ctr Atmospher Res, Boulder, CO 80307 USA.
+   [Rose, Fred G.; Rutan, David A.] Sci Syst & Applicat Inc, Hampton, VA USA.
+   [Satoh, Masaki] Univ Tokyo, Atmosphere & Ocean Res Inst, Chiba, Japan.
+C3 National Aeronautics & Space Administration (NASA); NASA Langley
+   Research Center; National Center Atmospheric Research (NCAR) - USA;
+   Science Systems & Applications Inc; University of Tokyo
+RP Kato, S (通讯作者)，NASA, Langley Res Ctr, Hampton, VA 23665 USA.
+EM seiji.kato@nasa.gov
+RI Fasullo, John/H-4552-2019; Trenberth, Kevin/A-5683-2012; Satoh,
+   Masaki/G-3325-2015; Loeb, Norman/ABC-7817-2021; kato,
+   seiji/MIT-9404-2025; Lauritzen, Peter/A-9329-2008
+OI Lauritzen, Peter/0000-0001-7066-138X
+FU NASA CERES project; NASA [80NSSC17K0565]; Regional and Global Model
+   Analysis (RGMA) component of the Earth and Environmental System Modeling
+   Program of the U.S. Department of Energy's Office of Biological &
+   Environmental Research (BER) via National Science Foundation [IA
+   1844590]; National Science Foundation; Grants-in-Aid for Scientific
+   Research [20H01967] Funding Source: KAKEN
+FX We thank Drs. Peter Bannon of the Pennsylvania State University, Rupert
+   Klein of Freie Universitat, and Olivier Pauluis of New York University
+   for providing comments on earlier versions, three anonymous reviewers
+   for providing useful comments on the manuscript, and Dr. Remy Roca of
+   Laboratoire d'Etudes en Geophysique et Oceanographie Spatiales for
+   encouragement to work on this topic. TheWOA 2013V2 ocean climatology
+   data product was downloaded from
+   https://www.nodc.noaa.gov/cgi-bin/OC5/woa13/woa13.pl? parameter5t, GPCP
+   data were downloaded from http://gpcp.umd.edu/, and SeaFlux data are
+   downloaded from
+   https://data.nodc.noaa.gov/cgi-bin/iso?id5gov.noaa.ncdc:C00973.The
+   efforts of SK, NL, FR, and DR for this research were supported by the
+   NASA CERES project. The efforts of JF in this work were supported by
+   NASA Award 80NSSC17K0565, and by the Regional and Global Model Analysis
+   (RGMA) component of the Earth and Environmental System Modeling Program
+   of the U.S. Department of Energy'sOffice ofBiological& Environmental
+   Research (BER) via National Science Foundation IA 1844590. The National
+   Center for Atmospheric Research is sponsored by the National Science
+   Foundation.
+NR 42
+TC 6
+Z9 6
+U1 0
+U2 13
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693, UNITED STATES
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD JUN
+PY 2021
+VL 34
+IS 11
+BP 4189
+EP 4205
+DI 10.1175/JCLI-D-20-0175.1
+PG 17
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA RZ4SU
+UT WOS:000648587900001
+OA Bronze
+DA 2025-05-29
+ER

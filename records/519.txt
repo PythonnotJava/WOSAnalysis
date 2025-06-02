@@ -1,0 +1,133 @@
+PT J
+AU Rhoades, AM
+   Zarzycki, CM
+   Inda-Diaz, HA
+   Ombadi, M
+   Pasquier, U
+   Srivastava, A
+   Hatchett, BJ
+   Dennis, E
+   Heggli, A
+   McCrary, R
+   McGinnis, S
+   Rahimi-Esfarjani, S
+   Slinskey, E
+   Ullrich, PA
+   Wehner, M
+   Jones, AD
+AF Rhoades, Alan M.
+   Zarzycki, Colin M.
+   Inda-Diaz, Hector A.
+   Ombadi, Mohammed
+   Pasquier, Ulysse
+   Srivastava, Abhishekh
+   Hatchett, Benjamin J.
+   Dennis, Eli
+   Heggli, Anne
+   McCrary, Rachel
+   McGinnis, Seth
+   Rahimi-Esfarjani, Stefan
+   Slinskey, Emily
+   Ullrich, Paul A.
+   Wehner, Michael
+   Jones, Andrew D.
+TI Recreating the California New Year's Flood Event of 1997 in a Regionally
+   Refined Earth System Model
+SO JOURNAL OF ADVANCES IN MODELING EARTH SYSTEMS
+LA English
+DT Article
+DE hydrometeorology; flood; rain-on-snow; Earth system model; extremes;
+   regionally refined mesh
+ID VARIABLE-RESOLUTION MESHES; SIERRA BARRIER JETS; ATMOSPHERIC RIVERS;
+   TROPICAL CYCLONES; WATER MANAGEMENT; WINTER STORM; PRECIPITATION;
+   NORTHERN; NEVADA; MICROPHYSICS
+AB The 1997 New Year's flood event was the most costly in California's history. This compound extreme event was driven by a category 5 atmospheric river that led to widespread snowmelt. Extreme precipitation, snowmelt, and saturated soils produced heavy runoff causing widespread inundation in the Sacramento Valley. This study recreates the 1997 flood using the Regionally Refined Mesh capabilities of the Energy Exascale Earth System Model (RRM-E3SM) under prescribed ocean conditions. Understanding the processes causing extreme events informs practical efforts to anticipate and prepare for such events in the future, and also provides a rich context to evaluate model skill in representing extremes. Three California-focused RRM grids, with horizontal resolution refinement of 14 km down to 3.5 km, and six forecast lead times, 28 December 1996 at 00Z through 30 December 1996 at 12Z, are assessed for their ability to recreate the 1997 flood. Planetary to synoptic scale atmospheric circulations and integrated vapor transport are weakly influenced by horizontal resolution refinement over California. Topography and mesoscale circulations, such as the Sierra barrier jet, are better represented at finer horizontal resolutions resulting in better estimates of storm total precipitation and storm duration snowpack changes. Traditional time-series and causal analysis frameworks are used to examine runoff sensitivities state-wide and above major reservoirs. These frameworks show that horizontal resolution plays a more prominent role in shaping reservoir inflows, namely the magnitude and time-series shape, than forecast lead time, 2-to-4 days prior to the 1997 flood onset.
+C1 [Rhoades, Alan M.; Inda-Diaz, Hector A.; Ombadi, Mohammed; Pasquier, Ulysse; Ullrich, Paul A.; Jones, Andrew D.] Lawrence Berkeley Natl Lab, Earth & Environm Sci Area, Berkeley, CA 94720 USA.
+   [Zarzycki, Colin M.] Penn State Univ, Dept Meteorol & Atmospher Sci, State Coll, PA USA.
+   [Ombadi, Mohammed] Univ Michigan, Dept Climate & Space Sci & Engn, Ann Arbor, MI USA.
+   [Srivastava, Abhishekh; Ullrich, Paul A.] Univ Calif Davis, Dept Land Air & Water Resources, Davis, CA USA.
+   [Hatchett, Benjamin J.; Heggli, Anne] Desert Res Inst, Reno, NV USA.
+   [Dennis, Eli; Rahimi-Esfarjani, Stefan; Slinskey, Emily] Univ Calif Los Angeles, Inst Environm & Sustainabil, Los Angeles, CA USA.
+   [McCrary, Rachel; McGinnis, Seth] Natl Ctr Atmospher Res, Boulder, CO USA.
+   [Ullrich, Paul A.] Lawrence Livermore Natl Lab, Phys & Life Sci Directorate, Livermore, CA USA.
+   [Wehner, Michael] Lawrence Berkeley Natl Lab, Computat Sci Div, Berkeley, CA USA.
+   [Jones, Andrew D.] Univ Calif Berkeley, Energy & Resources Grp, Berkeley, CA USA.
+C3 United States Department of Energy (DOE); Lawrence Berkeley National
+   Laboratory; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); Pennsylvania State University; Pennsylvania State University -
+   University Park; University of Michigan System; University of Michigan;
+   University of California System; University of California Davis; Nevada
+   System of Higher Education (NSHE); Desert Research Institute NSHE;
+   University of California System; University of California Los Angeles;
+   National Center Atmospheric Research (NCAR) - USA; United States
+   Department of Energy (DOE); Lawrence Livermore National Laboratory;
+   United States Department of Energy (DOE); Lawrence Berkeley National
+   Laboratory; University of California System; University of California
+   Berkeley
+RP Rhoades, AM (通讯作者)，Lawrence Berkeley Natl Lab, Earth & Environm Sci Area, Berkeley, CA 94720 USA.
+EM arhoades@lbl.gov
+RI Zarzycki, Colin/E-5691-2014; McGinnis, Seth/KTI-4301-2024; Ombadi,
+   Mohammed/AAC-6257-2019; SRIVASTAVA, ABHISHEKH/AAF-2280-2020; Wehner,
+   Michael/F-7841-2015; Ullrich, Paul/E-9350-2015; Rhoades,
+   Alan/H-9084-2017; Jones, Andrew/M-4363-2013
+OI Rhoades, Alan/0000-0003-3723-2422; Srivastava,
+   Abhishekh/0000-0001-9032-4524; Heggli, Anne/0000-0002-3207-6953; Ombadi,
+   Mohammed/0000-0001-7793-9137; McGinnis, Seth/0000-0001-8082-834X;
+   Dennis, Eli/0000-0001-8482-571X; Pasquier, Ulysse/0000-0002-8390-9062;
+   Jones, Andrew/0000-0002-1913-7870; Inda Diaz, Hector/0000-0003-1960-6873
+FU This study was primarily funded by the Director, Office of Science,
+   Office of Biological and Environmental Research of the U.S. Department
+   of Energy Regional and Global Model Analysis (RGMA) Program. Authors
+   Inda-Diaz, Ombadi, Pasquier, Rhoades, Srivastava [DE-AC02-05CH11231];
+   Office of Science, Office of Biological and Environmental Research of
+   the U.S. Department of Energy Regional and Global Model Analysis (RGMA)
+   Program - Calibrated and Systematic Characterization, Attribution and
+   Detection of Extremes (CASCADE)" Science Foc [DE-SC0016605]; Continental
+   US" project [P296-22-803]; Nevada Department of Transportation
+FX This study was primarily funded by the Director, Office of Science,
+   Office of Biological and Environmental Research of the U.S. Department
+   of Energy Regional and Global Model Analysis (RGMA) Program. Authors
+   Inda-Diaz, Ombadi, Pasquier, Rhoades, Srivastava, Ullrich, and Wehner
+   were funded by "the Calibrated and Systematic Characterization,
+   Attribution and Detection of Extremes (CASCADE)" Science Focus Area
+   (award no. DE-AC02-05CH11231). Authors Dennis, Jones, McCrary, McGinnis,
+   Rahimi-Esfarjani, Rhoades, Slinskey, Srivastava, Ullrich, and Zarzycki
+   were funded by the "An Integrated Evaluation of the Simulated
+   Hydroclimate System of the Continental US" project (award no.
+   DE-SC0016605). Authors Hatchett and Heggli received support from the
+   Nevada Department of Transportation under agreement P296-22-803. We
+   would also like to acknowledge Smitha Buddhavarapu and Kripa Jagannathan
+   for the considerable time and energy they provided in facilitating
+   scientist-stakeholder discussions in the HyperFACETS project. The
+   facilitated discussions played a key role in helping us to choose the
+   1997 flood event as a featured storyline within the HyperFACETS project.
+   We also appreciate their constructive suggestions on our manuscript
+   draft. We also thank the two anonymous reviewers and editor for their
+   constructive comments and revision requests that elevated the impact and
+   enhanced the clarity of our manuscript.
+NR 119
+TC 8
+Z9 8
+U1 0
+U2 7
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+EI 1942-2466
+J9 J ADV MODEL EARTH SY
+JI J. Adv. Model. Earth Syst.
+PD OCT
+PY 2023
+VL 15
+IS 10
+AR e2023MS003793
+DI 10.1029/2023MS003793
+PG 27
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA U2PD5
+UT WOS:001083265500001
+OA Green Submitted, Green Published, Green Accepted, gold
+DA 2025-05-29
+ER

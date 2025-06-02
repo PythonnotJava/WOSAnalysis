@@ -1,0 +1,84 @@
+PT J
+AU Jia, SC
+   Yang, XY
+   Feng, WZ
+   Liu, LQ
+   Zhao, LL
+   Wu, LB
+   Li, SL
+   Zuo, WD
+   Tang, QW
+   Jiang, T
+   Wang, ZL
+AF Jia, Shouchuang
+   Yang, Xiya
+   Feng, Weizhao
+   Liu, Liqiang
+   Zhao, Leilei
+   Wu, Lebing
+   Li, Shuling
+   Zuo, Wending
+   Tang, Qunwei
+   Jiang, Tao
+   Wang, Zhonglin
+TI Self-Adaptive Gyroscope-Structured Hybrid Triboelectric-Electromagnetic
+   Buoy System for Real-Time Ocean Currents Monitoring
+SO SMALL
+LA English
+DT Article
+DE Electromagnetic generator; Ferromagnetic effect; Ocean currents
+   monitoring; Triboelectric nanogenerator; Wave energy scavenging
+ID NANOGENERATOR; GENERATOR
+AB With the rapid development of Internet of Things (IoT) technology, sensors have become the most important nodes for information exchange in the IoT. However, ensuring stable power supply and network communication of a plethora of distributed sensing nodes has become the key technical bottleneck that restricts the development of marine IoT. Herein, a self-adaptive gyroscope-structured hybrid triboelectric-electromagnetic nanogenerator (SAG-HTENG) is designed for omnidirectional wave energy harvesting. Through seamlessly integrating an electromagnetic generator (EMG) and triboelectric nanogenerator (TENG) modules into one device, the wave energy conversion efficiency can be significantly enhanced. Furthermore, through incorporating ferromagnetic electrode, remarkable peak power density of 29.92 W m-3 Hz-1 of the TENG module and 402.08 W m-3 Hz-1 of the EMG module can be achieved, respectively. Meanwhile, the TENG module exhibited superior working stability and applicability for harvesting low-frequency wave energy in a water tank field test compared to the EMG module. Leveraging the IoT platform, a self-powered real-time ocean currents monitoring buoy system (OCMBS) is constructed of determining the wave direction and current type. This work offers a novel energy solution for the distributed sensing nodes toward future smart marine IoT.
+C1 [Jia, Shouchuang; Yang, Xiya; Feng, Weizhao; Wu, Lebing; Li, Shuling; Zuo, Wending] Jinan Univ, Coll Informat Sci & Technol, Guangzhou 510632, Peoples R China.
+   [Yang, Xiya] Jinan Univ, Inst New Energy Technol, Coll Phys & Optoelect Engn, Guangzhou 510632, Peoples R China.
+   [Yang, Xiya] Jinan Univ, Guangdong Prov Key Lab Nanophoton Manipulat, Guangzhou 510632, Peoples R China.
+   [Liu, Liqiang] Tongji Univ, Sch Elect & Informat Engn, Shanghai 201804, Peoples R China.
+   [Zhao, Leilei] Shandong Univ, Sch Integrated Circuits, Jinan 250101, Peoples R China.
+   [Tang, Qunwei] Shandong Univ Sci & Technol, Inst Carbon Neutral, Coll Chem & Biol Engn, Qingdao 266590, Peoples R China.
+   [Jiang, Tao; Wang, Zhonglin] Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing 100083, Peoples R China.
+C3 Jinan University; Jinan University; Jinan University; Tongji University;
+   Shandong University; Shandong University of Science & Technology;
+   Chinese Academy of Sciences; Beijing Institute of Nanoenergy &
+   Nanosystems, CAS
+RP Yang, XY (通讯作者)，Jinan Univ, Coll Informat Sci & Technol, Guangzhou 510632, Peoples R China.; Yang, XY (通讯作者)，Jinan Univ, Inst New Energy Technol, Coll Phys & Optoelect Engn, Guangzhou 510632, Peoples R China.; Yang, XY (通讯作者)，Jinan Univ, Guangdong Prov Key Lab Nanophoton Manipulat, Guangzhou 510632, Peoples R China.; Wang, ZL (通讯作者)，Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing 100083, Peoples R China.
+EM xiyayang@jnu.edu.cn; zlwang@gatech.edu
+RI Liu, Liqiang/IYS-2585-2023; Yang, Xiya/GXM-9765-2022; Zhao,
+   Leilei/JMP-7834-2023
+FU National Natural Science Foundation of China [62004083]; Natural Science
+   Foundation of Guangdong Province [2025A1515010896]; National Key
+   Research and Development Program of China [2021YFE0111000]
+FX This work was supported by the National Natural Science Foundation of
+   China (62004083), the Natural Science Foundation of Guangdong Province
+   (2025A1515010896), and the National Key Research and Development Program
+   of China (2021YFE0111000).
+NR 49
+TC 0
+Z9 0
+U1 14
+U2 14
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1613-6810
+EI 1613-6829
+J9 SMALL
+JI Small
+PD MAY
+PY 2025
+VL 21
+IS 20
+DI 10.1002/smll.202501073
+EA APR 2025
+PG 12
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 2TH0M
+UT WOS:001466853400001
+PM 40211649
+DA 2025-05-29
+ER

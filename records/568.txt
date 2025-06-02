@@ -1,0 +1,63 @@
+PT J
+AU Yao, JJ
+   Jin, X
+   Yue, Y
+   Huang, X
+   Chen, P
+AF Yao, Junjie
+   Jin, Xin
+   Yue, Yong
+   Huang, Xun
+   Chen, Peng
+TI Investigation on vibration control of TetraSpar floating offshore wind
+   turbine
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE F2A; TetraSpar; TMDs; Vibration control; Wind turbine
+ID PASSIVE STRUCTURAL CONTROL
+AB The stability of offshore wind turbines during operation is crucial, and as an emerging technology, the TetraSpar floating offshore wind turbine demonstrates commendable stability. Moreover, it can effectively reduce the levelized cost of energy (LCOE) in production and installation. However, There is relatively scarce research on its dynamic response and reliability under complex ocean conditions. To reduce the vibration response of floating offshore wind turbines in complex marine environments and improve the stability of the turbines, it is necessary to establish a fully coupled dynamic model to study the multi-field coupled dynamic response and vibration control of the turbines. In light of this, this paper establishes a multi-physical field coupled dynamic model for TetraSpar floating offshore wind turbine through an F2A coupling framework, integrating aerodynamics, servoelasticity, hydrodynamics, and mooring dynamics. The study analyzes the vibration suppression effects of different Tuned Mass Dampers (TMDs) on the wind turbine system. Using the two main response frequencies, 0.0367Hz and 0.57Hz, in the front and rear directions of the wind turbine as the tuning frequencies for TMD. The best vibration reduction effect was achieved by comparing multiple sets of TMD with different parameters. Analysis shows that TMD can significantly reduce the standard deviation of bending moment and tension of steel bars before and after tower foundation, with maximum values of 38.76% and 73.02%, respectively. At the same time, TMDs also impose a burden on wind turbines, such as a maximum increase of 2.23% in the average values of tower base bending moment, platform pitch, and tower top longitudinal displacement, which also slightly increase under extreme sea conditions. However, compared to the significant vibration suppression effect of TMD, it can be ignored.
+C1 [Yao, Junjie; Jin, Xin; Yue, Yong; Huang, Xun] Chongqing Univ, Coll Mech & Vehicle Engn, Chongqing 400030, Peoples R China.
+   [Yue, Yong] Xinjiang Agr Univ, Sch Mech & Elect Engn, Urumqi 830052, Peoples R China.
+   [Chen, Peng] CSSC Haizhuang Windpower Equipment Co Ltd, Chongqing 401122, Peoples R China.
+C3 Chongqing University; Xinjiang Agricultural University
+RP Jin, X (通讯作者)，Chongqing Univ, Coll Mech & Vehicle Engn, Chongqing 400030, Peoples R China.
+EM jinxin191@hotmail.com
+FU National Natural Science Foundation of China [51975066]; Chongqing
+   Technology Innovation and Application Development Special General
+   Project [CSTB2022TIAD-GPX0019, CSTB2022TIADKPX0046]
+FX This paper is sponsored by National Natural Science Foundation of China
+   (approval No.:51975066, Pitch Bearing Crack Growth Evolution Mechanism
+   and Risk Assessment of Offshore Wind Turbine Based on Meso-Macro Scale
+   Correlation) and Chongqing Technology Innovation and Application
+   Development Special General Project (approval No.: CSTB2022TIAD-GPX0019,
+   CSTB2022TIADKPX0046). The authors appreciate the anonymous reviewers for
+   their valuable comments, which are helpful to improve the paper.
+NR 30
+TC 2
+Z9 2
+U1 21
+U2 41
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD NOV 1
+PY 2024
+VL 311
+AR 118934
+DI 10.1016/j.oceaneng.2024.118934
+EA AUG 2024
+PN 2
+PG 21
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA D7N1U
+UT WOS:001298005700001
+DA 2025-05-29
+ER

@@ -1,0 +1,61 @@
+PT J
+AU Wu, F
+   Jing, R
+   Zhang, XP
+   Wang, F
+   Bao, YF
+AF Wu, Feng
+   Jing, Rui
+   Zhang, Xiao-Ping
+   Wang, Fei
+   Bao, Yifan
+TI A Combined Method of Improved Grey BP Neural Network and MEEMD-ARIMA for
+   Day-Ahead Wave Energy Forecast
+SO IEEE TRANSACTIONS ON SUSTAINABLE ENERGY
+LA English
+DT Article
+DE Wind forecasting; Predictive models; Wind speed; Neural networks; Data
+   models; Wind power generation; Improved grey BP neural network (BPNN);
+   modified ensemble empirical mode decomposition (MEEMD)-autoregressive
+   integrated moving average (ARIMA); wave energy forecast; wind wave and
+   swell
+ID EMPIRICAL MODE DECOMPOSITION; TIME-SERIES; CONTROL STRATEGY; CONVERSION;
+   SYSTEM; CONVERTERS; GENERATOR
+AB Since wave fluctuates continuously, the forecast of the wave energy is very important for the operation of power systems integrated with large-scale wave energy generation. A combined model of day-ahead wave energy forecast based on improved grey BP neural network (BPNN) and modified ensemble empirical mode decomposition (MEEMD) -autoregressive integrated moving average (ARIMA) is proposed in this paper. Firstly, the wave is decomposed into wind waves and swells by wave theories. Secondly, the correlation between wind wave and wind speed is analyzed with improved grey BPNN, and the average height of wind waves can be forecasted based on the historical wind speed data. Thirdly, the MEEMD-ARIMA model is utilized to forecast the average wave height of swells. Thus, combining the wind wave and the swell, the average wave height of the integrated wave can be obtained. Finally, a conversion model from wave elements to wave energy for Archimedes wave swing (AWS) is introduced. A case study using the measured wind and wave data from a real ocean is illustrated, and the effectiveness of the proposed wave energy forecast model is validated.
+C1 [Wu, Feng; Jing, Rui; Wang, Fei; Bao, Yifan] Hohai Univ, Coll Energy & Elect Engn, Nanjing 211100, Peoples R China.
+   [Zhang, Xiao-Ping] Univ Birmingham, Dept Elect Elect & Comp Engn, Birmingham B15 2TT, W Midlands, England.
+C3 Hohai University; University of Birmingham
+RP Wu, F (通讯作者)，Hohai Univ, Coll Energy & Elect Engn, Nanjing 211100, Peoples R China.
+EM wufeng@hhu.edu.cn; ruijing@hhu.edu.cn; x.p.zhang@bham.ac.uk;
+   1354252074@qq.com; yfbao@hhu.edu.cn
+RI Wu, Feng/KCY-3017-2024; Jing, Rui/AAE-5511-2019; Zhang,
+   Xiao-Ping/AAE-2866-2020
+OI Zhang, Xiao-Ping/0000-0003-0995-4989
+NR 35
+TC 39
+Z9 42
+U1 5
+U2 50
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1949-3029
+EI 1949-3037
+J9 IEEE T SUSTAIN ENERG
+JI IEEE Trans. Sustain. Energy
+PD OCT
+PY 2021
+VL 12
+IS 4
+BP 2404
+EP 2412
+DI 10.1109/TSTE.2021.3096554
+PG 9
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering,
+   Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA UT0ON
+UT WOS:000697824900052
+DA 2025-05-29
+ER

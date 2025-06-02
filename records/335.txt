@@ -1,0 +1,52 @@
+PT J
+AU Zhu, JY
+   Chen, L
+AF Zhu, Jianyun
+   Chen, Li
+TI A probabilistic multi-objective design method of
+   sail-photovoltaic-hybrid power system for an unmanned ocean surveillance
+   trimaran
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Probabilistic optimization; Sail-photovoltaic-hybrid power system;
+   Environmental uncertainty; GHG emission; Lifecycle cost
+ID WIND-SPEED; SENSITIVITY-ANALYSIS; UNCERTAINTY; DISTRIBUTIONS;
+   TEMPERATURE; GENERATION; OPTIMIZATION; PERFORMANCE
+AB Considering the abundant wind and solar energy resources on waters, this paper integrates wind assistant propulsion and photovoltaic technology with ship electric power system as sail-photovoltaic-hybrid power system (sail-PV-HPS). When properly designed, sail-PV-HPS can present environmental and economic benefits compared with conventional sail-diesel power system. However, the optimal design of sail-PV-HPS is a complex task due to environmental uncertainties. In order to fill such gap, this paper proposes a probabilistic optimization method to determine the size parameters of sail-PV-HPS, pursing minimum GHG emission and lifecycle cost. Two pairs of joint distributions of wind speed and wind direction as well as solar irradiance and ambient temperature are established based on coupla function considering the interconnection and seasonal characteristics of the meteorology variables. The performance of the proposed approach is assessed by the retrofit of the power system of an unmanned ocean surveillance trimaran sailing in the Yellow Sea area. A deterministic optimization and a quasiprobabilistic optimization are performed to highlight the effect and importance of taking the uncertainties and their correlation into consideration. Results show that the sail-PV-HPS designed by the proposed probabilistic method outperforms the sail-PV-HPS given by the deterministic optimization and a quasi-probabilistic optimization, as well as, the original power system of the trimaran in terms of GHG emission and lifecycle cost.
+C1 [Zhu, Jianyun; Chen, Li] Shanghai Jiao Tong Univ, Collaborat Innovat Ctr Adv Ship & Deep Sea Explora, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+C3 Shanghai Jiao Tong University
+RP Chen, L (通讯作者)，Shanghai Jiao Tong Univ, Collaborat Innovat Ctr Adv Ship & Deep Sea Explora, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+EM jerrychu1989@sjtu.edu.cn; li.h.chen@sjtu.edu.cn
+FU National Key R&D Program of China [2022YFB4300803]; Oceanic
+   Interdisciplinary Program of Shanghai Jiao Tong University
+   [WH410260401/006]
+FX The paper is financially supported by the National Key R & D Program of
+   China (No. 2022YFB4300803) , and the Oceanic Interdisciplinary Program
+   of Shanghai Jiao Tong University WH410260401/006 (No. WH410260401/006) .
+NR 55
+TC 7
+Z9 7
+U1 6
+U2 27
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD NOV 15
+PY 2023
+VL 350
+AR 121604
+DI 10.1016/j.apenergy.2023.121604
+EA AUG 2023
+PG 25
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA Q9BE1
+UT WOS:001060390000001
+DA 2025-05-29
+ER

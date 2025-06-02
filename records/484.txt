@@ -1,0 +1,213 @@
+PT J
+AU Menenti, M
+   Li, X
+   Jia, L
+   Yang, K
+   Pellicciotti, F
+   Mancini, M
+   Shi, JC
+   Escorihuela, MJ
+   Zheng, CL
+   Chen, QT
+   Lu, J
+   Zhou, J
+   Hu, GC
+   Ren, ST
+   Zhang, J
+   Liu, QH
+   Qiu, YB
+   Huang, CL
+   Zhou, J
+   Han, XJ
+   Pan, XD
+   Li, HY
+   Wu, YR
+   Ding, BH
+   Yang, W
+   Buri, P
+   McCarthy, MJ
+   Miles, ES
+   Shaw, TE
+   Ma, CF
+   Zhou, YZ
+   Corbari, C
+   Li, R
+   Zhao, TJ
+   Stefan, V
+   Gao, Q
+   Zhang, JX
+   Xie, QX
+   Wang, N
+   Sun, YB
+   Mo, XY
+   Jia, JR
+   Jouberton, AP
+   Kneib, M
+   Fugger, S
+   Paciolla, N
+   Paolini, G
+AF Menenti, Massimo
+   Li, Xin
+   Jia, Li
+   Yang, Kun
+   Pellicciotti, Francesca
+   Mancini, Marco
+   Shi, Jiancheng
+   Escorihuela, Maria Jose
+   Zheng, Chaolei
+   Chen, Qiting
+   Lu, Jing
+   Zhou, Jie
+   Hu, Guangcheng
+   Ren, Shaoting
+   Zhang, Jing
+   Liu, Qinhuo
+   Qiu, Yubao
+   Huang, Chunlin
+   Zhou, Ji
+   Han, Xujun
+   Pan, Xiaoduo
+   Li, Hongyi
+   Wu, Yerong
+   Ding, Baohong
+   Yang, Wei
+   Buri, Pascal
+   McCarthy, Michael J.
+   Miles, Evan S.
+   Shaw, Thomas E.
+   Ma, Chunfeng
+   Zhou, Yanzhao
+   Corbari, Chiara
+   Li, Rui
+   Zhao, Tianjie
+   Stefan, Vivien
+   Gao, Qi
+   Zhang, Jingxiao
+   Xie, Qiuxia
+   Wang, Ning
+   Sun, Yibo
+   Mo, Xinyu
+   Jia, Junru
+   Jouberton, Achille Pierre
+   Kneib, Marin
+   Fugger, Stefan
+   Paciolla, Nicola
+   Paolini, Giovanni
+TI Multi-Source Hydrological Data Products to Monitor High Asian River
+   Basins and Regional Water Security
+SO REMOTE SENSING
+LA English
+DT Article
+DE High Mountain Asia; multispectral remote sensing; distributed
+   hydrological models; energy and water balance; model calibration; data
+   assimilation
+ID SMOS SOIL-MOISTURE; HEIHE RIVER; ICE CLIFFS; SYSTEM MODEL; SNOW COVER;
+   GLACIERS; DISAGGREGATION; TEMPERATURE; VALIDATION; RESOLUTION
+AB This project explored the integrated use of satellite, ground observations and hydrological distributed models to support water resources assessment and monitoring in High Mountain Asia (HMA). Hydrological data products were generated taking advantage of the synergies of European and Chinese data assets and space-borne observation systems. Energy-budget-based glacier mass balance and hydrological models driven by satellite observations were developed. These models can be applied to describe glacier-melt contribution to river flow. Satellite hydrological data products were used for forcing, calibration, validation and data assimilation in distributed river basin models. A pilot study was carried out on the Red River basin. Multiple hydrological data products were generated using the data collected by Chinese satellites. A new Evapo-Transpiration (ET) dataset from 2000 to 2018 was generated, including plant transpiration, soil evaporation, rainfall interception loss, snow/ice sublimation and open water evaporation. Higher resolution data were used to characterize glaciers and their response to environmental forcing. These studies focused on the Parlung Zangbo Basin, where glacier facies were mapped with GaoFeng (GF), Sentinal-2/Multi-Spectral Imager (S2/MSI) and Landsat8/Operational Land Imager (L8/OLI) data. The geodetic mass balance was estimated between 2000 and 2017 with Zi-Yuan (ZY)-3 Stereo Images and the SRTM DEM. Surface velocity was studied with Landsat5/Thematic Mapper (L5/TM), L8/OLI and S2/MSI data over the period 2013-2019. An updated method was developed to improve the retrieval of glacier albedo by correcting glacier reflectance for anisotropy, and a new dataset on glacier albedo was generated for the period 2001-2020. A detailed glacier energy and mass balance model was developed with the support of field experiments at the Parlung No. 4 Glacier and the 24 K Glacier, both in the Tibetan Plateau. Besides meteorological measurements, the field experiments included glaciological and hydrological measurements. The energy balance model was formulated in terms of enthalpy for easier treatment of water phase transitions. The model was applied to assess the spatial variability in glacier melt. In the Parlung No. 4 Glacier, the accumulated glacier melt was between 1.5 and 2.5 m w.e. in the accumulation zone and between 4.5 and 6.0 m w.e. in the ablation zone, reaching 6.5 m w.e. at the terminus. The seasonality in the glacier mass balance was observed by combining intensive field campaigns with continuous automatic observations. The linkage of the glacier and snowpack mass balance with water resources in a river basin was analyzed in the Chiese (Italy) and Heihe (China) basins by developing and applying integrated hydrological models using satellite retrievals in multiple ways. The model FEST-WEB was calibrated using retrievals of Land Surface Temperature (LST) to map soil hydrological properties. A watershed model was developed by coupling ecohydrological and socioeconomic systems. Integrated modeling is supported by an updated and parallelized data assimilation system. The latter exploits retrievals of brightness temperature (Advanced Microwave Scanning Radiometer, AMSR), LST (Moderate Resolution Imaging Spectroradiometer, MODIS), precipitation (Tropical Rainfall Measuring Mission (TRMM) and FengYun (FY)-2D) and in-situ measurements.
+   In the case study on the Red River Basin, a new algorithm has been applied to disaggregate the SMOS (Soil Moisture and Ocean Salinity) soil moisture retrievals by making use of the correlation between evaporative fraction and soil moisture.
+C1 [Menenti, Massimo] Delft Univ Technol, Fac Civil Engn & Earth Sci, NL-2628 Delft, Netherlands.
+   [Menenti, Massimo; Jia, Li; Zheng, Chaolei; Chen, Qiting; Lu, Jing; Zhou, Jie; Hu, Guangcheng; Ren, Shaoting; Zhang, Jing; Liu, Qinhuo; Qiu, Yubao; Zhou, Yanzhao; Li, Rui; Zhao, Tianjie; Zhang, Jingxiao; Xie, Qiuxia; Wang, Ning; Sun, Yibo; Mo, Xinyu; Jia, Junru] Chinese Acad Sci, State Key Lab Remote Sensing Sci, Aerosp Informat Res Inst, Beijing 100101, Peoples R China.
+   [Li, Xin; Pan, Xiaoduo; Ding, Baohong; Yang, Wei] Chinese Acad Sci, Inst Tibetan Plateau Res, Beijing 100101, Peoples R China.
+   [Yang, Kun] Tsinghua Univ, Dept Earth Syst Sci, Beijing 100084, Peoples R China.
+   [Pellicciotti, Francesca; Buri, Pascal; McCarthy, Michael J.; Miles, Evan S.; Shaw, Thomas E.; Jouberton, Achille Pierre; Kneib, Marin; Fugger, Stefan] Swiss Fed Inst Forest Snow & Landscape Res WSL, CH-8903 Birmensdorf, Switzerland.
+   [Mancini, Marco; Corbari, Chiara; Paciolla, Nicola; Paolini, Giovanni] Politecn Milan, Dept Civil & Environm Engn DICA, I-20133 Milan, Italy.
+   [Shi, Jiancheng] Chinese Acad Sci, Natl Space Sci Ctr, Beijing 100190, Peoples R China.
+   [Escorihuela, Maria Jose; Stefan, Vivien; Gao, Qi] IsardSAT, Parc Tecnol Barcelona Act, Carrer Marie Curie 8, Barcelona 08042, Spain.
+   [Huang, Chunlin; Han, Xujun; Li, Hongyi; Ma, Chunfeng] Chinese Acad Sci, Northwest Inst Ecoenvironm & Resources, Lanzhou 730000, Peoples R China.
+   [Zhou, Ji] Univ Elect Sci & Technol China, Sch Resources & Environm, Ctr Informat Geosci, Chengdu 610054, Peoples R China.
+   [Wu, Yerong] Hunan Univ Sci & Technol, Natl Local Jonit Engn Lab Geospatial Informat Tec, Xiangtan 411201, Peoples R China.
+C3 Delft University of Technology; Chinese Academy of Sciences; Aerospace
+   Information Research Institute, CAS; Chinese Academy of Sciences;
+   Institute of Tibetan Plateau Research, CAS; Tsinghua University; Swiss
+   Federal Institutes of Technology Domain; Swiss Federal Institute for
+   Forest, Snow & Landscape Research; Polytechnic University of Milan;
+   Chinese Academy of Sciences; National Space Science Center, CAS; Chinese
+   Academy of Sciences; University of Electronic Science & Technology of
+   China; Hunan University of Science & Technology
+RP Menenti, M (通讯作者)，Delft Univ Technol, Fac Civil Engn & Earth Sci, NL-2628 Delft, Netherlands.; Menenti, M (通讯作者)，Chinese Acad Sci, State Key Lab Remote Sensing Sci, Aerosp Informat Res Inst, Beijing 100101, Peoples R China.
+EM M.Menenti@tudelft.nl; lixin@itpcas.ac.cn; jiali@aircas.ac.cn;
+   yangk@tsinghua.edu.cn; francesca.pellicciotti@wsl.ch;
+   marco.mancini@polimi.it; shijiancheng@nssc.ac.cn;
+   mj.escorihuela@isardsat.cat; zhengcl@radi.ac.cn; chenqt@radi.ac.cn;
+   lujing@radi.ac.cn; zhangjing2015@radi.ac.cn; hugc@radi.ac.cn;
+   renst@radi.ac.cn; lujing@radi.ac.cn; liuqh@radi.ac.cn;
+   qiuyb@aircas.ac.cn; huangcl@lzb.ac.cn; jzhou233@uestc.edu.cn;
+   hanxj@lzb.ac.cn; panxd@itpcas.ac.cn; lihongyi@lzb.ac.cn;
+   yerong.wu@hnust.edu.cn; dingbh@itpcas.ac.cn; yangww@itpcas.ac.cn;
+   pascal.buri@wsl.ch; michael.mccarthy@wsl.ch; evan.miles@wsl.ch;
+   thomas.shaw@wsl.ch; machf@lzb.ac.cn; yangk@tsinghua.edu.cn;
+   chiara.corbari@polimi.it; lirui@radi.ac.cn; zhaotj@aircas.ac.cn;
+   vivien.stefan@isardsat.cat; qi.gao@isardsat.cat; zhangjx@radi.ac.cn;
+   xieqx@radi.ac.cn; remote_gis@163.com; sunyb@radi.ac.cn; moxy@radi.ac.cn;
+   jiajr@radi.ac.cn; achille.jouberton@wsl.ch; marin.kneib@wsl.ch;
+   stefan.fugger@wsl.ch; nicola.paciolla@polimi.it;
+   giovanni.paolini@isardsat.cat
+RI Zheng, Chaolei/JBR-8705-2023; Jingxiao, Zhang/AAA-5777-2020;
+   Escorihuela, Maria/AAB-5851-2020; Qiu, Yubao/P-8103-2016; Han,
+   Xujun/O-7747-2014; Pan, Xiaoduo/AAA-6234-2022; wei, yang/A-3635-2010;
+   LU, Jing/L-4754-2016; Corbari, Chiara/AFU-6999-2022; wang,
+   ning/HTM-3596-2023; Jia, li/GPW-8015-2022; Shi, Jiancheng/HIU-0908-2022;
+   Kneib, Marin/AHC-6623-2022; Paciolla, Nicola/AAC-3493-2022; MA,
+   Chunfeng/M-4467-2016; Buri, Pascal/GNP-4094-2022; HUANG,
+   CHUNLIN/G-6715-2011; Miles, Evan/J-1286-2019; Zhou, Jie/G-6760-2011; Li,
+   Xin/F-7473-2011; Pan, Xiaoduo/R-2132-2016; zheng, chao lei/L-6182-2016;
+   LIU, Qinhuo/S-1647-2016; Li, Hongyi/G-2018-2011; Yang, Kun/G-8390-2011
+OI HUANG, CHUNLIN/0000-0002-1366-5170; Chen, Qiting/0000-0001-6588-0131;
+   Miles, Evan/0000-0001-5446-8571; Paciolla, Nicola/0000-0003-4580-7505;
+   Zhou, Jie/0000-0002-1199-4261; Li, Xin/0000-0003-2999-9818; zhou,
+   yanzhao/0000-0002-7891-4043; Jia, Li/0000-0002-3108-8645; Pan,
+   Xiaoduo/0000-0002-0573-1625; Han, Xujun/0000-0002-8290-9837; Ren,
+   Shaoting/0009-0002-2997-1364; shi, jian cheng/0000-0002-6163-2912; qiu,
+   yu bao/0000-0003-1313-6313; Kneib, Marin/0000-0002-2420-0475; hu, guang
+   cheng/0000-0003-2940-8336; Paolini, Giovanni/0000-0002-4309-281X; zheng,
+   chao lei/0000-0002-6085-8274; Stefan, Vivien/0000-0002-4563-8433;
+   /0000-0003-3890-2109; LIU, Qinhuo/0000-0002-3713-9511; Zhang,
+   Jingxiao/0000-0002-4392-636X; Escorihuela, Maria
+   Jose/0000-0002-7780-7334; Menenti, Massimo/0000-0001-9176-4556; Zhou,
+   Ji/0000-0001-9926-7693; Li, Hongyi/0000-0001-7583-6003; Corbari,
+   Chiara/0000-0002-1490-3847; Zhang, Jing/0000-0002-0959-7929; Ma,
+   Chunfeng/0000-0003-2025-6030; Yang, Kun/0000-0002-0809-2371
+FU Strategic Priority Research Program of Chinese Academy of Sciences
+   [XDA19070102, XDA19030203, XDA20100309]; National Natural Science
+   Foundation of China [91737205, 42071404, 41671355]; Second Tibetan
+   Plateau Scientific Expedition and Research Program (STEP)
+   [2019QZKK0103]; Chinese Academy of Sciences President's Inter-national
+   Fellowship Initiative [2020VTA0001]; MOST High Level Foreign Expert
+   Program [GL20200161002]; ESA Dragon 4 YSS Program [4000121196]
+FX The work was supported by the Strategic Priority Research Program of
+   Chinese Academy of Sciences (Grant No. XDA19070102, XDA19030203 and
+   XDA20100309), the National Natural Science Foundation of China (Grant
+   No. 91737205, 42071404 and 41671355), the Second Tibetan Plateau
+   Scientific Expedition and Research Program (STEP) (Grant No.
+   2019QZKK0103), the Chinese Academy of Sciences President's
+   Inter-national Fellowship Initiative (Grant No. 2020VTA0001), the MOST
+   High Level Foreign Expert Program (Grant No. GL20200161002) and the ESA
+   Dragon 4 YSS Program (Grant No. 4000121196).
+NR 55
+TC 6
+Z9 6
+U1 6
+U2 103
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2072-4292
+J9 REMOTE SENS-BASEL
+JI Remote Sens.
+PD DEC
+PY 2021
+VL 13
+IS 24
+AR 5122
+DI 10.3390/rs13245122
+PG 29
+WC Environmental Sciences; Geosciences, Multidisciplinary; Remote Sensing;
+   Imaging Science & Photographic Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Geology; Remote Sensing; Imaging
+   Science & Photographic Technology
+GA XZ0SK
+UT WOS:000737372300001
+OA Green Published, gold
+DA 2025-05-29
+ER

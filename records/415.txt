@@ -1,0 +1,60 @@
+PT J
+AU Elhadad, A
+   Gao, Y
+   Choi, S
+AF Elhadad, Anwar
+   Gao, Yang
+   Choi, Seokheun
+TI Revolutionizing Aquatic Robotics: Advanced Biomimetic Strategies for
+   Self-Powered Mobility Across Water Surfaces
+SO ADVANCED MATERIALS TECHNOLOGIES
+LA English
+DT Article
+DE aquatic locomotion; janus membrane; microbial fuel cells; self-powered
+   aquatic robotics; water strider
+ID MICROBIAL FUEL-CELLS; DESIGN; ANODE
+AB Aquatic mobile robots are gaining attention for their potential to revolutionize marine monitoring and exploration within the Ocean Internet of Things. A significant challenge for these untethered robots, especially in remote areas, is achieving energy autonomy. This work presents an innovative self-sustaining energy system for compact aquatic robots, inspired by biological digestion. Utilizing microbial fuel cell (MFC) technology, organic materials found in aquatic environments are converted into electricity through catalytic redox reactions. To extend the MFC's lifespan, spore-forming Bacillus subtilis is used as the anodic biocatalyst, leveraging its ability to endure harsh conditions and reactivate in favorable environments, thus enhancing the MFC's longevity. To ensure a steady supply of organic substrates for microbial viability, a biomimetic Janus membrane with asymmetric surface wettability is integrated, enabling selective substrate intake. Additionally, stability mechanisms inspired by water striders allow the robot to move efficiently across water surfaces. The robot mimics the water strider's movement using a motor powered by microbial metabolism, fueled by organic nutrients via the Janus membrane. This study demonstrates the feasibility of using natural processes for technological advancement, setting new benchmarks in the design of autonomous systems.
+   The paper introduces a novel energy system for compact aquatic robots inspired by biological digestion. It employs microbial fuel cell technology, utilizing organic materials in water to generate electricity. The system features Bacillus subtilis for resilience and extended lifespan, and incorporates a biomimetic membrane and locomotion mechanisms mimicking the water strider. This innovative approach enhances oceanic exploration and marine environment stewardship. image
+C1 [Elhadad, Anwar; Gao, Yang; Choi, Seokheun] SUNY Binghamton, Dept Elect & Comp Engn, Bioelect & Microsyst Lab, Binghamton, NY 13902 USA.
+   [Choi, Seokheun] SUNY Binghamton, Ctr Res Adv Sensing Technol & Environm Sustainabil, Binghamton, NY 13902 USA.
+C3 State University of New York (SUNY) System; Binghamton University, SUNY;
+   State University of New York (SUNY) System; Binghamton University, SUNY
+RP Choi, S (通讯作者)，SUNY Binghamton, Dept Elect & Comp Engn, Bioelect & Microsyst Lab, Binghamton, NY 13902 USA.; Choi, S (通讯作者)，SUNY Binghamton, Ctr Res Adv Sensing Technol & Environm Sustainabil, Binghamton, NY 13902 USA.
+EM sechoi@binghamton.edu
+OI CHOI, SEOKHEUN/0000-0003-1097-2391; Elhadad, Anwar/0000-0001-8454-5566
+FU Office of Naval Research;  [N00014-21-1-2412]
+FX This research was supported by the Office of Naval Research
+   (#N00014-21-1-2412). The authors extend their gratitude to the
+   Analytical and Diagnostic Laboratory at SUNY-Binghamton for the use of
+   their facilities. While preparing this manuscript, the authors employed
+   ChatGPT for the purpose of identifying and correcting grammatical
+   inaccuracies. Following the utilization of this tool, the authors
+   conducted a thorough review and made necessary revisions to the text.
+   The authors assume complete responsibility for the publication's
+   content.
+NR 53
+TC 0
+Z9 0
+U1 4
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 2365-709X
+J9 ADV MATER TECHNOL-US
+JI Adv. Mater. Technol.
+PD OCT
+PY 2024
+VL 9
+IS 19
+DI 10.1002/admt.202400426
+EA JUN 2024
+PG 12
+WC Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science
+GA I5V8P
+UT WOS:001251493400001
+OA hybrid
+DA 2025-05-29
+ER

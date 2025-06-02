@@ -1,0 +1,64 @@
+PT J
+AU Shi, PF
+   Leung, LR
+   Wang, B
+AF Shi, Pengfei
+   Leung, L. Ruby
+   Wang, Bin
+TI Development and evaluation of a new 4DEnVar-based weakly coupled ocean
+   data assimilation system in E3SMv2
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID INITIALIZATION; MODEL
+AB The development, implementation, and evaluation of a new weakly coupled ocean data assimilation (WCODA) system for the fully coupled Energy Exascale Earth System Model version 2 (E3SMv2) utilizing the four-dimensional ensemble variational (4DEnVar) method are presented in this study. The 4DEnVar method, based on the dimension-reduced projection four-dimensional variational (DRP-4DVar) approach, replaces the adjoint model with the ensemble technique, thereby reducing computational demands. Monthly mean ocean temperature and salinity data from the EN4.2.1 reanalysis are integrated into the ocean component of E3SMv2 from 1950 to 2021 with the goal of providing realistic initial conditions for decadal predictions and predictability studies. The performance of the WCODA system is assessed using various metrics, including the reduction rate of the cost function, root mean square error (RMSE) differences, correlation differences, and model biases. Results indicate that the WCODA system effectively assimilates the reanalysis data into the climate model, consistently achieving negative reduction rates of the cost function and notable improvements in RMSE and correlation across various ocean layers and regions. Significant enhancements are observed in the upper ocean layers across the majority of global ocean regions, particularly in the north Atlantic, north Pacific, and Indian Ocean. Model biases in sea surface temperature and salinity are also substantially reduced. For sea surface temperature, cold biases in the north Pacific and north Atlantic are diminished by about 1-2 degrees C, and warm biases in the Southern Ocean are corrected by approximately 1.5-2.5 degrees C. In terms of salinity, improvements are observed with bias reductions of about 0.5-1 psu in the north Atlantic and north Pacific and up to 1.5 psu in parts of the Southern Ocean. The ultimate goal of the WCODA system is to advance the predictive capabilities of E3SM for subseasonal to decadal climate predictions, thereby supporting research on strategic energy-sector policies and planning.
+C1 [Shi, Pengfei; Leung, L. Ruby] Pacific Northwest Natl Lab, Atmospher Climate & Earth Sci Div, Richland, WA 99354 USA.
+   [Wang, Bin] Chinese Acad Sci, Inst Atmospher Phys, Natl Key Lab Earth Syst Numer Modeling & Applicat, Beijing, Peoples R China.
+C3 United States Department of Energy (DOE); Pacific Northwest National
+   Laboratory; Chinese Academy of Sciences; Institute of Atmospheric
+   Physics, CAS
+RP Shi, PF; Leung, LR (通讯作者)，Pacific Northwest Natl Lab, Atmospher Climate & Earth Sci Div, Richland, WA 99354 USA.
+EM pengfei.shi@pnnl.gov; ruby.leung@pnnl.gov
+RI Leung, L./F-9276-2018
+FU Office of Science, US Department of Energy Biological and Environmental
+   Research - Regional and Global Model Analysis program area; Office of
+   Science of the US Department of Energy [DE-AC02-05CH1123]; BER Earth and
+   Environmental System Modeling program; US Department of Energy
+   [DE-AC05-76RL01830]
+FX This research was supported by the Office of Science, US Department of
+   Energy Biological and Environmental Research, funded by the Regional and
+   Global Model Analysis program area. This research used computing
+   resources of the National Energy Research Scientific Computing Center,
+   which is supported by the Office of Science of the US Department of
+   Energy under contract no. DE-AC02-05CH1123, and BER Earth and
+   Environmental System Modeling program's Compy computing cluster located
+   at the Pacific Northwest National Laboratory. The Pacific Northwest
+   National Laboratory is operated by Battelle Memorial Institute for the
+   US Department of Energy under contract no. DE-AC05-76RL01830.
+NR 52
+TC 0
+Z9 0
+U1 1
+U2 1
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD APR 25
+PY 2025
+VL 18
+IS 8
+BP 2443
+EP 2460
+DI 10.5194/gmd-18-2443-2025
+PG 18
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA 1UK0I
+UT WOS:001473890000001
+DA 2025-05-29
+ER

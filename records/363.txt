@@ -1,0 +1,71 @@
+PT J
+AU Sobel, A
+   Wang, SG
+   Kim, D
+AF Sobel, Adam
+   Wang, Shuguang
+   Kim, Daehyun
+TI Moist Static Energy Budget of the MJO during DYNAMO
+SO JOURNAL OF THE ATMOSPHERIC SCIENCES
+LA English
+DT Article
+ID MADDEN-JULIAN OSCILLATION; TROPICAL INTRASEASONAL OSCILLATIONS;
+   LARGE-SCALE MODES; CLOUD-RADIATION; ATMOSPHERE; VARIABILITY;
+   CIRCULATION; DISTURBANCES; FEEDBACKS; SYSTEM
+AB The authors analyze the column-integrated moist static energy budget over the region of the tropical Indian Ocean covered by the sounding array during the Cooperative Indian Ocean Experiment on Intraseasonal Variability in the Year 2011 (CINDY2011)/Dynamics of the Madden Julian Oscillation (DYNAMO) field experiment in late 2011. The analysis is performed using data from the sounding array complemented by additional observational datasets for surface turbulent fluxes and atmospheric radiative heating. The entire analysis is repeated using the ECMWF Interim Re-Analysis (ERA-Interim). The roles of surface turbulent fluxes, radiative heating, and advection are quantified for the two MJO events that occurred in October and November using the sounding data; a third event in December is also studied in the ERA-Interim data.
+   These results are consistent with the view that the MJO's moist static energy anomalies grow and are sustained to a significant extent by the radiative feedbacks associated with MJO water vapor and cloud anomalies and that propagation of the MJO is associated with advection of moist static energy. Both horizontal and vertical advection appear to play significant roles in the events studied here. Horizontal advection strongly moistens the atmosphere during the buildup to the active phase of the October event when the low-level winds switch from westerly to easterly. Horizontal advection strongly dries the atmosphere in the wake of the active phases of the November and December events as the westerlies associated with off-equatorial cyclonic gyres bring subtropical dry air into the convective region from the west and north. Vertical advection provides relative moistening ahead of the active phase and drying behind it, associated with an increase of the normalized gross moist stability.
+C1 [Sobel, Adam; Wang, Shuguang] Columbia Univ, Dept Appl Phys & Appl Math, New York, NY 10027 USA.
+   [Sobel, Adam] Columbia Univ, Lamont Doherty Earth Observ, New York, NY 10027 USA.
+   [Kim, Daehyun] Univ Washington, Dept Atmospher Sci, Seattle, WA 98195 USA.
+C3 Columbia University; Columbia University; University of Washington;
+   University of Washington Seattle
+RP Sobel, A (通讯作者)，Columbia Univ, Dept Appl Phys & Appl Math, 500 W 120th St,Rm 217, New York, NY 10027 USA.
+EM ahs129@columbia.edu
+RI Wang, Shuguang/C-2893-2011; Kim, Daehyun/X-1710-2019; Sobel,
+   Adam/K-4014-2015
+OI Wang, Shuguang/0000-0003-1861-9285; Sobel, Adam/0000-0003-3602-0567
+FU NASA Earth Science MEaSUREs DISCOVER Project; National Science
+   Foundation [AGS-1062206]; Office of Naval Research Grant [N00014-415
+   12-1-0911]; NASA [NNX13AM18G]; Korea Meteorological Administration
+   Research and Development Program [CATER 2013-3142]; Korea Meteorological
+   Administration [APCC-2013-3141] Funding Source: Korea Institute of
+   Science & Technology Information (KISTI), National Science & Technology
+   Information Service (NTIS); Div Atmospheric & Geospace Sciences;
+   Directorate For Geosciences [1062206] Funding Source: National Science
+   Foundation; NASA [469071, NNX13AM18G] Funding Source: Federal RePORTER
+FX SSM/I and TMI data are produced by Remote Sensing Systems and sponsored
+   by the NASA Earth Science MEaSUREs DISCOVER Project. Data are available
+   at www.remss.com. We thank Richard Johnson and Paul Ciesielski for the
+   sounding data and for discussions. This work was supported by National
+   Science Foundation Grant AGS-1062206 and Office of Naval Research Grant
+   N00014-415 12-1-0911. DK was supported by the NASA Grant NNX13AM18G and
+   the Korea Meteorological Administration Research and Development Program
+   under Grant CATER 2013-3142.
+NR 54
+TC 202
+Z9 226
+U1 2
+U2 39
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0022-4928
+EI 1520-0469
+J9 J ATMOS SCI
+JI J. Atmos. Sci.
+PD NOV
+PY 2014
+VL 71
+IS 11
+BP 4276
+EP 4291
+DI 10.1175/JAS-D-14-0052.1
+PG 16
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA AS4BS
+UT WOS:000344219100019
+OA Bronze, Green Submitted
+DA 2025-05-29
+ER

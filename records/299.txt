@@ -1,0 +1,63 @@
+PT J
+AU Lorente, P
+   Piedracoba, S
+   Sotillo, MG
+   Aznar, R
+   Amo-Balandron, A
+   Pascual, A
+   Soto-Navarro, J
+   Alvarez-Fanjul, E
+AF Lorente, P.
+   Piedracoba, S.
+   Sotillo, M. G.
+   Aznar, R.
+   Amo-Balandron, A.
+   Pascual, A.
+   Soto-Navarro, J.
+   Alvarez-Fanjul, E.
+TI Characterizing the surface circulation in Ebro Delta (NW Mediterranean)
+   with HF radar and modeled current data
+SO JOURNAL OF MARINE SYSTEMS
+LA English
+DT Article
+DE High frequency radar; Coastal circulation; Model skill assessment; Skill
+   metrics; Operational oceanography
+ID COASTAL OCEAN MODEL; MONTEREY BAY; SEA; SHELF; WIND; ASSIMILATION; GULF;
+   DYNAMICS; SIMULATIONS; VALIDATION
+AB Quality-controlled current observations from a High Frequency radar (HFR) network deployed in the Ebro River Delta (NW Mediterranean) were combined with outputs from IBI operational ocean forecasting system in order to comprehensively portray the ocean state and its variability during 2014. Accurate HFR data were used as benchmark for a rigorous validation of the Iberia-Biscay-Ireland (IBI) regional system, routinely operated in the frame of the Copernicus Marine Environment Monitoring Service (CMEMS). The analysis of skill metrics and monthly averaged current maps showed that IBI reasonably captured the prevailing dynamic features of the coastal circulation previously observed by the HFR, according to the moderate resemblance found in circulation patterns and the spatial distribution of eddy kinetic energy. The model skill assessment was completed with an exploration of dominant modes of spatiotemporal variability. The EOF analysis confirmed that the modeled surface current field evolved both in space and time according to three significantly dominant modes of variability which accounted for the 49.2% of the total variance, in close agreement with the results obtained for HFR (46.1%). The response of the subtidal surface current field to prevailing wind regime in the study area was examined in terms of induced circulation structures and immediacy of reaction by performing a conditional averaging approach and a time-lagged vector correlation analysis, respectively. This observations-model synergistic strategy has proved to be valid to operationally monitor the complex coastal circulation in Ebro Delta despite the observed model drawbacks in terms of reduced energy content in surface currents and some inaccuracies in the wind-driven low frequency response. This integrated methodology aids to improve the prognostic capabilities of IBI ocean forecasting system and also to facilitate high-stakes decision-making for coastal management in the Ebro River Delta marine protected area. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Lorente, P.; Sotillo, M. G.; Aznar, R.; Amo-Balandron, A.; Pascual, A.; Soto-Navarro, J.; Alvarez-Fanjul, E.] Puertos Estado, Ave Partenon 10, Madrid 28042, Spain.
+   [Piedracoba, S.] Univ Vigo, Marcosende S-N, Vigo 36310, Pontevedra, Spain.
+C3 Puertos del Estado; Universidade de Vigo
+RP Lorente, P (通讯作者)，Puertos Estado, Ave Partenon 10, Madrid 28042, Spain.
+EM plorente@puertos.es
+RI ; Piedracoba, Silvia/S-4738-2016
+OI Aznar, Roland/0000-0002-9793-1834; Piedracoba,
+   Silvia/0000-0002-9023-9968; Soto-Navarro, Javier/0000-0003-0250-1397;
+   Marcos G, Sotillo/0009-0006-1244-7848
+NR 81
+TC 11
+Z9 11
+U1 0
+U2 30
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0924-7963
+EI 1879-1573
+J9 J MARINE SYST
+JI J. Mar. Syst.
+PD NOV
+PY 2016
+VL 163
+BP 61
+EP 79
+DI 10.1016/j.jmarsys.2016.07.001
+PG 19
+WC Geosciences, Multidisciplinary; Marine & Freshwater Biology;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology; Marine & Freshwater Biology; Oceanography
+GA DU7PV
+UT WOS:000382408000006
+DA 2025-05-29
+ER

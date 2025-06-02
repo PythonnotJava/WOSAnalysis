@@ -1,0 +1,72 @@
+PT J
+AU Mohanty, A
+   Ramasamy, AK
+   Verayiah, R
+   Mohanty, S
+   Rajamony, RK
+   Allasi, HL
+   Mohanty, PP
+AF Mohanty, Asit
+   Ramasamy, A. K.
+   Verayiah, Renuga
+   Mohanty, Sthitapragyan
+   Rajamony, Reji Kumar
+   Allasi, Haiter Lenin
+   Mohanty, Pragyan P.
+TI Intelligent event trigger based sliding mode control in a marine current
+   turbine with superconducting magnetic energy storage
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+DE MCT; SMES; Voltage stability; ETSMC; dSPACE1104
+ID CHALLENGES; SYSTEMS
+AB Marine current turbines (MCTs) are a burgeoning renewable energy technology that may effectively capture the kinetic energy of ocean currents to produce power. Nevertheless, the sporadic and uncertain characteristics of marine currents present substantial obstacles to the reliable functioning of grid-connected MCT systems. By incorporating Superconducting Magnetic Energy Storage (SMES) into grid-connected marine current turbines and implementing intelligent event-triggered Sliding Mode Control (ETSMC), we can significantly improve the transient voltage stability of marine renewable energy systems. The sophisticated event trigger mechanism continuously checks the circumstances of the grid and the operation of the turbine in real-time. The real-time nonlinear control technique enhances the performance of SMES by effectively regulating the flow of active and reactive power, hence ensuring grid stability during transient occurrences. This integrated system aims to improve the dependability and effectiveness of marine current turbine operations, thereby supporting the progress of sustainable marine renewable energy technologies. The resilience of the system was evaluated by its implementation in real-time on a dSPACE-DS1104 board, which was connected to an experimental laboratory bench. Additionally, a comprehensive analysis was conducted by comparing actual and simulated data in order to assess both the quantitative and qualitative aspects of the system.
+C1 [Mohanty, Asit; Ramasamy, A. K.; Verayiah, Renuga] UNITEN, Inst Power Engn, Kajang, Kualalumpur, Malaysia.
+   [Mohanty, Sthitapragyan] OUTR, Dept Comp Sc & Engn, Bhubaneswar 751029, India.
+   [Rajamony, Reji Kumar] Univ Tenaga Nas Natl Energy Univ, Inst Sustainable Energy, Jalan IKRAM UNITEN, Kajang, Selangor, Malaysia.
+   [Rajamony, Reji Kumar] SIMATS, Saveetha Sch Engn, Dept Phys, Chennai 602105, India.
+   [Allasi, Haiter Lenin] WOLLO Univ, Kombolcha Inst Technol, Dept Mech Engn, Post Box 208, Kombolcha, Ethiopia.
+   [Mohanty, Pragyan P.] VSSUT Burla, Dept Mech Engn, Burla, India.
+   [Allasi, Haiter Lenin] New Horizon Coll Engn, Dept Mech Engn, Bengaluru, India.
+C3 Universiti Tenaga Nasional; Saveetha Institute of Medical & Technical
+   Science; Saveetha School of Engineering; Veer Surendra Sai University of
+   Technology
+RP Allasi, HL (通讯作者)，WOLLO Univ, Kombolcha Inst Technol, Dept Mech Engn, Post Box 208, Kombolcha, Ethiopia.; Allasi, HL (通讯作者)，New Horizon Coll Engn, Dept Mech Engn, Bengaluru, India.
+EM drahlenin@kiot.edu.et
+RI RAJAMONY, REJI KUMAR/ADJ-5918-2022; Mohanty, Dr
+   Sthitapragyan/IXW-9347-2023; ALLASI, HAITER LENIN/ADR-1570-2022
+FU Tenaga Nasional Berhad (TNB); UNITEN through the BOLD Refresh
+   Postdoctoral Fellowships [J510050002-IC-6 BOLDREFRESH2025-Centre];
+   Dato's Low Tuck Kwong International energy transition grant [ETG
+   202205001]
+FX Tenaga Nasional Berhad (TNB) and UNITEN through the BOLD Refresh
+   Postdoctoral Fellowships under the project code of J510050002-IC-6
+   BOLDREFRESH2025-Centre of Excellence. This work was supported by Dato's
+   Low Tuck Kwong International energy transition grant under the project
+   code of ETG 202205001.
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 13
+PY 2025
+VL 15
+IS 1
+AR 12725
+DI 10.1038/s41598-025-94087-x
+PG 17
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 1MG5L
+UT WOS:001468378500030
+PM 40222968
+DA 2025-05-29
+ER

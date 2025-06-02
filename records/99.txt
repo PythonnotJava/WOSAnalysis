@@ -1,0 +1,69 @@
+PT J
+AU Jin, H
+   Kim, YH
+   Park, YG
+   Chang, IS
+   Chang, YS
+   Park, H
+   Pak, G
+AF Jin, Hyunkeun
+   Kim, Young Ho
+   Park, Young-Gyu
+   Chang, Inseong
+   Chang, You-Soon
+   Park, Hyukmin
+   Pak, Gyundo
+TI Simulation Characteristics of Ocean Predictability Experiment for Marine
+   environment (OPEM): A Western North Pacific Regional Ocean Prediction
+   System
+SO OCEAN SCIENCE JOURNAL
+LA English
+DT Article
+DE Ensemble optimal interpolation (EnOI); Korea Operational Oceanographic
+   System (KOOS); Modular Ocean Model 5 (MOM5); Ocean Predictability
+   Experiment for Marine environment (OPEM); Ocean prediction system
+ID DATA ASSIMILATION SYSTEM; SEA-SURFACE TEMPERATURE; EAST CHINA SEA;
+   VOLUME TRANSPORT; MESOSCALE EDDIES; GLOBAL OCEAN; MODEL; VARIABILITY;
+   RESOLUTION; REANALYSIS
+AB The Ocean Predictability Experiment for Marine environment (OPEM), operated by the Korea Institute of Ocean Science and Technology, provides weekly predictions of ocean conditions as part of the Korea Operational Oceanographic System project. Since March 2017, it has produced three-dimensional analysis fields and 10-day prediction data for the western North Pacific. The OPEM utilizes a data assimilation process based on a highly cost-effective scheme, ensemble optimal interpolation, to integrate ocean observations. Three-dimensional ocean analysis fields from the OPEM were validated using mean biases and root-mean-square differences of ocean temperature, salinity, sea surface height, along with mean and eddy kinetic energies and volume transports. The validation results indicated that the OPEM was comparable to other high-resolution reanalysis products for ocean temperature, salinity, and ocean circulation, though it showed less accuracy in the complex dynamics of the Kuroshio Extension region. The OPEM accurately reproduced the subsurface layer ocean temperature and the surface salinity in the marginal seas around Korea; this was possibly attributed to the local implementation of the OPEM, including the adjustment of the Changjiang freshwater discharge to 2 psu. In addition to validation, the 10-day prediction performance of the OPEM was assessed using case studies. The assessment revealed that the OPEM could simulate the intense air-sea interaction caused by Typhoon Hinnamnor in 2022 for at least three days in advance, while the upwelling driven by coastal winds was predictable more than four days ahead. The assessment results highlight the critical importance of accurate atmospheric forecasts in improving ocean prediction accuracy.
+C1 [Jin, Hyunkeun; Park, Young-Gyu; Park, Hyukmin; Pak, Gyundo] Korea Inst Ocean Sci & Technol KIOST, Ocean Circulat & Climate Res Dept, Busan 49111, South Korea.
+   [Kim, Young Ho; Chang, Inseong] Pukyong Natl Univ, Sch Mech Engn, Busan 48513, South Korea.
+   [Chang, You-Soon] Kongju Natl Univ, Coll Educ, Dept Earth Sci Educ, Gongju 32588, South Korea.
+C3 Korea Institute of Ocean Science & Technology (KIOST); Pukyong National
+   University; Kongju National University
+RP Pak, G (通讯作者)，Korea Inst Ocean Sci & Technol KIOST, Ocean Circulat & Climate Res Dept, Busan 49111, South Korea.
+EM gdp@kiost.ac.kr
+FU Korea Institute of Marine Science & Technology Promotion (KIMST) -
+   Ministry of Oceans and Fisheries [RS-2023-00256141]
+FX This research was supported by the Korea Institute of Marine Science &
+   Technology Promotion (KIMST) funded by the Ministry of Oceans and
+   Fisheries (RS-2023-00256141, Development of a global marine radioactive
+   contamination effect prediction system). We gratefully acknowledge the
+   National Institute of Fisheries Science for providing the time series of
+   the volume transport through the Korea Strait.
+NR 86
+TC 0
+Z9 0
+U1 4
+U2 4
+PU KOREA INST OCEAN SCIENCE & TECHNOLOGY-KIOST
+PI BUSAN
+PA  HAEYANG-RO 385, YEONGDO-GU, BUSAN, SOUTH KOREA
+SN 1738-5261
+EI 2005-7172
+J9 OCEAN SCI J
+JI Ocean Sci. J.
+PD DEC
+PY 2024
+VL 59
+IS 4
+AR 71
+DI 10.1007/s12601-024-00195-6
+PG 24
+WC Marine & Freshwater Biology; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Marine & Freshwater Biology; Oceanography
+GA O9G8H
+UT WOS:001374132700001
+DA 2025-05-29
+ER

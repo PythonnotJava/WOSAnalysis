@@ -1,0 +1,54 @@
+PT J
+AU Cao, X
+   Zhu, DQ
+AF Cao, Xiang
+   Zhu, Daqi
+TI Multi-AUV Underwater Cooperative Search Algorithm based on Biological
+   Inspired Neurodynamics Model and Velocity Synthesis
+SO JOURNAL OF NAVIGATION
+LA English
+DT Article
+DE Multi-AUV cooperative search; Ocean current; Biological Inspired
+   Neurodynamics Model (BINM); Velocity Synthesis (VS)
+ID DYNAMIC TASK ASSIGNMENT; NEURAL-NETWORK; NAVIGATION; VEHICLES; COVERAGE;
+   SYSTEM; MAP
+AB Ocean currents impose a negative effect on Autonomous Underwater Vehicle (AUV) underwater target searches, which lengthens the search paths and consumes more energy and team effort. To solve this problem, an integrated algorithm is proposed to realise multi-AUV cooperative search in dynamic underwater environments with ocean currents. The proposed integrated algorithm combines the Biological Inspired Neurodynamics Model (BINM) and Velocity Synthesis (VS) method. Firstly, the BINM guides a team of AUVs to achieve target search in underwater environments; BINM search requires no specimen learning information and is thus easier to apply to practice, but the search path is longer because of the influence of ocean current. Next the VS algorithm offsets the effect of ocean current, and it is applied to optimise the search path for each AUV. Lastly, to demonstrate the effectiveness of the proposed integrated approach, simulation results are given in this paper. It is proved that this integrated algorithm can plan shorter search paths and thus the energy consumption is lower compared with BINM.
+C1 [Cao, Xiang; Zhu, Daqi] Shanghai Maritime Univ, Lab Underwater Vehicles & Intelligent Syst, Shanghai 200135, Peoples R China.
+C3 Shanghai Maritime University
+RP Cao, X (通讯作者)，Shanghai Maritime Univ, Lab Underwater Vehicles & Intelligent Syst, Shanghai 200135, Peoples R China.
+EM cxeffort@126.com
+FU National Natural Science Foundation of China [51279098]; Creative
+   Activity Plan for Science and Technology Commission of Shanghai
+   [13510721400, 14JC1402800]; Innovation Program of Shanghai Municipal
+   Education Commission [13ZZ123]
+FX This project is supported by the National Natural Science Foundation of
+   China (51279098), Creative Activity Plan for Science and Technology
+   Commission of Shanghai (13510721400, 14JC1402800) and the Innovation
+   Program of Shanghai Municipal Education Commission (13ZZ123).
+NR 30
+TC 22
+Z9 22
+U1 2
+U2 66
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0373-4633
+EI 1469-7785
+J9 J NAVIGATION
+JI J. Navig.
+PD NOV
+PY 2015
+VL 68
+IS 6
+BP 1075
+EP 1087
+DI 10.1017/S0373463315000351
+PG 13
+WC Engineering, Marine; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA CT7YF
+UT WOS:000363030900004
+DA 2025-05-29
+ER

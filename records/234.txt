@@ -1,0 +1,49 @@
+PT J
+AU Doering, K
+   Steinschneider, S
+AF Doering, Kenji
+   Steinschneider, Scott
+TI Summer Covariability of Surface Climate for Renewable Energy across the
+   Contiguous United States: Role of the North Atlantic Subtropical High
+SO JOURNAL OF APPLIED METEOROLOGY AND CLIMATOLOGY
+LA English
+DT Article
+DE Atmosphere-land interaction; Atmosphere-ocean interaction;
+   Hydrometeorology; Anomalies; Climate variability; Renewable energy
+ID NINO SOUTHERN-OSCILLATION; ATMOSPHERIC CIRCULATION; WIND-SPEED;
+   LOW-FLOWS; VARIABILITY; PRECIPITATION; DROUGHT; SOLAR; POWER; RESOURCES
+AB This study examines the joint spatiotemporal variability of summertime climate linked to renewable energy sources (precipitation and streamflow, wind speeds, and insolation) and energy demand drivers (temperature, relative humidity, and a heat index) across the contiguous United States (CONUS) between 1948 and 2015. Canonical correlation analysis is used to identify the primary modes of joint variability between wind speeds and precipitation and related patterns of the other hydrometeorological variables. The first two modes exhibit a pan-U.S. dipole with lobes in the eastern and central CONUS. Composite analysis shows that these modes are directly related to the displacement of the western ridge of the North Atlantic subtropical high (NASH), suggesting that a single, large-scale feature of atmospheric circulation drives much of the large-scale climate covariability related to summertime renewable energy supply and demand across the CONUS. The impacts of this climate feature on the U.S. energy system are shown more directly by examining changes in surface climate variables at existing and potential sites of renewable energy infrastructure and locations of high energy demand. Also, different phases of the NASH are related to concurrent and lagged modes of oceanic and atmospheric climate variability in the Pacific and Atlantic Ocean basins, with results suggesting that springtime climate over both oceans may provide some potential to predict summer variability in the NASH and its associated surface climate. The implications of these findings for the impacts of climate variability and change on integrated renewable energy systems over the CONUS are discussed.
+C1 [Doering, Kenji; Steinschneider, Scott] Cornell Univ, Dept Biol & Environm Engn, New York, NY 10021 USA.
+C3 Cornell University
+RP Steinschneider, S (通讯作者)，Cornell Univ, Dept Biol & Environm Engn, New York, NY 10021 USA.
+EM ss3378@cornell.edu
+OI Steinschneider, Scott/0000-0002-8882-1908; Doering,
+   Kenji/0000-0002-1819-9949
+NR 109
+TC 4
+Z9 6
+U1 0
+U2 5
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 1558-8424
+EI 1558-8432
+J9 J APPL METEOROL CLIM
+JI J. Appl. Meteorol. Climatol.
+PD DEC
+PY 2018
+VL 57
+IS 12
+BP 2749
+EP 2768
+DI 10.1175/JAMC-D-18-0088.1
+PG 20
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Meteorology & Atmospheric Sciences
+GA HF0VH
+UT WOS:000453881300001
+OA hybrid, Green Published
+DA 2025-05-29
+ER

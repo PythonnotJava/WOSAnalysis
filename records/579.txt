@@ -1,0 +1,56 @@
+PT J
+AU Ma, LB
+   Jiang, ZJ
+AF Ma, Libin
+   Jiang, Zijun
+TI Impacts of the strengthened Atlantic meridional overturning circulation
+   on the North Atlantic sea surface temperature: mean state
+SO CLIMATE DYNAMICS
+LA English
+DT Article
+DE Atlantic meridional overturning circulation; Sea surface temperature;
+   North Atlantic; Earth system model
+ID STOCHASTIC MULTICLOUD MODEL; WIND ENERGY INPUT; MULTIDECADAL
+   VARIABILITY; CLIMATE; ATMOSPHERE; SUMMER; MECHANISMS; ECHAM6.3;
+   SIMULATION; DENSITY
+AB Impacts of the AMOC on the mean state of the North Atlantic sea surface temperature (SST) are investigated by implementing two seawater equations of state (EOS), the standard EOS and the "stiffened " EOS, into an earth system model (ESM). The ESM using the "stiffened " EOS improves the performance of the simulated AMOC. Moreover, the "stiffened " EOS significantly increases the SST in the northern tropical Atlantic (NTA) and northern North Atlantic (NNA) regions. Singular value decomposition analyses reveal that the AMOC changes exert important influences on the SST changes in the NTA and NNA regions. The enhanced AMOC intensifies the volume-integrated meridional heat transport, which dominates the SST warming in the NNA region. Physical processes responsible for the NTA SST changes are more complicated. Regarding the net surface heat flux, it plays an inverse role in modulating SST changes in the NTA region. The net surface heat flux dampens SST changes in the northern NTA region and favors SST changes in the southern NTA region. Influenced by the local and remote SST heating, we find that an anomalous southeasterly appears over the tropical North Atlantic in the simulation with the "stiffened " EOS, which increases the SST in the NTA region through the wind-evaporation-SST mechanism. Concerning the oceanic processes, the enhanced AMOC weakens the subtropical cell in the North Atlantic. Moreover, the enhanced deep convection downward transports the warm surface water in the NNA region to the deep ocean; then the well-mixed warm deep water is southward transported. When reaching the tropical North Atlantic the warm deep water is upward convected by the diapycnal mixing and is eventually upwelled to the sea surface by the enhanced cyclonic winds. The mixed-layer heat budget analysis shows that the NTA SST changes are mainly attributed to the changes in the zonal advection and vertical convection of the seawater temperature.
+C1 [Ma, Libin] CMA Earth Syst Modeling & Predict Ctr, Beijing, Peoples R China.
+   [Ma, Libin] Chinses Acad Meteorol Sci, State Key Lab Severe Disaster, Beijing, Peoples R China.
+   [Jiang, Zijun] Hunan First Normal Univ, Sch Math & Stat, Changsha, Peoples R China.
+C3 Hunan First Normal University
+RP Ma, LB (通讯作者)，CMA Earth Syst Modeling & Predict Ctr, Beijing, Peoples R China.; Ma, LB (通讯作者)，Chinses Acad Meteorol Sci, State Key Lab Severe Disaster, Beijing, Peoples R China.; Jiang, ZJ (通讯作者)，Hunan First Normal Univ, Sch Math & Stat, Changsha, Peoples R China.
+EM malibin109@163.com; mlzh0712@163.com
+OI Ma, Libin/0000-0002-5236-5429
+FU National Key Research and Development Program of China; Basic Research
+   Fund of CAMS [2019YFC1510001];  [2020Y006];  [2021Z005]
+FX This study is sponsored by the National Key Research and Development
+   Program of China (Grant no. 2019YFC1510001) and the Basic Research Fund
+   of CAMS (Grant nos. 2020Y006 and 2021Z005)
+NR 67
+TC 3
+Z9 3
+U1 1
+U2 21
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0930-7575
+EI 1432-0894
+J9 CLIM DYNAM
+JI Clim. Dyn.
+PD JUL
+PY 2023
+VL 61
+IS 1-2
+BP 981
+EP 998
+DI 10.1007/s00382-022-06605-6
+EA DEC 2022
+PG 18
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA K5DT1
+UT WOS:000897366800002
+DA 2025-05-29
+ER

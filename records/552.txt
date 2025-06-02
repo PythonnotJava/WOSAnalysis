@@ -1,0 +1,76 @@
+PT J
+AU Zhang, Y
+   Li, WH
+   Sun, G
+   Miao, GF
+   Noormets, A
+   Emanuel, R
+   King, JS
+AF Zhang, Yu
+   Li, Wenhong
+   Sun, Ge
+   Miao, Guofang
+   Noormets, Asko
+   Emanuel, Ryan
+   King, John S.
+TI Understanding coastal wetland hydrology with a new regional-scale,
+   process-based hydrological model
+SO HYDROLOGICAL PROCESSES
+LA English
+DT Article
+DE coastal processes; coastal wetlands; flooding and inundation; hydrologic
+   model; surface-subsurface interaction; wetland hydrology
+ID SEA-LEVEL RISE; CLIMATE-CHANGE; NATURAL WETLANDS; IMPACT;
+   EVAPOTRANSPIRATION; VULNERABILITY; EVAPORATION; VARIABILITY; TOPOGRAPHY;
+   INUNDATION
+AB Coastal wetlands represent an ecotone between ocean and terrestrial ecosystems, providing important services, including flood mitigation, fresh water supply, erosion control, carbon sequestration, and wildlife habitat. The environmental setting of a wetland and the hydrological connectivity between a wetland and adjacent terrestrial and aquatic systems together determine wetland hydrology. Yet little is known about regional-scale hydrological interactions among uplands, coastal wetlands, and coastal processes, such as tides, sea level rise, and saltwater intrusion, which together control the dynamics of wetland hydrology. This study presents a new regional-scale, physically based, distributed wetland hydrological model, PIHM-Wetland, which integrates the surface and subsurface hydrology with coastal processes and accounts for the influence of wetland inundation on energy budgets and evapotranspiration (ET). The model was validated using in situ hydro-meteorological measurements and Moderate Resolution Imaging Spectroradiometer (MODIS) ET data for a forested and herbaceous wetland in North Carolina, USA, which confirmed that the model accurately represents the major wetland hydrological behaviours. Modelling results indicate that topographic gradient is a primary control of groundwater flow direction in adjacent uplands. However, seasonal climate patterns become the dominant control of groundwater flow at lower coastal plain and land-ocean interface. We found that coastal processes largely influence groundwater table (GWT) dynamics in the coastal zone, 300 to 800m from the coastline in our study area. Among all the coastal processes, tides are the dominant control on GWT variation. Because of inundation, forested and herbaceous wetlands absorb an additional 6% and 10%, respectively, of shortwave radiation annually, resulting in a significant increase in ET. Inundation alters ET partitioning through canopy evaporation, transpiration, and soil evaporation, the effect of which is stronger in cool seasons than in warm seasons. The PIHM-Wetland model provides a new tool that improves the understanding of wetland hydrological processes on a regional scale. Insights from this modelling study provide benchmarks for future research on the effects of sea level rise and climate change on coastal wetland functions and services.
+C1 [Zhang, Yu; Li, Wenhong] Duke Univ, Nicholas Sch Environm, Earth & Ocean Sci, Durham, NC 27708 USA.
+   [Sun, Ge] US Forest Serv, Eastern Forest Environm Threat Assessment Ctr, Southern Res Stn, USDA, Raleigh, NC USA.
+   [Miao, Guofang; Emanuel, Ryan; King, John S.] North Carolina State Univ, Dept Forestry & Environm Resources, Raleigh, NC USA.
+   [Noormets, Asko] Texas A&M Univ, Dept Ecosyst Sci & Management, College Stn, TX USA.
+C3 Duke University; United States Department of Agriculture (USDA); United
+   States Forest Service; North Carolina State University; Texas A&M
+   University System; Texas A&M University College Station
+RP Li, WH (通讯作者)，Duke Univ, Nicholas Sch Environm, Earth & Ocean Sci, Durham, NC 27708 USA.
+EM wenhong.li@duke.edu
+RI Sun, Ge/ABF-6673-2020; Zhang, Yu/ABC-4624-2021; Miao,
+   Guofang/D-5664-2013; Emanuel, Ryan/C-3796-2012; Li,
+   Wenhong/AAK-9940-2020; King, John/K-4397-2013; Noormets,
+   Asko/A-7257-2009
+OI Sun, Ge/0000-0002-0159-1370; Noormets, Asko/0000-0003-2221-2111;
+   Emanuel, Ryan/0000-0002-2166-1698; King, John/0000-0002-9345-9800; Li,
+   Wenhong/0000-0002-5990-2004; Zhang, Yu/0000-0002-9263-8428
+FU Division of Earth Sciences [EAR-1462169]; Division of Emerging Frontiers
+   [EF1427188]; Lawrence Berkeley National Laboratory [2014-0500/7090112];
+   National Institute of Food and Agriculture [2014-67003-22068]
+FX Division of Earth Sciences, Grant/Award Number: EAR-1462169; Division of
+   Emerging Frontiers, Grant/Award Number: EF1427188; Lawrence Berkeley
+   National Laboratory, Grant/Award Number: 2014-0500/7090112; National
+   Institute of Food and Agriculture, Grant/Award Number: 2014-67003-22068
+NR 91
+TC 38
+Z9 43
+U1 9
+U2 131
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0885-6087
+EI 1099-1085
+J9 HYDROL PROCESS
+JI Hydrol. Process.
+PD SEP 30
+PY 2018
+VL 32
+IS 20
+BP 3158
+EP 3173
+DI 10.1002/hyp.13247
+PG 16
+WC Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Water Resources
+GA GU0NW
+UT WOS:000444948700006
+DA 2025-05-29
+ER

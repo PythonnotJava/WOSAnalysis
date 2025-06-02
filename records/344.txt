@@ -1,0 +1,50 @@
+PT J
+AU Zhang, H
+   Zhang, DJ
+   Zhang, AM
+AF Zhang, Hao
+   Zhang, Dianjun
+   Zhang, Anmin
+TI An Innovative Multifunctional Buoy Design for Monitoring Continuous
+   Environmental Dynamics at Tianjin Port
+SO IEEE ACCESS
+LA English
+DT Article
+DE Monitoring; Instruments; Sea measurements; Tides; Meteorology; Real-time
+   systems; Buoy monitoring system; power supply; sensor; port
+   environmental dynamics
+ID CHLOROPHYLL-A
+AB The Tianjin port plays a relevant role in driving both ship navigation and the weather and climate of the area. To better understand the underlying peculiarities of this area, several in-service coastal ocean system and facilities have been constructed, at present, the whole coastal ocean systems at Tianjin port have been improved, however, they cannot meet the safety requirements of traffic management and navigational safety. Marine buoys have the unreplaceable advantages of long-term, real-time, reliable capabilities and trivial environmental restrictions to monitor the marine dynamics. Here an innovative multifunctional buoy prototype is proposed to continuously measure meteorological and oceanographic parameters at a high spatial and temporal resolution, which can ensure navigation safety at Tianjin Port. Solar panels and battery module are personalized to ensure electric supply to the buoy system. An independent ARM (Advanced RISC Machine)-based module is affiliated to maintain the stability of the data acquisition and communication module. Buoy platform based on Beidou difference is proved to be an effective approach for the tide measurement. Additionally, a web-designed software for data acquisition is integrated for the visualization purpose. Finally, in-field recording test at Tianjin port will be performed to verify effectiveness of our system on monitoring environment dynamics. It turns out that our buoy prototype functions as a reliable and energy favorable electrical device and shed light on the development of effective measurement instruments working under unpredictable and harsh marine environment.
+C1 [Zhang, Hao; Zhang, Dianjun; Zhang, Anmin] Tianjin Univ, Sch Marine Sci & Technol, Tianjin 300072, Peoples R China.
+C3 Tianjin University
+RP Zhang, DJ (通讯作者)，Tianjin Univ, Sch Marine Sci & Technol, Tianjin 300072, Peoples R China.
+EM dj.zhang@tju.edu.cn
+FU National Key Research and Development Program of China [2018YFC1407400]
+FX This work was supported by the National Key Research and Development
+   Program of China under Grant 2018YFC1407400.
+NR 40
+TC 12
+Z9 13
+U1 6
+U2 35
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 171820
+EP 171833
+DI 10.1109/ACCESS.2020.3024020
+PG 14
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA NX8AH
+UT WOS:000575926400001
+OA gold
+DA 2025-05-29
+ER

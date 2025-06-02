@@ -1,0 +1,79 @@
+PT J
+AU Ladant, JB
+   Millot-Weil, J
+   de Lavergne, C
+   Green, JAM
+   Nguyen, S
+   Donnadieu, Y
+AF Ladant, Jean-Baptiste
+   Millot-Weil, Jeanne
+   de Lavergne, Casimir
+   Green, J. A. Mattias
+   Nguyen, Sebastien
+   Donnadieu, Yannick
+TI The Role of Tidal Mixing in Shaping Early Eocene Deep Ocean Circulation
+   and Oxygenation
+SO PALEOCEANOGRAPHY AND PALEOCLIMATOLOGY
+LA English
+DT Article
+DE Earth system modeling; paleoceanography; ocean dynamics; marine
+   biogeochemistry; tidal mixing; Early Eocene
+ID MERIDIONAL OVERTURNING CIRCULATION; THERMAL MAXIMUM; MODEL; CLIMATE;
+   PARAMETERIZATIONS; DEOXYGENATION; CONSEQUENCES; SIMULATIONS;
+   DISSIPATION; SENSITIVITY
+AB Diapycnal mixing in the ocean interior is largely fueled by internal tides. Mixing schemes that represent the breaking of internal tides are now routinely included in ocean and earth system models applied to the modern and future. However, this is more rarely the case in climate simulations of deep-time intervals of the Earth, for which estimates of the energy dissipated by the tides are not always available. Here, we present and analyze two IPSL-CM5A2 earth system model simulations of the Early Eocene made under the framework of DeepMIP. One simulation includes mixing by locally dissipating internal tides, while the other does not. We show how the inclusion of tidal mixing alters the shape of the deep ocean circulation, and thereby of large-scale biogeochemical patterns, in particular oxygen distributions. In our simulations, the absence of tidal mixing leads to a relatively stagnant and poorly ventilated deep ocean in the North Atlantic, which promotes the development of a basin-scale pool of oxygen-deficient waters, at the limit of complete anoxia. The absence of large-scale anoxic records in the deep ocean after the Cretaceous anoxic events suggests that such an ocean state most likely did not occur at any time across the Paleogene. This highlights how crucial it is for climate models applied to the deep-time to integrate the spatial variability of tidally driven mixing as well as the potential of using biogeochemical models to exclude aberrant dynamical model states.
+   Inclusion of realistic near-field tidal mixing substantially modifies global deep ocean circulation in the Early Eocene These tidally driven changes yield significantly different biogeochemical properties of water masses, in particular in the Atlantic The simulation that includes tidal mixing compares more favorably to inferences from the O2 proxy record
+C1 [Ladant, Jean-Baptiste; Millot-Weil, Jeanne; Nguyen, Sebastien] Univ Paris Saclay, Lab Sci Climat & Environm, LSCE IPSL, CEA CNRS UVSQ, Gif Sur Yvette, France.
+   [Millot-Weil, Jeanne] Univ Bristol, Sch Geog Sci, Bristol, England.
+   [de Lavergne, Casimir] Sorbonne Univ, CNRS, IRD, MNHN,LOCEAN Lab, Paris, France.
+   [Green, J. A. Mattias] Bangor Univ, Sch Ocean Sci, Menai Bridge, Wales.
+   [Donnadieu, Yannick] Aix Marseille Univ, CNRS, Coll France, IRD,INRA,CEREGE, Aix En Provence, France.
+C3 Universite Paris Saclay; CEA; University of Bristol; Institut de
+   Recherche pour le Developpement (IRD); Centre National de la Recherche
+   Scientifique (CNRS); Sorbonne Universite; Museum National d'Histoire
+   Naturelle (MNHN); Bangor University; Aix-Marseille Universite; INRAE;
+   Universite PSL; College de France; Institut de Recherche pour le
+   Developpement (IRD); Centre National de la Recherche Scientifique (CNRS)
+RP Ladant, JB (通讯作者)，Univ Paris Saclay, Lab Sci Climat & Environm, LSCE IPSL, CEA CNRS UVSQ, Gif Sur Yvette, France.
+EM jean-baptiste.ladant@lsce.ipsl.fr
+OI Green, Mattias/0000-0001-5090-1040
+FU UK Natural Environment Research Council [NE/F014821/1, NE/S009566/1];
+   National Agency for Research (ANR) [18-CE31-0020]
+FX We thank Matt Huber for editorial handling and two anonymous reviewers
+   who helped improve the manuscript. We are grateful to Olivier Marti,
+   Arnaud Caubel, Laurent Bopp, Olivier Aumont and Christian Ethe for
+   discussions and help with the simulation setup. This work used computing
+   hours on the HPC resources of the TGCC under GENCI allocations
+   A0110102212 and A0130102212. NCL () was used to make figures and most
+   analyses, in addition to Fortran. Figures use color maps developed by
+   Fabio Crameri (Crameri et al., 2020). JAMG acknowledges funding from the
+   UK Natural Environment Research Council (Grants NE/F014821/1 and
+   NE/S009566/1). YD acknowledges funding from the National Agency for
+   Research (ANR) project OXYMORE (Grant 18-CE31-0020).
+NR 81
+TC 0
+Z9 0
+U1 0
+U2 6
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2572-4517
+EI 2572-4525
+J9 PALEOCEANOGR PALEOCL
+JI Paleoceanogr. Paleoclimatology
+PD JUL
+PY 2024
+VL 39
+IS 7
+AR e2023PA004822
+DI 10.1029/2023PA004822
+PG 21
+WC Geosciences, Multidisciplinary; Oceanography; Paleontology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology; Oceanography; Paleontology
+GA XO8Q2
+UT WOS:001262720000001
+OA hybrid
+DA 2025-05-29
+ER

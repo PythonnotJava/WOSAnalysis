@@ -1,0 +1,62 @@
+PT J
+AU Dell'Edera, O
+   Niosi, F
+   Casalone, P
+   Bonfanti, M
+   Paduano, B
+   Mattiazzo, G
+AF Dell'Edera, Oronzo
+   Niosi, Francesco
+   Casalone, Pietro
+   Bonfanti, Mauro
+   Paduano, Bruno
+   Mattiazzo, Giuliana
+TI Understanding wave energy converters dynamics: High-fidelity modeling
+   and validation of a moored floating body
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Experimental validation; High-fidelity modeling; Moored floating body;
+   ISWEC; PeWEC
+ID AERO-HYDRODYNAMIC ANALYSIS; MOORING LINE MODEL; DESIGN
+AB In ocean engineering, one of the most challenging phenomena to replicate is the interaction between waves and a moored floating body. Accurately evaluating such systems is essential for minimizing uncertainties, mitigating risks, and advancing technologies like wave energy converters. For this purpose, this study aims to develop a high-fidelity numerical model capable of reducing reliance on costly experimental campaigns during the device design phases. The model integrates a fluid dynamics module based on the Navier- Stokes equations, implemented in Star CCm+, with a mooring model utilizing a mass-spring-damper system, specifically MoorDyn. The primary objective is to introduce this coupled approach and demonstrate its efficacy through validation against experimental data from two distinct wave energy converters: ISWEC and PeWEC. The validation process encompasses comprehensive comparisons between simulated and observed kinematic behavior, mooring tensions, and crucially, pressure loads. Results indicate that the model is able to faithfully predict the complex phenomena involving a moored floating body, affirming the accuracy and reliability of the proposed coupling methodology. The coupling developed is available online link, where a simplified case study is present to show how to compile the library and add it in the numerical model.
+C1 [Dell'Edera, Oronzo; Niosi, Francesco; Casalone, Pietro; Bonfanti, Mauro; Paduano, Bruno; Mattiazzo, Giuliana] Politecn Torino, Marine Offshore Renewable Energy Lab MOREnergy Lab, Dept Mech & Aerosp Engn, Via Duca Abbruzzi 24, I-10129 Turin, Italy.
+C3 Polytechnic University of Turin
+RP Dell'Edera, O (通讯作者)，Politecn Torino, Marine Offshore Renewable Energy Lab MOREnergy Lab, Dept Mech & Aerosp Engn, Via Duca Abbruzzi 24, I-10129 Turin, Italy.
+EM oronzo.delledera@polito.it
+RI Niosi, Francesco/LUY-6409-2024; Paduano, Bruno/IXN-8198-2023
+OI Dell'Edera, Oronzo/0000-0002-7652-4324; Mattiazzo,
+   Giuliana/0000-0002-7212-2299; Paduano, Bruno/0000-0002-0598-9853
+FX A special thanks is owed to Massimo Rebuglio, who actively con-tributed
+   to the development of the presented coupling. Appreciation is also
+   extended to the Cineca technicians who supported the implemen-tation on
+   the HPC4 cluster for ISWEC simulations. The Legion cluster owned by the
+   Polytechnic was utilized for PeWEC simulations.
+NR 83
+TC 1
+Z9 1
+U1 3
+U2 10
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD DEC 15
+PY 2024
+VL 376
+AR 112260
+DI 10.1016/j.apenergy.2024.124202
+EA AUG 2024
+PN A
+PG 18
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA E0N7F
+UT WOS:001300065500001
+OA hybrid
+DA 2025-05-29
+ER

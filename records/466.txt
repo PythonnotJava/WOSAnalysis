@@ -1,0 +1,58 @@
+PT J
+AU Ulloa, HN
+   Wüest, A
+   Bouffard, D
+AF Ulloa, Hugo N.
+   Wuest, Alfred
+   Bouffard, Damien
+TI Mechanical energy budget and mixing efficiency for a radiatively heated
+   ice-covered waterbody
+SO JOURNAL OF FLUID MECHANICS
+LA English
+DT Article
+DE convection in cavities; ice sheets; turbulent mixing
+ID HORIZONTAL CONVECTION; BOREAL LAKE; CIRCULATION; DRIVEN; OCEAN; FLOWS;
+   STRATIFICATION; SHEAR
+AB Ice-covered waterbodies are far from being quiescent systems. In this paper, we investigate ice-covered freshwater basins heated by solar radiation that penetrates across waters with temperatures below or near the temperature of maximum density. In this scenario, solar radiation sets a radiative buoyancy flux, Phi(r), that forces increments of temperature/density in the upper fluid volume, which can become gravitationally unstable and drive convection. The goal of this study is twofold. We first focus on formulating the mechanical energy budget, putting emphasis on the conversion of Phi(r) to available potential energy, E-a. We find that E-a results from a competition among Phi(r) and the irreversible mixing controlled by the diapycnal and the laminar mixing rates, respectively. Secondly, and based on the above result, we introduce an integral formulation of the mixing efficiency to quantify the rate of mixing over the relevant time scale tau, eta(c) = Delta E-b,E-tau/E-r,E-tau where Delta E-b,E-tau and E-r,E-tau are the change of background potential energy and the time-integrated Phi(r) over r. The above definition is applied to estimate eta(c) for the first time, finding an approximate value of eta(c) approximate to 0.65. This result suggests that radiatively heated ice-covered waterbodies might be subject to high mixing rates. Overall, the present work provides a framework to examine energetics and mixing in ice-covered waters.
+C1 [Ulloa, Hugo N.; Wuest, Alfred] Ecole Polytech Fed Lausanne, Phys Aquat Syst Lab APHYS, Margaretha Kamprad Chair, CH-1014 Lausanne, Switzerland.
+   [Wuest, Alfred; Bouffard, Damien] Swiss Fed Inst Aquat Sci & Technol, Eawag, Aquat Phys Grp, Dept Surface Waters Res & Management, Seestr 79, CH-6047 Kastanienbaum, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; Ecole Polytechnique
+   Federale de Lausanne; Swiss Federal Institutes of Technology Domain;
+   Swiss Federal Institute of Aquatic Science & Technology (EAWAG)
+RP Ulloa, HN (通讯作者)，Ecole Polytech Fed Lausanne, Phys Aquat Syst Lab APHYS, Margaretha Kamprad Chair, CH-1014 Lausanne, Switzerland.
+EM hugo.ulloa@epfl.ch
+RI Ulloa, Hugo N./HOA-7472-2023; Wuest, Alfred/L-2607-2014
+OI Ulloa, Hugo N./0000-0002-1995-6630
+FU FEEL Foundation
+FX The in situ data used here were collected during a multidisciplinary
+   research project supported by FEEL Foundation and are published by
+   Bouffard et al. (2018). We thank the scientific and technical support
+   from NWPI and KRC (Russ. Acad. Sci.). Finally, we are grateful for the
+   support of three reviewers who contributed with outstanding observations
+   and suggestions.
+NR 27
+TC 28
+Z9 30
+U1 0
+U2 18
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0022-1120
+EI 1469-7645
+J9 J FLUID MECH
+JI J. Fluid Mech.
+PD AUG 3
+PY 2018
+VL 852
+AR R1
+DI 10.1017/jfm.2018.587
+PG 13
+WC Mechanics; Physics, Fluids & Plasmas
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mechanics; Physics
+GA GQ2TD
+UT WOS:000441509400001
+OA Green Accepted
+DA 2025-05-29
+ER

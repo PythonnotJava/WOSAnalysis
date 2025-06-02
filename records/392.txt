@@ -1,0 +1,56 @@
+PT J
+AU Bourg, N
+   Molcard, A
+AF Bourg, Natacha
+   Molcard, Anne
+TI Northern boundary current variability and mesoscale dynamics: a
+   long-term HF RADAR monitoring in the North-Western Mediterranean Sea
+SO OCEAN DYNAMICS
+LA English
+DT Article
+DE Boundary current; High-frequency RADAR; Mesoscale; Eddies; Energy
+   cascade; Gap-filling
+ID SURFACE CURRENTS; TAYLORS HYPOTHESIS; EDDY PROPERTIES; KINETIC-ENERGY;
+   ADRIATIC SEA; OCEAN; CIRCULATION; GULF; MODEL; EDDIES
+AB Coastal waters are globally challenging areas to monitor not only because of the high resolution needed to resolve the scales at stake but also because most satellites are not yet suited to near-coast observations. We present here the analysis of an 8-year-long high-frequency RADAR (HFR) dataset off the coasts of Var region (France) in the North-Western Mediterranean Sea. Successive interruptions and errors intrinsic to the nature of the HFR remote-sensing technology have been compensated by the DINEOF statistical filling method. This unprecedented dataset enables the observation of many oceanic processes ranging from the interannual variability of large-scale structures to the identification of (sub)mesoscale features. Comparing and coupling this analysis with outputs from a regional ocean circulation model (GLAZUR), we also put emphasis on the extent of the possibilities of the HFR for the description of coastal surface circulation and its value as part of integrated observation systems. The data showed the diversity of the surface circulation in the region, mainly marked by the Northern boundary Current (NC), but undergoing a great variety of spatial and temporal fluctuations, interannually, seasonally, and at higher frequencies. Strong gusts of wind or regional upstream circulation can cause the undulations of the NC, modifying its shape and its strength, and fostering the emergence and zonal displacement of mesoscale to submesoscale eddies. Using an eddy tracking algorithm, we show that the occurrence of mesoscale eddies off this region display a strong inter-annual variability that is linked to the spatio-temporal variability of the NC's characteristics. The NC system thus plays an intermittent role as a transport carrier or barrier of heat, energy, or matter, which has important consequences for neighbouring coastal areas.
+C1 [Bourg, Natacha; Molcard, Anne] Aix Marseille Univ, Univ Toulon, CNRS, MIO,IRD, Toulon, France.
+C3 Aix-Marseille Universite; Centre National de la Recherche Scientifique
+   (CNRS); Institut de Recherche pour le Developpement (IRD)
+RP Bourg, N (通讯作者)，Aix Marseille Univ, Univ Toulon, CNRS, MIO,IRD, Toulon, France.
+EM natacha.bourg@univ-tln.fr
+OI Molcard, Anne/0000-0001-7376-0973; Bourg, Natacha/0000-0003-1228-9529
+FU TOSCA MED-Program; Interreg Marittimo IMPACT; SICOMAR-PLUS; MED-SHAREMED
+FX The maintenance and updating of the radar systems have been supported by
+   successive European projects (TOSCA MED-Program, Interreg Marittimo
+   IMPACT and SICOMAR-PLUS, and MED-SHAREMED). The authors would like to
+   thank the radar team (C.A. Guerin, D. Dumas, A. Gramoulle, C. Quentin,
+   B. Zakardjian, D. Mallarino) for the availability of HFR data and Y.
+   Ourmieres for the model.
+NR 80
+TC 12
+Z9 13
+U1 0
+U2 7
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1616-7341
+EI 1616-7228
+J9 OCEAN DYNAM
+JI Ocean Dyn.
+PD AUG
+PY 2021
+VL 71
+IS 8
+BP 851
+EP 870
+DI 10.1007/s10236-021-01466-9
+EA JUL 2021
+PG 20
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA TM3HL
+UT WOS:000670845300001
+DA 2025-05-29
+ER

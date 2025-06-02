@@ -1,0 +1,63 @@
+PT J
+AU Mishra, SK
+   Appasani, B
+   Jha, AV
+   Garrido, I
+   Garrido, AJ
+AF Mishra, Sunil Kumar
+   Appasani, Bhargav
+   Jha, Amitkumar Vidyakant
+   Garrido, Izaskun
+   Garrido, Aitor J.
+TI Centralized Airflow Control to Reduce Output Power Variation in a
+   Complex OWC Ocean Energy Network
+SO COMPLEXITY
+LA English
+DT Article
+ID WAVE ENERGY; CONTROL STRATEGIES; WELLS TURBINE; RENEWABLE ENERGY; SPEED
+   CONTROL
+AB A centralized airflow control scheme for a complex ocean energy network (OEN) is proposed in this paper to reduce the output power variation (OPV). The OEN is an integrated network of multiple oscillating water columns (OWCs) that are located at different geographical sites connected to a common electrical grid. The complexity of the OWC-OEN increases manifolds due to the integration of several OWCs and design of controllers become very challenging task. So, the centralized airflow control scheme is designed in two stages. In control stage-1, a proportional-integral- (PI-) type controller is designed to provide a common reference command to control stage-2. In control stage-2, the antiwindup PID controllers are implemented for the airflow control of all the OWCs simultaneously. In order to tune the large number of control parameters of this complex system, a fitness function based on integral squared error (ISE) is minimized using the widely adopted particle swarm optimization (PSO) technique. Next, the simulation results were obtained with random wave profiles created using the Joint North Sea Wave Project (JONSWAP) irregular wave model. The OPV of the proposed OWC-OEN was reduced significantly as compared to the individual OWC. It was further observed that the OPV of the proposed scheme was lower than that achieved with uncontrolled and MPPT controlled OWC-OEN. The effect of communication delay on the OPV of the proposed OWC-OEN scheme was also investigated with the proposed controller, which was found to be robust for a delay up to 100 ms.
+C1 [Mishra, Sunil Kumar; Appasani, Bhargav; Jha, Amitkumar Vidyakant] Kalinga Inst Ind Technol, Sch Elect Engn, Bhubaneswar 751024, India.
+   [Garrido, Izaskun; Garrido, Aitor J.] Univ Basque Country UPV EHU, Inst Res & Dev Proc IIDP, Dept Automat Control & Syst Engn, Automat Control Grp ACG,Fac Engn Bilbao, Po Rafael Moreno 3, Bilbao 48013, Spain.
+C3 Kalinga Institute of Industrial Technology (KIIT); University of Basque
+   Country
+RP Mishra, SK (通讯作者)，Kalinga Inst Ind Technol, Sch Elect Engn, Bhubaneswar 751024, India.
+EM sunil.mishrafet@kiit.ac.in; bhargav.appasanifet@kiit.ac.in;
+   amit.jhafet@kiit.ac.in; izaskun.garrido@ehu.es; aitor.garrido@ehu.es
+RI Appasani, Bhargav/ABC-9118-2021; Garrido, Aitor/A-5725-2008; Jha,
+   Amitkumar/AAM-3549-2020; Mishra, Dr. Sunil/IUO-9194-2023; Garrido,
+   Izaskun/K-5388-2014; Appasani, Bhargav/G-4825-2018
+OI Garrido, Izaskun/0000-0002-9801-4130; Mishra, Sunil
+   Kumar/0000-0001-7768-1236; Jha, Amitkumar V./0000-0002-1056-5617;
+   Appasani, Bhargav/0000-0002-0878-7405
+FU Basque Government [IT1207-19]; MCIU/MINECO
+   [RTI2018-094902-B-C21/RTI2018-094902-B-C22]
+FX This work was supported in part by the Basque Government through project
+   IT1207-19 and MCIU/MINECO through
+   RTI2018-094902-B-C21/RTI2018-094902-B-C22 (MCIU/AEI/FEDER, UE).
+NR 49
+TC 8
+Z9 8
+U1 2
+U2 12
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PD AUG 18
+PY 2020
+VL 2020
+AR 2625301
+DI 10.1155/2020/2625301
+PG 16
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA NL6XB
+UT WOS:000567554800001
+OA gold, Green Published
+DA 2025-05-29
+ER

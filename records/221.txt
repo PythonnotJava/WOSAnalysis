@@ -1,0 +1,47 @@
+PT J
+AU Xu, NW
+   Dabiri, JO
+AF Xu, Nicole W.
+   Dabiri, John O.
+TI BIO-INSPIRED OCEAN EXPLORATION
+SO OCEANOGRAPHY
+LA English
+DT Article
+ID OPTIMAL VORTEX FORMATION; CARBON-DIOXIDE; JELLYFISH
+AB Substantial efforts have been made to expand our knowledge of the phys-ics, biology, chemistry, and geography of the ocean using state-of-the-art measurement tools. With new global projects and technological advances, the collaborative efforts of the Ocean Decade (2021-2030) are well on the way to revolutionizing our knowledge of ocean sciences and sustainability. Yet even today, over three-quarters of the seafloor is still unmapped, more than 90% of marine life still awaits discovery and classification, and the number of ocean sensors required to study global phenomena at sufficient tem-poral and spatial resolutions is seemingly intractable. To address this challenge, new approaches such as bio-inspired robotics can expand our existing toolbox and bridge this knowledge gap. The concept of biology-inspired engineering has emerged as a powerful tool to complement traditional engineering approaches to technology development. For example, specific swimming features of jellyfish and fish have been applied to a variety of fields, from vehicular propulsion to wind energy to medical diagnostics. In particular, jellyfish are advantageous model organisms because of their energy efficiency, with the lowest known cost of transport compared to other animals, as well as their ubiquity and survivability in various ocean environments. In this article we highlight the evolution of research into jellyfish-inspired robotic constructs and their potential applications in ocean exploration. After initial projects using entirely engineered materials (i.e., jellyfish -inspired submarine propellers) and tissue engineering methods (i.e., rat cardiac cells seeded on flexible films), recent work to integrate microelectronic systems onto live jelly-fish demonstrates that their swimming speeds can be increased (up to three times com-pared to their baselines) and their energy efficiency can be improved (up to four times compared to their baselines). This shows promise for the robotic control of jellyfish in real-world oceanic environments, where the animals are already distributed globally. Future work can improve the maneuverability of these bio-hybrid jellyfish robots, incor-porate miniaturized sensors to profile regions of interest, and ultimately deploy swarms of these low-power, low-cost robots to obtain high-resolution data and improve ocean climate models. The synergy of bio-inspired technologies with existing ocean measure-ment tools holds promise to push the frontiers of ocean exploration and stewardship.
+C1 [Xu, Nicole W.] US Naval Res Lab, Natl Res Council Postdoctoral Scholar, Labs Computat Phys & Fluid Dynam, Washington, DC 20375 USA.
+   [Xu, Nicole W.] Univ Colorado Boulder, Dept Mech Engn, Boulder, CO 80309 USA.
+   [Dabiri, John O.] CALTECH, Grad Aerosp Labs & Mech Engn, Pasadena, CA USA.
+C3 United States Department of Defense; United States Navy; United States
+   Naval Research Laboratory; University of Colorado System; University of
+   Colorado Boulder; California Institute of Technology
+RP Xu, NW (通讯作者)，US Naval Res Lab, Natl Res Council Postdoctoral Scholar, Labs Computat Phys & Fluid Dynam, Washington, DC 20375 USA.; Xu, NW (通讯作者)，Univ Colorado Boulder, Dept Mech Engn, Boulder, CO 80309 USA.
+EM nicole.xu@colorado.edu; jodabiri@caltech.edu
+OI Xu, Nicole/0000-0002-1649-8718
+NR 67
+TC 3
+Z9 3
+U1 0
+U2 15
+PU OCEANOGRAPHY SOC
+PI ROCKVILLE
+PA P.O. BOX 1931, ROCKVILLE, MD USA
+SN 1042-8275
+J9 OCEANOGRAPHY
+JI Oceanography
+PD SEP
+PY 2022
+VL 35
+IS 2
+BP 35
+EP 48
+DI 10.5670/oceanog.2022.214
+PG 14
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA 5H3MW
+UT WOS:000867587100006
+OA gold
+DA 2025-05-29
+ER

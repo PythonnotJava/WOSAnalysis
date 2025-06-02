@@ -1,0 +1,54 @@
+PT J
+AU Kevlahan, NKR
+   Lemarié, F
+AF Kevlahan, Nicholas K-R
+   Lemarie, Florian
+TI wavetrisk-2.1: an adaptive dynamical core for ocean modelling
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID SHALLOW-WATER EQUATIONS; FINITE-VOLUME; WAVELET METHOD; SIMULATION; TERM
+AB This paper introduces wavetrisk-2.1 (i.e. wavetrisk-ocean), an incompressible version of the atmosphere model wavetrisk-1.x with free surface. This new model is built on the same wavelet-based dynamically adaptive core as wavetrisk, which itself uses dynamico's mimetic vector-invariant multilayer rotating shallow water formulation. Both codes use a Lagrangian vertical coordinate with conservative remapping. The ocean variant solves the incompressible multilayer shallow water equations with inhomogeneous density layers. Time integration uses barotropic-baroclinic mode splitting via an semi-implicit free surface formulation, which is about 34-44 times faster than an unsplit explicit time-stepping. The barotropic and baroclinic estimates of the free surface are reconciled at each time step using layer dilation. No slip boundary conditions at coastlines are approximated using volume penalization. The vertical eddy viscosity and diffusivity coefficients are computed from a closure model based on turbulent kinetic energy (TKE). Results are presented for a standard set of ocean model test cases adapted to the sphere (seamount, upwelling and baroclinic turbulence). An innovative feature of wavetrisk-ocean is that it could be coupled easily to the wavetrisk atmosphere model, thus providing a first building block toward an integrated Earth system model using a consistent modelling framework with dynamic mesh adaptivity and mimetic properties.
+C1 [Kevlahan, Nicholas K-R] McMaster Univ, Dept Math & Stat, Hamilton, ON, Canada.
+   [Lemarie, Florian] Univ Grenoble Alpes, Lab Jean Kuntzmann, CNRS, Grenoble INP,LJK,Inria, Grenoble, France.
+C3 McMaster University; Communaute Universite Grenoble Alpes; Institut
+   National Polytechnique de Grenoble; Universite Grenoble Alpes (UGA);
+   Centre National de la Recherche Scientifique (CNRS); Inria
+RP Kevlahan, NKR (通讯作者)，McMaster Univ, Dept Math & Stat, Hamilton, ON, Canada.
+EM kevlahan@mcmaster.ca
+RI Kevlahan, Nicholas/GYE-0115-2022
+OI Kevlahan, Nicholas/0000-0001-7929-7668
+FU Natural Sciences and Engineering Research Council of Canada (NSERC);
+   Digital Research Alliance of Canada; Compute Ontario
+FX Nicholas K.-R. Kevlahan has been supported by the Natural Sciences and
+   Engineering Research Council of Canada (NSERC). This research was
+   enabled in part by support provided by Compute Ontario and the Digital
+   Research Alliance of Canada.
+NR 44
+TC 3
+Z9 3
+U1 2
+U2 8
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD AUG 31
+PY 2022
+VL 15
+IS 17
+BP 6521
+EP 6539
+DI 10.5194/gmd-15-6521-2022
+PG 19
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA 4E2PB
+UT WOS:000847671800001
+OA Green Submitted, gold
+DA 2025-05-29
+ER

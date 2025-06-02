@@ -1,0 +1,70 @@
+PT J
+AU Berker, M
+   Ünal, P
+   Deveci, BU
+   Ünal, AF
+   Avenoglu, B
+   Özbayoglu, AM
+AF Berker, Metehan
+   Unal, Perin
+   Deveci, Bilgin U.
+   Unal, Aras Firat
+   Avenoglu, Bilgin
+   Ozbayoglu, A. Murat
+TI Autonomous Structural Health Monitoring and Remaining Useful Life
+   Estimation of Floating Offshore Wind Turbine Cables: Part I
+SO JOHNSON MATTHEY TECHNOLOGY REVIEW
+LA English
+DT Article
+DE underwater cables; cable detection; cable tracking; submarine predictive
+   cable maintenance
+ID OBJECT DETECTION; POWER-CABLES; UNDERWATER; TRACKING; CLASSIFICATION;
+   LOCALIZATION; IMAGES
+AB Floating offshore wind (FOW) farms are key in meeting Europe's renewable energy targets, harnessing wind energy from waters 60 m or deeper, where bottom-fixed farms are unfeasible. Additionally, floating structures allow for the installation of larger turbines than stationary farms, which in turn leads to a greater energy output. However, cable failures dramatically impact the energy transmission from the farms and cause most of the financial losses. Monitoring and maintenance tasks are challenging due to the harsh ocean conditions. The FLoating Offshore Wind turbine CAble Monitoring (FLOW-CAM) project, supported by European Union's HORIZON 2020 programme, studies the structural health monitoring (SHM) of defects in the power cables of the FOW farms which encompass inspection and detection applications. An SHM system integrated with a remotely operated vehicle (ROV) was developed for underwater inspection and maintenance, supporting collection and presentation of essential data through an advanced interface. Part I details the technologies and methods used in this research.
+C1 [Berker, Metehan; Unal, Perin; Deveci, Bilgin U.; Avenoglu, Bilgin] TEKNOPAR Ind Automat, Teknopk Ankara,Ivedik OSB Mah 2224 Cad 1 F 48, TR-06378 Yenimahalle, Ankara, Turkiye.
+   [Unal, Aras Firat] Univ Calif Los Angeles UCLA, Henry Samueli Sch Engn, Dept Elect & Comp Engn, Los Angeles, CA 90095 USA.
+   [Avenoglu, Bilgin] Cankaya Univ, Eskisehir Rd 29 Km,Yukariyurtcu Neighbourhood Mima, TR-06790 Etimesgut, Ankara, Turkiye.
+   [Ozbayoglu, A. Murat] TOBB Univ Econ & Technol, Sogutozu St 43, TR-06560 Ankara, Turkiye.
+C3 University of California System; University of California Los Angeles;
+   Cankaya University; TOBB Ekonomi ve Teknoloji University
+RP Berker, M (通讯作者)，TEKNOPAR Ind Automat, Teknopk Ankara,Ivedik OSB Mah 2224 Cad 1 F 48, TR-06378 Yenimahalle, Ankara, Turkiye.
+EM metehanberker99@g.ucla.edu
+RI Ozbayoglu, Ahmet/H-2328-2011
+FU MarTERA partners; French National Research Agency (ANR); Scientific and
+   Technological Research Council of Turkiye (TUBITAK)
+FX FLOW-CAM project is an initiative under the Maritime and Marine
+   Technologies for a New European Research Area (MarTERA) consortium,
+   which is part of the Horizon 2020 ERA-NET Cofund scheme with the goal of
+   advancing maritime and marine technologies in the European research
+   area. Funded by the MarTERA partners, French National Research Agency
+   (ANR) and The Scientific and Technological Research Council of Turkiye
+   (TUBITAK) , the project handles the problem the FOW farm power cable
+   inspection, with the contribution to data analysis work by multinational
+   partners and the essential robotics hardware provided by Desistek
+   Robotik Ltd Sti, Turkiye.
+NR 91
+TC 1
+Z9 1
+U1 2
+U2 2
+PU JOHNSON MATTHEY PUBL LTD CO
+PI ROYSTON
+PA ORCHARD RD, ROYSTON SG8 5HE, HERTFORDSHIRE, ENGLAND
+SN 2056-5135
+J9 JOHNSON MATTHEY TECH
+JI Johns. Matthey Technol. Rev.
+PD APR
+PY 2025
+VL 69
+IS 2
+BP 170
+EP 186
+DI 10.1595/205651324X17125869817025
+PG 17
+WC Chemistry, Physical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA Z1D2M
+UT WOS:001436391000002
+DA 2025-05-29
+ER

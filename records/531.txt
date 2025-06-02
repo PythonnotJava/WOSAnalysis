@@ -1,0 +1,72 @@
+PT J
+AU Peng, Y
+   Liu, HM
+   Guo, HY
+   Gong, Y
+   Shen, F
+   Zhang, Q
+   Li, ZJ
+AF Peng, Yan
+   Liu, Heming
+   Guo, Hengyu
+   Gong, Ying
+   Shen, Fan
+   Zhang, Qin
+   Li, Zhongjie
+TI Toward Highly Sensitive Ocean-Wave Monitoring With Sliding-Triboelectric
+   Effect: Modeling, Experimental Validation, and Demonstration
+SO IEEE-ASME TRANSACTIONS ON MECHATRONICS
+LA English
+DT Article
+DE Monitoring; Sensitivity; Triboelectricity; Measurement by laser beam;
+   Integrated circuit modeling; Sea surface; Magnetic levitation;
+   Multiparameter wave sensor; triboelectric nanogenerator (TENG); wave
+   height; wave velocity
+ID NANOGENERATOR
+AB In recent years, triboelectric nanogenerators (TENGs) have attracted increasing attention in sensing applications. Numerous studies have confirmed that TENG can be used as a sensor to monitor various environmental parameters. However, these works often concentrate solely on a single parameter. Here, we report a highly sensitive multiparameter triboelectric wave sensor (MTWS), comprising a sliding-mode TENG incorporated into flexible magnet layers, a foam ball buoy, and a connecting bar constrained within a linear bearing. A theoretical model, coupled with magnetic prestress, is formulated to predict the electro-mechano behavior of the sensor in response to actual test waves. The experimental results indicate that external magnetic prestress enhances sensor sensitivity, and the predicted wave height aligns well with the commercial sensor results. Based on the proficient energy transmutation advantage of sliding-mode TENG, a remarkable sensitivity of 33.627 mu A/(m/s) and a minimal resolution of 0.00137 m/s are reached in wave velocity monitoring. Importantly, the MTWS shows the ability to monitor wave height, wave speed, and wave period simultaneously. Our research establishes the substantial potential of MTWS as a multifaceted wave-sensing apparatus, rendering it highly adaptable for integration within marine wave surveillance systems.
+C1 [Peng, Yan; Gong, Ying] Shanghai Univ, Inst Artificial Intelligence, Sch Future Technol, Shanghai 200444, Peoples R China.
+   [Peng, Yan] Shanghai Artificial Intelligence Lab, Shanghai 200232, Peoples R China.
+   [Liu, Heming; Shen, Fan; Zhang, Qin; Li, Zhongjie] Shanghai Univ, Sch Mechatron Engn & Automat, Shanghai 200444, Peoples R China.
+   [Guo, Hengyu] Chongqing Univ, Dept Appl Phys, Chongqing 400044, Peoples R China.
+C3 Shanghai University; Shanghai University; Chongqing University
+RP Li, ZJ (通讯作者)，Shanghai Univ, Sch Mechatron Engn & Automat, Shanghai 200444, Peoples R China.
+EM pengyan@shu.edu.cn; 873284457@shu.edu; physghy@cqu.edu.cn;
+   a_going@shu.edu.cn; 20820188@shu.edu.cn; zqin340827@shu.edu.cn;
+   lizhongjie@shu.edu
+RI gong, ying/JUF-7957-2023; Li, Zhongjie/GZG-7180-2022; Guo,
+   Hengyu/HCH-2366-2022
+OI GONG, Ying/0000-0002-8732-992X; Guo, Hengyu/0000-0001-7133-4823
+FU National Natural Science Foundation of China [62001281, 62225308];
+   Shanghai Science and Technology Committee [22dz1204300]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grant 62001281 and Grant 62225308, and in part
+   by Shanghai Science and Technology Committee (No. 22dz1204300).
+NR 40
+TC 19
+Z9 19
+U1 20
+U2 25
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1083-4435
+EI 1941-014X
+J9 IEEE-ASME T MECH
+JI IEEE-ASME Trans. Mechatron.
+PD DEC
+PY 2024
+VL 29
+IS 6
+BP 4630
+EP 4639
+DI 10.1109/TMECH.2024.3382368
+EA APR 2024
+PG 10
+WC Automation & Control Systems; Engineering, Manufacturing; Engineering,
+   Electrical & Electronic; Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Automation & Control Systems; Engineering
+GA P9Z3X
+UT WOS:001324987500001
+DA 2025-05-29
+ER

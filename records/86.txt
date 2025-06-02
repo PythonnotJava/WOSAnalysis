@@ -1,0 +1,64 @@
+PT J
+AU Qin, BY
+   Wang, W
+   Li, W
+   Li, F
+   Ding, T
+AF Qin, Boyu
+   Wang, Wei
+   Li, Wei
+   Li, Fan
+   Ding, Tao
+TI Multiobjective Energy Management of Multiple Pulsed Loads in Shipboard
+   Integrated Power Systems
+SO IEEE SYSTEMS JOURNAL
+LA English
+DT Article
+DE Energy storage; Power system stability; Propulsion; Resource management;
+   Resistance; Generators; Energy consumption; Energy coordination;
+   engineering scenario; pulsed power load (PPL); shipboard integrated
+   power system (SIPS)
+ID COORDINATION
+AB Shipboard integrated power systems (SIPSs) usually have multifaceted operational objectives in engineering scenarios, and many key tasks are performed by multiple pulsed power loads (PPLs) with a high power density. Owing to the complexity of the ocean environment, the optimization of SIPS comprehensive performance remains challenging. This article proposes a multiobjective energy management strategy of multiple PPLs in SIPSs. A multiobjective energy coordination model is formulated. By identifying typical operation modes of the SIPS based on discrepant priority, the PPL utility and maneuverability are incorporated into the comprehensive regulation objective in the form of a weighted sum. In the case of limited energy supply, the service duration is further considered in the optimization objective to meet the high survivability requirements. Reasonable methods are adopted to quantitatively evaluate different performances. Moreover, to improve SIPS survivability in the face of emergencies, a system-level energy allocation scheme with maneuverability enhancement is formulated to coordinate the power consumption of different functions. A particle swarm optimization algorithm with directional guidance and selective evaluation of the nonconvex constraint is proposed to solve the optimization problem effectively. Case studies on a typical SIPS under various working scenarios are presented to validate the effectiveness of the proposed method.
+C1 [Qin, Boyu; Wang, Wei; Ding, Tao] Xi An Jiao Tong Univ, Xian 710049, Peoples R China.
+   [Li, Wei] Univ Sydney, Ctr Distributed & High Performance Comp, Sch Comp Sci, Sydney, NSW 2006, Australia.
+   [Li, Fan] State Grid Econ & Technol Res Inst Co Ltd, Beijing 102209, Peoples R China.
+C3 Xi'an Jiaotong University; University of Sydney
+RP Qin, BY (通讯作者)，Xi An Jiao Tong Univ, Xian 710049, Peoples R China.
+EM qinboyu@xjtu.edu.cn; wangwei1223@stu.xjtu.edu.cn; liwei@it.usyd.edu.au;
+   lifan658@163.com; tding15@mail.xjtu.edu.cn
+RI Li, Fan/GRX-7461-2022; ding, tao/U-7871-2019
+OI Li, Wei/0000-0003-4731-3226
+FU National Natural Science Foundation of China [52177112]
+FX This work was supported by the National Natural Science Foundation of
+   China under Grant 52177112.
+NR 29
+TC 16
+Z9 16
+U1 1
+U2 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1932-8184
+EI 1937-9234
+J9 IEEE SYST J
+JI IEEE Syst. J.
+PD MAR
+PY 2023
+VL 17
+IS 1
+BP 371
+EP 382
+DI 10.1109/JSYST.2022.3147268
+EA FEB 2022
+PG 12
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Operations Research & Management Science; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Operations Research & Management Science;
+   Telecommunications
+GA L8GG6
+UT WOS:000761350500001
+DA 2025-05-29
+ER

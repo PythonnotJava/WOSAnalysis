@@ -1,0 +1,54 @@
+PT J
+AU Loarca, AL
+   Besio, G
+AF Loarca, Andrea Lira
+   Besio, Giovanni
+TI Ocean wave spectrum bias correction through energy conservation for
+   climate change impacts
+SO OCEAN SCIENCE
+LA English
+DT Article
+ID MEDITERRANEAN SEA; VARIABILITY; SURFACE; SYSTEM
+AB A novel bias adjustment technique for 2D directional wave spectra is presented, which accounts for the intra-annual temporal variability of waves and the conservation of the wave energy integrated parameter and its extreme distribution, allowing for shifts in frequency and direction given by the global climate model and regional climate model (GCM-RCM) climate signal for the complete multimodal energy distribution. This work is the first attempt to address the biases inherent in GCM-RCM wave spectrum simulations for an assessment of the magnitudes of the projected changes in a climate change scenario. The bias-correction method is applied to a multimodel ensemble of 17 EURO-CORDEX regional simulations of wave spectra in 11 locations of the Mediterranean Sea. Climate change impacts are assessed by means of the changes between the bias-adjusted ensemble and hindcast wave spectra for mid-century conditions from 2034 until 2060 and end-of-century conditions from 2074 until 2100. The results highlight the need for novel bias-correction techniques that address the complexity of the possible directional and frequency shifts due to climate change, in order to provide an accurate assessment of projected future changes in the wave climate.
+C1 [Loarca, Andrea Lira; Besio, Giovanni] Univ Genoa, Dept Civil Chem & Environm Engn, Via Montallegro 1, I-16145 Genoa, Italy.
+C3 University of Genoa
+RP Loarca, AL (通讯作者)，Univ Genoa, Dept Civil Chem & Environm Engn, Via Montallegro 1, I-16145 Genoa, Italy.
+EM andrea.lira.loarca@unige.it
+RI Besio, Giovanni/B-2633-2012; Lira Loarca, Andrea/A-6712-2017
+OI Besio, Giovanni/0000-0002-0522-9635
+FU Italian Ministry of University and Research; European Union
+   Next-GenerationEU (National Recovery and Resilience Plan-NRRP, Mission
+   4, Component 2, Investment 1.3) - RETURN Extended Partnership [1243,
+   PE0000005]
+FX This research has been supported by the Italian Ministry of University
+   and Research (Young Researchers Seal of Excellence grant-FOCUSMed
+   project) and the European Union Next-GenerationEU (National Recovery and
+   Resilience Plan-NRRP, Mission 4, Component 2, Investment 1.3-D.D. 1243
+   2/8/2022, PE0000005) - RETURN Extended Partnership.
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1812-0784
+EI 1812-0792
+J9 OCEAN SCI
+JI Ocean Sci.
+PD APR 16
+PY 2025
+VL 21
+IS 2
+BP 767
+EP 785
+DI 10.5194/os-21-767-2025
+PG 19
+WC Meteorology & Atmospheric Sciences; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences; Oceanography
+GA 1KL9N
+UT WOS:001467163400001
+DA 2025-05-29
+ER

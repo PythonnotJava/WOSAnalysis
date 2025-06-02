@@ -1,0 +1,81 @@
+PT J
+AU Zhang, XW
+   Yu, XL
+   Ponte, AL
+   Caspar-Cohen, Z
+   Le Gentil, S
+   Wang, L
+   Gong, WP
+AF Zhang, Xinwen
+   Yu, Xiaolong
+   Ponte, Aurelien L.
+   Caspar-Cohen, Zoe
+   Le Gentil, Sylvie
+   Wang, Lu
+   Gong, Wenping
+TI Lagrangian Versus Eulerian Spectral Estimates of Surface Kinetic Energy
+   Over the Global Ocean
+SO JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS
+LA English
+DT Article
+DE Lagrangian-Eulerian comparison; internal tide; near-inertial waves;
+   kinetic energy; global ocean
+ID FRAMEWORK; MODEL; CIRCULATION; STATISTICS; TRANSPORT; WAVES
+AB In this study, we conducted a novel massive Lagrangian simulation experiment based on a global 1/48 degrees tide-resolving numerical simulation of the ocean circulation. This first-time twin experiment enables a comparison between Eulerian (fixed-point) and Lagrangian (along-flow) estimates of kinetic energy (KE) across the global ocean, and the quantification of systematic differences between both types of estimations. This comparison represents an important step forward for the mapping of upper ocean high-frequency variability from Lagrangian observations of the Global Drifter Program. Eulerian KE rotary frequency spectra and band-integrated energy levels (e.g., tidal and near-inertial) serve as references and are compared to Lagrangian estimates. Our analysis reveals that, except for the near-inertial band, Lagrangian velocity spectra are systematically smoother, for example, with wider and lower spectral peaks compared to Eulerian counterparts. On average, Lagrangian KE levels derived from spectral band integrations tend to underestimate Eulerian KE levels at low-frequency and tidal bands, especially in regions with strong low-frequency KE. Better agreement between Lagrangian and Eulerian low-frequency and tidal KE levels is generally found in regions with weak low-frequency KE and/or convergent surface circulation, where Lagrangian particles tend to accumulate. Conversely, Lagrangian and Eulerian near-inertial spectra and energy levels are comparable. Our results demonstrate that Lagrangian estimates may provide a distorted view of low-frequency and tidal variance. To accurately map near-surface velocity climatology at these frequencies from drifter database, conversion methods accounting for the Lagrangian bias need to be developed.
+   Ocean surface currents play a pivotal role in transporting heat and energy across the global ocean, thereby influencing global climate patterns and marine ecosystems. Despite the significant role of ocean currents in the Earth system, the spatial distributions of high-frequency ocean variability are not known accurately at the moment. In this study, we show that the information derived from the movements of surface drifters, which track ocean currents, may help fill this gap. This is demonstrated with global ocean numerical models, which are now able to represent high-frequency variability associated with tides, winds and eddies, and are therefore powerful tools to evaluate ocean multi-scale variability. We compare here fixed-point (i.e., "Eulerian") and along-flow (i.e., "Lagrangian" or drifter) kinetic energy estimates. Our results show that these two different perspectives can be reconciled in the estimation of energy levels, as long as adequate frequency bandwidths are chosen. However, the Lagrangian frame of reference can induce distortions of rapid motion signals compared to the Eulerian frame of reference, particularly in regions where low-frequency kinetic energy is strong and drifter density is low. These findings have implications for the mapping of near-surface velocity climatology at high frequencies from drifter database.
+   The agreement between Lagrangian and Eulerian kinetic energy estimates is evaluated with a twin global numerical simulation experiment Lagrangian and Eulerian tidal energies agree best in regions where low-frequency kinetic energy is weak Near-inertial energy levels derived from Lagrangian and Eulerian frames of reference closely match compared to other frequency bands
+C1 [Zhang, Xinwen; Yu, Xiaolong; Gong, Wenping] Sun Yat sen Univ, Sch Marine Sci, Southern Marine Sci & Engn Guangdong Lab Zhuhai, Zhuhai, Peoples R China.
+   [Ponte, Aurelien L.; Caspar-Cohen, Zoe; Le Gentil, Sylvie; Wang, Lu] Univ Brest, CNRS, Ifremer, IRD,Lab Oceanog Phys & Spatiale,IUEM, Brest, France.
+   [Caspar-Cohen, Zoe] Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA USA.
+   [Wang, Lu] Peking Univ, Engn Sci Coll Engn, Dept Mech, Beijing, Peoples R China.
+C3 Sun Yat Sen University; Southern Marine Science & Engineering Guangdong
+   Laboratory; Southern Marine Science & Engineering Guangdong Laboratory
+   (Zhuhai); Institut de Recherche pour le Developpement (IRD); Centre
+   National de la Recherche Scientifique (CNRS); Universite de Bretagne
+   Occidentale; Institut Universitaire Europeen de la Mer (IUEM); Ifremer;
+   University of California System; University of California San Diego;
+   Scripps Institution of Oceanography; Peking University
+RP Yu, XL (通讯作者)，Sun Yat sen Univ, Sch Marine Sci, Southern Marine Sci & Engn Guangdong Lab Zhuhai, Zhuhai, Peoples R China.; Wang, L (通讯作者)，Univ Brest, CNRS, Ifremer, IRD,Lab Oceanog Phys & Spatiale,IUEM, Brest, France.
+EM yuxlong5@mail.sysu.edu.cn; luwang.ocean@gmail.com
+RI Yu, Xiaolong/AAG-2648-2021; Ponte, Aurelien/J-4296-2013
+OI Gong, Wenping/0000-0002-9334-0359; Wang, Lu/0000-0002-3617-4956; Ponte,
+   Aurelien/0000-0002-0252-6028; Yu, Xiaolong/0000-0001-6748-188X
+FU National Natural Science Foundation of China [42206002, 42361144844];
+   Guangdong Basic and Applied Basic Research Foundation [2023A1515010654];
+   Fundamental Research Funds for the Central Universities, Sun Yat-sen
+   University [24lgqb005]; ANR project [17-CE01-0006-01]
+FX We thank two anonymous reviewers for their insightful feedback. This
+   work was funded by grants from the National Natural Science Foundation
+   of China (42206002, 42361144844), Guangdong Basic and Applied Basic
+   Research Foundation (2023A1515010654), and Fundamental Research Funds
+   for the Central Universities, Sun Yat-sen University (24lgqb005). This
+   work was also supported by ANR project 17-CE01-0006-01 entitled EQUINOx
+   (Disentangling Quasi-geostrophic Motions and Internal Waves in High
+   Resolution Satellite Observations of the Ocean).
+NR 40
+TC 0
+Z9 0
+U1 8
+U2 12
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9275
+EI 2169-9291
+J9 J GEOPHYS RES-OCEANS
+JI J. Geophys. Res.-Oceans
+PD AUG
+PY 2024
+VL 129
+IS 8
+AR e2024JC021057
+DI 10.1029/2024JC021057
+PG 14
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA C3N7G
+UT WOS:001288461000001
+OA Green Submitted, hybrid
+DA 2025-05-29
+ER

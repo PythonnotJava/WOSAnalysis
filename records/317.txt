@@ -1,0 +1,94 @@
+PT J
+AU Grist, JP
+   Sinha, B
+   Hewitt, HT
+   Duchez, A
+   MacLachlan, C
+   Hyder, P
+   Josey, SA
+   Hirschi, JJM
+   Blaker, AT
+   New, AL
+   Scaife, AA
+   Roberts, CD
+AF Grist, Jeremy P.
+   Sinha, Bablu
+   Hewitt, Helene. T.
+   Duchez, Aurelie
+   MacLachlan, Craig
+   Hyder, Patrick
+   Josey, Simon A.
+   Hirschi, Joel J. -M.
+   Blaker, Adam T.
+   New, Adrian. L.
+   Scaife, Adam A.
+   Roberts, Chris D.
+TI Re-emergence of North Atlantic subsurface ocean temperature anomalies in
+   a seasonal forecast system
+SO CLIMATE DYNAMICS
+LA English
+DT Article
+DE Seasonal forecasting; Climate model; Re-emergence
+ID MERIDIONAL OVERTURNING CIRCULATION; SHORT-RANGE; MODEL; PREDICTABILITY;
+   PREDICTION; RESOLUTION; IMPACT; FLUXES; CONFIGURATION; OSCILLATION
+AB A high-resolution coupled ocean atmosphere model is used to study the effects of seasonal re-emergence of North Atlantic subsurface ocean temperature anomalies on northern hemisphere winter climate. A 50-member control ensemble is integrated from 1 September 2007 to 28 February 2008 and compared with a parallel ensemble with perturbed ocean initial conditions. The perturbation consists of a density-compensated subsurface Atlantic temperature anomaly corresponding to the observed subsurface temperature anomaly for September 2010. The experiment is repeated for two atmosphere horizontal resolutions (similar to 60 km and similar to 25 km) in order to determine whether the sensitivity of the atmosphere to re-emerging temperature anomalies is dependent on resolution. A wide range of re-emergence behavior is found within the perturbed ensembles. While the observations seem to indicate that most of the re-emergence is occurring in November, most members of the ensemble show re-emergence occurring later in the winter. However, when re-emergence does occur it is preceded by an atmospheric pressure pattern that induces a strong flow of cold, dry air over the mid-latitude Atlantic, and enhances oceanic latent heat loss. In response to re-emergence (negative SST anomalies), there is reduced latent heat loss, less atmospheric convection, a reduction in eddy kinetic energy and positive low-level pressure anomalies downstream. Within the framework of a seasonal forecast system the results highlight the atmospheric conditions required for re-emergence to take place and the physical processes that may lead to a significant effect on the winter atmospheric circulation.
+C1 [Grist, Jeremy P.; Sinha, Bablu; Duchez, Aurelie; Josey, Simon A.; Hirschi, Joel J. -M.; Blaker, Adam T.; New, Adrian. L.] Natl Oceanog Ctr, European Way, Southampton SO14 3ZH, Hants, England.
+   [Hewitt, Helene. T.; MacLachlan, Craig; Hyder, Patrick; Scaife, Adam A.; Roberts, Chris D.] Met Off, Hadley Ctr, Fitzroy Rd, Exeter EX1 3PB, Devon, England.
+   [Scaife, Adam A.] Univ Exeter, Coll Engn Math & Phys Sci, Exeter, Devon, England.
+   [Roberts, Chris D.] European Ctr Medium Range Weather Forecasts ECMWF, Shinfield Pk, Reading, Berks, England.
+C3 NERC National Oceanography Centre; University of Southampton; Met Office
+   - UK; Hadley Centre; University of Exeter; European Centre for
+   Medium-Range Weather Forecasts (ECMWF)
+RP Grist, JP (通讯作者)，Natl Oceanog Ctr, European Way, Southampton SO14 3ZH, Hants, England.
+EM jeremy.grist@noc.ac.uk; bablu.sinha@noc.ac.uk;
+   Helene.hewitt@metoffice.gov.uk; a.duchez@noc.ac.uk;
+   craig.maclachlan@metoffice.gov.uk; pat.hyder@metoffice.gov.uk;
+   simon.josey@noc.ac.uk; joel.hirschi@noc.ac.uk; adam.blaker@noc.ac.uk;
+   adrian.new@noc.ac.uk; adam.scaife@metoffice.gov.uk;
+   chris.roberts@ecmwf.int
+RI Roberts, Christopher/F-6197-2011; Blaker, Adam/I-8861-2012; Scaife,
+   Adam/ADN-9599-2022; New, Adrian/JVZ-4824-2024; Hirschi,
+   Joel/IAR-8942-2023; Roberts, Chris/M-9058-2018; Grist,
+   Jeremy/B-4517-2012
+OI Roberts, Chris/0000-0002-2958-6637; Blaker, Adam/0000-0001-5454-0131;
+   New, Adrian/0000-0002-3159-8872; Grist, Jeremy/0000-0003-1068-9211;
+   Hewitt, Helene/0000-0001-7432-6001
+FU Natural Environment Research Council of the UK [NE/N018044/1]; UK-China
+   Research and Innovation Partnership Fund through the Met Office Climate
+   Science for Service Partnership (CSSP) China, Newton Fund; NERC
+   [noc010010, NE/N018044/1, NE/N018001/1] Funding Source: UKRI
+FX JPG, BS, SAJ, JJM, ATB, and ALN were funded by 'The North Atlantic
+   Climate System Integrated Study: ACSIS', programme (NE/N018044/1) of the
+   Natural Environment Research Council of the UK and by the UK-China
+   Research and Innovation Partnership Fund through the Met Office Climate
+   Science for Service Partnership (CSSP) China as part of the Newton Fund.
+   The data presented in this paper is available from the corresponding
+   author upon request.
+NR 43
+TC 9
+Z9 9
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0930-7575
+EI 1432-0894
+J9 CLIM DYNAM
+JI Clim. Dyn.
+PD OCT
+PY 2019
+VL 53
+IS 7-8
+BP 4799
+EP 4820
+DI 10.1007/s00382-019-04826-w
+PG 22
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA JD1SC
+UT WOS:000489753900059
+OA Green Submitted, hybrid, Green Accepted
+DA 2025-05-29
+ER

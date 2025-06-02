@@ -1,0 +1,54 @@
+PT J
+AU Pincheira, R
+   Zúñiga, F
+   Valencia, F
+AF Pincheira, Roxana
+   Zuniga, Felipe
+   Valencia, Francisco
+TI An environmental measurement for a dynamic and endogenous global
+   environmental Kuznets curve in the global context
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Gross domestic product; Economic growth; Planetary boundaries;
+   Environmental Kuznets curve; Conventional econometric methods; System
+   generalized method of moments
+ID POLLUTION HAVEN HYPOTHESIS; CARBON-DIOXIDE EMISSIONS; UNIT-ROOT TESTS;
+   ECONOMIC-GROWTH; CO2 EMISSIONS; ENERGY-CONSUMPTION; PANEL-DATA;
+   FINANCIAL DEVELOPMENT; PLANETARY BOUNDARIES; ECOLOGICAL FOOTPRINT
+AB Planetary boundaries (PB) is a novel conceptual framework that assesses the state of processes fundamental to the stability of the Earth system. Studies argue a non-linear relationship between economy and environmental degradation, known as the environmental Kuznets curve (EKC). We postulate this inverted-U association between PB and economic output in a worldwide sample. This paper, therefore, examines the correlation between changes in environmental conditions and global economic growth, incorporating the growth rate of key control variables (population, financial development, merchandise trade and regulations). Thus, we intend to identify and address the main gaps in these EKC studies and analyse the impacts of worldwide economic growth on global environmental change. PB variables are identified as the more integrated perspective with regard to this change. These planetary boundaries include various proxies: global CO2 concentration as a climate change proxy, threatened species for biodiversity loss, the total ozone for ozone depletion, mean surface ocean hydrogen ion concentration for ocean acidification and global fertiliser consumption for biochemical cycles. Under this integrated perspective, the EKC hypothesis is supported for climate change and ocean acidification panels using a dynamic system generalized method of moments (GMM) approach. Meanwhile, biochemical cycles, ozone depletion and freshwater use, land change and biodiversity loss boundaries do not support the existence of the EKC shape using the same methodology. The results provide an additional and novel view to be factored into the decisions of policymaker and investment institutions to contribute to sustainable development in all countries.
+C1 [Pincheira, Roxana; Zuniga, Felipe; Valencia, Francisco] Univ Austral Chile, Inst Adm, Fac Ciencias Econ & Adm, Los Laureles 35 Interior,Campus Isla Teja, Valdivia, Chile.
+C3 Universidad Austral de Chile
+RP Pincheira, R (通讯作者)，Univ Austral Chile, Inst Adm, Fac Ciencias Econ & Adm, Los Laureles 35 Interior,Campus Isla Teja, Valdivia, Chile.
+EM roxana.pincheira@uach.cl
+RI Pincheira, Roxana/ABA-3518-2020; Zuniga, Felipe/KGL-3015-2024
+OI Pincheira, Roxana/0000-0002-2673-3996; , Felipe/0000-0002-7141-2155
+NR 140
+TC 14
+Z9 14
+U1 1
+U2 11
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD DEC
+PY 2021
+VL 28
+IS 46
+BP 65573
+EP 65594
+DI 10.1007/s11356-021-14795-5
+EA JUL 2021
+PG 22
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology
+GA XG8GH
+UT WOS:000678513500009
+PM 34319526
+DA 2025-05-29
+ER

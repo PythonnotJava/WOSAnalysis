@@ -1,0 +1,56 @@
+PT J
+AU Sun, SY
+   Gao, RL
+   Li, YY
+   Ren, K
+AF Sun, Shi Yan
+   Gao, Ruili
+   Li, Yueyang
+   Ren, Kang
+TI Hydrodynamic analysis of a floating platform integrated with buoys and
+   spring components for energy conversion
+SO FRONTIERS IN ENERGY RESEARCH
+LA English
+DT Article
+DE wave energy converter; coupled motion; PLATFORM; combined system; energy
+   conversion
+ID POWER CAPTURE PERFORMANCE; WAVE; SYSTEM; VLFS
+AB Introduction: The study presents an integrated system comprising a central platform and four wave-energy converters, with a focus on investigating their coupled motions induced by ocean waves. The interaction between the buoys and the central platform is achieved through the implementation of spring components. The power take-off system is simulated by incorporating damping coefficients and stiffness into these spring components, enabling a detailed analysis of the energy conversion of such system.Methods: Numerical simulations based on the continuity equation and the Reynolds-Averaged Navier-Stokes (RANS) equations, coupled with the realizable k - epsilon turbulence model, are conducted. The two-phase flow model employs the Volume of Fluid (VOF) method to accurately capture free surface elevations. Additionally, frequency-domain predictions, based on the linearized velocity potential flow theory, are provided for a single central platform and buoy for comparative purposes.Results: Detailed results regarding the effects of wave frequency and the damping coefficient of the power take-off system are presented.Discussion: The results reveal that while both the platform's motion and the relative motions between buoys and the platform are suppressed, the absolute motion of buoys varies depending on their respective locations within the system and ocean waves. This variation is deeply influenced by the interaction between incident, reflected and diffracted waves within the system.
+C1 [Sun, Shi Yan; Gao, Ruili; Li, Yueyang] Jiangsu Univ Sci & Technol, Sch Naval Architecture & Ocean Engn, Zhenjiang, Peoples R China.
+   [Ren, Kang] UCL, Dept Mech Engn, London, England.
+C3 Jiangsu University of Science & Technology; University of London;
+   University College London
+RP Ren, K (通讯作者)，UCL, Dept Mech Engn, London, England.
+EM k.ren@ucl.ac.uk
+RI Ren, Kang/MVT-9280-2025
+FU Royal Society [IEC\NSFC\223358]; National Natural Science Foundation of
+   China [52271276]
+FX The author(s) declare that financial support was received for the
+   research, authorship, and/or publication of this article. This work is
+   supported by the Royal Society (Grant No. IEC\NSFC\223358) and the
+   National Natural Science Foundation of China (Grant No. 52271276).
+NR 17
+TC 0
+Z9 0
+U1 3
+U2 10
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 2296-598X
+J9 FRONT ENERGY RES
+JI Front. Energy Res.
+PD APR 18
+PY 2024
+VL 12
+AR 1399784
+DI 10.3389/fenrg.2024.1399784
+PG 11
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA OZ4V8
+UT WOS:001211095300001
+OA gold
+DA 2025-05-29
+ER

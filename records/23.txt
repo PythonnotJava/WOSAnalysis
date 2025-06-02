@@ -1,0 +1,53 @@
+PT J
+AU Copping, A
+   Hanna, L
+   Van Cleve, B
+   Blake, K
+   Anderson, RM
+AF Copping, Andrea
+   Hanna, Luke
+   Van Cleve, Brie
+   Blake, Kara
+   Anderson, Richard M.
+TI Environmental Risk Evaluation System-an Approach to Ranking Risk of
+   Ocean Energy Development on Coastal and Estuarine Environments
+SO ESTUARIES AND COASTS
+LA English
+DT Article
+DE Ocean energy devices; Environmental risk assessment; Tidal energy
+   generation; Wave energy generation; Offshore wind energy generation
+ID WIND FARM CONSTRUCTION; TIDAL CURRENT ENERGY; RENEWABLE ENERGY;
+   POTENTIAL IMPACTS; BOOSTER BIOCIDES; KILLER WHALES; BARRIERS; COSTS
+AB The pressure to develop new and renewable forms of energy to combat climate change, ocean acidification, and energy security has encouraged exploration of sources of power generation from the ocean. One of the major challenges to deploying these devices is discerning the likely effects those devices and associated systems will have on the marine environment. Determining the effects each device design and deployment system may have on specific marine animals and habitats, estimating the extent of those effects upon the resiliency of the ecosystem, and designing appropriate mitigation measures to protect against degradation all pose substantial challenges. With little direct observational or experimental data available on the effects of wave, tidal, and offshore wind devices on marine animals, habitats, and ecosystem processes, researchers have developed the Environmental Risk Evaluation System (ERES) to provide preliminary assessments of these risks and to act as a framework for integrating future data on direct interactions of ocean energy devices with the environment. Using biophysical risk factors, interactions of marine animals and seabirds, with ocean energy devices and systems, are examined; potential effects on habitats, and changes in processes such as sedimentation patterns and water quality, are also considered. The risks associated with specific interactions for which data are more readily available are explored including interactions between ocean energy devices and surface vessels, toxicity of anti-biofouling paints, and potential for harm to animals from turbine blade strike. ERES also examines the effect that environmental regulations have on the deployment and operation of ocean energy devices.
+C1 [Copping, Andrea; Hanna, Luke; Van Cleve, Brie; Blake, Kara] Pacific NW Natl Lab, Seattle, WA 98109 USA.
+C3 United States Department of Energy (DOE); Pacific Northwest National
+   Laboratory
+RP Copping, A (通讯作者)，Pacific NW Natl Lab, Seattle, WA 98109 USA.
+EM andrea.copping@pnnl.gov
+NR 93
+TC 20
+Z9 26
+U1 0
+U2 137
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1559-2723
+EI 1559-2731
+J9 ESTUAR COAST
+JI Estuaries Coasts
+PD JAN
+PY 2015
+VL 38
+SU 1
+BP S287
+EP S302
+DI 10.1007/s12237-014-9816-3
+PG 16
+WC Environmental Sciences; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA AZ0TE
+UT WOS:000347956700024
+DA 2025-05-29
+ER

@@ -1,0 +1,81 @@
+PT J
+AU Pereda, PC
+   Lucchesi, A
+   Oliveira, TD
+   Wolf, R
+   Marques, CH
+   Assis, LF
+   Caprace, JD
+AF Pereda, Paula Carvalho
+   Lucchesi, Andrea
+   Oliveira, Thais Diniz
+   Wolf, Rayan
+   Marques, Cristofer Hood
+   Assis, Luiz Felipe
+   Caprace, Jean-David
+TI Sustainable Shipping: Modeling Economic and Greenhouse Gas Impacts of
+   Decarbonization Policies (Part II)
+SO SUSTAINABILITY
+LA English
+DT Article
+DE shipping decarbonization; economic impact assessment; market-based
+   measures; climate policy; IMO Strategy
+ID FUEL-ECONOMY; CARBON TAX; EMISSIONS; STANDARDS; TRADE
+AB Maritime transport carries over 80% of global trade by volume and remains the most energy-efficient mode for long-distance goods movement. However, the sector contributes approximately 3% of global Greenhouse Gas (GHG) emissions, a share that could rise to 17% by 2050 without effective regulation. In response, the International Maritime Organization (IMO) has introduced initial and short-term measures to enhance energy efficiency and reduce emissions. In 2023, IMO Strategy expanded on these efforts with medium-term measures, including Market-Based Mechanisms (MBMs) such as a GHG levy, a feebate system, and fuel intensity regulations combined with carbon pricing. This study evaluates the economic and environmental impacts of these measures using an integrated computational simulation model that combines Ocean Engineering and Economics. Our results indicate that all proposed measures support the IMO's intermediate emission reduction targets through 2035, cutting absolute emissions by more than 50%. However, economic impacts vary significantly across regions, with most of Africa, Asia, and South America experiencing the greatest adverse effects on GDP and trade. Among the measures, the GHG levy exerts the strongest pressure on economic activity and food prices, while a revised fuel intensity mechanism imposes lower costs, particularly in the short term. Revenue redistribution mitigates GDP losses but does so unevenly across regions. By leveraging a general equilibrium model (GTAP) to capture indirect effects often overlooked in prior studies, this analysis provides a comprehensive comparison of policy impacts. The findings underscore the need for equitable and pragmatic decarbonization strategies in the maritime sector, contributing to ongoing IMO policy discussions.
+C1 [Pereda, Paula Carvalho; Oliveira, Thais Diniz; Wolf, Rayan] Univ Sao Paulo, Dept Econ, BR-05508010 Sao Paulo, Brazil.
+   [Lucchesi, Andrea] Univ Sao Paulo, Sch Arts Sci & Humanities, BR-03838000 Sao Paulo, Brazil.
+   [Oliveira, Thais Diniz] Cornell Univ, Dept Global Dev, Ithaca, NY 14850 USA.
+   [Wolf, Rayan] Purdue Univ, Dept Agr Econ, W Lafayette, IN 47907 USA.
+   [Marques, Cristofer Hood] Fed Univ Rio Grande FURG, Sch Engn, BR-96203900 Rio Grande, Brazil.
+   [Assis, Luiz Felipe; Caprace, Jean-David] Fed Univ Rio De Janeiro UFRJ, Ocean Engn, BR-21941901 Rio De Janeiro, Brazil.
+C3 Universidade de Sao Paulo; Universidade de Sao Paulo; Cornell
+   University; Purdue University System; Purdue University
+RP Pereda, PC (通讯作者)，Univ Sao Paulo, Dept Econ, BR-05508010 Sao Paulo, Brazil.; Caprace, JD (通讯作者)，Fed Univ Rio De Janeiro UFRJ, Ocean Engn, BR-21941901 Rio De Janeiro, Brazil.
+EM pereda@usp.br; andrea.lucchesi@usp.br; thaisdinizoliveira@usp.br;
+   rayan.wolf@uems.br; cristoferhood@furg.br; felipe@oceanica.ufrj.br;
+   jdcaprace@oceanica.ufrj.br
+RI Lucchesi, Andrea/H-8204-2014; Marques, Crístofer/AAZ-6858-2020;
+   Oliveira, Thais/ABH-9894-2020; Caprace, Jean David/I-5783-2013
+FU Coordination of Superior Level Staff Improvement [001]; National Council
+   for Scientific and Technological Development (CNPq-Brazil)
+   [405923/2022-8, 309238/2020-0]; Institute of Economic Research
+   Foundation (FIPE) [5705]; National Council for Scientific and
+   Technological Development (CNPq) [304221/2022-8, 2014/50848-9]
+FX This study was financed in part by the Coordination of Superior Level
+   Staff Improvement (CAPES-Brazil), finance Code 001, and the National
+   Council for Scientific and Technological Development (CNPq-Brazil),
+   grants 405923/2022-8 (J.D.C.) and 309238/2020-0 (J.D.C.). We also would
+   like to thanks the Institute of Economic Research Foundation (FIPE),
+   under Project 5705 (P.P.), for the financial support, as well as the
+   National Council for Scientific and Technological Development (CNPq) and
+   FAPESP research grants 304221/2022-8 (P.P.) and 2014/50848-9 (P.P.),
+   respectively. The opinions, hypotheses, and conclusions or
+   recommendations expressed in this paper are the responsibility of the
+   authors and do not necessarily reflect the views of funders.
+NR 41
+TC 1
+Z9 1
+U1 1
+U2 1
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD APR 22
+PY 2025
+VL 17
+IS 9
+AR 3765
+DI 10.3390/su17093765
+PG 26
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 2NG2B
+UT WOS:001486683600001
+OA gold
+DA 2025-05-29
+ER

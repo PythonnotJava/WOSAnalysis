@@ -1,0 +1,81 @@
+PT J
+AU Gardner, WD
+   Richardson, MJ
+   Mishonov, AV
+   Biscaye, PE
+AF Gardner, Wilford D.
+   Richardson, Mary Jo
+   Mishonov, Alexey, V
+   Biscaye, Pierre E.
+TI Global comparison of benthic nepheloid layers based on 52 years of
+   nephelometer and transmissometer measurements
+SO PROGRESS IN OCEANOGRAPHY
+LA English
+DT Article
+ID SEDIMENT-TRANSPORT PROCESSES; BOTTOM BOUNDARY-LAYER; DEEP-SEA;
+   ORGANIC-CARBON; PARTICULATE MATTER; GULF-STREAM; OCEAN; ATLANTIC;
+   STORMS; DYNAMICS
+AB Global maps of maximum bottom particle concentration, benthic nepheloid layer thickness, and integrated particle mass in benthic nepheloid layers (BNL) based on 2412 global profiles collected using the Lamont Thorndike nephelometer from 1964 to 1984 are compared with maps of those same properties compiled from 6392 global profiles measured by transmissometers from 1979 to 2016. Outputs from both instruments were converted to particulate matter concentration (PM). The purposes of this paper are to compare global differences and similarities in the location and intensity of BNLs measured with these two independent instruments over slightly overlapping decadal time periods, to combine the data sets in order to expand the time scale of global in situ measurements of BNLs, and to gain insight about the factors creating/sustaining BNLs. The similarity between general locations of high and low particle concentration BNLs during the two time periods indicates that the driving forces of erosion and resuspension of bottom sediments are spatially persistent during recent decadal time spans, though in areas of strong BNLs, intensity is highly episodic. Topography and well-developed current systems play a role. These maps will help to understand deep ocean sediment dynamics, linkage with upper ocean dynamics, the potential for scavenging of adsorption-prone elements near the seafloor, and provide a comprehensive comparison of these data sets on a global scale.
+   During both time periods, BNLs are weak or absent in most of the Pacific, Indian, and Atlantic basins away from continental margins. High surface eddy kinetic energy is associated with the Kuroshio Current east of Japan. Both data sets show weak BNLs south of the Kuroshio, but no transmissometer data have been collected beneath the Kuroshio itself. Sparse nephelometer data show moderate BNLs just north of the Kuroshio Extension, but with much lower concentrations than beneath the Gulf Stream. Strong BNLs are found in areas where eddy kinetic energy in overlying waters, mean kinetic energy near bottom, and energy dissipation within the bottom boundary layer are high. Areas of strongest BNLs include the Western North Atlantic, Argentine Basin (South Atlantic), areas around South Africa tied to the Agulhas Current region, and somewhat random locations in the Antarctic Circumpolar Current of the Southern Ocean.
+C1 [Gardner, Wilford D.; Richardson, Mary Jo] Texas A&M Univ, Dept Oceanog, College Stn, TX 77843 USA.
+   [Mishonov, Alexey, V] Univ Maryland, Cooperat Inst Climate & Satellites CICS MD, NCEI, NOAA Affiliate, Silver Spring, MD 20910 USA.
+   [Biscaye, Pierre E.] Columbia Univ, Lamont Doherty Earth Observ, Palisades, NY 10964 USA.
+C3 Texas A&M University System; Texas A&M University College Station;
+   Columbia University
+RP Gardner, WD (通讯作者)，Texas A&M Univ, Dept Oceanog, College Stn, TX 77843 USA.
+EM wgardner@ocean.tamu.edu; mrichardson@ocean.tamu.edu;
+   alexey.mishonov@noaa.gov; biscaye@ldeo.columbia.edu
+RI Gardner, Wilford/E-2579-2012; Mishonov, Alexey/F-3211-2011
+OI Mishonov, Alexey/0000-0002-2958-8747
+FU US National Science Foundation [OCE-1536565]; CICS-MD/ESSIC/University
+   of Maryland, (US); NCEI/NOAA, (US); US NSF [OCE-8717231, OCE-9022348,
+   OCE-9310961, OCE-9530837, OCE-9986762]; US Office of Naval Research
+   [N00014 -80-C-0098, N00014 -89-J-1478]
+FX We thank Lawrence Sullivan and his team for their invaluable expertise
+   in preparing and deploying the Lamont-Thorndike nephelometers, and
+   producing quality E/E<INF>D</INF> data from the 52 cruises involved in
+   this work for over > 20 years. We also extend thanks to Mary Parsons,
+   Adele Hanley, Adrian Heredia plus other personnel aboard numerous ships,
+   and many colleagues for help in collecting and processing these data. We
+   thank Rebecca Gray Thomas and Kenna Nolen for digitizing the KN74
+   CTD/Transmissometer data. We thank our students, colleagues and the many
+   technicians on numerous cruises during the last 37 years for their
+   assistance in collecting and analyzing the transmissometer data
+   presented here. Supportive cooperation was provided by many personnel
+   from Ocean Data Facility at Scripps, NOAA personnel, and the many chief
+   scientists during the WOCE, JGOFS, CLIVAR Repeat Hydrography, and
+   GO-SHIP programs. The comments improve the paper. Synthesis of these
+   data has been supported by: US National Science Foundation (contract
+   OCE-1536565 to Gardner and Richardson), cooperation with
+   CICS-MD/ESSIC/University of Maryland, NCEI/NOAA, (both US) and support
+   from the Earl F. Cook Professorship (Gardner). We received funding from
+   US NSF for SAVE (OCE-8717231) and JGOFS programs (OCE-9022348,
+   OCE-9310961, OCE-9530837, and OCE-9986762), and from US Office of Naval
+   Research for HEBBLE (N00014 -80-C-0098) and for NABE (N00014
+   -89-J-1478).
+NR 63
+TC 47
+Z9 49
+U1 2
+U2 33
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0079-6611
+J9 PROG OCEANOGR
+JI Prog. Oceanogr.
+PD NOV
+PY 2018
+VL 168
+BP 100
+EP 111
+DI 10.1016/j.pocean.2018.09.008
+PG 12
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA HE0FX
+UT WOS:000452943300009
+OA Bronze
+DA 2025-05-29
+ER

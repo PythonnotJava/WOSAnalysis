@@ -1,0 +1,45 @@
+PT J
+AU Konduru, S
+   Naveen, C
+AF Konduru, Sudharshan
+   Naveen, C.
+TI Intelligent hybrid deep learning models for enhanced shipboard solar
+   irradiance prediction and charging station
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Solar irradiance forecasting; Suez Canal sea route; Deep learning
+   models; Trade improvement; Time series models; Residual ensembling
+ID SYSTEM
+AB Electrifying marine routes with solar energy significantly reduces ocean carbon emissions, playing a vital role in climate regulation. Solar irradiance forecasting ensures reliable power despite unpredictable sea weather, necessitating innovative model development. This research presents a forecasting model designed for the optimal placement of solar charging stations, providing hour-ahead solar irradiance predictions for onboard solar vessels. India (Jawaharlal Nehru Port Trust)- United States (Port of New York and New Jersey) sea route is selected to test our proposed forecasting model, as it aligns with busy shipping operations and long-distance trade requirements for electrification. Two distinct procedures by two case studies are used to select optimum data to predict the suitable locations for solar charging stations along the navigation route. In the first case study (Medium data analysis - MDA), the data are selected based on a statistical analysis of twenty years of hourly solar irradiance data from 201 locations. In the second case study (Large data analysis - LDA), two years of seasonal data from 201 locations are chosen and combined to form a large amount of hourly data. For both case studies, a hybrid solar irradiance forecasting model (ARIMA - Bi - LSTM) is developed by integrating the deep learning model with the time series model and fine-tuning them using optimization algorithms (PSO and GA). In MDA, the PSO optimization achieves mean absolute error (MAE) values of 0.32, 0.85, 1.83, 1.40, and 1.33 W/m(2) for locations 1, 2, 3, 4, and 5, respectively, significantly outperforming the GA, which has MAE values of 1.36, 1.65, 3.25, 0.92, and 1.41 W/m(2) for the same locations. In LDA, the PSO model achieves MAE values of 0.79, 0.91, 0.28, and 0.39 W/m(2) for winter, rain, summer, and spring, respectively, also outperforming the GA, which has MAE values of 1.54, 2.17, 0.99, and 1.46 W/m(2) for the same seasons. Comparatively, the LDA reinforces its best alignment to predict optimal charging station locations.
+C1 [Konduru, Sudharshan; Naveen, C.] SRM Inst Sci & Technol, Dept Elect & Elect Engn, Chennai 603203, Tamil Nadu, India.
+C3 SRM Institute of Science & Technology Chennai
+RP Naveen, C (通讯作者)，SRM Inst Sci & Technol, Dept Elect & Elect Engn, Chennai 603203, Tamil Nadu, India.
+EM leonaveen173@gmail.com
+OI C, NAVEEN/0000-0002-7880-6747
+NR 37
+TC 0
+Z9 0
+U1 8
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+EI 1879-0682
+J9 RENEW ENERG
+JI Renew. Energy
+PD NOV
+PY 2024
+VL 235
+AR 121281
+DI 10.1016/j.renene.2024.121281
+EA SEP 2024
+PG 11
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA L0X0Y
+UT WOS:001348028700001
+DA 2025-05-29
+ER

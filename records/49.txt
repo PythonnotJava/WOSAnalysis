@@ -1,0 +1,57 @@
+PT J
+AU Nienhuis, RM
+   van Rooij, M
+   Prins, WA
+   Jayawardhana, B
+   Vakis, AI
+AF Nienhuis, R. M.
+   van Rooij, M.
+   Prins, W. A.
+   Jayawardhana, B.
+   Vakis, A. I.
+TI Investigating the efficiency of a novel offshore pumped hydro energy
+   storage system: Experimental study on a scale prototype
+SO JOURNAL OF ENERGY STORAGE
+LA English
+DT Article
+DE Pumped hydro storage; Energy storage system; Underwater energy storage;
+   Offshore energy storage; Renewable energy
+ID OPERATION
+AB We introduce a novel offshore pumped hydro energy storage system, the Ocean Battery, which can be integrated with variable renewable energy sources to provide bulk energy storage. Its working principle is based on that of conventional pumped hydro storage with notable differences: the Ocean Battery is installed on the seabed, is powered by the hydrostatic pressure at the depth of deployment, and uses conditioned water as a working fluid within a closed hydraulic system to minimize the effects of corrosion and biofouling on the internal system. Herein we focus on the novel aspects of the Ocean Battery to investigate their effects on performance relative to that of conventional pumped hydro storage. Specifically, we present an analytical model that accounts for energy losses in the hydraulic system to predict pressures and flow velocities under different operating conditions and validate model predictions with measurements performed on an experimental small-scale prototype deployed in a relevant sea environment. Following validation, we use the model to estimate the round-trip efficiency of a scaled-up hydraulic system connected to pumps and turbines working at peak efficiencies, with the latter adopted from literature. The round-trip efficiency of such a scaled-up system is shown to be comparable to that of conventional pumped hydro storage.
+C1 [Nienhuis, R. M.; Prins, W. A.; Vakis, A. I.] Univ Groningen, Engn & Technol Inst Groningen, Computat Mech & Mat Engn, NL-9747AG Groningen, Netherlands.
+   [Jayawardhana, B.] Univ Groningen, Engn & Technol Inst Groningen, Discrete Technol & Prod Automat, NL-9747AG Groningen, Netherlands.
+   [Nienhuis, R. M.; van Rooij, M.] Ocean Grazer BV, Stationsweg 3b, NL-9726 AC Groningen, Netherlands.
+C3 University of Groningen; University of Groningen
+RP Vakis, AI (通讯作者)，Univ Groningen, Engn & Technol Inst Groningen, Computat Mech & Mat Engn, NL-9747AG Groningen, Netherlands.
+EM a.vakis@rug.nl
+RI Vakis, Antonis/B-3371-2008
+OI Jayawardhana, Bayu/0000-0003-0987-0347; Nienhuis,
+   Robbert/0000-0003-3025-2818
+NR 37
+TC 8
+Z9 8
+U1 15
+U2 35
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-152X
+EI 2352-1538
+J9 J ENERGY STORAGE
+JI J. Energy Storage
+PD DEC 25
+PY 2023
+VL 74
+AR 109374
+DI 10.1016/j.est.2023.109374
+EA OCT 2023
+PN A
+PG 13
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA Y4CM6
+UT WOS:001104759600001
+OA Green Published, hybrid
+DA 2025-05-29
+ER

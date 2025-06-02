@@ -1,0 +1,82 @@
+PT J
+AU Yu, S
+   Mathur, R
+   Pleim, J
+   Wong, D
+   Gilliam, R
+   Alapaty, K
+   Zhao, C
+   Liu, X
+AF Yu, S.
+   Mathur, R.
+   Pleim, J.
+   Wong, D.
+   Gilliam, R.
+   Alapaty, K.
+   Zhao, C.
+   Liu, X.
+TI Aerosol indirect effect on the grid-scale clouds in the two-way coupled
+   WRF-CMAQ: model description, development, evaluation and regional
+   analysis
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+LA English
+DT Article
+ID UNBIASED SYMMETRIC METRICS; ATMOSPHERIC BOUNDARY-LAYER; SECONDARY
+   ORGANIC AEROSOLS; NONLOCAL CLOSURE-MODEL; LAND-SURFACE MODEL; RADIATION
+   BUDGET; ICE-NUCLEATION; PART II; ANTHROPOGENIC AEROSOLS; MARINE
+   STRATOCUMULUS
+AB This study implemented first, second and glaciation aerosol indirect effects (AIE) on resolved clouds in the two-way coupled Weather Research and Forecasting Community Multiscale Air Quality (WRF-CMAQ) modeling system by including parameterizations for both cloud drop and ice number concentrations on the basis of CMAQ-predicted aerosol distributions and WRF meteorological conditions. The performance of the newly developed WRF-CMAQ model, with alternate Community Atmospheric Model (CAM) and Rapid Radiative Transfer Model for GCMs (RRTMG) radiation schemes, was evaluated with observations from the Clouds and the See http://ceres.larc.nasa.gov/. Earth's Radiant Energy System (CERES) satellite and surface monitoring networks (AQS, IMPROVE, CASTNET, STN, and PRISM) over the continental US (CONUS) (12 km resolution) and eastern Texas (4 km resolution) during August and September of 2006. The results at the Air Quality System (AQS) surface sites show that in August, the normalized mean bias (NMB) values for PM2.5 over the eastern US (EUS) and the western US (WUS) are 5.3% (-0.1%) and 0.4% (-5.2%) for WRF-CMAQ/CAM (WRF-CMAQ/RRTMG), respectively. The evaluation of PM2.5 chemical composition reveals that in August, WRF-CMAQ/CAM (WRF-CMAQ/RRTMG) consistently underestimated the observed SO42- by -23.0% (-27.7%), -12.5% (-18.9%) and -7.9% (-14.8%) over the EUS at the Clean Air Status Trends Network (CASTNET), Interagency Monitoring of Protected Visual Environments (IMPROVE) and Speciated Trends Network (STN) sites, respectively. Both configurations (WRF-CMAQ/CAM, WRF-CMAQ/RRTMG) overestimated the observed mean organic carbon (OC), elemental carbon (EC) and and total carbon (TC) concentrations over the EUS in August at the IMPROVE sites. Both configurations generally underestimated the cloud field (shortwave cloud forcing, SWCF) over the CONUS in August due to the fact that the AIE on the subgrid convective clouds was not considered when the model simulations were run at the 12 km resolution. This is in agreement with the fact that both configurations captured SWCF and longwave cloud forcing (LWCF) very well for the 4 km simulation over eastern Texas, when all clouds were resolved by the finer resolution domain. The simulations of WRF-CMAQ/CAM and WRF-CMAQ/RRTMG show dramatic improvements for SWCF, LWCF, cloud optical depth (COD), cloud fractions and precipitation over the ocean relative to those of WRF default cases in August. The model performance in September is similar to that in August, except for a greater overestimation of PM2.5 due to the overestimations of SO42-, NH4+, NO3-, and TC over the EUS, less underestimation of clouds (SWCF) over the land areas due to the lower SWCF values, and fewer convective clouds in September. This work shows that inclusion of indirect aerosol effect treatments in WRF-CMAQ represents a significant advancement and milestone in air quality modeling and the development of integrated emissions control strategies for air quality management and climate change mitigation.
+C1 [Yu, S.] Zhejiang Univ, Coll Environm & Resource Sci, Res Ctr Air Pollut & Hlth, Hangzhou 310058, Zhejiang, Peoples R China.
+   [Mathur, R.; Pleim, J.; Wong, D.; Gilliam, R.; Alapaty, K.] US EPA, Atmospher Modeling & Anal Div, Natl Exposure Res Lab, Res Triangle Pk, NC 27711 USA.
+   [Zhao, C.; Liu, X.] Pacific NW Natl Lab, Atmospher Sci & Global Change Div, Richland, WA 99352 USA.
+C3 Zhejiang University; United States Environmental Protection Agency;
+   United States Department of Energy (DOE); Pacific Northwest National
+   Laboratory
+RP Yu, S (通讯作者)，Zhejiang Univ, Coll Environm & Resource Sci, Res Ctr Air Pollut & Hlth, Hangzhou 310058, Zhejiang, Peoples R China.
+EM shaocaiyu@zju.edu.cn
+RI Pleim, Jonathan/C-1331-2017; Yu, Shaocai/F-1394-2014; Zhao,
+   Chun/A-2581-2012; Liu, Xiaohong/E-9304-2011
+OI , shaocai/0000-0001-9718-8246; Liu, Xiaohong/0000-0002-3994-5955;
+   Mathur, Rohit/0000-0001-8927-5876
+FU United States Environmental Protection Agency through its Office of
+   Research and Development; Office of Science of the US Department of
+   Energy as part of the Regional and Global Climate Modeling program
+FX The authors would like to thank Kathleen Fahey for the constructive and
+   very helpful comments. The United States Environmental Protection Agency
+   through its Office of Research and Development funded and managed the
+   research described here. It has been subjected to the agency's
+   administrative review and approved for publication. S. Yu would like to
+   thank Weiping Liu from the College of Environment and Resource Sciences
+   at Zhejiang University for his help and support. C. Zhao and X. Liu are
+   partially supported by the Office of Science of the US Department of
+   Energy as part of the Regional and Global Climate Modeling program. The
+   CERES data were obtained from the NASA Langley Research Center EOSDIS
+   Distributed Active Archive Center. The PRISM monthly precipitation data
+   were downloaded from http://www.prism.oregonstate.edu/.
+NR 144
+TC 70
+Z9 71
+U1 6
+U2 148
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1680-7316
+EI 1680-7324
+J9 ATMOS CHEM PHYS
+JI Atmos. Chem. Phys.
+PY 2014
+VL 14
+IS 20
+BP 11247
+EP 11285
+DI 10.5194/acp-14-11247-2014
+PG 39
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA AS3GO
+UT WOS:000344165800018
+OA Green Submitted, gold
+DA 2025-05-29
+ER

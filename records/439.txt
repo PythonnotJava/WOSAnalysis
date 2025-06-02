@@ -1,0 +1,72 @@
+PT J
+AU Javaherian, MJ
+   Cannon, D
+   Wang, J
+   Fujisaki-Manome, A
+   Bai, P
+   Zuo, L
+AF Javaherian, M. Javad
+   Cannon, David
+   Wang, Jia
+   Fujisaki-Manome, Ayumi
+   Bai, Peng
+   Zuo, Lei
+TI Simulating ice-wave interactions in the Laurentian Great Lakes using a
+   fully coupled hydrodynamic-ice-wave model
+SO OCEAN MODELLING
+LA English
+DT Article
+DE Ice-induced wave attenuation; Wave-induced ice breakage;
+   FVCOM-SWAVE-UG-CICE; Coupled ice-wave interactions; Great Lakes
+ID SEA-ICE; CLIMATE-CHANGE; WIND-WAVES; FINITE-VOLUME; FLOE SIZE; OCEAN;
+   WINTER; DYNAMICS; PANCAKE; FVCOM
+AB Hydrodynamic modeling in cold climate regions necessitates more sophisticated approaches that accurately simulate ice-wave interactions. Traditional models often overlook the complex coupling mechanisms between ice and ocean waves, especially the two-way processes where ice attenuates wave energy and waves break ice floes. This oversight can also intensify modeling challenges in coastal areas, including large lakes, where ice-wave interactions influence storm surges, high waves, and coastal erosion. To address this gap, this paper introduces an enhanced modeling approach that integrates both ice-induced wave attenuation and wave- induced ice breakage. To implement these processes, the Finite-Volume Community Ocean Model (FVCOM) is coupled with an unstructured-grid wave model (SWAN) and the unstructured-grid version of the Los Alamos Sea Ice Model (UG-CICE) to form the FVCOM-SWAVE-UG-CICE framework. Using this fully coupled model, simulations were conducted for the Great Lakes. Results of the modeled ice concentration, ice thickness, and significant wave heights were reported and validated against observational data from the U.S. National Ice Center (NIC) and in-situ under-ice measurements. To further study the coupling effects, results of the proposed model were also compared with those from no coupling and one-way coupling (focusing only on ice-induced wave attenuation) models. Comparative analyses demonstrated significant improvements in the predicted ice concentration with the proposed fully coupled model. These findings reveal the importance of incorporating ice-wave interactions inaccurately predicting ice cover dynamics in freshwater systems.
+C1 [Javaherian, M. Javad; Zuo, Lei] Univ Michigan, Dept Naval Architecture & Marine Engn, Ann Arbor, MI 48109 USA.
+   [Javaherian, M. Javad; Cannon, David; Fujisaki-Manome, Ayumi] Univ Michigan, Cooperat Inst Great Lakes Res, Ann Arbor, MI 48109 USA.
+   [Wang, Jia; Bai, Peng] NOAA, Great Lakes Environm Res Lab, Ann Arbor, MI 48108 USA.
+   [Fujisaki-Manome, Ayumi] Univ Michigan, Dept Climate & Space Sci & Engn, Ann Arbor, MI 48109 USA.
+   [Bai, Peng] Zhejiang Ocean Univ, Marine Sci & Technol Coll, Zhoushan, Zhejiang, Peoples R China.
+C3 University of Michigan System; University of Michigan; University of
+   Michigan System; University of Michigan; National Oceanic Atmospheric
+   Admin (NOAA) - USA; University of Michigan System; University of
+   Michigan; Zhejiang Ocean University
+RP Javaherian, MJ; Cannon, D (通讯作者)，Univ Michigan, Cooperat Inst Great Lakes Res, Ann Arbor, MI 48109 USA.
+EM mjava@umich.edu; djcannon@umich.edu
+RI Fujisaki-Manome, Ayumi/AAA-5852-2021
+FU National Oceanic and Atmospheric Administration (NOAA) OAR Ocean
+   Portfolio; NOAA; University of Michigan [NA22OAR4320150]
+FX This research is funded by the National Oceanic and Atmospheric
+   Administration (NOAA) OAR Ocean Portfolio to the Great Lakes Earth
+   System Model project at the Great Lakes Environmental Research
+   Laboratory (GLERL). Part of funds were awarded to the Cooperative
+   Institute for Great Lakes Research (CIGLR) through the NOAA Cooperative
+   Agreement with the University of Michigan (NA22OAR4320150) . This is
+   GLERL contribution #2070 and CIGLR contribution #1258. We would like to
+   thank Nathan Hawley and Sophie Orendorf for collection and analysis of
+   observational data used for wave and ice model validation.
+NR 65
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1463-5003
+EI 1463-5011
+J9 OCEAN MODEL
+JI Ocean Model.
+PD JUN
+PY 2025
+VL 195
+AR 102513
+DI 10.1016/j.ocemod.2025.102513
+EA FEB 2025
+PG 16
+WC Meteorology & Atmospheric Sciences; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences; Oceanography
+GA Z1M3I
+UT WOS:001436628800001
+DA 2025-05-29
+ER

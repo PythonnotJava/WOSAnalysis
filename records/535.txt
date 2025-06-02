@@ -1,0 +1,57 @@
+PT J
+AU El Hadri, Y
+   Khokhlov, V
+   Slizhe, M
+   Sernytska, K
+AF El Hadri, Youssef
+   Khokhlov, Valeriy
+   Slizhe, Mariia
+   Sernytska, Kateryna
+TI Wind energy land distribution in Morocco in 2021-2050 according to RCM
+   simulation of CORDEX-Africa project
+SO ARABIAN JOURNAL OF GEOSCIENCES
+LA English
+DT Article
+DE Africa; CORDEX-Africa; Wind; Power density; Wind energy; RCM; Morocco
+ID IMPACT
+AB According to the Ministry of Energy, more than 93% of Morocco's energy resources are imported. In 2008, the Moroccan Government has developed the National Energy Strategy, which includes the Moroccan Integrated Wind Energy Program. Morocco is rich in wind energy resources. Morocco launched the renewable energy development program, which aims to achieve a total installed capacity 2000 MW from wind power by 2020. The aim of this study is to determine the characteristics of the distribution of wind power density in Morocco in 2021-2050 and determine the areas with favorable conditions for the development of wind energy in the near future. The article presents the calculation results of wind power density for the period 20212050 at 50 m height. As a base value of the wind speed was used value of wind speed calculated by the ensemble of the regional climate models (R.M) of the CORDEX-Africa project. The RCM modeling was carried out for the region of Africa, in a rectangular coordinate system with a spatial resolution of similar to 44 km. Model calculation was performed taking into account the greenhouse gas concentration trajectory of RCP 4.5. Eleven climate models were used for the calculation. The results of the regional climate modeling of the CORDEX-Africa project showed that in Morocco in 2021-2050, in terms of wind power density at 50 m height, the fair and good wind power class would be the Atlantic coast area between Cape Beddouza and Cape Ghir, where wind power farms in Jbel Lahdid, Essaouira, are located. The richest wind resources in the coming decades are projected on the Atlantic coast to the south of the city of Tarfaya, where the Akhfenir, Tiskrad, and Boujdour wind power farms are located. The Tanger-Tetouan-Al Hoceima region, where the Tanger and Koudia wind farms are located, will be characterized by fair wind power class during the period from February to April. The coast of the Atlantic Ocean, where the Jbel Lahdid, Essaouira, wind farms are located, will have a good and above wind power class over the period from April to September, and the coastal areas of the Laayoune-Sakia El Hamra region can be described by the RCM as a good and above wind power class throughout the year.
+C1 [El Hadri, Youssef] Odessa State Environm Univ, Dept Agrometeorol & Agroecol, 15 Lvivska St, UA-65016 Odessa, Ukraine.
+   [Khokhlov, Valeriy; Slizhe, Mariia] Odessa State Environm Univ, Dept Meteorol & Climatol, 15 Lvivska St, UA-65016 Odessa, Ukraine.
+   [Sernytska, Kateryna] Odessa State Environm Univ, Dept Environm Econ, 15 Lvivska St, UA-65016 Odessa, Ukraine.
+C3 Ministry of Education & Science of Ukraine; Odessa State Environmental
+   University; Ministry of Education & Science of Ukraine; Odessa State
+   Environmental University; Ministry of Education & Science of Ukraine;
+   Odessa State Environmental University
+RP El Hadri, Y (通讯作者)，Odessa State Environm Univ, Dept Agrometeorol & Agroecol, 15 Lvivska St, UA-65016 Odessa, Ukraine.
+EM magribinets@ukr.net; khokhlov.valeriy@gmail.com; magribinetsm@gmail.com;
+   katris@i.ua
+RI Slizhe, Mariia/GQA-5398-2022; Khokhlov, Valeriy/C-4148-2011; El Hadri,
+   Youssef/HGD-5151-2022; Khokhlov, Valeriy/G-9024-2018
+OI Khokhlov, Valeriy/0000-0001-8315-8636; Slizhe,
+   Mariia/0000-0002-6398-4188; El Hadri, Youssef/0000-0003-3690-0927
+NR 31
+TC 9
+Z9 9
+U1 0
+U2 3
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1866-7511
+EI 1866-7538
+J9 ARAB J GEOSCI
+JI Arab. J. Geosci.
+PD DEC
+PY 2019
+VL 12
+IS 24
+AR 753
+DI 10.1007/s12517-019-4950-7
+PG 8
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA KB3PR
+UT WOS:000506412300008
+DA 2025-05-29
+ER

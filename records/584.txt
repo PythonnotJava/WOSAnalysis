@@ -1,0 +1,89 @@
+PT J
+AU Waite, AM
+   Raes, E
+   Beckley, LE
+   Thompson, PA
+   Griffin, D
+   Saunders, M
+   Sawstrom, C
+   O'Rorke, R
+   Wang, M
+   Landrum, JP
+   Jeffs, A
+AF Waite, Anya M.
+   Raes, Eric
+   Beckley, Lynnath E.
+   Thompson, Peter A.
+   Griffin, David
+   Saunders, Megan
+   Sawstrom, Christin
+   O'Rorke, Richard
+   Wang, Miao
+   Landrum, Jason P.
+   Jeffs, Andrew
+TI Production and ecosystem structure in cold-core vs. warm-core eddies:
+   Implications for the zooplankton isoscape and rock lobster larvae
+SO LIMNOLOGY AND OCEANOGRAPHY
+LA English
+DT Article
+ID STABLE ISOTOPIC COMPOSITIONS; COUNTER-ROTATING EDDIES; LEEUWIN CURRENT
+   SYSTEM; PANULIRUS-CYGNUS; FATTY-ACID; PHYLLOSOMA LARVAE; BALTIC SEA;
+   WESTERN; PHYTOPLANKTON; NITROGEN
+AB Anticyclonic (warm-core) mesoscale eddies (WCEs) in the Eastern Indian Ocean carry higher surface chlorophyll signatures than cyclonic (cold-core) eddies (CCEs). Paradoxically, WCEs host rock lobster larvae (phyllosomas) with lower lipid stores and protein reserves than phyllosomas in CCEs, suggesting a poorer nutritional status. We assess primary productivity and zooplankton isotopic data from eight eddies across four research voyages (2003-2011) to determine how this contradiction might occur. We find that WCEs and CCEs are equally productive per unit chlorophyll a, but depth-integrated primary production (PP) is greater in eddies with shallower mixed layers (MLs), especially in CCEs. MLs tend to be shallower in CCEs than in WCEs because the pycnocline is closer to the surface. This, in combination with stronger stratification in CCE euphotic zones than those of WCEs, supports greater flagellate and dinoflagellate populations in CCEs. These phytoplankton provide high-quality nutrition for zooplankton, which feed on average ~ 0.6 trophic level lower in CCEs with the shallowest MLs, accumulating high lipid stores. Conversely, WCEs have, on average, ~ 70 m deeper MLs than CCEs, and host a phytoplankton community with more diatoms. Diatoms provide lower quality food for zooplankton, and zooplankton lipid stores in WCEs decline with trophic level, and possibly, with time after initial (or seasonal) nutrient injection. As a result, phyllosomas in CCEs have higher energy and lipid content than those in warm-core eddies. The resolution of the paradox, therefore, is that the higher surface chlorophyll signatures of WCEs are not representative of the nutritional value of the prey field of the phyllosoma. We also conclude that interannual variations of mixed layer depth occur at a regional scale, controlling PP.
+C1 [Waite, Anya M.] Univ Western Australia, Sch Civil Environm & Min Engn, Crawley, WA, Australia.
+   [Waite, Anya M.] Univ Western Australia, Oceans Inst, Crawley, WA, Australia.
+   [Waite, Anya M.; Raes, Eric] Univ Bremen, Helmholz Ctr Polar & Marine Res, Alfred Wegener Inst, Bremen, Germany.
+   [Waite, Anya M.] Dalhousie Univ, Ocean Frontier Inst, 1355 Oxford St, Halifax, NS, Canada.
+   [Waite, Anya M.] Dalhousie Univ, Dept Oceanog, 1355 Oxford St, Halifax, NS, Canada.
+   [Raes, Eric; Thompson, Peter A.; Griffin, David] CSIRO Oceans & Atmosphere, Hobart, Tas, Australia.
+   [Beckley, Lynnath E.] Murdoch Univ, Environm & Conservat Sci, Murdoch, WA, Australia.
+   [Saunders, Megan] Univ Queensland, Sch Chem Engn, St Lucia, Qld, Australia.
+   [Sawstrom, Christin] Edith Cowan Univ, CMER, Sch Sci, Joondalup, WA, Australia.
+   [O'Rorke, Richard; Jeffs, Andrew] Univ Auckland, Inst Marine Sci, Auckland, New Zealand.
+   [Wang, Miao] Chinese Acad Fishery Sci, Pearl River Fisheries Res Inst, Key Lab Trop & Subtrop Fishery Resource Applicat, Guangzhou, Guangdong, Peoples R China.
+   [Landrum, Jason P.] Pew Charitable Trusts, Lenfest Ocean Program, Washington, DC USA.
+C3 University of Western Australia; University of Western Australia;
+   University of Bremen; Helmholtz Association; Alfred Wegener Institute,
+   Helmholtz Centre for Polar & Marine Research; Dalhousie University;
+   Dalhousie University; Commonwealth Scientific & Industrial Research
+   Organisation (CSIRO); CSIRO Oceans & Atmosphere; Murdoch University;
+   University of Queensland; Edith Cowan University; University of
+   Auckland; Chinese Academy of Fishery Sciences; Pearl River Fisheries
+   Research Institute, CAFS
+RP Waite, AM (通讯作者)，Univ Western Australia, Sch Civil Environm & Min Engn, Crawley, WA, Australia.; Waite, AM (通讯作者)，Univ Western Australia, Oceans Inst, Crawley, WA, Australia.; Waite, AM (通讯作者)，Univ Bremen, Helmholz Ctr Polar & Marine Res, Alfred Wegener Inst, Bremen, Germany.; Waite, AM (通讯作者)，Dalhousie Univ, Ocean Frontier Inst, 1355 Oxford St, Halifax, NS, Canada.; Waite, AM (通讯作者)，Dalhousie Univ, Dept Oceanog, 1355 Oxford St, Halifax, NS, Canada.
+EM anya.waite@dal.ca
+RI Thompson, Peter/A-2361-2012; van de Kamp, Jodie/E-9423-2015; O'Rorke,
+   Richard/C-9281-2011; Jeffs, Andrew/D-9474-2012; Saunders,
+   Megan/I-7731-2012; Waite, Anya/A-5492-2015; Sawstrom,
+   Christin/F-5462-2018
+OI Saunders, Megan/0000-0002-8549-5609; Waite, Anya/0000-0003-2965-0296;
+   Landrum, Jason/0000-0003-1614-7261; Sawstrom,
+   Christin/0000-0001-9297-3093; O'Rorke, Richard/0000-0002-9304-2677
+NR 63
+TC 21
+Z9 23
+U1 0
+U2 19
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0024-3590
+EI 1939-5590
+J9 LIMNOL OCEANOGR
+JI Limnol. Oceanogr.
+PD NOV
+PY 2019
+VL 64
+IS 6
+BP 2405
+EP 2423
+DI 10.1002/lno.11192
+PG 19
+WC Limnology; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Marine & Freshwater Biology; Oceanography
+GA JL4NC
+UT WOS:000495506200007
+OA hybrid
+DA 2025-05-29
+ER

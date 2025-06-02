@@ -1,0 +1,47 @@
+PT J
+AU Grankov, AG
+   Mil'shin, AA
+   Shelobanova, NK
+AF Grankov, A. G.
+   Mil'shin, A. A.
+   Shelobanova, N. K.
+TI Brightness temperature of microwave self-radiation employed as direct
+   characteristic of the dynamic interaction between the ocean and
+   atmosphere
+SO JOURNAL OF COMMUNICATIONS TECHNOLOGY AND ELECTRONICS
+LA English
+DT Article
+AB It is proposed and substantiated that, in the oceanaEuro'atmosphere system, the microwave self-radiation intensity (brightness temperature), which is measured by means of satellites in the millimeter and centimeter wave bands, can be used as the direct characteristic of the thermal and dynamic parameters of the system. The vertical turbulent fluxes of sensible and latent heat and momentum are determined at the oceanaEuro'atmosphere interface according to the data measured by the special sensor microwave imagers located on weather satellites created in the scope of the defense meteorological satellite program and the advanced microwave scanning radiometer installed aboard the EOS Aqua oceanographic satellite. For the first time, the integrated (annual) characteristics of heat exchange between the ocean and atmosphere are investigated in the energy-active zones of the North Atlantic with the help of long-term satellite microwave radiometric measurements.
+C1 [Grankov, A. G.; Mil'shin, A. A.; Shelobanova, N. K.] Russian Acad Sci, Kotelnikov Inst Radio Engn & Elect, Fryazino Branch, Pl Vvedenskogo 1, Fryazino 141190, Moscow Oblast, Russia.
+C3 Kotelnikov Institute of Radioengineering & Electronics; Russian Academy
+   of Sciences
+RP Grankov, AG (通讯作者)，Russian Acad Sci, Kotelnikov Inst Radio Engn & Elect, Fryazino Branch, Pl Vvedenskogo 1, Fryazino 141190, Moscow Oblast, Russia.
+EM agrankov@inbox.ru
+RI Grankov, Alexander/A-7897-2014
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 1
+PU MAIK NAUKA/INTERPERIODICA/SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013-1578 USA
+SN 1064-2269
+EI 1555-6557
+J9 J COMMUN TECHNOL EL+
+JI J. Commun. Technol. Electron.
+PD JAN
+PY 2017
+VL 62
+IS 1
+BP 14
+EP 21
+DI 10.1134/S1064226917010065
+PG 8
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications
+GA EL3RX
+UT WOS:000394537900002
+DA 2025-05-29
+ER

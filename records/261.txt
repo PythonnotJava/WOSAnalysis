@@ -1,0 +1,48 @@
+PT J
+AU Veloso, R
+   Castro, R
+AF Veloso, R.
+   Castro, R.
+TI Contributions to the Technical Assessment of Wave Energy in Portugal:
+   The Case of Pico (Azores)
+SO IEEE LATIN AMERICA TRANSACTIONS
+LA Portuguese
+DT Article
+DE Wave energy; Oscillating Water Column; Wells turbine; Doubly Fed
+   Induction Generator
+ID SLIDING-MODE CONTROL; GENERATION PLANTS; DFIG
+AB Ocean waves have a high potential to become a reference among the renewable energies with economic viability, in the future. Currently, there is in Portugal a Wave Roller technology experimental facility delivering power to the grid. However, Oscillating Water Column (OWC) is the most used technology to capture the energy from the waves. In this paper, a full integrated model of an OWC installation is presented. This model incorporates dedicated models of its components: pneumatic chamber, Wells turbine and Doubly Fed Induction Generator (DFIG). Data to feed the model is taken from Pico (Azores) power plant. The implementation in MATLABO/Simulink0 environment allows to carry on some simulations, regarding the behavior of the OWC system in the presence of pressure increases in the pneumatic chamber (meaning a higher airflow in the turbine). The results allow the conclusion that the speed control feature is crucial to obtain an optimized operation of the system.
+C1 [Veloso, R.] Univ Lisbon, Inst Super Tecn, P-1699 Lisbon, Portugal.
+   [Castro, R.] Univ Lisbon, INESC ID IST, P-1699 Lisbon, Portugal.
+C3 Universidade de Lisboa; Universidade de Lisboa; INESC-ID
+RP Veloso, R (通讯作者)，Univ Lisbon, Inst Super Tecn, P-1699 Lisbon, Portugal.
+EM renato.veloso85@gmail.com; rcastro@tecnico.ulisboa.pt
+RI Castro, Rui/AAG-5368-2019; Castro, Rui/L-4618-2013
+OI Castro, Rui/0000-0002-3108-8880
+NR 15
+TC 1
+Z9 1
+U1 1
+U2 19
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1548-0992
+J9 IEEE LAT AM T
+JI IEEE Latin Am. Trans.
+PD SEP
+PY 2015
+VL 13
+IS 9
+BP 2922
+EP 2927
+DI 10.1109/TLA.2015.7350040
+PG 6
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA CY6FC
+UT WOS:000366502700017
+DA 2025-05-29
+ER

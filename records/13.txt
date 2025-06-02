@@ -1,0 +1,93 @@
+PT J
+AU Johnson, GC
+   Landerer, FW
+   Loeb, NG
+   Lyman, JM
+   Mayer, M
+   Swann, ALS
+   Zhang, JL
+AF Johnson, Gregory C. C.
+   Landerer, Felix W. W.
+   Loeb, Norman G. G.
+   Lyman, John M. M.
+   Mayer, Michael
+   Swann, Abigail L. S.
+   Zhang, Jinlun
+TI Closure of Earth's Global Seasonal Cycle of Energy Storage
+SO SURVEYS IN GEOPHYSICS
+LA English
+DT Article
+DE Earth; Climate; Global energy; Seasonal cycle
+ID SEA-ICE; OCEAN; BUDGET; HEAT; VARIABILITY; THICKNESS; PACIFIC; IMPACT;
+   MODEL
+AB The global seasonal cycle of energy in Earth's climate system is quantified using observations and reanalyses. After removing long-term trends, net energy entering and exiting the climate system at the top of the atmosphere (TOA) should agree with the sum of energy entering and exiting the ocean, atmosphere, land, and ice over the course of an average year. Achieving such a balanced budget with observations has been challenging. Disagreements have been attributed previously to sparse observations in the high-latitude oceans. However, limiting the local vertical integration of new global ocean heat content estimates to the depth to which seasonal heat energy is stored, rather than integrating to 2000 m everywhere as done previously, allows closure of the global seasonal energy budget within statistical uncertainties. The seasonal cycle of energy storage is largest in the ocean, peaking in April because ocean area is largest in the Southern Hemisphere and the ocean's thermal inertia causes a lag with respect to the austral summer solstice. Seasonal cycles in energy storage in the atmosphere and land are smaller, but peak in July and September, respectively, because there is more land in the Northern Hemisphere, and the land has more thermal inertia than the atmosphere. Global seasonal energy storage by ice is small, so the atmosphere and land partially offset ocean energy storage in the global integral, with their sum matching time-integrated net global TOA energy fluxes over the seasonal cycle within uncertainties, and both peaking in April.
+C1 [Johnson, Gregory C. C.] NOAA, Pacific Marine Environm Lab, Seattle, WA 98115 USA.
+   CALTECH, Jet Prop Lab, Pasadena, CA 91109 USA.
+   NASA, Langley Res Ctr, Hampton, VA 23681 USA.
+   Univ Hawaii, CIMAR, Honolulu, HI 96822 USA.
+   [Mayer, Michael] Res Dept, ECMWF, D-53175 Bonn, Germany.
+   [Mayer, Michael] Univ Vienna, Dept Meteorol & Geophys, A-1090 Vienna, Austria.
+   [Swann, Abigail L. S.] Univ Washington, Dept Atmospher Sci & Biol, Seattle, WA 98195 USA.
+   [Swann, Abigail L. S.] Univ Washington, Dept Biol, Seattle, WA 98195 USA.
+   [Zhang, Jinlun] Univ Washington, Appl Phys Lab, Seattle, WA 98105 USA.
+C3 National Oceanic Atmospheric Admin (NOAA) - USA; National Aeronautics &
+   Space Administration (NASA); NASA Jet Propulsion Laboratory (JPL);
+   California Institute of Technology; National Aeronautics & Space
+   Administration (NASA); NASA Langley Research Center; University of
+   Hawaii System; University of Vienna; University of Washington;
+   University of Washington Seattle; University of Washington; University
+   of Washington Seattle; University of Washington; University of
+   Washington Seattle
+RP Johnson, GC (通讯作者)，NOAA, Pacific Marine Environm Lab, Seattle, WA 98115 USA.
+EM gregory.c.johnson@noaa.gov
+RI Loeb, Norman/ABC-7817-2021; Landerer, Felix/ABG-2849-2021; Swann,
+   Abigail/KGK-9491-2024; /I-6559-2012
+OI /0000-0002-8023-4020; Landerer, Felix/0000-0003-2678-095X
+FU NOAA Research; NOAA Global Ocean Monitoring and Observation Program;
+   Office of Biological and Environmental Research of the US Department of
+   Energy Regional and Global Model Analysis Program [DE-SC0021209]; NASA
+   Cryosphere Program [NNX17AD27G, 80NSSC20K1253]; NSF Office of Polar
+   Programs [NNA-1927785]; Austrian Science Fund [P33177]; Jet Propulsion
+   Laboratory, California Institute of Technology; National Aeronautics and
+   Space Administration [80NM0018D0004]; PMEL [5440]
+FX GCJ and JML are supported by NOAA Research and the NOAA Global Ocean
+   Monitoring and Observation Program. ALSS acknowledges support from
+   Office of Biological and Environmental Research of the US Department of
+   Energy Regional and Global Model Analysis Program award DE-SC0021209 to
+   the University of Washington. JZ is supported by NASA Cryosphere Program
+   (NNX17AD27G and 80NSSC20K1253) and NSF Office of Polar Programs
+   (NNA-1927785). MM's contribution was supported by Austrian Science Fund
+   P33177. FWL is supported by the Jet Propulsion Laboratory, California
+   Institute of Technology, under a contract with the National Aeronautics
+   and Space Administration (80NM0018D0004). PMEL Contribution Number 5440.
+NR 43
+TC 6
+Z9 6
+U1 5
+U2 10
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0169-3298
+EI 1573-0956
+J9 SURV GEOPHYS
+JI Surv. Geophys.
+PD DEC
+PY 2024
+VL 45
+IS 6
+SI SI
+BP 1785
+EP 1797
+DI 10.1007/s10712-023-09797-6
+EA JUL 2023
+PG 13
+WC Geochemistry & Geophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics
+GA Q3I2A
+UT WOS:001031533300001
+PM 39734428
+OA hybrid
+DA 2025-05-29
+ER

@@ -1,12 +1,4 @@
-"""
-文章的标题，我想使用自然语言工具根据语义找出他们的共性进行聚类，然后对每个聚类都分配一个概述标签
-"""
-
 import re
-from sentence_transformers import SentenceTransformer
-from sklearn.cluster import KMeans
-import numpy as np
-from collections import defaultdict
 
 def load(path : str = 'savedrecs.txt') -> list[str]:
     with open(path, 'r', encoding='utf-8') as f:
@@ -17,52 +9,81 @@ def load(path : str = 'savedrecs.txt') -> list[str]:
 
     return matches
 
+# 匹配`SO+一个空格`字符串、`PY+一个空格`字符串
+def get_journal_data(entry: str) -> tuple:
+    so = re.search(r'^SO (.+)', entry, flags=re.MULTILINE)
+    py = re.search(r'^PY\s+(\d{4})', entry, re.MULTILINE)
+    return so.group(1).strip() if so else None, py.group(1).strip() if py else None
+
+# 期刊以及发布年份统计，{期刊名字：数量},{年份：数量}
+def journal_statistics(items : list[str]):
+    sos = {}
+    pys = {}
+    for item in items:
+        so, py = get_journal_data(item)
+        if sos.get(so):
+            sos[so] += 1
+        else:
+            sos[so] = 1
+        if pys.get(py):
+            pys[py] += 1
+        else:
+            pys[py] = 1
+    return sos, pys
+
+# 自定义匹配
 def self_define_pattern(entry : str, key : str):
     so = re.search(fr'^{key} (.+)', entry, flags=re.MULTILINE)
     return so.group(1).strip() if so else None
 
-titles = []
+# 自定义统计，键必须和数量有关才行
+def self_define_statistics(items : list[str], key : str) -> dict:
+    selves = {}
+    for item in items:
+        rt = self_define_pattern(item, key)
+        if selves.get(rt):
+            selves[rt] += 1
+        else:
+            selves[rt] = 1
+    return selves
 
-for item in load():
-    titles.append(self_define_pattern(item, 'TI'))
+# 对值排序 True表示从大到小
+def sort_value(data : dict, reverse : bool = True):
+    sorted_data = dict(sorted(data.items(), key=lambda item: item[1], reverse=reverse))
+    return sorted_data
+# 对键排序
+def sort_key(data : dict, reverse : bool = True):
+    sorted_data = dict(sorted(data.items(), key=lambda item: int(item[0]), reverse=reverse))
+    return sorted_data
 
-# print(titles)
+# 将每个记录单独写入
+def write_record(fileName : str, text : str) -> None:
+    with open(fileName, 'w', encoding='U8') as f:
+        f.write(text)
+        f.close()
 
-# 示例标题
-titles = titles
+def get_cite_count(items : list[str]) -> dict[str, int]:
+    rt = {}
+    for item in items:
+        name = re.search(r'^TI (.+)', item, flags=re.MULTILINE)
+        z9_match = re.search(r'^Z9\s+(\d+)', item, flags=re.MULTILINE)
+        z9 = int(z9_match.group(1)) if z9_match else 0
+        rt[name.group(1).strip()] = z9
+    return rt
 
-# 1. 生成语义嵌入
-model = SentenceTransformer('all-MiniLM-L6-v2')
-embeddings = model.encode(titles)
+from collections import OrderedDict
+class SliceableDict(OrderedDict):
+    def __init__(self, original_dict : dict):
+        super().__init__(original_dict)
 
-# 2. 聚类（你可以改为 HDBSCAN 更自动）
-num_clusters = 3
-clustering_model = KMeans(n_clusters=num_clusters, random_state=42)
-clustering_labels = clustering_model.fit_predict(embeddings)
+    def __getitem__(self, key):
+        if isinstance(key, slice):
+            keys = list(self.keys())[key]
+            return SliceableDict({k: self[k] for k in keys})
+        else:
+            return super().__getitem__(key)
 
-# 3. 分组标题
-clustered_titles = defaultdict(list)
-for title, label in zip(titles, clustering_labels):
-    clustered_titles[label].append(title)
-
-# 4. 为每个聚类生成标签（取最接近中心的标题）
-def get_cluster_label(cluster_id, indices, embeddings, titles):
-    center = clustering_model.cluster_centers_[cluster_id]
-    cluster_embeddings = embeddings[indices]
-    distances = np.linalg.norm(cluster_embeddings - center, axis=1)
-    closest_idx = indices[np.argmin(distances)]
-    return titles[closest_idx]
-
-# 5. 打印结果
-with open('output.txt', 'w', encoding='u8') as file:
-    for cluster_id, titles_in_cluster in clustered_titles.items():
-        indices = [i for i, label in enumerate(clustering_labels) if label == cluster_id]
-        label = get_cluster_label(cluster_id, indices, embeddings, titles)
-        print(f"Cluster {cluster_id} - Label: {label}")
-        file.write(f'Cluster {cluster_id} - Label: {label}')
-        for title in titles_in_cluster:
-            print(f"  - {title}")
-            file.write(title)
-        print()
-    file.close()
-print('Done')
+rt = get_cite_count(load())
+rt = sort_value(rt, reverse=True)
+# print(SliceableDict(rt)[:20])
+print((SliceableDict(rt)[:20].keys()))

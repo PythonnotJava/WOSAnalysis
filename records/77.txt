@@ -1,0 +1,84 @@
+PT J
+AU Li, XY
+   Tao, JA
+   Guo, WX
+   Zhang, XJ
+   Luo, JJ
+   Chen, MX
+   Zhu, J
+   Pan, CF
+AF Li, Xiaoyi
+   Tao, Juan
+   Guo, Wenxi
+   Zhang, Xiaojia
+   Luo, Jianjun
+   Chen, Mengxiao
+   Zhu, Jing
+   Pan, Caofeng
+TI A self-powered system based on triboelectric nanogenerators and
+   supercapacitors for metal corrosion prevention
+SO JOURNAL OF MATERIALS CHEMISTRY A
+LA English
+DT Article
+ID WATER-WAVE ENERGY; CATHODIC PROTECTION; CONTACT-ELECTRIFICATION;
+   CONVERSION; GRAPHENE; STORAGE; PERFORMANCE; CONCRETE; DEVICES; SURFACE
+AB As water covers most of the earth's surface, the energy of the ocean is abundant and almost unexplored, which can be one of the most environmentally friendly forms of energy. Prevention of metal corrosion plays an important role in national economic development and daily life. Here, we report a network of triboelectric nanogenerators (TENGs) and supercapacitors (SCs), which is also called the self-powered system, to harvest a huge amount of water energy for preventing metal corrosion. When the TENG is integrated with a SC, the output current is stable and continuous. The corrosion results indicate that the TENG-SC self-powered system can prevent about 80% degree of corrosion for Q235 steel in 0.5 M NaCl solution. This work demonstrates that the TENG-SC system, which is self-powered, flexible and environmentally friendly, can harvest and store large-scale blue energy from the ocean, and also renders an innovative approach toward preventing the metal corrosion without other power sources.
+C1 [Li, Xiaoyi; Zhu, Jing] Tsinghua Univ, State Key Lab New Ceram & Fine Proc, Natl Ctr Elect Microscopy Beijing, Sch Mat Sci & Engn,Key Lab Adv Mat MOE, Beijing 100084, Peoples R China.
+   [Li, Xiaoyi; Tao, Juan; Guo, Wenxi; Zhang, Xiaojia; Luo, Jianjun; Chen, Mengxiao; Pan, Caofeng] Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing, Peoples R China.
+   [Zhu, Jing] Tsinghua Univ, Ctr Nano & Micro Mech, Beijing 100084, Peoples R China.
+   [Guo, Wenxi] Xiamen Univ, Res Inst Biomimet & So Matter, Xiamen 361005, Peoples R China.
+   [Guo, Wenxi] Xiamen Univ, Dept Phys, Xiamen 361005, Peoples R China.
+C3 Tsinghua University; Chinese Academy of Sciences; Beijing Institute of
+   Nanoenergy & Nanosystems, CAS; Tsinghua University; Xiamen University;
+   Xiamen University
+RP Zhu, J (通讯作者)，Tsinghua Univ, State Key Lab New Ceram & Fine Proc, Natl Ctr Elect Microscopy Beijing, Sch Mat Sci & Engn,Key Lab Adv Mat MOE, Beijing 100084, Peoples R China.
+EM jzhu@mail.tsinghua.edu.cn; cfpan@binn.cas.cn
+RI zhu, jing/IUM-4558-2023; Chen, Mengxiao/KBC-2396-2024; Luo,
+   Jianjun/AAG-6929-2021; Li, Xiaoyi/AAS-7037-2021; zhang,
+   xiaojia/T-5425-2017; Pan, Caofeng/C-9273-2011
+OI Luo, Jianjun/0000-0003-2785-1684; Li, Xiaoyi/0000-0001-5082-6757; Pan,
+   Caofeng/0000-0001-6327-9692
+FU "thousands talents" program for pioneer researcher; National 973 Project
+   of China [2015CB654902]; Chinese National Natural Science Foundation
+   [11374174, 51390471]; President Funding of Chinese Academy of Sciences;
+   National Natural Science Foundation of China [51272238, 21321062,
+   51432005, 61405040]; Beijing City Committee of science and technology
+   [Z131100006013004, Z131100006013005]
+FX This work was financially supported by the "thousands talents" program
+   for pioneer researcher and his innovation team, China; National 973
+   Project of China (2015CB654902); Chinese National Natural Science
+   Foundation (11374174, 51390471); President Funding of the Chinese
+   Academy of Sciences; National Natural Science Foundation of China (No.
+   51272238, 21321062, 51432005 and 61405040); Beijing City Committee of
+   science and technology (Z131100006013004, Z131100006013005). This work
+   made use of the resources of the National Center for Electron Microscopy
+   in Beijing and Beijing Institute of Nanoenergy and Nanosystems, Chinese
+   Academy of Sciences.
+NR 32
+TC 73
+Z9 76
+U1 2
+U2 160
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 2050-7488
+EI 2050-7496
+J9 J MATER CHEM A
+JI J. Mater. Chem. A
+PY 2015
+VL 3
+IS 45
+BP 22663
+EP 22668
+DI 10.1039/c5ta07053h
+PG 6
+WC Chemistry, Physical; Energy & Fuels; Materials Science,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Energy & Fuels; Materials Science
+GA CW5BW
+UT WOS:000365011400018
+DA 2025-05-29
+ER

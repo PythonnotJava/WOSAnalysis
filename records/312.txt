@@ -1,0 +1,58 @@
+PT J
+AU Robertson, T
+   Aubrey, D
+   Mahon, AM
+AF Robertson, Tyler
+   Aubrey, David
+   Mahon, Alicia M.
+TI Use of a Compliant Tether to Decouple Observation Buoy Motion for
+   Auxiliary Wave Power
+SO MARINE TECHNOLOGY SOCIETY JOURNAL
+LA English
+DT Article
+AB With the growth of the Blue Economy, the volume of data collection within the ocean environment has been rapidly increasing. Larger numbers of oceanograph-ic, meteorological, and floating Light Detection And Ranging (LiDAR) buoys have been collecting high fidelity measurements while pushing against power budget limits. Power limitations lead to infrequent transmission of reduced data sets or recording data to local storage that must be physically collected when the buoy is serviced. Triton Systems, Inc. and its partners are developing a retrofittable wave energy converter (WEC) to provide auxiliary power to these observation buoys to increase mission duration and power budget, improve reliability, and reduce the need for service trips. One of the greatest challenges has been developing a meth-od to interface Triton's WEC with these buoys without impacting measurement fidelity. This is especially critical for inertial wave and LiDAR wind measurements collected with sensors that could be adversely affected by additional buoy dynam-ics introduced by an integrated WEC. To address this, Triton and EOM Offshore developed a compliant tether to pair an observation buoy with a floating WEC while decoupling relative motion. Based on EOM's proven stretch hose technol-ogy, this compliant tether transmits power and data between the buoy-WEC sys-tem. Modeling shows that the system has the potential to minimally adversely affect oceanographic, meteorological, wind resource characterization, and other measurements, with future testing scheduled to validate modeling efforts. Keywords: wave energy, ocean observing, LiDAR buoy, wind resource character-ization, offshore wind energy
+C1 [Robertson, Tyler] Triton Syst Inc, Chelmsford, MA USA.
+   [Mahon, Alicia M.] EOM Offshore LLC, Bourne, MA USA.
+   [Aubrey, David] Pacific Northwest Natl Lab, Richland, WA USA.
+   [Robertson, Tyler] Triton Syst Inc, 330 Biller Rd,STE 200, Chelmsford, MA 01824 USA.
+C3 United States Department of Energy (DOE); Pacific Northwest National
+   Laboratory
+RP Robertson, T (通讯作者)，Triton Syst Inc, 330 Biller Rd,STE 200, Chelmsford, MA 01824 USA.
+EM trobertson@tritonsys.com
+FU U.S. DOE, Office of Energy Efficiency and Renewable Energy, WPTO
+   [DE-SC0021944, DE-SC0020830]; TEAMER awards; U.S. Department of Energy
+   (DOE) [DE-SC0020830, DE-SC0021944] Funding Source: U.S. Department of
+   Energy (DOE)
+FX Triton's wave energy harvesting programs are supported by the U.S. DOE,
+   Office of Energy Efficiency and Renewable Energy, WPTO with funding
+   provided to Triton under Contracts DE-SC0021944, Wave Energy Harvesting
+   to Power LiDAR Buoys, and DE-SC0020830, Wave Energy Harvesting to Power
+   Ocean Buoys . These efforts have also been supported by TEAMER awards:
+   Biofouling Analysis for Wave Energy Piston Design and WEC-Sim Modelling
+   Support for Triton System's Wave Energy Converter Projects .
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 2
+PU MARINE TECHNOLOGY SOC INC
+PI COLUMBIA
+PA 5565 STERRETT PLACE, STE 108, COLUMBIA, MD 21044 USA
+SN 0025-3324
+EI 1948-1209
+J9 MAR TECHNOL SOC J
+JI Mar. Technol. Soc. J.
+PD NOV-DEC
+PY 2022
+VL 56
+IS 6
+BP 18
+EP 24
+PG 7
+WC Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 7V6KN
+UT WOS:000912921900002
+DA 2025-05-29
+ER

@@ -1,0 +1,50 @@
+PT J
+AU Ishaq, H
+   Siddiqui, O
+   Dincer, I
+AF Ishaq, Haris
+   Siddiqui, Osamah
+   Dincer, Ibrahim
+TI Design and Analysis of a Novel Integrated Wind-Solar-OTEC Energy System
+   for Producing Hydrogen, Electricity, and Fresh Water
+SO JOURNAL OF SOLAR ENERGY ENGINEERING-TRANSACTIONS OF THE ASME
+LA English
+DT Article
+DE ocean thermal energy conversion; wind; solar; electricity; hydrogen;
+   desalination
+ID MULTIGENERATION SYSTEM; PERFORMANCE ASSESSMENT; DESALINATION;
+   GENERATION; CONVERSION; POWER
+AB A new energy system for power, hydrogen and fresh water production is proposed. The environmentally benign ocean thermal energy conversion (OTEC), wind and solar energy resources are utilized. The hybrid thermochemical CuCl cycle is used for hydrogen production, and the reverse osmosis (RO) desalination system is incorporated for producing fresh water. The presently developed system is analyzed through thermodynamic energy and exergy approaches. The energetic efficiency of the integrated trigeneration system is determined to be 45.3%, and the exergetic efficiency is found to be 44.9%. In addition to this, the energy efficiency of the OTEC power generation cycle is 4.5% while the exergy efficiency is found to be 12.9%. Furthermore, the CuCl hydrogen production cycle is examined to have exergetic and energetic efficiencies of 36% and 35.2%, respectively. Also, numerous parametric studies are performed to analyze the system performance at different operating parameters.
+C1 [Ishaq, Haris; Siddiqui, Osamah; Dincer, Ibrahim] Univ Ontario, Inst Technol, Fac Engn & Appl Sci, Clean Energy Res Lab, 2000 Simcoe St North, Oshawa, ON L1H 7K4, Canada.
+C3 Ontario Tech University
+RP Ishaq, H (通讯作者)，Univ Ontario, Inst Technol, Fac Engn & Appl Sci, Clean Energy Res Lab, 2000 Simcoe St North, Oshawa, ON L1H 7K4, Canada.
+EM haris.ishaq@uoit.net; osamah.siddiqui@uoit.net; ibrahim.dincer@uoit.ca
+RI Siddiqui, Osamah/AAI-2754-2020; Ishaq, Haris/GRS-1944-2022; Dincer,
+   Ibrahim/ITU-6448-2023
+OI Siddiqui, Osamah/0009-0008-4217-4240
+NR 16
+TC 21
+Z9 22
+U1 0
+U2 39
+PU ASME
+PI NEW YORK
+PA TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0199-6231
+EI 1528-8986
+J9 J SOL ENERG-T ASME
+JI J. Sol. Energy Eng. Trans.-ASME
+PD DEC
+PY 2019
+VL 141
+IS 6
+AR 061015
+DI 10.1115/1.4044023
+PG 13
+WC Energy & Fuels; Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA KC0RP
+UT WOS:000506895700015
+DA 2025-05-29
+ER

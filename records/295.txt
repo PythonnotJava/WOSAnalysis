@@ -1,0 +1,72 @@
+PT J
+AU Rogelj, J
+   Luderer, G
+   Pietzcker, RC
+   Kriegler, E
+   Schaeffer, M
+   Krey, V
+   Riahi, K
+AF Rogelj, Joeri
+   Luderer, Gunnar
+   Pietzcker, Robert C.
+   Kriegler, Elmar
+   Schaeffer, Michiel
+   Krey, Volker
+   Riahi, Keywan
+TI Energy system transformations for limiting end-of-century warming to
+   below 1.5 °C
+SO NATURE CLIMATE CHANGE
+LA English
+DT Article
+ID CARBON-CYCLE MODELS; CLIMATE-CHANGE; ATMOSPHERE-OCEAN; SIMPLER MODEL;
+   CO2 EMISSIONS; MITIGATION; SCENARIOS; TARGETS; RANGE
+AB Many impacts projected for a global warming level of 2 degrees C relative to pre-industrial levels may exceed the coping capacities of particularly vulnerable countries. Therefore, many countries advocate limiting warming to below 1.5 degrees C. Here we analyse integrated energy-economy-environment scenarios that keep warming to below 1.5 degrees C by 2100. We find that in such scenarios, energy-system transformations are in many aspects similar to 2 degrees C-consistent scenarios, but show a faster scale-up of mitigation action in most sectors, leading to observable differences in emission reductions in 2030 and 2050. The move from a 2 degrees C-to a 1.5 degrees C-consistent world will be achieved mainly through additional reductions of CO2. This implies an earlier transition to net zero carbon emissions worldwide, to be achieved between 2045 and 2060. Energy efficiency and stringent early reductions are key to retain a possibility for limiting warming to below 1.5 degrees C by 2100. The window for achieving this goal is small and rapidly closing.
+C1 [Rogelj, Joeri; Krey, Volker; Riahi, Keywan] Int Inst Appl Syst Anal, Energy Program, A-2361 Laxenburg, Austria.
+   [Rogelj, Joeri] ETH, Inst Atmospher & Climate Sci, CH-8092 Zurich, Switzerland.
+   [Luderer, Gunnar; Pietzcker, Robert C.; Kriegler, Elmar] Potsdam Inst Climate Impact Res PIK, D-14412 Potsdam, Germany.
+   [Schaeffer, Michiel] Climate Analyt, D-14412 Potsdam, Germany.
+   [Schaeffer, Michiel] Univ Wageningen & Res Ctr, Environm Syst Anal Grp, NL-6700 AA Wageningen, Netherlands.
+   [Riahi, Keywan] Graz Univ Technol, A-8010 Graz, Austria.
+C3 International Institute for Applied Systems Analysis (IIASA); Swiss
+   Federal Institutes of Technology Domain; ETH Zurich; Potsdam Institut
+   fur Klimafolgenforschung; Wageningen University & Research; Graz
+   University of Technology
+RP Rogelj, J (通讯作者)，Int Inst Appl Syst Anal, Energy Program, Schlosspl 1, A-2361 Laxenburg, Austria.
+EM rogelj@iiasa.ac.at; luderer@pik-potsdam.de
+RI Krey, Volker/ABD-5070-2021; Rogelj, Joeri/I-7108-2012; Luderer,
+   Gunnar/G-2967-2012; Riahi, Keywan/B-6426-2011; Kriegler,
+   Elmar/I-3048-2016
+OI Rogelj, Joeri/0000-0003-2056-9061; Luderer, Gunnar/0000-0002-9057-6155;
+   Pietzcker, Robert/0000-0002-9403-6711; Riahi,
+   Keywan/0000-0001-7193-3498; Kriegler, Elmar/0000-0002-3307-2647;
+   Schaeffer, Michiel/0000-0003-0052-5088; Krey, Volker/0000-0003-0307-3515
+NR 57
+TC 712
+Z9 764
+U1 15
+U2 284
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 1758-678X
+EI 1758-6798
+J9 NAT CLIM CHANGE
+JI Nat. Clim. Chang.
+PD JUN
+PY 2015
+VL 5
+IS 6
+BP 519
+EP +
+DI 10.1038/nclimate2572
+PG 10
+WC Environmental Sciences; Environmental Studies; Meteorology & Atmospheric
+   Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA CL2YR
+UT WOS:000356814800025
+HC Y
+HP N
+DA 2025-05-29
+ER

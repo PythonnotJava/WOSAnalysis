@@ -1,0 +1,67 @@
+PT J
+AU Liang, MY
+   Czaja, A
+   Graversen, R
+   Tailleux, R
+AF Liang, Minyi
+   Czaja, Arnaud
+   Graversen, Rune
+   Tailleux, Remi
+TI Poleward energy transport: is the standard definition physically
+   relevant at all time scales?
+SO CLIMATE DYNAMICS
+LA English
+DT Article
+DE Heat transport; Climate variability
+ID SYSTEM MODEL; HEAT; VARIABILITY; OCEAN; CIRCULATION; MASS
+AB Poleward energy transport in the atmosphere and oceans constitutes an important branch of the global energy budget, and its role in the climate system has been the subject of many studies. In the atmosphere, the transport is affected by "eddies" and large scale meridional cells, both with zero net mass transport across latitude circles, but also partly by processes associated with a net transport of mass across latitude circles. The latter must cease to operate in steady state, but they may be significant when time variability of the heat budget is considered. Indeed, examination of reanalysis data on short (daily to monthly) timescales shows that mass variations on these timescales result in surprisingly large fluctuations (in excess of W = 1 PW) in the poleward heat transport. These fluctuations are referred to as "extensive", for they primarily alter the mass integrated energy of the region considered, but not its averaged value. It is suggested that extensive fluctuations mask more meaningful climate signals present in the heat transport variability aEuroion monthly and interannual timescales, and a new formulation is proposed to isolate the latter. This new formulation is applied successfully to reanalysis data and climate model simulations.
+C1 [Liang, Minyi; Czaja, Arnaud] Imperial Coll London, Dept Phys, London, England.
+   [Graversen, Rune] Univ Tromso, Dept Phys & Technol, Tromso, Norway.
+   [Tailleux, Remi] Univ Reading, Dept Meteorol, Reading, Berks, England.
+C3 Imperial College London; UiT The Arctic University of Tromso; University
+   of Reading
+RP Liang, MY (通讯作者)，Imperial Coll London, Dept Phys, London, England.
+EM m.liang14@imperial.ac.uk
+RI Graversen, Rune/C-3956-2016; Tailleux, Remi/E-9710-2019
+OI Czaja, Arnaud/0000-0003-3645-0284; Tailleux, Remi/0000-0001-8998-9107;
+   Graversen, Rune/0000-0003-4899-553X
+FU Kristian Gerhard Jebsen Foundation; Norwegian Metacenter for
+   Computational Science (NOTUR) [uit-phys-014]; Norwegian University of
+   Science and Technology (NTNU) under NOTUR project [NN9348K]
+FX This work was supported by the Kristian Gerhard Jebsen Foundation. Data
+   was processed in part by using the super computer Stallo at the
+   University of Tromso (UiT) provided by Norwegian Metacenter for
+   Computational Science (NOTUR) under the project uit-phys-014. The CESM
+   experiments were performed at the super computer Vilje at Norwegian
+   University of Science and Technology (NTNU) under the NOTUR project
+   NN9348K. We are thankful to Dr. Gabriele Messori for the many useful
+   discussions. We would also like to thank Dr. Benoit Vanniere and three
+   anonymous reviewers for their valuable suggestions to improve this work.
+NR 23
+TC 16
+Z9 20
+U1 0
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0930-7575
+EI 1432-0894
+J9 CLIM DYNAM
+JI Clim. Dyn.
+PD MAR
+PY 2018
+VL 50
+IS 5-6
+BP 1785
+EP 1797
+DI 10.1007/s00382-017-3722-x
+PG 13
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA FY3GP
+UT WOS:000426707100018
+OA Green Published, Green Accepted
+DA 2025-05-29
+ER

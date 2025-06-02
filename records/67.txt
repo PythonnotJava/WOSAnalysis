@@ -1,0 +1,57 @@
+PT J
+AU Feng, CQ
+   Ji, SJ
+   Li, W
+AF Feng, Chuqiao
+   Ji, Shijun
+   Li, Wen
+TI Integrated Triboelectric Nanogenerator for Energy Harvesting: Efficient
+   Absorption of Wind in 6-16 m s<SUP>-1</SUP> Velocity Range and Wave
+   Energy
+SO ADVANCED ENGINEERING MATERIALS
+LA English
+DT Article
+DE blue energy; self-powered; triboelectric nanogenerator; wind energy
+ID BLUE ENERGY; DESIGN; FLOW
+AB The ocean harbors an abundance of resources, encompassing not only wave energy but also considerable wind energy. Triboelectric nanogenerator (TENG), as a technology for harvesting low-frequency, high-entropy mechanical energy, has shown distinct advantages in the collection and application of marine and wind energy. This study introduces a triboelectric Wind and wave energy harvester (TWWEH), an energy collector based on TENG, which can be used to harness wind and wave energy. The TWWEHs comprise a wind-driven TENG (W-TENG) for wind energy collection and a ring-shaped TENG (R-TENG) for wave energy collection. The proposed vertically integrated TENG architecture enhances spatial utilization rate. Under oscillatory conditions of 0.8 Hz and +/- 30 degrees, the R-TENG generates a peak power of 0.20 mW. While at a wind speed of 10 m s(-1), a peak power of the W-TENG can reach 0.11 mW. This research provides a promising solution to harvest wave and wind energy from the ocean, offering significant potential applications in establishing self-powered oceanic assessment and meteorological systems.
+C1 [Feng, Chuqiao; Ji, Shijun; Li, Wen] Jilin Univ, Sch Mech & Aerosp Engn, Changchun 130025, Peoples R China.
+C3 Jilin University
+RP Ji, SJ (通讯作者)，Jilin Univ, Sch Mech & Aerosp Engn, Changchun 130025, Peoples R China.
+EM jishijun@jlu.edu.cn
+FU Science Center for Gas Turbine Project; Key R&D Projects of the Ministry
+   of Science and Technology of China [2017YFA0701200, 2018YFB1107600];
+   National Natural Science Foundation of China [51775237]; Key R&D
+   Projects of Jilin province of China [20200401121GX, 20230401099YY,
+   20200401144GX]
+FX This work is supported by Science Center for Gas Turbine Project
+   (P2022-A-IV-002-003), Key R&D Projects of the Ministry of Science and
+   Technology of China (grant nos. 2017YFA0701200 and 2018YFB1107600),
+   National Natural Science Foundation of China (grant no. 51775237), Key
+   R&D Projects of Jilin province of China (grant nos. 20200401121GX,
+   20230401099YY, and 20200401144GX).
+NR 50
+TC 0
+Z9 0
+U1 61
+U2 89
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1438-1656
+EI 1527-2648
+J9 ADV ENG MATER
+JI Adv. Eng. Mater.
+PD NOV
+PY 2024
+VL 26
+IS 21
+DI 10.1002/adem.202400987
+EA AUG 2024
+PG 10
+WC Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science
+GA L2W8P
+UT WOS:001286483300001
+DA 2025-05-29
+ER

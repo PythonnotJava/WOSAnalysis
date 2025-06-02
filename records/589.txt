@@ -1,0 +1,96 @@
+PT J
+AU Feng, Z
+   Leung, LR
+   Liu, NN
+   Wang, JY
+   Houze, RA
+   Li, JF
+   Hardin, JC
+   Chen, DD
+   Guo, JP
+AF Feng, Zhe
+   Leung, L. Ruby
+   Liu, Nana
+   Wang, Jingyu
+   Houze, Robert A., Jr.
+   Li, Jianfeng
+   Hardin, Joseph C.
+   Chen, Dandan
+   Guo, Jianping
+TI A Global High-Resolution Mesoscale Convective System Database Using
+   Satellite-Derived Cloud Tops, Surface Precipitation, and Tracking
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+DE convective clouds; global climatology; mesoscale convection;
+   precipitation; satellite observations; storm tracking
+ID LIFE-CYCLE; STRATIFORM PRECIPITATION; EXTREME RAINFALL; TRMM; TROPICS;
+   EVOLUTION; CLIMATOLOGY; SIMULATIONS; INTENSITIES; MORPHOLOGY
+AB A new methodology is developed to construct a global (60 degrees S-60 degrees N) long-term (2000-2019) high-resolution (similar to 10-km h) mesoscale convective system (MCS) database by tracking MCS jointly using geostationary satellite infrared brightness temperature (T-b) and precipitation feature (PF) characteristics from the Integrated Multi-satellitE Retrievals for GPM precipitation data sets. Independent validation shows that the satellite-based MCS data set is able to reproduce important MCS statistics derived from ground-based radar network observations in the United States and China. We show that by carefully considering key PF characteristics in addition to T-b signatures, the new method significantly improves upon previous T-b-only methods in detecting MCSs in the midlatitudes for all seasons. Results show that MCSs account for over 50% of annual total rainfall across most of the tropical belt and in selected regions of the midlatitudes, with a strong seasonality over many regions of the globe. The tracking database allows Lagrangian aspects such as MCS lifetime and translational speed and direction to be analyzed. The longest-lived MCSs preferentially occur over the subtropical oceans. The land MCSs have higher cloud-tops associated with more intense convection, and oceanic MCSs have much higher rainfall production. While MCSs are observed in many regions of the globe, there are fundamental differences in their dynamic and thermodynamic structures that warrant a better understanding of processes that control their evolution. This global database provides significant opportunities for observational and modeling studies of MCSs, their characteristics, and roles in regional and global water and energy cycles, as well as their hydrologic and other impacts.
+   Plain Language Summary Convective storms of mesoscale dimension are a key component in the Earth's energy and hydrological cycle. Mesoscale storms grow to hundreds of kilometers in size and can last for more than a day, and produce a majority of the annual rainfall in many regions of the world. Past studies of mesoscale storms have been limited to the tropics and used methodologies not well tested in the midlatitudes. Here, we develop a new methodology to track mesoscale storms globally using high-resolution satellite observations of both cloud and precipitation. The satellite-based storm tracking reproduces important storm statistics derived from ground-based radar observations. Our new method significantly improves the detection of mesoscale storms in the midlatitudes. This new storm tracking database is the first to cover both the tropics and midlatitudes for all seasons. Results show that mesoscale convective storms account for over 50% of annual rainfall across the tropics and many regions of the subtropics and midlatitudes. Storms over land have more intense convection, while those over ocean produce heavier rainfall and last longer. This global mesoscale storms tracking database supports a broad range of applications, such as understanding their role in global extreme rainfall and circulation and evaluation of global weather and climate model simulations.
+   Key Points
+   Develop an algorithm to track mesoscale convective systems globally using satellite infrared brightness temperature and precipitation data
+   Satellite-based tracking reproduces mesoscale convective system statistics derived from tracking using ground-based radar network data
+   Global mesoscale convective system characteristics and their regional and seasonal variabilities are presented
+C1 [Feng, Zhe; Leung, L. Ruby; Liu, Nana; Wang, Jingyu; Li, Jianfeng; Hardin, Joseph C.] Pacific Northwest Natl Lab, Div Atmospher Sci & Global Change, Richland, WA 99352 USA.
+   [Houze, Robert A., Jr.] Univ Washington, Dept Atmospher Sci, Seattle, WA 98195 USA.
+   [Chen, Dandan; Guo, Jianping] Chinese Acad Meteorol Sci, State Key Lab Severe Weather, Beijing, Peoples R China.
+C3 United States Department of Energy (DOE); Pacific Northwest National
+   Laboratory; University of Washington; University of Washington Seattle;
+   China Meteorological Administration; Chinese Academy of Meteorological
+   Sciences (CAMS)
+RP Feng, Z; Liu, NN (通讯作者)，Pacific Northwest Natl Lab, Div Atmospher Sci & Global Change, Richland, WA 99352 USA.
+EM zhe.feng@pnnl.gov; nana.liu@pnnl.gov
+RI Chen, Dandan/AAH-7141-2020; Liu, Nana/JQJ-4797-2023; W, J/AAB-7776-2021;
+   Feng, Zhe/E-1877-2015; Guo, Jianping/K-1497-2017; Leung,
+   Ruby/F-9276-2018; Li, Jianfeng/ABJ-7348-2022; Hardin, Joseph/F-7973-2018
+OI Feng, Zhe/0000-0002-7540-9017; Guo, Jianping/0000-0001-8530-8976; Wang,
+   Jingyu/0000-0002-4841-0872; Leung, Ruby/0000-0002-3221-9467; Li,
+   Jianfeng/0000-0002-1091-9753; Liu, Nana/0000-0003-3313-4542; Hardin,
+   Joseph/0000-0002-8489-4763
+FU US Department of Energy Office of Science Biological and Environmental
+   Research (BER) through the Water Cycle and Climate Extremes Modeling
+   (WACCEM) scientific focus area; Office of Science of the US Department
+   of Energy [DE-AC02-05CH11231]; DOE [DE-AC05-76RL01830]
+FX This study is supported by the US Department of Energy Office of Science
+   Biological and Environmental Research (BER) as part of the Regional and
+   Global Climate Modeling program through the Water Cycle and Climate
+   Extremes Modeling (WACCEM) scientific focus area. The authors thank Dr.
+   Adam Varble for his insightful discussions and comments on earlier
+   drafts. We also thank Dr. Edward Zipser and two anonymous reviewers for
+   providing helpful comments to improve the manuscript. Development of the
+   MCS tracking method and data analyses described in this study were
+   performed using computational resources provided by the National Energy
+   Research Scientific Computing Center (NERSC), a DOE Office of Science
+   User Facility supported by the Office of Science of the US Department of
+   Energy under contract DE-AC02-05CH11231. PNNL is operated for DOE by
+   Battelle Memorial Institute under contract DE-AC05-76RL01830.
+NR 78
+TC 165
+Z9 173
+U1 16
+U2 100
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 2169-8996
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD APR 20
+PY 2021
+VL 126
+IS 8
+AR e2020JD034202
+DI 10.1029/2020JD034202
+PG 29
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA SW9WJ
+UT WOS:000664863900036
+OA hybrid
+HC Y
+HP N
+DA 2025-05-29
+ER

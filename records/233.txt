@@ -1,0 +1,60 @@
+PT J
+AU Salameh, T
+   Ghenai, C
+   Merabet, A
+   Alkasrawi, M
+AF Salameh, Tareq
+   Ghenai, Chaouki
+   Merabet, Adel
+   Alkasrawi, Malek
+TI Techno-economical optimization of an integrated stand-alone hybrid solar
+   PV tracking and diesel generator power system in Khorfakkan, United Arab
+   Emirates
+SO ENERGY
+LA English
+DT Article
+DE Renewable energy; Solar PV; Diesel; Single-axis and dual-axis tracking
+   system; Hybrid energy system; Optimization; Sensitivity analysis
+ID RENEWABLE ENERGY-SYSTEMS; LIFE-CYCLE COST; BATTERY
+AB The integration of renewable energy technologies (solar, wind, biomass, ocean, geothermal energy) is gaining importance in the United Arab Emirates owing to the high energy demand and greenhouse gas (GHG) emissions. This paper presents the analysis and results of the performance and optimization of a stand-alone solar PV power system with single-axis (horizontal and vertical) and dual-axis solar trackers and a diesel generator (DG) for the city of Khorfakkan, Sharjah. The modeling, simulations, and optimization analysis of the hybrid energy system (HES) were performed with the HOMER software based on the daily energy consumption of 37.75 MWh in the study area. The simulation results show that employing an HES with dual-axis solar trackers is the best power system architecture considering the renewable fraction (48.55%) and levelized cost of energy (LCOE; 0.25 $/kWh). The proposed HES meets the annual energy demand of the city (13,778 MWh) without shortages and with an electricity excess of 9.81%. In addition, the sensitivity analysis shows that the HES with dual-axis solar PV tracking system provides lower electricity costs (250 $/MWh) and the highest GHG emission reduction (69.6%, which is equivalent to the GHG emission reduction of a diesel engine consuming 682,279 gallons of diesel fuel). (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Salameh, Tareq; Ghenai, Chaouki] Univ Sharjah, Sustainble & Renewable Energy Engn Dept, POB 27272, Sharjah, U Arab Emirates.
+   [Salameh, Tareq; Ghenai, Chaouki] Univ Sharjah, Res Inst Sci & Engn, Sustainble Energy Dev Res Grp, POB 27272, Sharjah, U Arab Emirates.
+   [Merabet, Adel] St Marys Univ, Div Engn, Halifax, NS, Canada.
+   [Alkasrawi, Malek] Univ Wisconsin, Dept PS & Chem Engn, Stevens Point, WI 54481 USA.
+C3 University of Sharjah; University of Sharjah; Saint Marys University -
+   Canada; University of Wisconsin System; University of Wisconsin Stevens
+   Point
+RP Salameh, T (通讯作者)，Univ Sharjah, Sustainble & Renewable Energy Engn Dept, Coll Engn, POB 27272, Sharjah, U Arab Emirates.
+EM tsalameh@sharjah.ac.ae
+RI Salameh, Tareq/AAB-7738-2019; Ghenai, Chaouki/AAM-6619-2021; Merabet,
+   Adel/I-1712-2019
+OI Merabet, Adel/0000-0002-3926-0489; Salameh, Tareq/0000-0002-0172-6730
+FU Sharjah Electricity and Water Authority (SEWA) [1702040681-P]
+FX The authors gratefully acknowledge the financial assistance from the
+   Sharjah Electricity and Water Authority (SEWA) through project No.
+   (1702040681-P).
+NR 29
+TC 89
+Z9 91
+U1 0
+U2 11
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD JAN 1
+PY 2020
+VL 190
+AR 116475
+DI 10.1016/j.energy.2019.116475
+PG 16
+WC Thermodynamics; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels
+GA KE7SU
+UT WOS:000508752200076
+DA 2025-05-29
+ER

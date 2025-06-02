@@ -1,0 +1,67 @@
+PT J
+AU Nezhad, MM
+   Neshat, M
+   Heydari, A
+   Razmjoo, A
+   Piras, G
+   Garcia, DA
+AF Nezhad, M. Majidi
+   Neshat, M.
+   Heydari, A.
+   Razmjoo, A.
+   Piras, G.
+   Garcia, D. Astiaso
+TI A new methodology for offshore wind speed assessment integrating
+   Sentinel-1, ERA-Interim and in-situ measurement
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Wind speed assessment; Offshore wind speed; SCADA; Sentinel-1;
+   ERA-Interim; Marine renewables
+ID GEOPHYSICAL MODEL FUNCTION; RENEWABLE ENERGY; RESOURCE ASSESSMENT;
+   COASTAL REGIONS; OCEAN WIND; SAR; CHINA; SATELLITE; VALIDATION; ASCAT
+AB Offshore Wind (OW) speed assessment is a key aspect for the development of new wind farms at sea. Satellites can be used to globally obtain ocean and sea distribution, compensating limited in-situ measurements. In this study, a new methodology to estimate the wind's speed potential is here proposed. Preliminary, Sentinel-1 (S-1) images have been analyzed by means of the Sentinel Application Platform (SNAP) software, extrapolating wind speed data for each cell pixel size of a testing area. Then GIS (Geographic Information System) software has been used to map wind data and find the best pixel location comparing these data with in-situ data. Furthermore, wind speed has been analyzed using the ERA-Interim reanalysis dataset for areas within 11 km and 40 km from the Lillgrund OW farm in the Baltic Sea to better understand wind regimes. Finally, wind speed parameters obtained by S-1 in Sea Surface Water (SSW) with the 10 m standard high have been compared with wind speed recorded by Supervisory Control and Data Acquisition (SCADA) systems of two turbine using wind profile formula. Obtained results show the comparison accuracy of wind speed assessment for each center of the pixels by S-1 satellite images and in-situ (SCADA) measurements. Data actually depends on the distance between the selected center pixel and the location of the turbines. The obtained wind speed differences (0.26 m/s -RMSE = 1.38 and 0.92 m/s -RMSE = 1.82) pinpointed the direct effect of the distance between the selected pixel center and the in-situ measurements location in the S-1 imagery for wind speed potential assessment. Obtained results proved an improvement of the OW assessment accuracy using multiple satellite observations, demonstrating that SAR wind maps can support OW speed sites assessment by introducing observations in different phases of an OW farm project.
+   (c) 2021 Elsevier Ltd. All rights reserved.
+C1 [Nezhad, M. Majidi; Heydari, A.; Piras, G.] Sapienza Univ Rome, Dept Astronaut Elect & Energy Engn DIAEE, Rome, Italy.
+   [Neshat, M.] Univ Adelaide, Sch Comp Sci, Optimizat & Logist Grp, Adelaide, SA, Australia.
+   [Razmjoo, A.] Univ Politecn Catalunya UPC, Escola Tecn Super Engn Ind Barcelona ETSEIB, Barcelona, Spain.
+   [Garcia, D. Astiaso] Sapienza Univ Rome, Dept Planning Design & Technol Architecture, Rome, Italy.
+C3 Sapienza University Rome; University of Adelaide; Universitat
+   Politecnica de Catalunya; Sapienza University Rome
+RP Nezhad, MM (通讯作者)，Sapienza Univ Rome, Dept Astronaut Elect & Energy Engn DIAEE, Rome, Italy.
+EM meysam.majidinezhad@uniroma1.it; mehdi.neshat@adelaide.edu.au;
+   azim.heydari@uniroma1.it; arminupc1983@gmail.com;
+   giuseppe.piras@uniroma1.it; davide.astiasogarcia@uniroma1.it
+RI Neshat, Mehdi/AAO-7963-2020; Heydari, Azim/AAL-1051-2021; Razmjoo,
+   Armin/ACN-0329-2022; Piras, Giuseppe/AAL-9812-2021; Garcia,
+   Davide/H-6478-2019
+OI Neshat, Mehdi/0000-0002-9537-9513; Razmjoo, Armin/0000-0001-9415-4649;
+   PIRAS, GIUSEPPE/0000-0002-2800-3962; Astiaso Garcia,
+   Davide/0000-0003-0752-2146
+NR 75
+TC 22
+Z9 23
+U1 4
+U2 33
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+EI 1879-0682
+J9 RENEW ENERG
+JI Renew. Energy
+PD JUL
+PY 2021
+VL 172
+BP 1301
+EP 1313
+DI 10.1016/j.renene.2021.03.026
+EA APR 2021
+PG 13
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA RO6JO
+UT WOS:000641149800012
+DA 2025-05-29
+ER

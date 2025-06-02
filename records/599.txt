@@ -1,0 +1,74 @@
+PT J
+AU Yun, GY
+   Ngarambe, J
+   Duhirwe, PN
+   Ulpiani, G
+   Paolini, R
+   Haddad, S
+   Vasilakopoulou, K
+   Santamouris, M
+AF Yun, Geun Young
+   Ngarambe, Jack
+   Duhirwe, Patrick Nzivugira
+   Ulpiani, Giulia
+   Paolini, Riccardo
+   Haddad, Shamila
+   Vasilakopoulou, Konstantina
+   Santamouris, Mat
+TI Predicting the magnitude and the characteristics of the urban heat
+   island in coastal cities in the proximity of desert landforms. The case
+   of Sydney
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Urban heat island; LSTM; Sea breeze; Desert winds, AI forecasting
+   models; Regional climate change; Synoptic conditions
+ID SHORT-TERM-MEMORY; AMBIENT AIR-TEMPERATURE; NEURAL-NETWORK; LOCAL
+   CLIMATE; ENERGY DEMAND; INTENSITY; ATHENS; BUILDINGS; ENSEMBLE; SURFACE
+AB The urban heat island is a vastly documented climatological phenomenon, but when it comes to coastal cities, close to desert areas, its analysis becomes extremely challenging, given the high temporal variability and spatial heterogeneity. The strong dependency on the synoptic weather conditions, rather than on city-specific, constant features, hinders the identification of recurrent patterns, leading conventional predicting algorithms to fail.
+   In this paper, an advanced artificial intelligence technique based on long short-term memory (LSTM) model is applied to gain insight and predict the highly fluctuating heat island intensity (UHII) in the city of Sydney, Australia, governed by the dualistic system of cool sea breeze from the ocean and hot western winds from the vast desert biome inlands.
+   Hourly measurements of temperature, collected for a period of 18 years (1999-2017) from 8 different sites in a 50 km radius from the coastline, were used to train (80%) and test (20%) the model. Other inputs included date, time, and previously computed UHII, feedbacked to the model with an optimized time step of six hours. A second set of models integrated wind speed at the reference station to account for the sea breeze effect. The R-2 ranged between 0.770 and 0.932 for the training dataset and between 0.841 and 0.924 for the testing dataset, with the best performance attained right in correspondence of the city hot spots. Unexpectedly, very little benefit (0.06-0.43%) was achieved by including the sea breeze among the input variables.
+   Overall, this study is insightful of a rather rare climatological case at the watershed between maritime and desertic typicality. We proved that accurate UHII predictions can be achieved by learning from long-term air temperature records, provided that an appropriate predicting architecture is utilized. (C) 2019 Elsevier B.V. All rights reserved.
+C1 [Yun, Geun Young; Ngarambe, Jack; Duhirwe, Patrick Nzivugira; Santamouris, Mat] Kyung Hee Univ, Dept Architectural Engn, 1 Seocheon Dong, Yongin 446701, Gyeonggi Do, South Korea.
+   [Ulpiani, Giulia] Univ Sydney, Sch Civil Engn, Bldg J05,Room 260, Sydney, NSW 2006, Australia.
+   [Paolini, Riccardo; Haddad, Shamila; Vasilakopoulou, Konstantina; Santamouris, Mat] Univ New South Wales, Fac Built Environm, Sydney, NSW, Australia.
+C3 Kyung Hee University; University of Sydney; University of New South
+   Wales Sydney
+RP Ulpiani, G (通讯作者)，Univ Sydney, Sch Civil Engn, Bldg J05,Room 260, Sydney, NSW 2006, Australia.
+EM gyyun@khu.ac.kr; ngarajack@khu.ac.kr; duhirwe@khu.ac.kr;
+   giulia.ulpiani@sydney.edu.au; r.paolini@unsw.edu.au;
+   s.haddad@unsw.edu.au; k.vasilakpoulou@unsw.edu.au;
+   m.santamouris@unsw.edu.au
+RI Vasilakopoulou, Konstantina/MVU-7134-2025; Mat,
+   Santamouris/AAP-2836-2021; Paolini, Riccardo/I-6937-2015; Yun, Geun
+   Young/C-3843-2012
+OI Yun, Geun Young/0000-0002-9868-8776; Haddad,
+   Shamila/0000-0003-3569-5765; ulpiani, giulia/0000-0002-1728-6442;
+   Santamouris, Matthaios/0000-0001-6076-3526; Vasilakopoulou,
+   Konstantina/0000-0002-9235-0782; Ngarambe, Jack/0000-0001-6784-7087
+NR 94
+TC 72
+Z9 72
+U1 1
+U2 60
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD MAR 20
+PY 2020
+VL 709
+AR 136068
+DI 10.1016/j.scitotenv.2019.136068
+PG 20
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA KJ8BS
+UT WOS:000512281700056
+PM 31869706
+DA 2025-05-29
+ER

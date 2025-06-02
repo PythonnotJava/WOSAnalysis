@@ -1,0 +1,51 @@
+PT J
+AU Kamfar, H
+   Shojaeian, A
+   Seyf, JY
+   Hajialigol, N
+AF Kamfar, Hadi
+   Shojaeian, Abolfazl
+   Seyf, Jaber Yousefi
+   Hajialigol, Najmeh
+TI Exergy, emergoeconomic and emergoenvironmental analysis of ocean thermal
+   energy conversion (OTEC) systems: An integration with solar, wind, and
+   thermoelectric energy production
+SO THERMAL SCIENCE AND ENGINEERING PROGRESS
+LA English
+DT Article
+DE Emergoeconomic; Emergoenvironmental; Solar emergy joule; Sensitive
+   analyses
+ID THERMODYNAMIC ANALYSIS; EXERGOENVIRONMENTAL ANALYSES; EMERGY; CYCLE;
+   POWER; OPTIMIZATION; PLANT; ECONOMY; IMPACT
+AB Decentralized multi-generation systems using renewable energy sources have great potential for combating climate change and promoting sustainable development. This study models and analyzes an integrated solarassisted system consisting of an organic Rankine cycle, a wind turbine, and a thermoelectric unit using EES software. Performance is evaluated through exergy, emergoeconomic, and emergoenvironmental analyses. The economic emergy coefficients are steam turbine (59.93%), evaporator (1.66%), working fluid pump 1 (37.25%), warm sea water pump2 (86.86%), cold sea water pump3 (86.97%), solar collector (100%), wind turbine (100%), and thermoelectric unit (100%). Environmental emergy coefficients are steam turbine (58.56%), evaporator (87.15%), working fluid pump 1 (48.97%), warm sea water pump2 (8.39%), cold sea water pump3 (7.68%), solar collector (100%), wind turbine (77.57%), and thermoelectric unit (100%). The system also reduces carbon dioxide emissions by 1.34 tons, highlighting the technical, economic, and environmental benefits of renewable energy integration.
+C1 [Kamfar, Hadi] Hamedan Univ Technol, Div Energy Engn, Hamadan, Iran.
+   [Shojaeian, Abolfazl; Seyf, Jaber Yousefi] Hamedan Univ Technol, Dept Chem Engn, Hamadan, Iran.
+   [Hajialigol, Najmeh] Hamedan Univ Technol, Dept Mech Engn, Hamadan, Iran.
+RP Shojaeian, A; Seyf, JY (通讯作者)，Hamedan Univ Technol, Dept Chem Engn, Hamadan, Iran.
+EM ab.shojaeian@gmail.com; jaber.yousofi@yahoo.com
+RI Seyf, Jaber/AAD-6946-2021; Shojaeian, Abolfazl/AAC-7377-2021
+NR 44
+TC 0
+Z9 0
+U1 10
+U2 10
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2451-9049
+J9 THERM SCI ENG PROG
+JI Therm. Sci. Eng. Prog.
+PD APR
+PY 2025
+VL 60
+AR 103459
+DI 10.1016/j.tsep.2025.103459
+EA MAR 2025
+PG 16
+WC Thermodynamics; Energy & Fuels; Engineering, Mechanical; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels; Engineering; Mechanics
+GA 0DE3G
+UT WOS:001444560900001
+DA 2025-05-29
+ER

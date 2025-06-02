@@ -1,0 +1,87 @@
+PT J
+AU Perticarari, S
+   Doizy, T
+   Soudan, P
+   Ewels, C
+   Latouche, C
+   Guyomard, D
+   Odobel, F
+   Poizot, P
+   Gaubicher, J
+AF Perticarari, Sofia
+   Doizy, Tom
+   Soudan, Patrick
+   Ewels, Chris
+   Latouche, Camille
+   Guyomard, Dominique
+   Odobel, Fabrice
+   Poizot, Philippe
+   Gaubicher, Joel
+TI Intermixed Cation-Anion Aqueous Battery Based on an Extremely Fast and
+   Long-Cycling Di-Block Bipyridinium-Naphthalene Diimide Oligomer
+SO ADVANCED ENERGY MATERIALS
+LA English
+DT Article
+DE extended cyclability; full aqueous battery; intermixed cation-anion
+   insertion oligomer; ocean water; zero carbon additive
+ID ENERGY-STORAGE DEVICE; THICK ELECTRODES; ION BATTERY; INTERCALATION
+AB Aqueous batteries, particularly those integrating organic active materials functioning in a neutral pH environment, stand out as highly promising contenders in the stationary electrochemical storage domain, owing to their unparalleled safety, sustainability, and low-cost materials. Herein, a novel di-block oligomer, serving as the negative electrode of an all-organic aqueous battery, is shown to offer exceptional output capabilities. The battery's performance is further enhanced by a unique intermixed p/n-type storage mechanism, which is able to simultaneously exchange light and naturally abundant Na+, Mg2+, and Cl-. Reaching up to 105 mAh g(-1), this system shows remarkable capacity retention for several thousand cycles (6500 cycles, approximate to 40 days) in various neutral electrolytes, including raw ocean water (approximate to 3000 cycles, approximate to 75 days). The surprisingly fast kinetics of this di-block oligomer allow to attain an unmatched specific capacity of near to 60 mAh g(electrode)(-1) while entirely devoid of conducting additives, and more than 80 mAh g(electrode)(-1) with 10% carbon additive, as well as displaying an areal capacity as high as 3.4 mAh cm(-2) at C rate. Full cell validation was demonstrated over 1600 cycles by virtue of a commercial 2,2,6,6-tetramethylpiperidin-1-yl)oxyl (TEMPO) molecule, which permitted an energy density of close to 40 Wh kg(materials)(-1) at C rate in a self-pH-buffered and inexpensive aqueous electrolyte.
+C1 [Perticarari, Sofia; Doizy, Tom; Soudan, Patrick; Ewels, Chris; Latouche, Camille; Guyomard, Dominique; Poizot, Philippe; Gaubicher, Joel] Univ Nantes, CNRS, Inst Mat Jean Rouxel IMN, 2 Rue Houssiniere,BP 32229, F-44322 Nantes 3, France.
+   [Perticarari, Sofia; Odobel, Fabrice] Univ Nantes, CEISAM, Chim & Interdisciplinar, Synth,Anal,Modelisat, 2 Rue Houssiniere,BP 92208, F-44322 Nantes 3, France.
+C3 Nantes Universite; Centre National de la Recherche Scientifique (CNRS);
+   Nantes Universite
+RP Poizot, P; Gaubicher, J (通讯作者)，Univ Nantes, CNRS, Inst Mat Jean Rouxel IMN, 2 Rue Houssiniere,BP 32229, F-44322 Nantes 3, France.; Odobel, F (通讯作者)，Univ Nantes, CEISAM, Chim & Interdisciplinar, Synth,Anal,Modelisat, 2 Rue Houssiniere,BP 92208, F-44322 Nantes 3, France.
+EM Fabrice.Odobel@univ-nantes.fr; Philippe.Poizot@cnrs-imn.fr;
+   Joel.Gaubicher@cnrs-imn.fr
+RI POIZOT, Philippe/E-5722-2017; Guyomard, Dominique/K-5418-2015; LATOUCHE,
+   Camille/B-7113-2014; Ewels, Chris/A-1543-2012
+OI GAUBICHER, Joel/0000-0001-6229-740X; Guyomard,
+   Dominique/0000-0001-7801-8129; LATOUCHE, Camille/0000-0002-3541-3417;
+   Ewels, Chris/0000-0001-5530-9601
+FU Pays de La Loire, France; synchrotron SOLEIL [20160193]
+FX This work was supported by Pays de La Loire, France under the "Paris
+   Scientifiques" program grant agreement referred to as GREENHOPE. J.G. is
+   thankful to Prof. Yan Yao (Houston University) and Prof. Michel Armand
+   (CIC Energigune) for fruitful discussions. J.G. and S.P. wish to thank
+   Dr. Antonio Jesus Fernandez Ropero (IMN), Dr. Guillaume Ledain (IMN),
+   and Dr. Nicolas Stephan (IMN) for their help with SEM pictures; Dr.
+   Christelle Gautier (MOLTECH Anjou) for her technical assistance with
+   EQCM measurements performed at Moltech Anjou in Dr. E. Levillain's
+   group; Dr. V. Silvestre and B. Charrier (CEISAM, University of Nantes)
+   for their help with NMR spectrometers, and Prof. Bernard Humbert (IMN)
+   for fruitful discussions regarding FTIR data. J.G. is grateful to
+   synchrotron SOLEIL for funding proposal 20160193 on the CRISTAL
+   beamline, and Dr. Erik Elkaim (SOLEIL Synchrotron) for technical
+   assistance with the beamline. J.G. is thankful to Nathalie
+   Cochennec-Laureau (IFREMER) for providing salinity measurements and
+   Dittmar's method for ion composition determination. All of the
+   above-mentioned authors contributed to the present manuscript, and all
+   have approved the final version.
+NR 50
+TC 22
+Z9 21
+U1 1
+U2 76
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1614-6832
+EI 1614-6840
+J9 ADV ENERGY MATER
+JI Adv. Energy Mater.
+PD JUL
+PY 2019
+VL 9
+IS 25
+AR 1803688
+DI 10.1002/aenm.201803688
+PG 16
+WC Chemistry, Physical; Energy & Fuels; Materials Science,
+   Multidisciplinary; Physics, Applied; Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Energy & Fuels; Materials Science; Physics
+GA IM1UY
+UT WOS:000477778400007
+OA Green Submitted, Green Published
+DA 2025-05-29
+ER

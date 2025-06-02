@@ -1,0 +1,62 @@
+PT J
+AU Lei, Y
+   Zhao, SX
+   Zheng, XY
+   Li, W
+AF Lei, Y.
+   Zhao, S. X.
+   Zheng, X. Y.
+   Li, W.
+TI Effects of Fish Nets on the Nonlinear Dynamic Performance of a Floating
+   Offshore Wind Turbine Integrated with a Steel Fish Farming Cage
+SO INTERNATIONAL JOURNAL OF STRUCTURAL STABILITY AND DYNAMICS
+LA English
+DT Article
+DE Floating offshore wind turbine; copper alloy nets; equivalent Morison
+   elements; dynamic response; damping
+ID ENERGY; DRAG
+AB This paper aims to study the effects of fish nets on the nonlinear dynamic performance of a floating offshore wind turbine integrated with a steel fish farming cage (FOWT-SFFC). Fully coupled aero-hydro-servo-elastic numerical models of FOWT-SFFC, with and without nets, are constructed to probe the nonlinear time-domain stochastic response. The first-order potential flow model with quadratic drag forces is employed to calculate the hydrodynamic loading on the foundation. The effects of nets on the damping ratios of 6 degree-of-freedom motions and on their displacement response amplitude operators (RAOs) are respectively investigated in numerical decay tests and monochromatic regular waves. The results show that the nets help to increase the damping level for the whole system and reduce motion RAOs when wave periods are around the natural periods of motions, while nets play insignificant role in motions when wave periods are far away from motion natural periods. The dynamic performances of FOWT-SFFC with and without nets under random ocean waves, the combined random wind and random waves as well as current are comprehensively compared and discussed. The simulation results indicate that in wind-sea dominated conditions, the nets tend to slightly increase the dynamic responses of FOWT-SFFC, especially the components corresponding to natural periods. Nonetheless, under sea states that comprise both wind-sea waves and swell, nets help to reduce the dynamic responses of FOWT-SFFC by introducing additional damping.
+C1 [Lei, Y.] Tsinghua Univ, Dept Civil Engn, Beijing 100084, Peoples R China.
+   [Lei, Y.; Zheng, X. Y.] Tsinghua Univ, Shenzhen Int Grad Sch, Div Ocean Sci & Technol, Shenzhen 518055, Peoples R China.
+   [Zhao, S. X.; Li, W.] POWERCHINA Huadong Engn Corp Ltd, Hangzhou 310014, Peoples R China.
+   [Zhao, S. X.; Li, W.] Key Lab Far Shore Wind Power Technol Zhejiang Pro, Hangzhou 310014, Peoples R China.
+C3 Tsinghua University; Tsinghua University; POWERCHINA Huadong Engineering
+   Corporation Limited
+RP Zheng, XY (通讯作者)，Tsinghua Univ, Shenzhen Int Grad Sch, Div Ocean Sci & Technol, Shenzhen 518055, Peoples R China.
+EM lei-y16@mails.tsinghua.edu.cn; zhao_sx@ecidi.com;
+   zheng.xiangyuan@sz.tsinghua.edu.cn; li_w@ecidi.com
+OI Lei, Yu/0000-0001-5023-927X
+FU Offshore Wind Power R&D Center of POWERCHINA Huadong [KY2018-ZD-03-W02];
+   2020 Marine Economy Development Project of Guangdong Province; China
+   National Science Foundation [51579227]
+FX This research is financially supported by the Joint Industrial Project
+   KY2018-ZD-03-W02 of Offshore Wind Power R&D Center of POWERCHINA
+   Huadong, the 2020 Marine Economy Development Project of Guangdong
+   Province, and the China National Science Foundation project (Grant No.
+   51579227).
+NR 43
+TC 39
+Z9 41
+U1 2
+U2 49
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0219-4554
+EI 1793-6764
+J9 INT J STRUCT STAB DY
+JI Int. J. Struct. Stab. Dyn.
+PD MAR
+PY 2020
+VL 20
+IS 3
+AR 2050042
+DI 10.1142/S021945542050042X
+PG 31
+WC Engineering, Civil; Engineering, Mechanical; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Mechanics
+GA LL7IM
+UT WOS:000531730400015
+DA 2025-05-29
+ER

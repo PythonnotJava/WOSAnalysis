@@ -1,0 +1,86 @@
+PT J
+AU Azam, A
+   Ahmed, A
+   Yi, MY
+   Zhang, ZT
+   Zhang, ZQ
+   Aslam, T
+   Mugheri, SA
+   Abdelrahman, M
+   Ali, A
+   Qi, LF
+AF Azam, Ali
+   Ahmed, Ammar
+   Yi, Minyi
+   Zhang, Zutao
+   Zhang, Zeqiang
+   Aslam, Touqeer
+   Mugheri, Shoukat Ali
+   Abdelrahman, Mansour
+   Ali, Asif
+   Qi, Lingfei
+TI Wave energy evolution: Knowledge structure, advancements, challenges and
+   future opportunities
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+LA English
+DT Article
+DE Wave energy evolution; Point absorber WECs; Scientometric analysis;
+   Systematic review; Efficiency enhancement; Technological integration
+ID INFORMED GEOMETRIC OPTIMIZATION; EXCITATION FORCE ESTIMATION; HEAVING
+   POINT ABSORBERS; BOUNDARY-ELEMENT METHOD; TAKE-OFF SYSTEM; RENEWABLE
+   ENERGY; SHAPE OPTIMIZATION; POWER ABSORPTION; HYDRODYNAMIC ANALYSIS;
+   NUMERICAL-ANALYSIS
+AB Harnessing energy from ocean waves presents a promising solution to combating global climate change in the marine environment, significantly contributing to mitigation efforts, climate enrichment, and decarbonization. This study offers a comprehensive overview of wave energy conversion technologies, focusing on point absorber wave energy converters (PA-WECs) through scientometric and systematic analysis from 2015 to 2024. Data were collected from the Web of Science and Scopus databases, analyzing 1519 research articles and 1518 patents. The study identifies six major knowledge domains based on co-occurring keywords, keyword clusters, and knowledge bursts: wave characteristics, buoy shape optimization, power take-off system design, experimental optimization, WEC arrays, and control strategies. Key findings reveal that oscillating water column technology leads the field with 788 publications and 1027 patents. In contrast, PA-WECs show considerable innovation potential, with 611 publications and 320 patents, particularly in buoy optimization and control strategies. The study includes a gap analysis, identifying critical areas for further research, such as integrating artificial intelligence (AI) and machine learning for improved control and monitoring of PA-WEC systems. Challenges like the need for accurate wave climate data, optimized floater geometry, and robust control strategies in extreme weather conditions are addressed. The findings suggest that integrating AI, remote sensing, and machine learning can enhance PA-WEC efficiency, supporting the development of sustainable energy solutions. This study advances the UN SDGs by fostering clean energy innovation (SDG-7), climate resilience (SDG-13), and sustainable use of the oceans (SDG 14)
+C1 [Azam, Ali] Southwest Jiaotong Univ, Sch Elect Engn, Chengdu 610031, Peoples R China.
+   [Azam, Ali; Ahmed, Ammar; Yi, Minyi; Zhang, Zutao; Zhang, Zeqiang; Aslam, Touqeer; Mugheri, Shoukat Ali; Abdelrahman, Mansour; Ali, Asif] Southwest Jiaotong Univ, Sch Mech Engn, Chengdu 610031, Peoples R China.
+   [Zhang, Zutao] Chengdu Technol Univ, Chengdu 611730, Peoples R China.
+   [Azam, Ali; Ahmed, Ammar; Aslam, Touqeer; Mugheri, Shoukat Ali; Abdelrahman, Mansour; Ali, Asif] Southwest Jiaotong Univ, Yibin Res Inst, Yibin 644000, Peoples R China.
+   [Qi, Lingfei] Guizhou Univ, Sch Mech Engn, Guiyang 550025, Guizhou, Peoples R China.
+C3 Southwest Jiaotong University; Southwest Jiaotong University; Chengdu
+   Technological University; Southwest Jiaotong University; Guizhou
+   University
+RP Zhang, ZT (通讯作者)，Southwest Jiaotong Univ, Sch Mech Engn, Chengdu 610031, Peoples R China.
+EM zzt@swjtu.edu.cn
+RI Azam, Ali/ABA-3756-2020; Aslam, Touqeer/HKF-2350-2023; Ali,
+   Asif/B-3636-2017; Ahmed, Ammar/ITU-5544-2023
+OI Qi, Lingfei/0000-0002-0507-0775; ZHANG, ZUTAO/0000-0003-2641-2049; Azam,
+   Ali/0000-0002-0175-3966; Ahmed, Ammar/0000-0002-8978-5638
+FU National Natural Foundation of China [51975490]; Science and Technology
+   Projects of Sichuan [2021YFQ0055, 2021YFSY0059, 2021JDRC0118,
+   2021JDRC0096]; Sci-ence and Technology Projects of Chengdu
+   [2021YF0800138GX]
+FX This work was supported by the National Natural Foundation of China
+   under Grants No. 51975490 and by the Science and Technology Projects of
+   Sichuan under Grants Nos. Nos. 2021YFQ0055, 2021YFSY0059, 2021JDRC0118,
+   and 2021JDRC0096; and by the Sci-ence and Technology Projects of Chengdu
+   under Grant No. 2021YF0800138GX. Permission for the use of all
+   copyrighted graphics, images, tables, and figures has been obtained from
+   the respective copyright holders. These permissions are gratefully
+   acknowledged and clearly referenced in the figure legends and table
+   captions.
+NR 263
+TC 7
+Z9 7
+U1 32
+U2 48
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1364-0321
+EI 1879-0690
+J9 RENEW SUST ENERG REV
+JI Renew. Sust. Energ. Rev.
+PD NOV
+PY 2024
+VL 205
+AR 114880
+DI 10.1016/j.rser.2024.114880
+EA AUG 2024
+PG 29
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA E9T8M
+UT WOS:001306361900001
+DA 2025-05-29
+ER

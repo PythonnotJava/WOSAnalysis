@@ -1,0 +1,61 @@
+PT J
+AU Choi, YK
+   Choi, WS
+   Lee, JH
+AF Choi, Young Kwan
+   Choi, Won Seok
+   Lee, Jae Hyeong
+TI Empirical Research on the Efficiency of Floating PV Systems
+SO SCIENCE OF ADVANCED MATERIALS
+LA English
+DT Article
+DE Floating Photovoltaic System; Tracking-Type FPV System; Ocean-Floating
+   Photovoltaic System
+AB The floating photovoltaic system is a new energy technology concept to meet the increasing energy requirements of our time. The system integrates existing land-based photovoltaic technologies with a newly-developed floating photovoltaic technology. K-water installed a 100 kW commercial demonstration plant at Hapcheon Dam, Korea in 2011. K-water also leads the domestic and overseas floating photovoltaic markets and installed the world's largest 500 kW floating photovoltaic facility at the time of its construction in 2012. Also, in October 2013, K-water tested the operation of an 11 kW ocean-floating photovoltaic demonstration plant (for research purposes) at the inland sea of the Sihwa Embankment in order to test the applicability of floating photovoltaic systems at sea. In this paper, the empirical data from 100 kW and 500 kW floating PV systems; a 100 kW tracking-type, floating PV system in a reservoir; and an 11 kW ocean-floating PV system were analyzed to determine their performance.
+C1 [Choi, Young Kwan] Korea Water Resources Corp, K Water Inst, Daejeon 305730, South Korea.
+   [Choi, Won Seok] Hanbat Natl Univ, Dept Elect Engn, Daejeon 305719, South Korea.
+   [Lee, Jae Hyeong] Sungkyunkwan Univ, Sch Elect & Elect Engn, Suwon 440746, South Korea.
+C3 Korea Water Resources Corporation; Hanbat National University;
+   Sungkyunkwan University (SKKU)
+RP Lee, JH (通讯作者)，Sungkyunkwan Univ, Sch Elect & Elect Engn, Suwon 440746, South Korea.
+EM jaehyeong@skku.edu
+RI Lee, Joo Yong/ADE-2110-2022
+OI Lee, Jaehyeong/0000-0001-7775-1142
+FU Korea Research Foundation (KRF) grant - Korea government (MEST)
+   [2012R1A1A2008591]; Human Resources Development program of the Korea
+   Institute of Energy Technology Evaluation and Planning (KETEP) grant -
+   Korea government Ministry of Trade, Industry and Energy [20144030200580]
+FX This work was supported by the Korea Research Foundation (KRF) grant
+   funded by the Korea government (MEST) (No. 2012R1A1A2008591). Also, this
+   work was supported by the Human Resources Development program (No.
+   20144030200580) of the Korea Institute of Energy Technology Evaluation
+   and Planning (KETEP) grant funded by the Korea government Ministry of
+   Trade, Industry and Energy.
+NR 8
+TC 35
+Z9 37
+U1 8
+U2 100
+PU AMER SCIENTIFIC PUBLISHERS
+PI VALENCIA
+PA 26650 THE OLD RD, STE 208, VALENCIA, CA 91381-0751 USA
+SN 1947-2935
+EI 1947-2943
+J9 SCI ADV MATER
+JI Sci. Adv. Mater.
+PD MAR
+PY 2016
+VL 8
+IS 3
+BP 681
+EP 685
+DI 10.1166/sam.2016.2529
+PG 5
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science; Physics
+GA DI3QV
+UT WOS:000373414500032
+DA 2025-05-29
+ER

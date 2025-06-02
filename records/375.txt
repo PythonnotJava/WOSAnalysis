@@ -1,0 +1,50 @@
+PT J
+AU Abdennadher, J
+   Boukthir, M
+AF Abdennadher, Jihene
+   Boukthir, Moncef
+TI Numerical study of the spatial distribution of the M2
+   internal tides in the Strait of Sicily
+SO GEOPHYSICAL AND ASTROPHYSICAL FLUID DYNAMICS
+LA English
+DT Article
+DE M-2 internal tide; energetics; ROMS; Strait of Sicily; Mediterranean Sea
+ID CENTRAL MEDITERRANEAN SEA; SEASONAL VARIABILITY; CIRCULATION; SHELF;
+   NORTH; MODEL; DYNAMICS; SURFACE; WATER; GIBRALTAR
+AB The present study investigates the spatial distribution of the M-2 internal tide in the Strait of Sicily using a three-dimensional sigma coordinate model, the Regional Ocean Modeling System. Realistic topography and stratification from existing observational data were used. The numerical simulations show that there are three distinct sites of strong M-2 internal tide generation, namely the western sill of the Adventure Bank, northwest of Sicily and north of Pantelleria isle. The conversion rate of energy from the M-2 surface to internal tide integrated over the whole model domain amounts to 47.5 MW, 75% of which are found to be generated over the three prominent topographic features mentioned above. The depth-integrated baroclinic energy flux depicts the propagation away from these sites, particularly toward the north and southwest. The maximum flux amplitudes are found in the three main generation sites identified, with the largest value occurring at the narrowest passage through the western sill. A comparison between the model and currentmeter measurements at two stations shows reasonable agreement for different depths. The similarities in the spatial distribution of the baroclinic energy flux divergence and the barotropic forcing suggest that the generation of the M-2 internal tide in the Strait of Sicily results primarily from barotropic tidal flow over sloping topography.
+C1 [Abdennadher, Jihene; Boukthir, Moncef] Univ Tunis, UR11ES88, Inst Preparatoire Etud Ingnieur Tunis, Montfleury, Tunisia.
+C3 Universite de Tunis
+RP Boukthir, M (通讯作者)，Univ Tunis, UR11ES88, Inst Preparatoire Etud Ingnieur Tunis, Montfleury, Tunisia.
+EM moncef.boukthir@ipeit.rnu.tn
+OI Boukthir, Moncef/0000-0002-2397-8816
+FU Ministere de l'Enseignement Superieur et de la Recherche Scientifique
+   through l'Unite de Recherche [UR11ES88]
+FX This work was supported by Ministere de l'Enseignement Superieur et de
+   la Recherche Scientifique through l'Unite de Recherche UR11ES88.
+NR 40
+TC 4
+Z9 4
+U1 0
+U2 10
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0309-1929
+EI 1029-0419
+J9 GEOPHYS ASTRO FLUID
+JI Geophys. Astrophys. Fluid Dyn.
+PD MAR 3
+PY 2016
+VL 110
+IS 2
+BP 111
+EP 129
+DI 10.1080/03091929.2015.1135915
+PG 19
+WC Astronomy & Astrophysics; Geochemistry & Geophysics; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Astronomy & Astrophysics; Geochemistry & Geophysics; Mechanics
+GA DG5JA
+UT WOS:000372112700001
+DA 2025-05-29
+ER

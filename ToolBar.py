@@ -11,9 +11,9 @@ class Check(QCheckBox):
         self.setText(text)
 
 class Spin(QSpinBox):
-    def __init__(self):
+    def __init__(self, value : int = 10):
         super().__init__()
-        self.setValue(10)
+        self.setValue(value)
         self.setRange(0, 1000)
 
 class Combo(QComboBox):
@@ -48,7 +48,7 @@ class ToolBar(QToolBar):
         self.draw_json_py = Check('输出Json')
         self.draw_wordcloud_py = Check('画词云图')
         self.select_py = Combo(['从早到晚', '从晚到早', '乱序'])
-        self.spin_py = Spin()
+        self.spin_py = Spin(value=0)
 
         self.openBtn = TB('打开', qtIcon('ei.folder-open'))
         self.helpBtn = TB('帮助', qtIcon('mdi.help-box'))

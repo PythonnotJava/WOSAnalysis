@@ -1,0 +1,90 @@
+PT J
+AU Liu, JX
+   Shi, XF
+   Liu, YG
+   Liu, QS
+   Liu, Y
+   Zhang, Q
+   Ge, SL
+   Li, JH
+AF Liu, Jianxing
+   Shi, Xuefa
+   Liu, Yanguang
+   Liu, Qingsong
+   Liu, Yan
+   Zhang, Qiang
+   Ge, Shulan
+   Li, Jinhua
+TI A Thick Negative Polarity Anomaly in a Sediment Core From the Central
+   Arctic Ocean: Geomagnetic Excursion Versus Reversal
+SO JOURNAL OF GEOPHYSICAL RESEARCH-SOLID EARTH
+LA English
+DT Article
+ID MAGNETIC PARTICLE-SYSTEMS; AMINO-ACID EPIMERIZATION; LATE QUATERNARY;
+   LOMONOSOV RIDGE; PLEISTOCENE STRATIGRAPHY; RAPID SEDIMENTATION; YERMAK
+   PLATEAU; MAKAROV BASIN; ALPHA RIDGE; SEA-ICE
+AB There are two distinctly different views on Quaternary sedimentation rates in the central Arctic Ocean, namely, that they were on cm/kyr or on mm/kyr scales, largely as a result of divergent interpretations of magnetic reversal stratigraphy. This study provides new evidence to help resolve this controversy in the form of an almost 1-m-thick negative polarity interval located at similar to 1.15 m below the seafloor in a 4.15-m-long sediment core from the Lomonosov Ridge, central Arctic Ocean. This thick polarity anomaly was first revealed through alternating field demagnetization of natural remanent magnetization on u-channel samples. It was subsequently confirmed to be an authentic signal of a syndepositional geomagnetic field by integrating detailed rock magnetic studies, transmission electron microscopy with energy-dispersive X-ray spectroscopy analyses of magnetic extracts, and both alternating field and thermal demagnetization of discrete paleomagnetic samples. Here we conclude that it is more reasonable to interpret the reversed interval as a record of the Matuyama Chron rather than a Brunhes-aged excursion, which yields mean sedimentation rates of similar to 1.5 mm/kyr and similar to 0.5 mm/kyr in the Brunhes and Matuyama Chrons, respectively. These estimates are remarkably lower than assumed in most recent studies, but in good agreement with both previous magnetostratigraphic and recent geochemical studies relative to the decay of Be and U-series isotopes, which might indicate "sediment-starved" environments at least in some parts of this region. Overall, our results not only imply that chronostratigraphy in the central Arctic Ocean remains open to debate but also warrant further investigations in this microfossil-barren region.
+C1 [Liu, Jianxing; Shi, Xuefa; Liu, Yanguang; Ge, Shulan] MNR, Inst Oceanog 1, Key Lab Marine Sedimentol & Environm Geol, Qingdao, Shandong, Peoples R China.
+   [Liu, Jianxing; Shi, Xuefa; Liu, Yanguang; Liu, Qingsong; Ge, Shulan; Li, Jinhua] Qingdao Natl Lab Marine Sci & Technol, Lab Marine Geol, Qiangdao, Peoples R China.
+   [Liu, Qingsong] Southern Univ Sci & Technol, Dept Ocean Sci & Engn, Shenzhen, Peoples R China.
+   [Liu, Yan; Li, Jinhua] Chinese Acad Sci, Inst Geol & Geophys, Key Lab Earth & Planetary Phys, Beijing, Peoples R China.
+   [Liu, Yan; Zhang, Qiang] Univ Chinese Acad Sci, Coll Earth & Planetary Sci, Beijing, Peoples R China.
+   [Zhang, Qiang] Chinese Acad Sci, Inst Geol & Geophys, State Key Lab Lithospher Evolut, Beijing, Peoples R China.
+C3 First Institute of Oceanography, Ministry of Natural Resources; Laoshan
+   Laboratory; Southern University of Science & Technology; Chinese Academy
+   of Sciences; Institute of Geology & Geophysics, CAS; Chinese Academy of
+   Sciences; University of Chinese Academy of Sciences, CAS; Chinese
+   Academy of Sciences; Institute of Geology & Geophysics, CAS
+RP Liu, YG (通讯作者)，MNR, Inst Oceanog 1, Key Lab Marine Sedimentol & Environm Geol, Qingdao, Shandong, Peoples R China.; Liu, YG (通讯作者)，Qingdao Natl Lab Marine Sci & Technol, Lab Marine Geol, Qiangdao, Peoples R China.
+EM yanguangliu@fio.org.cn
+RI Li, Jinhua/J-6706-2014; shi, xuefa/AAC-6977-2022; Liu,
+   Jianxing/C-6153-2017; Liu, Qingsong/G-3068-2012; Liu,
+   Yanguang/AAG-8119-2021; Liu, Yanguang/C-9035-2019
+OI Liu, Yanguang/0000-0002-4524-2930; Jianxing, Liu/0000-0001-8180-1683
+FU National Natural Science Foundation of China [41876070, U1606401,
+   41876229]; Chinese Polar Environment Comprehensive Investigation &
+   Assessment Programmes [CHINARE 03-02]; Opening Foundation of the
+   Laboratory for Marine Geology, Qingdao National Laboratory for Marine
+   Science and Technology [MGQNLM201704]
+FX We are grateful to Editor Douglas Schmitt and two anonymous reviewers
+   for their thoughtful and constructive comments and suggestions that
+   greatly improved the manuscript. We also thank the team of the 5th
+   Chinese National Arctic Research Expedition. Financial support for this
+   work was provided by the National Natural Science Foundation of China
+   (grants 41876070, U1606401, and 41876229), the Chinese Polar Environment
+   Comprehensive Investigation & Assessment Programmes (grant CHINARE
+   03-02), and the Opening Foundation of the Laboratory for Marine Geology,
+   Qingdao National Laboratory for Marine Science and Technology (grant
+   MGQNLM201704). Thanks are also due to Shuhui Cai (IGG-CAS) and Zhaoxia
+   Jiang (Ocean University of China) for assistance in data processing and
+   interpretation. The data in this paper can be obtained from both the
+   supporting information and the Magnetics Information Consortium (MagIC)
+   database (http://earthref.org/MagIC/16687/).
+NR 74
+TC 9
+Z9 10
+U1 1
+U2 18
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9313
+EI 2169-9356
+J9 J GEOPHYS RES-SOL EA
+JI J. Geophys. Res.-Solid Earth
+PD NOV
+PY 2019
+VL 124
+IS 11
+BP 10687
+EP 10703
+DI 10.1029/2019JB018073
+EA NOV 2019
+PG 17
+WC Geochemistry & Geophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics
+GA KA1FD
+UT WOS:000495559300001
+DA 2025-05-29
+ER

@@ -1,0 +1,72 @@
+PT J
+AU Liang, X
+   Jiang, T
+   Feng, YW
+   Lu, PJ
+   An, J
+   Wang, ZL
+AF Liang, Xi
+   Jiang, Tao
+   Feng, Yawei
+   Lu, Pinjing
+   An, Jie
+   Wang, Zhong Lin
+TI Triboelectric Nanogenerator Network Integrated with Charge Excitation
+   Circuit for Effective Water Wave Energy Harvesting
+SO ADVANCED ENERGY MATERIALS
+LA English
+DT Article
+DE blue energy; charge excitation circuits; triboelectric nanogenerators;
+   triboelectric nanogenerator networks; wave energy harvesting
+AB Ocean waves are considered to be one of the most promising renewable energy sources, and harvesting such energy via triboelectric nanogenerators (TENGs) is an effective strategy toward large-scale blue energy. However, most previous optimization schemes of TENG cannot meet the demands of practical applications. In this work, a new charge excitation circuit (CEC) with advantages of integration, high efficiency, and minimum impedance is developed specially for TENGs to harvest water wave energy. The TENG with the CEC exhibits significantly improved output performance, with a maximum power of 25.8 mW and power density of 49.3 W m(-3), and a 208 times enhanced current of 25.1 mA is achieved. Furthermore, a scheme of integrating TENG network and CECs is proposed for realizing large-scale wave energy harvesting. The charge excitation TENG network is demonstrated to successfully power a digital thermometer and a wireless communication system with mobile phone through transmitting radio frequency (RF) signals for remote environmental monitoring. This study not only offers a strategy to greatly enhance the output performance of TENG networks in water wave energy harvesting, but also provides useful guidance for constructing maritime communication platform based on blue energy toward a maritime internet of things system.
+C1 [Liang, Xi; Jiang, Tao; Feng, Yawei; Lu, Pinjing; An, Jie; Wang, Zhong Lin] Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, CAS Ctr Excellence Nanosci, Beijing 100083, Peoples R China.
+   [Liang, Xi; Jiang, Tao; Feng, Yawei; An, Jie; Wang, Zhong Lin] Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.
+   [Jiang, Tao; Lu, Pinjing] Guangxi Univ, Sch Phys Sci & Technol, Ctr Nanoenergy Res, Nanning 530004, Guangxi, Peoples R China.
+   [Wang, Zhong Lin] Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+C3 Chinese Academy of Sciences; Beijing Institute of Nanoenergy &
+   Nanosystems, CAS; Chinese Academy of Sciences; University of Chinese
+   Academy of Sciences, CAS; Guangxi University; University System of
+   Georgia; Georgia Institute of Technology
+RP Wang, ZL (通讯作者)，Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, CAS Ctr Excellence Nanosci, Beijing 100083, Peoples R China.; Wang, ZL (通讯作者)，Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.; Wang, ZL (通讯作者)，Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+EM zlwang@gatech.edu
+RI jiang, tao/GWC-7108-2022; Wang, Zhong Lin/E-2176-2011
+OI Jiang, Tao/0000-0001-7941-7703; jie, an/0000-0002-0028-0079; Wang, Zhong
+   Lin/0000-0002-5530-0380; Feng, Yawei/0000-0002-9184-7260
+FU National Key RAMP;D Project from Minister of Science and Technology
+   [2016YFA0202704]; National Natural Science Foundation of China
+   [51432005, 51702018, 51561145021]; Youth Innovation Promotion
+   Association, CAS
+FX X.L. and T.J. contributed equally to this work. Supports from the
+   National Key R&D Project from Minister of Science and Technology
+   (2016YFA0202704), National Natural Science Foundation of China (Grant
+   Nos. 51432005, 51702018, and 51561145021), and Youth Innovation
+   Promotion Association, CAS, are appreciated. The authors also thank Kai
+   Han and Pengfei Chen for device fabrications and measurements.
+NR 37
+TC 173
+Z9 177
+U1 18
+U2 336
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1614-6832
+EI 1614-6840
+J9 ADV ENERGY MATER
+JI Adv. Energy Mater.
+PD OCT 27
+PY 2020
+VL 10
+IS 40
+AR 2002123
+DI 10.1002/aenm.202002123
+EA SEP 2020
+PG 8
+WC Chemistry, Physical; Energy & Fuels; Materials Science,
+   Multidisciplinary; Physics, Applied; Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Energy & Fuels; Materials Science; Physics
+GA OH4XQ
+UT WOS:000571771900001
+DA 2025-05-29
+ER

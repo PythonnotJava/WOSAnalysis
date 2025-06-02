@@ -1,0 +1,52 @@
+PT J
+AU Hsieh, YT
+   Qi, ZR
+   Pompili, D
+AF Hsieh, Yung-Ting
+   Qi, Zhuoran
+   Pompili, Dario
+TI Full-Duplex Underwater Acoustic Communications via Self-Interference
+   Cancellation in Space
+SO JOURNAL OF COMMUNICATIONS AND NETWORKS
+LA English
+DT Article
+DE Acoustic vector sensors; full-duplex communi-cations; interference
+   cancellation; underwater acoustics
+ID OCEAN MEASUREMENTS; ABSORPTION; MITIGATION
+AB underwater acoustic communications are half-duplex (HD), i.e., the hydrophones and transducers operate in non-overlapping time-slots/frequency-bands in one di-rection. To double the spectral efficiency into the full-duplex (FD) mode, which transmit and receive signals simultaneously, a self -interference cancellation (SIC) technique in space is introduced and deployed. Specifically, a novel underwater acoustic system is proposed to perform FD-SIC efficiently via an integrated design combining underwater acoustic vector sensor (AVS) and phased array transducer (PAT) to realize the spatial SIC. The energy focusing function of the beamformer (BF) helps PAT avoid self and mutual spatial interference. The AVS keeps updating the direction of arrival information to let BF adjust the steering angle via an adaptive protocol. The field-programmable gate array (FPGA) Direction of Arrival Estimation (DOA) estimation is done by a 12-element AVS, run-time is 1.22x10-4 s by MUSIC method, which is promising for real-time applications. In this work, phase-shift keying (PSK) and PSK-based orthogonal frequency-division multiplexing (OFDM) are deployed as the FD transmission modulation methods in the spacial SIC. The proposal is evaluated and verified via both simulations and emulations in real underwater acoustic channels collected in the Gulf of La Spezia, Italy, and it is able to achieve 59 dB SIC while modulating with binary phase-shift keying (BPSK) with carrier wave frequency 80 kHz and AVS steering angle -5 degrees. Moreover, it has at least 37 dB SIC within the steering angle region.
+C1 [Hsieh, Yung-Ting; Qi, Zhuoran; Pompili, Dario] Rutgers Univ New Brunswick, Dept Elect & Comp Engn ECE, New Brunswick, NJ 08854 USA.
+C3 Rutgers University System; Rutgers University New Brunswick
+RP Hsieh, YT (通讯作者)，Rutgers Univ New Brunswick, Dept Elect & Comp Engn ECE, New Brunswick, NJ 08854 USA.
+EM yungting.hsieh@rutgers.edu; zhuoran.qi@rutgers.edu; pompili@rutgers.edu
+RI Hsieh, Yung-Ting/JMR-2163-2023; Qi, Zhuoran/ADX-6317-2022
+FU NSF NeTS Award [CNS-1763964]
+FX This work was supported by NSF NeTS Award No. CNS-1763964.
+NR 47
+TC 8
+Z9 8
+U1 1
+U2 8
+PU KOREAN INST COMMUNICATIONS SCIENCES (K I C S)
+PI SEOUL
+PA HYUNDAI KIRIM OFFICETEL 1504-6 SEOCHODONG 1330-18, SEOCHOKU, SEOUL
+   137-070, SOUTH KOREA
+SN 1229-2370
+EI 1976-5541
+J9 J COMMUN NETW-S KOR
+JI J. Commun. Netw.
+PD APR
+PY 2023
+VL 25
+IS 2
+BP 167
+EP 181
+DI 10.23919/JCN.2022.000052
+PG 15
+WC Computer Science, Information Systems; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA M7XS5
+UT WOS:001032315200001
+OA gold
+DA 2025-05-29
+ER

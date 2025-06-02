@@ -1,0 +1,62 @@
+PT J
+AU Pang, B
+   Liu, SY
+   Zhu, HJ
+   Feng, YB
+   Dong, ZM
+AF Pang, Bo
+   Liu, Siyang
+   Zhu, Haijia
+   Feng, Yanbiao
+   Dong, Zuomin
+TI Real-time optimal control of an LNG-fueled hybrid electric ship
+   considering battery degradations
+SO ENERGY
+LA English
+DT Article
+DE Real-time optimal control; Hybrid electric propulsion system; Battery
+   degradation modelling; Model predictive control; NG/LNG fuel and engine
+ID EMISSION
+AB Liquified natural gas (LNG) is a low-cost, cleaner fuel that reduces air pollutants and carbon dioxide (CO2) emissions. However, LNG-fueled engines have a methane slip issue, leading to increased carbon dioxide equivalent (CO2e or CDE) emissions. This research introduced a new approach to combine the LNG-fueled engine with hybrid electric propulsion and real-time optimal control to maximize fuel efficiency and minimize CO2e emissions. In addition to low-cost LNG fuel, the approach controls and reduces the battery degradation costs to provide a clean and economical marine propulsion solution. An integrated globally optimal propulsion system design and real-time optimal control strategy for the LNG-fueled hybrid electric ships effectively addressed the methane slip-triggered emissions issue of natural gas (NG) engines, reducing CO2e emissions by 12.28% and the high-cost and relatively short life of the hybrid propulsion system's battery energy storage system (BESS), decreasing battery capacity loss by 12%. The optimal sizing of the NG-diesel dual-fuel compression ignition (CI) engine and BESS and the optimal baseline power control and energy management strategy (EMS) are jointly created using dynamic programming (DP) for the vessel's statistical data-based, normal operation profile. As marine vessels have more variations of propulsion power demand than road vehicles due to varying ocean operation conditions, two new methods are introduced to accurately predict the varying propulsion power demands and dynamically update the BESS's state of health (SOH) in real-time. The former applies an extended Kalman filter (EKF) on both real-time vessel operation data and the statistical vessel operation cycle to more accurately predict vessel power demand, and the latter compares the instantly measured battery output voltage data with the battery performance and degradation models built using extensive battery test data to capture the state of the BESS more precisely. These two new update schemes lead to an extended model predictive control (MPC) approach for the real-time optimal power control and energy management of the hybrid electric ship operation, considering the NG fuel consumption, CO2e emissions and BESS degradation associated costs. The newly introduced NG-engine hybrid electric propulsion system component size and EKF-MPC real-time control optimization techniques have been tested using the technical specification and operation data of a real mediumsized vehicle and passenger ferry in operation, with reduced CO2e emissions and battery capacity loss and lowered ferry operating costs by $305,286 over 10 years of operations.
+C1 [Pang, Bo; Liu, Siyang; Zhu, Haijia; Dong, Zuomin] Univ Victoria, Dept Mech Engn, Victoria, BC, Canada.
+   [Pang, Bo; Liu, Siyang; Zhu, Haijia; Dong, Zuomin] Univ Victoria, Inst Integrated Energy Syst, Victoria, BC, Canada.
+   [Feng, Yanbiao] Univ Sci & Technol Beijing, Sch Mech Engn, Beijing, Peoples R China.
+C3 University of Victoria; University of Victoria; University of Science &
+   Technology Beijing
+RP Dong, ZM (通讯作者)，Univ Victoria, Dept Mech Engn, Victoria, BC, Canada.; Dong, ZM (通讯作者)，Univ Victoria, Inst Integrated Energy Syst, Victoria, BC, Canada.
+EM zdong@uvic.ca
+RI Dong, Zuomin/AAE-9453-2020; Feng, Yanbiao/IVV-4485-2023; pang,
+   bo/IYJ-4016-2023
+OI Dong, Zuomin/0000-0001-7149-8422; Feng, Yanbiao/0000-0002-3080-7310
+FU Natural Sciences and Engineering Research Council of Canada (NSERC)
+FX Financial support from the Natural Sciences and Engineering Research
+   Council of Canada (NSERC) , technical assistance from BC Ferries,
+   Canada, and LFP battery test data from Yuqi Tong of the Beijing Electric
+   Vehicle Power Battery Testing Center are gratefully acknowledged.
+NR 25
+TC 8
+Z9 8
+U1 12
+U2 33
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD JUN 1
+PY 2024
+VL 296
+AR 131170
+DI 10.1016/j.energy.2024.131170
+EA APR 2024
+PG 12
+WC Thermodynamics; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels
+GA QW6P1
+UT WOS:001223948700001
+OA hybrid
+DA 2025-05-29
+ER

@@ -1,0 +1,63 @@
+PT J
+AU Lippmann, TC
+   Simpson, AE
+   Cook, SE
+   Kirshen, P
+AF Lippmann, Thomas C.
+   Simpson, Anna E.
+   Cook, Salme E.
+   Kirshen, Paul
+TI Effects of Sea Level Rise on Storm Surge Flooding and Current Speeds in
+   New Hampshire Estuaries
+SO JOURNAL OF WATERWAY PORT COASTAL AND OCEAN ENGINEERING
+LA English
+DT Article
+ID COASTAL OCEAN; GULF; EVOLUTION; MODEL; SCALE; BAY
+AB The effects of sea level rise on storm surge energy transformation and flood and ebb current magnitudes are examined in two distinct New Hampshire estuarine systems. The Great Bay estuary is characterized by strong tidal dissipation along a long (13 km) and deep (20-25 m) rocky channel (ebb-dominated Piscataqua River) that connects to a large (flood-dominated) estuarine bay with extensive mudflat areas, whereas the (ebb-dominated) Hampton/Seabrook estuary has minimal tidal dissipation through a short (1 km) and shallow (5-7 m) sandy inlet that connects to an extensive salt marsh with narrow tidal channels. Numerical simulations are conducted using the finite-volume coastal ocean model (FVCOM) with forcing provided by the tides, with and without 0.01 annual exceedance probability storm surge estimated by the North Atlantic Comprehensive Coastal Study (NACCS) and further with and without sea level rise scenarios for year 2060 in Hampton/Seabrook (0.73 m) and 2100 in Great Bay (1.92 m). Results for the Great Bay estuary show that although the maximum sea surface elevation is higher during storm events, upstream linear wave energy loss (about 50%) of the storm surge with and without sea level rise is similar to tidal wave energy loss under present nonstorm conditions. Corresponding depth-integrated currents increase by 10%-30% with sea level rise, 23%-52% with the storm surge, and 32%-97% for the combined event. However, results from the Hampton/Seabrook estuary show that energy loss through the inlet increases from 2% to 4% for no storm and present-day sea level to 30%-40% for storm surge with sea level rise, partially mitigating inland inundation. Depth-integrated current magnitudes in the Hampton/Seabrook inlet increase by a factor of 4 under sea level rise and storm surge. Model results suggest that sea level rise has significant impacts on current speeds in both estuaries and that the energy decay of the tidal wave and storm surge depends on the nature of the estuarine system, with greater change associated with estuaries with shallow, narrow inlets somewhat reducing the effects of inland flooding.
+C1 [Lippmann, Thomas C.] Univ New Hampshire, Ctr Coastal & Ocean Mapping, Dept Earth Sci, 24 Colovos Rd, Durham, NH 03824 USA.
+   [Simpson, Anna E.] Oregon State Univ, Coll Earth Ocean & Atmospher Sci, Corvallis, OR 97331 USA.
+   [Cook, Salme E.] Univ New Hampshire, Ctr Coastal & Ocean Mapping, 24 Colovos Rd, Durham, NH 03824 USA.
+   [Kirshen, Paul] Univ Massachusetts, Sch Environm, Boston, MA 02125 USA.
+C3 University System Of New Hampshire; University of New Hampshire; Oregon
+   State University; University System Of New Hampshire; University of New
+   Hampshire; University of Massachusetts System; University of
+   Massachusetts Boston
+RP Lippmann, TC (通讯作者)，Univ New Hampshire, Ctr Coastal & Ocean Mapping, Dept Earth Sci, 24 Colovos Rd, Durham, NH 03824 USA.
+EM lippmann@ccom.unh.edu; simpanna@oregonstate.edu; sc10@wildcats.unh.edu;
+   paul.kirshen@umb.edu
+FU National Oceanic and Atmospheric Administration (NOAA) Coastal
+   Resilience Project through the Northeastern Regional Association of
+   Coastal Ocean Observing Systems (NERACOOS) [NA16NOW47300013, A007-004];
+   NOAA Coastal and Ocean Climate Applications (COCA) [NA14OAR4310194]
+FX Funding for TCL was provided by the National Oceanic and Atmospheric
+   Administration (NOAA) Coastal Resilience Project under primary Award
+   Number NA16NOW47300013 with subaward (yA007-004) to UNH through the
+   Northeastern Regional Association of Coastal Ocean Observing Systems
+   (NERACOOS). Funding for PK was provided by NOAA Coastal and Ocean
+   Climate Applications (COCA) under Award Number NA14OAR4310194.
+NR 52
+TC 1
+Z9 2
+U1 1
+U2 24
+PU ASCE-AMER SOC CIVIL ENGINEERS
+PI RESTON
+PA 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN 0733-950X
+EI 1943-5460
+J9 J WATERW PORT COAST
+JI J. Waterw. Port Coast. Ocean Eng.
+PD MAR
+PY 2021
+VL 147
+IS 2
+AR 04020054
+DI 10.1061/(ASCE)WW.1943-5460.0000613
+PG 16
+WC Engineering, Civil; Engineering, Ocean; Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Water Resources
+GA RW9ON
+UT WOS:000646848800002
+DA 2025-05-29
+ER

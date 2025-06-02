@@ -1,0 +1,93 @@
+PT J
+AU Su, Z
+   Torres, H
+   Klein, P
+   Thompson, AF
+   Siegelman, L
+   Wang, JB
+   Menemenlis, D
+   Hill, C
+AF Su, Zhan
+   Torres, Hector
+   Klein, Patrice
+   Thompson, Andrew F.
+   Siegelman, Lia
+   Wang, Jinbo
+   Menemenlis, Dimitris
+   Hill, Christopher
+TI High-Frequency Submesoscale Motions Enhance the Upward Vertical Heat
+   Transport in the Global Ocean
+SO JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS
+LA English
+DT Article
+DE ocean heat transport; high frequency; ocean front; eddies; eddy
+   transport
+ID MIXED-LAYER INSTABILITIES; CALIFORNIA CURRENT SYSTEM; EDDY
+   KINETIC-ENERGY; PART I; MESOSCALE; RESTRATIFICATION; MODEL; DISSIPATION;
+   EDDIES; FLOW
+AB The rate of ocean heat uptake depends on the mechanisms that transport heat between the surface and the ocean interior. A recent study found that the vertical heat transport driven by motions with scales smaller than 0.5 degrees (submesoscales) and frequencies smaller than 1 day(-1)is upward. This transport competes with the other major components of the global heat transport, namely, the downward heat transport explained by the large-scale wind-driven vertical circulation and vertical diffusion at small scales and the upward heat transport associated with mesoscale eddies (50- to 300-km size). The contribution from motions with small spatial scales (<0.5 degrees) and frequencies larger than 1 day(-1), including internal gravity waves, has never been explicitly estimated. This study investigates this high-frequency (subdaily) submesoscale contribution to the global heat transport. The major result of this study, based on the analysis of a high-resolution ocean model, is that including this high-frequency contribution surprisingly doubles the upward heat transport due to submesoscales in winter in the global ocean. This contribution typically concerns depths down to 200-500 m and can have a magnitude of up to 500 W m(-2)in terms of wintertime heat fluxes at 40-m depth, which causes a significant upward heat transport of similar to 7 PW when integrated over the global ocean. Thus, such submesoscale heat transport, which is not resolved by climate models, impacts the heat uptake in the global ocean. The mechanisms involved in these results still need to be understood, which should be the scope of future work.
+C1 [Su, Zhan] Univ Toronto, Dept Phys, Toronto, ON, Canada.
+   [Torres, Hector; Klein, Patrice; Siegelman, Lia; Wang, Jinbo; Menemenlis, Dimitris] CALTECH, Jet Prop Lab, Pasadena, CA USA.
+   [Klein, Patrice] CNRS, IFREMER, Paris, France.
+   [Thompson, Andrew F.] CALTECH, Environm Sci & Engn, Pasadena, CA 91125 USA.
+   [Hill, Christopher] MIT, Dept Earth Atmospher & Planetary Sci, Cambridge, MA USA.
+C3 University of Toronto; California Institute of Technology; National
+   Aeronautics & Space Administration (NASA); NASA Jet Propulsion
+   Laboratory (JPL); Ifremer; Centre National de la Recherche Scientifique
+   (CNRS); California Institute of Technology; Massachusetts Institute of
+   Technology (MIT)
+RP Su, Z (通讯作者)，Univ Toronto, Dept Phys, Toronto, ON, Canada.
+EM zhansu@physics.utoronto.ca
+RI Hill, Christopher/AAR-4191-2021; Menemenlis, Dimitris/G-8091-2017;
+   Torres, Héctor/GXG-1780-2022; Wang, Jinbo/H-1174-2015
+OI Siegelman, Lia/0000-0003-3330-082X; Torres, Hector/0000-0003-2098-8012;
+   Menemenlis, Dimitris/0000-0001-9940-8409; Wang,
+   Jinbo/0000-0001-5034-5566
+FU NSF [OAC-1835618]; NASA [NNX15AG42G, 8ONSSCI9KIOO4]; NASA-CNES SWOT
+   mission; JPL President/Director Research and Development Fund; NASA;
+   Physical Oceanography (PO) Program; Modeling, Analysis, and Prediction
+   (MAP) Program; SWOT mission; NASA Senior Fellowship
+FX We gratefully thank the MITgcm developers and NAS scientists who made it
+   possible to run our global numerical simulation at high resolution, as
+   well as Christopher Henze at NASA Ames Hyperwall for providing
+   insightful and unique visualization capabilities. We thank Hong Zhang
+   for the excellent technical support on conducting the numerical
+   simulation. Z. S. was supported by NSF Award OAC-1835618 (Collaborative
+   Research: Framework: Data: Toward Exascale Community Ocean Circulation
+   Modeling) and NASA Grant NNX15AG42G. P. K. is supported by the NASA-CNES
+   SWOT mission and a NASA Senior Fellowship. A. F. T. is supported by NASA
+   Grants NNX15AG42G and 8ONSSCI9KIOO4. J. W. was supported by the SWOT
+   mission and JPL President/Director Research and Development Fund. C.H.
+   was supported by NSF Award OAC-1835618. H.T., L.S., J.W. and D.M.
+   carried research at the Jet Propulsion Laboratory, California Institute
+   of Technology, under contract with NASA, with support from the Physical
+   Oceanography (PO) and Modeling, Analysis, and Prediction (MAP) Programs.
+   Computations were carried out at the NASA Advanced Supercomputing (NAS)
+   facilities.
+NR 52
+TC 56
+Z9 58
+U1 9
+U2 47
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9275
+EI 2169-9291
+J9 J GEOPHYS RES-OCEANS
+JI J. Geophys. Res.-Oceans
+PD SEP
+PY 2020
+VL 125
+IS 9
+AR e2020JC016544
+DI 10.1029/2020JC016544
+PG 13
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA NY8FW
+UT WOS:000576619900022
+OA Green Published, Green Submitted, Green Accepted
+DA 2025-05-29
+ER

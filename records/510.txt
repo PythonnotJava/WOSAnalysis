@@ -1,0 +1,74 @@
+PT J
+AU Velasquez-Aristizabal, JA
+   Camacho-Ibar, VF
+   Durazo, R
+   Valencia-Gasti, JA
+   Lee-Sanchez, E
+   Trasvina-Castro, A
+AF Velasquez-Aristizabal, Jorge A.
+   Camacho-Ibar, Victor F.
+   Durazo, Reginaldo
+   Valencia-Gasti, Jose A.
+   Lee-Sanchez, Erika
+   Trasvina-Castro, Armando
+TI Nitracentric/Hydrographic Classification and Prediction of Nitrate
+   Profiles for Oceanographic Stations Under the Influence of Mesoscale
+   Eddies in the Gulf of Mexico
+SO FRONTIERS IN MARINE SCIENCE
+LA English
+DT Article
+DE Nitracentric classification; nitrate plus nitrite; Gulf of Mexico;
+   nitrate plus nitrite stock; mesoscale eddies; CLIVAR Section A22;
+   Caribbean Sea; XIXIMI Cruises
+ID CYCLONIC EDDIES; DYNAMICS; VARIABILITY; ENHANCEMENT; ZOOPLANKTON;
+   PATTERNS; BIOMASS; SURFACE; OCEAN; FLUX
+AB In the ocean, nitrogen availability is an important control of primary production and influences the amount of energy flowing through food webs. Mesoscale eddies play important roles in modulating the spatial distributions of physical and biogeochemical properties in the Gulf of Mexico (GM), including the availability of nitrate + nitrite (NN). In this study, we explore an oceanographic station classification based on the integrated NN stock that we have named the "nitracentric classification" and a classification based on hydrographic variables that we call the Best Fit Variables (BFVs), such as the depth of the 20 degrees C isotherm and the depth of the 26 kg m(-3) isopycnal, to identify stations under the influence of mesoscale eddies. We analyzed hydrographic profiles of CTD data and the NN concentrations in discrete samples collected in June 2016 during the oceanographic campaign XIXIMI-5, which was conducted in the deep-water region of the GM. The best station separation was produced when the NN concentration was integrated between the surface and 200 m depth, which was supported by the station classification based on the BFVs. Our classification system produces a better separation between station groups when compared to other classifications that rely on the use of altimetric variables and hydrographic criteria that have been previously employed to study biogeochemical and physical processes in the GM. We obtained parameterizations that accurately predicted the NN profiles between 100-500 m of stations sampled under stratified conditions in two other XIXIMI cruises in the gulf, although the parameterization has to be adapted to obtain accurate predictions under winter mixing conditions. Our results can be used to predict nitrate stocks and profiles based on a single BFV value obtained from the existing hydrographic databases of the GM as well as from CTD data at the time of sampling. The analysis of the CLIVAR Section A22 in the Caribbean Sea indicates that the nitracentric and hydrographic classification methodology developed in this study can also be applied to other oligotrophic basins where mesoscale eddies play important roles in controlling the distributions of hydrographic and biogeochemical properties.
+C1 [Velasquez-Aristizabal, Jorge A.; Camacho-Ibar, Victor F.; Valencia-Gasti, Jose A.; Lee-Sanchez, Erika] Univ Autonoma Baja Calif, Inst Invest Oceanol, Ensenada, Mexico.
+   [Velasquez-Aristizabal, Jorge A.; Durazo, Reginaldo; Valencia-Gasti, Jose A.; Lee-Sanchez, Erika] Univ Autonoma Baja Calif, Fac Ciencias Marinas, Ensenada, Mexico.
+   [Trasvina-Castro, Armando] Ctr Invest Cient & Educ Super Ensenada, CICESE Un Paz, La Paz, Mexico.
+C3 Universidad Autonoma de Baja California; Universidad Autonoma de Baja
+   California; CICESE - Centro de Investigacion Cientifica y de Educacion
+   Superior de Ensenada
+RP Camacho-Ibar, VF (通讯作者)，Univ Autonoma Baja Calif, Inst Invest Oceanol, Ensenada, Mexico.
+EM vcamacho@uabc.edu.mx
+RI Valencia, Jose/MVW-0438-2025
+OI Camacho-Ibar, Victor/0000-0003-2424-1979; Velasquez-Aristizabal, Jorge
+   Armando/0000-0003-2842-0931; Valencia Gasti, Jose
+   Augusto/0000-0001-9996-3445
+FU Mexican National Council for Science and Technology-Mexican Ministry of
+   Energy-Hydrocarbon Fund [201441]; Mexican National Council for Science
+   and Technology (CONACyT) [932232]; Mexican government; OEA
+FX This research was funded by the Mexican National Council for Science and
+   Technology-Mexican Ministry of Energy-Hydrocarbon Fund [project number
+   201441]. This is a contribution of the Gulf of Mexico Research
+   Consortium (CIGoM). We acknowledge PEMEX's specific request to the
+   Hydrocarbon Fund to address the environmental effects of oil spills in
+   the Gulf of Mexico. JV-A thanks the Mexican National Council for Science
+   and Technology (CONACyT) for the PhD scholarship [grant number 932232].
+   Moreover, he thanks the Mexican government and OEA for the scholarship
+   PAEC CONACYT-OEA-AMEXCID received in 2018.
+NR 63
+TC 6
+Z9 6
+U1 0
+U2 1
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-7745
+J9 FRONT MAR SCI
+JI Front. Mar. Sci.
+PD MAY 19
+PY 2022
+VL 9
+AR 827574
+DI 10.3389/fmars.2022.827574
+PG 23
+WC Environmental Sciences; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA 1V7ZH
+UT WOS:000806303000001
+OA gold
+DA 2025-05-29
+ER

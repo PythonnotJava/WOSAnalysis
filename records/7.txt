@@ -1,0 +1,63 @@
+PT J
+AU Khanmohammadi, S
+   Baseri, MM
+   Ahmadi, P
+   Al-Rashed, AAAA
+   Afrand, M
+AF Khanmohammadi, Shoaib
+   Baseri, Mohammad Mehdi
+   Ahmadi, Pouria
+   Al-Rashed, Abdullah A. A. A.
+   Afrand, Masoud
+TI Proposal of a novel integrated ocean thermal energy conversion system
+   with flat plate solar collectors and thermoelectric generators: Energy,
+   exergy and environmental analyses
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Integrated systems; Environmental impact; Exergy; Ocean thermal
+   conversion; Solar radiation
+ID HYDROGEN-PRODUCTION; MULTIOBJECTIVE OPTIMIZATION; MULTICRITERIA
+   OPTIMIZATION; PERFORMANCE SIMULATION; CYCLE; ENHANCEMENT
+AB The present study deals with energy, exergy and environmental evaluation of an integrated ocean thermal energy conversion (OTEC) system include a flat plate solar collector, an organic Rankine cycle, an electrolyzer system boosted with a thermoelectric generator (TEG) unit. To precise assessment of suggested systems and determine the effects of adding thermoelectric generator to the system a comparative analysis is carried out. Two considered systems are solar ocean thermal energy conversion (S-OTEC) and solar ocean thermal energy conversion with thermoelectric (S-OTEC/TEG). A thermodynamic model is formed using Engineering Equation Solver (EES) to solve the set of linear equations governing on the component of the system. The result of exergy analyses shows that adding thermoelectric module to the S-OTEC results in exergy efficiency increment by 6.27%. Also adding thermoelectric unit to the system increase gross output power by 12.64 kW that the TEG pump input work in this case is 4.96 kW. Although the exergy destruction rate of the S-OTEC/TEG has a higher exergy destruction rate than S-OTEC, the exergy efficiency of S-OTEC/TEG is higher than S-OTEC. Environmental impact assessment criteria namely sustainability index (SI) and modified sustainability index (SI2), represent that applying TEG module to the system improves the SI2 while decreases the SI. Based on obtained results with methanol as working fluid, the SI change from 0.106 for S-OTEC to 0.183 for and S-OTEC/TEG system. In addition, the SI2 change from 1.949 to 2.220 when the TEG module added to the integrated system. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Khanmohammadi, Shoaib; Baseri, Mohammad Mehdi] Kermanshah Univ Technol, Dept Mech Engn, Kermanshah, Iran.
+   [Ahmadi, Pouria] Univ Tehran, Coll Engn, Sch Mech Engn, POB 11155-4563, Tehran, Iran.
+   [Al-Rashed, Abdullah A. A. A.] Publ Author Appl Educ & Training, Dept Automot & Marine Engn Technol, Coll Technol Studies, Kuwait, Kuwait.
+   [Afrand, Masoud] Ton Duc Thang Univ, Adv Inst Mat Sci, Lab Magnetism & Magnet Mat, Ho Chi Minh City, Vietnam.
+   [Afrand, Masoud] Ton Duc Thang Univ, Fac Appl Sci, Ho Chi Minh City, Vietnam.
+C3 Kermanshah University of Technology; University of Tehran; Public
+   Authority for Applied Education & Training (PAAET) - Kuwait; Ton Duc
+   Thang University; Ton Duc Thang University
+RP Afrand, M (通讯作者)，Ton Duc Thang Univ, Ho Chi Minh City, Vietnam.
+EM masoud.afrand@tdtu.edu.vn
+RI Afrand, Masoud/E-6060-2019; Ahmadi, P/G-6879-2013; Tashkandi,
+   Mohammed/O-3545-2016; Khanmohammadi, Shoaib/ABD-3161-2021;
+   Khanmohammadi, Shoaib/Q-5435-2017
+OI Khanmohammadi, Shoaib/0000-0002-7659-7363
+NR 36
+TC 75
+Z9 77
+U1 4
+U2 77
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD MAY 20
+PY 2020
+VL 256
+AR 120600
+DI 10.1016/j.jclepro.2020.120600
+PG 12
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA LB9WE
+UT WOS:000524981300142
+DA 2025-05-29
+ER

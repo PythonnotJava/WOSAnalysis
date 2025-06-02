@@ -1,0 +1,77 @@
+PT J
+AU Ren, ZW
+   Liang, X
+   Liu, D
+   Li, XJ
+   Ping, JF
+   Wang, ZM
+   Wang, ZL
+AF Ren, Zewei
+   Liang, Xi
+   Liu, Di
+   Li, Xunjia
+   Ping, Jianfeng
+   Wang, Ziming
+   Wang, Zhong Lin
+TI Water-Wave Driven Route Avoidance Warning System for Wireless Ocean
+   Navigation
+SO ADVANCED ENERGY MATERIALS
+LA English
+DT Article
+DE traffic warnings; triboelectric nanogenerators; wave energy harvesting;
+   wireless ocean navigation
+ID TRIBOELECTRIC NANOGENERATOR; ENERGY; INTERNET; CHALLENGES
+AB The internet of things in the context of the ocean is vitally important. For ships sailing on the wide ocean in adverse weather conditions, evasion of marine islands and reefs is crucial to ensure safe navigation. Here, a hybrid wave energy harvesting nanogenerator is proposed (HW-NG) as a power source for long-distance wireless transmission, and demonstrated a self-powered route avoidance warning system for ocean navigation. The HW-NG is developed based on a triboelectric nanogenerator (TENG) and an electromagnetic generator (EMG), integrated by a pendulum structure. The TENG based on a contact-separation mode is designed into a spring-assisted multilayered structure, in which the EMG unit is well hybridized. Simply relying on the energy extracted from water waves, the HW-NG can establish long-distance (1.5 km) communication nodes on the sea. In application, a large HW-NG network could be developed in the adjacent water areas of islands or reefs. With a network formed by hundreds of thousands of HW-NGs, the forewarning signal transmission could be realized per second on the sea. More importantly, the wireless emitting is spontaneous through the designed automatic switch module. This work demonstrates a practicable strategy for ensuring safety of sea transportation based on wave energy collection.
+C1 [Ren, Zewei; Liang, Xi; Liu, Di; Wang, Ziming; Wang, Zhong Lin] Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, CAS Ctr Excellence Nanosci, Beijing 100083, Peoples R China.
+   [Ren, Zewei; Liang, Xi; Liu, Di; Wang, Ziming; Wang, Zhong Lin] Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.
+   [Li, Xunjia; Ping, Jianfeng] Zhejiang Univ, Sch Biosyst Engn & Food Sci, 866 Yuhangtang Rd, Hangzhou 310058, Peoples R China.
+   [Wang, Zhong Lin] Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+C3 Chinese Academy of Sciences; Beijing Institute of Nanoenergy &
+   Nanosystems, CAS; Chinese Academy of Sciences; University of Chinese
+   Academy of Sciences, CAS; Zhejiang University; University System of
+   Georgia; Georgia Institute of Technology
+RP Wang, ZL (通讯作者)，Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, CAS Ctr Excellence Nanosci, Beijing 100083, Peoples R China.; Wang, ZL (通讯作者)，Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.; Wang, ZL (通讯作者)，Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+EM zhong.wang@mse.gatech.edu
+RI Li, Xunjia/LUW-7421-2024; liu, di/HME-1975-2023; Wang, Zhong
+   Lin/E-2176-2011
+OI Wang, Zhong Lin/0000-0002-5530-0380; Ren, Zewei/0000-0002-0061-581X; ,
+   di/0000-0003-0469-5703
+FU National Key R&D Project from Minister of Science and Technology
+   [2016YFA0202704]; National Natural Science Foundation of China
+   [51605033, 51432005, 5151101243, 51561145021]; Beijing Municipal Science
+   and Technology Commission [Z171100000317001, Z171100002017017,
+   Y3993113DF]
+FX The research was supported by the National Key R&D Project from Minister
+   of Science and Technology (2016YFA0202704), National Natural Science
+   Foundation of China (Grant Nos. 51605033, 51432005, 5151101243,
+   51561145021), Beijing Municipal Science and Technology Commission
+   (Z171100000317001, Z171100002017017, Y3993113DF). The authors declare
+   that they have no competing interests.
+NR 35
+TC 100
+Z9 104
+U1 15
+U2 201
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1614-6832
+EI 1614-6840
+J9 ADV ENERGY MATER
+JI Adv. Energy Mater.
+PD AUG
+PY 2021
+VL 11
+IS 31
+AR 2101116
+DI 10.1002/aenm.202101116
+EA JUN 2021
+PG 10
+WC Chemistry, Physical; Energy & Fuels; Materials Science,
+   Multidisciplinary; Physics, Applied; Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Energy & Fuels; Materials Science; Physics
+GA UB8XR
+UT WOS:000666987900001
+DA 2025-05-29
+ER

@@ -1,0 +1,50 @@
+PT J
+AU Nasiriani, K
+   Ghaedi, A
+   Nafar, M
+AF Nasiriani, K.
+   Ghaedi, A.
+   Nafar, M.
+TI Reliability evaluation for power systems containing ocean thermal energy
+   conversion power plants
+SO SCIENTIA IRANICA
+LA English
+DT Article
+DE Adequacy; Clustering; Ocean thermal energy conversion; Reliability;
+   Conditional value at risk
+ID RENEWABLE GENERATION; OPTIMIZATION; ECONOMICS; MODEL
+AB Recently, renewable power plants utilize clean and sustainable resources for electricity generation. The Ocean Thermal Energy Conversion (OTEC) system uses ocean surface water as a high-temperature source and the water at a depth of the ocean as a low-temperature source. The difference between these temperatures is 20 degrees C or greater, and the working fluid with a low boiling point can be used for electricity generation. In a closed-cycle OTEC system, the working fluid through a thermodynamic cycle based on the Rankine cycle can rotate the turbine and generate electricity. Due to the ocean surface temperature variation, the output power of the OTEC system changes and yields numerous states concerning the generated power of this plant. Thus, for integrating the OTEC systems with the power system, many aspects of power system including reliability may be affected and thus, new approaches must be developed for investigation of these effects. In this paper, the reliability of the power system containing the OTEC system based on the multi-state reliability model and the conditional value at risk concept is evaluated and the valuable indices used for generation expansion planning of the power system are calculated. (C) 2022 Sharif University of Technology. All rights reserved.
+C1 [Nasiriani, K.; Nafar, M.] Islamic Azad Univ, Dept Elect Engn, Marvdasht Branch, Marvdasht, Iran.
+   [Ghaedi, A.] Islamic Azad Univ, Dept Elect Engn, Dariun Branch, POB 7145168598, Dariun, Iran.
+C3 Islamic Azad University; Islamic Azad University
+RP Ghaedi, A (通讯作者)，Islamic Azad Univ, Dept Elect Engn, Dariun Branch, POB 7145168598, Dariun, Iran.
+EM amir_ghaedi_63@yahoo.com
+RI GHAEDI, AMIR/AAS-7615-2021; Nafar, Mehdi/ADU-5802-2022
+OI Nafar, Mehdi/0000-0002-5108-3737
+NR 45
+TC 4
+Z9 4
+U1 0
+U2 7
+PU SHARIF UNIV TECHNOLOGY
+PI TEHRAN
+PA PO BOX 11155-8639, TEHRAN, 00000, IRAN
+SN 1026-3098
+J9 SCI IRAN
+JI Sci. Iran.
+PD JUL-AUG
+PY 2022
+VL 29
+IS 4
+BP 1957
+EP 1974
+DI 10.24200/sci.2020.54805.3927
+PG 18
+WC Engineering, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA 4H3PJ
+UT WOS:000849793000008
+OA gold
+DA 2025-05-29
+ER

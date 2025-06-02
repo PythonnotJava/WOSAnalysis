@@ -1,0 +1,48 @@
+PT J
+AU Kumar, US
+   Manoharan, PS
+AF Kumar, U. Suresh
+   Manoharan, P. S.
+TI Economic analysis of hybrid power systems (PV/diesel) in different
+   climatic zones of Tamil Nadu
+SO ENERGY CONVERSION AND MANAGEMENT
+LA English
+DT Article
+DE Hybrid power system (HPS); Solar energy; Net present cost (NPC); HOMER;
+   Renewable fraction (RF)
+ID ENERGY SUPPLY OPTIONS; FEASIBILITY ANALYSIS; OPTIMIZATION; GENERATOR
+AB With the increasing threat to environment and the fast depleting fossil fuel resources, hybrid power systems consisting of two or more renewable energy sources such as solar PV, wind, biomass, ocean thermal-with or without the back up of diesel generator have come to the forefront. These hybrid systems are normally integrated with battery banks for total reliability; such systems have brought about better quality of life in remote areas of developing economics. The remote areas in the state of Tamil Nadu in India possess excellent renewable energy sources. These areas fall under different climatic zones, are sparsely populated and are in the process of development. Though these areas are connected to the grid, Tamil Nadu grid is not stable; it is currently experiencing 40% short fall in generation. Thus grid power is available to these remote areas only for 10 h a day and even when available, there are voltage frequency problems. This paper analyses the economic feasibility of installing and operating hybrid systems in these areas. The areas are divided into different climatic zones and the hybrid system economy is analyzed for each climatic zone on the basis of NPC (net present cost), consumption of diesel and renewable fraction for all climate zones. The analysis indicates that the interior climatic zone - the area would be the optimum climatic zone to install HPS PV/diesel. The sensitivity analysis proves that the NPC of such a system can be reduced. It is suggested that due to high initial cost, government subsidy is necessary to adopt the system on a large scale. Such a profit will encourage development of renewable energy utilization and bring about rapid development of these remote areas. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Kumar, U. Suresh] Mohamed Sathak Engn Coll, Dept Elect & Elect Engn, Kilakkarai, India.
+   [Manoharan, P. S.] Thiagarajar Coll Engn, Dept Elect & Elect Engn, Madurai, Tamil Nadu, India.
+C3 Thiagarajar College of Engineering
+RP Kumar, US (通讯作者)，Mohamed Sathak Engn Coll, Dept Elect & Elect Engn, Kilakkarai, India.
+EM uskrk@sify.com; psmeee@tce.edu
+RI P.S, Manoharan/I-1471-2019
+OI P.S., Manoharan/0000-0001-9521-7023; kumar, suresh/0000-0003-3138-2665;
+   Abdullah, Naveen Sait/0000-0003-3880-8681
+NR 22
+TC 80
+Z9 83
+U1 0
+U2 22
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0196-8904
+EI 1879-2227
+J9 ENERG CONVERS MANAGE
+JI Energy Conv. Manag.
+PD APR
+PY 2014
+VL 80
+BP 469
+EP 476
+DI 10.1016/j.enconman.2014.01.046
+PG 8
+WC Thermodynamics; Energy & Fuels; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels; Mechanics
+GA AF7LX
+UT WOS:000334897700048
+DA 2025-05-29
+ER

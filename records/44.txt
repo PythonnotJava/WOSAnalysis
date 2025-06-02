@@ -1,0 +1,49 @@
+PT J
+AU Alexakis, S
+   Tsabaris, C
+AF Alexakis, Stylianos
+   Tsabaris, Christos
+TI Design of an Interactive Cellular System for the Remote Operation of
+   Ocean Sensors: A Pilot Study Integrating Radioactivity Sensors
+SO JOURNAL OF MARINE SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE telemetry; ocean sensors; radioactivity; real-time transmission
+ID IN-SITU MEASUREMENTS; NUCLEAR; RADIONUCLIDES; SPECTROMETER; SPECTRA
+AB Ocean in-situ sensors are crucial for measuring oceanic parameters directly from the sea in a spatial and temporal basis. Real-time operation is used in many applications related to decision support tools and early warning services in case of accidents, incidents and/or disasters. The design of the proposed system is described as a rapid-response detection system, which aims to measure natural and artificial radioactive contaminants or other crucial ocean parameters, to replace the traditional method of sampling. The development of an interactive cellular system is undertaken using a commercial router that is programmed according to sensor specifications. A radioactivity sensor is integrated in a communication box enabling self-powered operation with a solar panel. The proposed system operates in (near) real-time mode and provides gamma-ray spectra by integrating the sensor and the appropriate electronic modules in it. Additionally, an on-site experiment was conducted to test the operability of the system in a real environment close to the sea, for monitoring fallout due to rainfall and snowfall events. The main intense radionuclides that were observed by different energy lines, were radon progenies (Bi-214, Pb-214). The continuous operation of the whole system was controlled by operating the system during the winter period.
+C1 [Alexakis, Stylianos; Tsabaris, Christos] Hellen Ctr Marine Res, Inst Oceanog, 46-7 Km Athens Sounio Ave, Anavyssos 19013, Greece.
+C3 Hellenic Centre for Marine Research
+RP Tsabaris, C (通讯作者)，Hellen Ctr Marine Res, Inst Oceanog, 46-7 Km Athens Sounio Ave, Anavyssos 19013, Greece.
+EM salexakis@hcmr.gr; tsabaris@hcmr.gr
+OI Tsabaris, Christos/0000-0001-5991-9423
+FU EU [MIS 5002438]
+FX This research was funded by national and EU funds under the National
+   Strategic Reference Framework 2014-2020 in the framework of the project
+   titled "Blue Growth with Innovation and application in the Greek
+   Seas-GLAFKI" (MIS 5002438).
+NR 26
+TC 5
+Z9 5
+U1 1
+U2 4
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2077-1312
+J9 J MAR SCI ENG
+JI J. Mar. Sci. Eng.
+PD AUG
+PY 2021
+VL 9
+IS 8
+AR 910
+DI 10.3390/jmse9080910
+PG 11
+WC Engineering, Marine; Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA UG9HK
+UT WOS:000689553700001
+OA gold
+DA 2025-05-29
+ER

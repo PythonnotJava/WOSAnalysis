@@ -1,0 +1,63 @@
+PT J
+AU Liu, XY
+   Song, DL
+   Yang, H
+   Wang, XF
+   Nie, YL
+AF Liu, Xiuyan
+   Song, Dalei
+   Yang, Hua
+   Wang, Xiaofeng
+   Nie, Yunli
+TI An Integrated Spatio-Temporal Features Analysis Approach for Ocean
+   Turbulence Using an Autonomous Vertical Profiler
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE ocean turbulence; energy cascade; dissipation rates; spatio-temporal
+   features; VMD
+ID KINETIC-ENERGY; MODE DECOMPOSITION; INTERMITTENCY; CASCADES
+AB Turbulent energy cascade and intermittency are very important characteristics in the turbulent energy evolution process. However, understanding the temporal-spatial features of kinetic energy transfer and quantifying the correlations between different scales of turbulent energy remains an outstanding challenge. To deeply understand the spatial-temporal features in the energy transfer process, an integrated features identification and extraction method is proposed to quantitatively investigate the correlations using the ocean shear turbulence measured by an autonomous vertical reciprocating profiler (AVRP). The proposed integrated method mainly contains two parallel features analysis modules: first, temporal multiscale features structures of the nonlinear and nonstationary turbulent cascade are identified by Variational Mode Decomposition (VMD); then, the ocean microstructure shear fluctuation data are decomposed into a series of intrinsic mode functions (IMFs), which are characterized by different time scales and frequency bandwidths. The local features of energy transfer are identified when the local intermittency peaks overlap and the phase-synchronization case occurs between two neighboring scales; second, the spatial statistical characteristics of the turbulent energy dissipation are quantitatively studied. The cumulative probability distribution functions (CPDFs) of kinetic energy dissipation are approximated well by a normal distribution, indicating that the turbulent dissipation process exhibits a robust spatial scaling correlation and a few intense dissipation locations dominate the integrated process. Finally, the proposed integrated method is evaluated through experiments using an autonomous vertical reciprocating profiler deployed in the South China Sea. Preliminary experimental results show that the proposed novel method is useful to improve our understanding of turbulent energy transfer and the evolution process in the ocean dynamic systems.
+C1 [Liu, Xiuyan; Wang, Xiaofeng] Qingdao Univ Technol, Sch Informat & Control Engn, Qingdao 266525, Shandong, Peoples R China.
+   [Song, Dalei] Ocean Univ China, Coll Engn, Qingdao 266100, Shandong, Peoples R China.
+   [Yang, Hua] Ocean Univ China, Coll Informat Sci & Engn, Qingdao 266100, Shandong, Peoples R China.
+   [Nie, Yunli] Shandong Univ Sci & Technol, Coll Ocean Sci & Engn, Qingdao 266590, Shandong, Peoples R China.
+C3 Qingdao University of Technology; Ocean University of China; Ocean
+   University of China; Shandong University of Science & Technology
+RP Nie, YL (通讯作者)，Shandong Univ Sci & Technol, Coll Ocean Sci & Engn, Qingdao 266590, Shandong, Peoples R China.
+EM songdalei@ouc.edu.cn; hyang@ouc.edu.cn; nieyunli@sdust.edu.cn
+RI YANG, Huachen/MGA-2851-2025
+OI Liu, Xiuyan/0000-0001-7380-5588
+FU National Natural Science Foundation of China [62001262, 61871354,
+   61727806]; Natural Science Foundation of Shandong Province [ZR2020QF008]
+FX The research work is supported by the National Natural Science
+   Foundation of China, grant number 62001262, 61871354, 61727806 and the
+   Natural Science Foundation of Shandong Province, grant number
+   ZR2020QF008.
+NR 26
+TC 3
+Z9 3
+U1 1
+U2 22
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD OCT
+PY 2021
+VL 11
+IS 20
+AR 9455
+DI 10.3390/app11209455
+PG 14
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials
+   Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Materials Science; Physics
+GA WR9GJ
+UT WOS:000714800900001
+OA gold
+DA 2025-05-29
+ER

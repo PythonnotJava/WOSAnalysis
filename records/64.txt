@@ -1,0 +1,71 @@
+PT J
+AU Kim, JS
+   Nam, BW
+   Park, S
+   Kim, KH
+   Shin, SH
+   Hong, K
+AF Kim, Jeong-Seok
+   Nam, Bo Woo
+   Park, Sewan
+   Kim, Kyong-Hwan
+   Shin, Seung-Ho
+   Hong, Keyyong
+TI Numerical investigation on hydrodynamic energy conversion performance of
+   breakwater-integrated oscillating water column-wave energy converters
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Oscillating water column; Wave energy converter; Numerical modeling;
+   Finite element method; Breakwater
+ID SYSTEMS; DEVICES; BODIES
+AB Various wave energy converters (WECs) have been developed to utilize ocean wave energy resources. Among them, an oscillating water column (OWC) device is a promising wave energy converter that has undergone several pilot tests in the ocean with various prototype devices. Recently, a breakwater-integrated OWC-WEC system was proposed to improve the economic feasibility by reducing the construction and installation costs of the OWC chamber structure. In this study, a numerical investigation was conducted to simulate the hydrodynamic energy conversion problem for a breakwater-integrated OWC-WEC. The boundary value problem with the Laplace equation was solved directly by using a three-dimensional numerical wave tank based on a finite element method in the time domain. In the present numerical method, an efficient numerical model for the tetrapod (TTP), which is used to protect a rubble mound breakwater, was introduced using multiple blocks and numerical damping zone. Further, numerical investigations were performed on the effects of breakwater integration, TTP layer modeling, and the application of the numerical damping zone, and their features in terms of the wavefield and the OWC chamber responses were analyzed. Finally, the validity of the present numerical method was examined by comparing it with the experimental data.
+C1 [Kim, Jeong-Seok] Seoul Natl Univ, Res Inst Marine Syst Engn, Seoul 08826, South Korea.
+   [Nam, Bo Woo] Seoul Natl Univ, Dept Naval Architecture & Ocean Engn, Seoul 08826, South Korea.
+   [Park, Sewan; Kim, Kyong-Hwan; Shin, Seung-Ho; Hong, Keyyong] Korea Res Inst Ships & Ocean Engn, Marine Renewable Energy Res Div, Deajeon 34103, South Korea.
+C3 Seoul National University (SNU); Seoul National University (SNU); Korea
+   Research Institute of Ships & Ocean Engineering
+RP Nam, BW (通讯作者)，Seoul Natl Univ, Dept Naval Architecture & Ocean Engn, Seoul 08826, South Korea.
+EM bwnam@snu.ac.kr
+OI Kim, Jeong-Seok/0000-0002-0416-4403
+FU Endowment Project of "Numerical study on hydrodynamic performance of
+   breakwater-integrated oscillating-water-column type wave energy
+   converter" - Research Institute of Marine Systems Engineering in Seoul
+   National University; National R&D project "Development of Wave Energy
+   Converters Applicable to Breakwater and Connected Micro-Grid with Energy
+   Storage System" - Korea Ministry of Oceans and Fisheries
+FX & nbsp;This research was supported by a grant from Endowment Project of
+   "Numerical study on hydrodynamic performance of breakwater-integrated
+   oscillating-water-column type wave energy converter"& nbsp;funded by
+   Research Institute of Marine Systems Engineering in Seoul National
+   University and a grant from National R & D project "Development of Wave
+   Energy Converters Applicable to Breakwater and Connected Micro-Grid with
+   Energy Storage System"& nbsp;funded by Korea Ministry of Oceans and
+   Fisheries. All support is gratefully acknowledged.
+NR 39
+TC 7
+Z9 7
+U1 9
+U2 41
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD JUN 1
+PY 2022
+VL 253
+AR 111287
+DI 10.1016/j.oceaneng.2022.111287
+EA APR 2022
+PG 18
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 1J7UM
+UT WOS:000798120400002
+DA 2025-05-29
+ER

@@ -1,0 +1,49 @@
+PT J
+AU Castellucci, V
+   Abrahamsson, J
+   Svensson, O
+   Waters, R
+AF Castellucci, Valeria
+   Abrahamsson, Johan
+   Svensson, Olle
+   Waters, Rafael
+TI Algorithm for the calculation of the translator position in permanent
+   magnet linear generators
+SO JOURNAL OF RENEWABLE AND SUSTAINABLE ENERGY
+LA English
+DT Article
+ID WAVE ENERGY; SYSTEM
+AB A permanent magnet linear generator for direct drive wave energy converters is a suitable power take-off system for ocean wave energy extraction, especially when coupled with a point absorbing buoy via a connection line. The performance of the linear generator is affected by the excursion of the translator along the stator. The optimal stroke is achieved when the midpoint of the oscillations coincides with the center of the stator. However, sea level changes due to, e. g., tides will shift these oscillations. This paper proposes a model able to detect the position of the translator from the generator output voltage. The algorithm will be integrated in the control system of a mechanical device that adjusts the length of the connection line in order to center the average position of the translator with the center of the stator. Thereby, the output power from the wave energy converter increases, and the mechanical stresses on the hull of the generator decrease. The results obtained by the model show good agreement with the experimental results from two linear generators, L2 and L3, deployed in the Lysekil wave energy research site, Sweden. The theoretical results differ from the experimental results by -4mm for L2 and 21mm for L3 with a standard deviation of 27mm and 31 mm, respectively. (C) 2014 AIP Publishing LLC.
+C1 [Castellucci, Valeria; Abrahamsson, Johan; Svensson, Olle; Waters, Rafael] Uppsala Univ, Swedish Ctr Renewable Elect Energy Convers, Div Elect, Dept Engn Sci,Angstrom Lab, SE-75121 Uppsala, Sweden.
+C3 Uppsala University
+RP Castellucci, V (通讯作者)，Uppsala Univ, Swedish Ctr Renewable Elect Energy Convers, Div Elect, Dept Engn Sci,Angstrom Lab, POB 534, SE-75121 Uppsala, Sweden.
+FU Swedish Energy Agency (STEM); StandUp for Energy; Carl Tryggers
+   Foundation; Swedish Research Council (VR)
+FX The authors would like to thank the Swedish Energy Agency (STEM),
+   StandUp for Energy, Carl Tryggers Foundation, and the Swedish Research
+   Council (VR) for their financial support.
+NR 19
+TC 5
+Z9 5
+U1 0
+U2 6
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 1941-7012
+J9 J RENEW SUSTAIN ENER
+JI J. Renew. Sustain. Energy
+PD NOV
+PY 2014
+VL 6
+IS 6
+AR 063102
+DI 10.1063/1.4900553
+PG 9
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA AX8IE
+UT WOS:000347152500003
+DA 2025-05-29
+ER

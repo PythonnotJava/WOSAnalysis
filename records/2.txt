@@ -1,0 +1,54 @@
+PT J
+AU Sareen, K
+   Panigrahi, BK
+   Shikhola, T
+   Nagdeve, R
+AF Sareen, Karan
+   Panigrahi, Bijaya Ketan
+   Shikhola, Tushar
+   Nagdeve, Rita
+TI An integrated decomposition algorithm based bidirectional LSTM neural
+   network approach for predicting ocean wave height and ocean wave energy
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Deep learning neural network; Ocean significant wave height; Ocean wave
+   energy; Forecasting accuracy; Time series decomposition
+ID MODEL
+AB A potential and limitless source of renewable energy is the ocean. Yet, the intermittent and irregular characteristic of wave energy is a cause of concern for the stability of the power system. Thus, wave energy must be anticipated in order to be integrated into power systems. For harnessing energy from ocean waves, ocean wave height is a crucial parameter and due to this accurate and trustworthy forecasts of ocean wave height have gained increased attention recently. This makes it crucial to come up with a forecasting algorithm that is trustworthy, precise and can be used in varied situations. Therefore, in the proposed framework, well known data decomposition algorithm i.e. Complete Ensemble Empirical Mode Decomposition with Adaptive Noise (CEEMDAN) is combined with Bidirectional Long Short-Term Memory (BiDLSTM) deep learning algorithm to accurately forecast ocean significant wave height and ocean wave energy from the standard datasets acquired from National Renewable Energy Laboratory (NREL) data site. Empirical outcomes produced using the proposed CEEMDANBiDLSTM method is found to be highly accurate as compared to the recently established forecasting algorithms in literature.
+C1 [Sareen, Karan; Nagdeve, Rita] Govt India, Minist Power, Cent Elect Author CEA, New Delhi 110066, India.
+   [Panigrahi, Bijaya Ketan] Indian Inst Technol Delhi IIT Delhi, Dept Elect Engn, New Delhi 110016, India.
+   [Shikhola, Tushar] Delhi Metro Rail Corp Ltd, Joint Venture Govt India & Govt NCT Delhi, New Delhi 110001, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Delhi
+RP Sareen, K (通讯作者)，Govt India, Minist Power, Cent Elect Author CEA, New Delhi 110066, India.
+EM karansareen26@gmail.com
+RI SHIKHOLA, TUSHAR/GOJ-8983-2022; Panigrahi, Bijaya/G-1005-2010
+OI sareen, karan/0000-0002-2618-6881; SHIKHOLA, TUSHAR/0000-0002-7410-9944
+NR 28
+TC 15
+Z9 15
+U1 9
+U2 37
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD AUG 1
+PY 2023
+VL 281
+AR 114852
+DI 10.1016/j.oceaneng.2023.114852
+EA JUN 2023
+PG 16
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA L3UD6
+UT WOS:001022534400001
+DA 2025-05-29
+ER

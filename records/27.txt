@@ -1,0 +1,64 @@
+PT J
+AU Zhou, YB
+   Gao, WZ
+   Zhang, Y
+   Tian, Z
+   Wang, F
+   Gao, RB
+AF Zhou, Yibo
+   Gao, Wenzhong
+   Zhang, Yuan
+   Tian, Zhen
+   Wang, Fei
+   Gao, Runbo
+TI Experimental investigation on thermodynamic and environmental
+   performance of a novel ocean thermal energy conversion (OTEC)-Air
+   conditioning (AC) system
+SO ENERGY
+LA English
+DT Article
+DE Ocean thermal energy conversion; Organic rankine cycle; Air
+   conditioning; Matching of heat and cold sources; Mass flow rate;
+   Integrated energy systems
+ID OTEC SYSTEM; CYCLE; PLANT; OPTIMIZATION; WORKING; EXERGY; HEAT; ORC
+AB In the field of isolated island energy supply, the OTEC system is considered promising due to its large storage capacity, and pollution-free characteristics. To improve energy efficiency, polygeneration systems have gradually become a research hotspot for their low cost and high return features. In this context, a novel Ocean Thermal Energy Conversion system integrated with an air conditioning unit (OTEC-AC) is introduced, demonstrating capabilities in electricity, cooling capacity, and fresh water production by experiments. The effects of various flow rates and temperatures of the heat and cold sources, along with the air-conditioning system water flow rate on the system performance is explored. Besides, the overall performance of the OTEC-AC is compared with four representative OTEC models. The results indicate that there is a threshold for the influence of cold and heat source flow rate on the performance of power generation system. The OTEC-AC system shows a highest net power of 132.6 W, cooling capacity of 2.14 kW, condensate production of 3.24 kg/h, and achieves a system exergy efficiency and CO2 reduction of 34.7 % and 5801 kg/year, respectively. The annual CO2 reduction per kilowatt of installed capacity of the system is increased by 135.6 %, compared with the conventional OTEC system.
+C1 [Zhou, Yibo; Gao, Wenzhong; Zhang, Yuan; Tian, Zhen; Wang, Fei; Gao, Runbo] Shanghai Maritime Univ, Merchant Marine Coll, Shanghai 201306, Peoples R China.
+C3 Shanghai Maritime University
+RP Gao, WZ (通讯作者)，Shanghai Maritime Univ, Merchant Marine Coll, Shanghai 201306, Peoples R China.
+EM wzgao@shmtu.edu.cn
+OI Yuan, Zhang/0000-0003-2895-9435
+FU Shanghai Science and Technology Commission [18040501800, 22ZR1426900];
+   National Natural Science Foundation of China [51806136]; Shanghai
+   Frontiers Science Center of "Full Penetration" Far-Reaching Offshore
+   Ocean Energy and Power
+FX The authors would like to acknowledge the support by the Shanghai
+   Science and Technology Commission (Grant No.18040501800 and
+   No.22ZR1426900) , National Natural Science Foundation of China (Grant
+   No.51806136) , the Shanghai Frontiers Science Center of "Full
+   Penetration" Far-Reaching Offshore Ocean Energy and Power.
+NR 48
+TC 1
+Z9 1
+U1 11
+U2 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD DEC 30
+PY 2024
+VL 313
+AR 133760
+DI 10.1016/j.energy.2024.133760
+EA NOV 2024
+PG 14
+WC Thermodynamics; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels
+GA M2J7K
+UT WOS:001355858500001
+DA 2025-05-29
+ER

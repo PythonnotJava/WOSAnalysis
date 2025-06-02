@@ -1,0 +1,54 @@
+PT J
+AU Wu, JT
+   Chen, JH
+   Hsin, CY
+   Chiu, FC
+AF Wu, Jo-Ti
+   Chen, Jiahn-Horng
+   Hsin, Ching-Yeh
+   Chiu, Forng-Chen
+TI A computational study on system dynamics of an ocean current turbine
+SO JOURNAL OF HYDRODYNAMICS
+LA English
+DT Article
+DE Ocean current energy; current turbine; system dynamics; mooring line
+   system
+ID DESIGN
+AB In this paper, we present the study of system dynamics of the floating kuroshio turbine (FKT) system which is designed to harness ocean current energy. We focus on the mooring line system design and its interaction with the FKT system. The effects of line diameter and two different auxiliary line systems were studied. Their responses in waves were also investigated. We integrated several commercial and in-house packages. The system buoyancy and weight and their centers were estimated using the Rhino software. The system hydrodynamic coefficients were obtained through WAMIT, system drag coefficient through FLUENT, turbine propulsive force through lifting surface code, and system dynamics through OrcaFlex. The results show that the mooring line system can create strong influence on the FKT system operations in the ocean current environments.
+C1 [Wu, Jo-Ti; Chen, Jiahn-Horng; Hsin, Ching-Yeh] Natl Taiwan Ocean Univ, Dept Syst Engn & Naval Architecture, Keelung, Taiwan.
+   [Chiu, Forng-Chen] Natl Taiwan Univ, Dept Engn Sci & Ocean Engn, Taipei, Taiwan.
+C3 National Taiwan Ocean University; National Taiwan University
+RP Chen, JH (通讯作者)，Natl Taiwan Ocean Univ, Dept Syst Engn & Naval Architecture, Keelung, Taiwan.
+EM jhcntou@gmail.com; b0105@mail.ntou.edu.tw
+FU Ministry of Science and Technology, the Republic of China [MOST
+   105-3113-E-002-019-CC2]; CSBC Corporation
+FX The study was made possible with the grant from Ministry of Science and
+   Technology, the Republic of China, under the contract MOST
+   105-3113-E-002-019-CC2 and funding support from CSBC Corporation.
+NR 22
+TC 3
+Z9 3
+U1 1
+U2 13
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1001-6058
+EI 1878-0342
+J9 J HYDRODYN
+JI J. Hydrodyn.
+PD JUN
+PY 2018
+VL 30
+IS 3
+BP 395
+EP 402
+DI 10.1007/s42241-018-0048-z
+PG 8
+WC Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mechanics
+GA GJ8IF
+UT WOS:000435631900004
+DA 2025-05-29
+ER

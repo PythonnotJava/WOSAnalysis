@@ -1,0 +1,80 @@
+PT J
+AU Hobbs, W
+   Palmer, MD
+   Monselesan, D
+AF Hobbs, Will
+   Palmer, Matthew D.
+   Monselesan, Didier
+TI An Energy Conservation Analysis of Ocean Drift in the CMIP5 Global
+   Coupled Models*
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+DE Budgets; Model evaluation/performance; Model comparison; Climate models;
+   Climate sensitivity; Models and modeling; Circulation/ Dynamics;
+   Conservation equations; Physical Meteorology and Climatology
+ID EARTH SYSTEM MODEL; CLIMATE MODEL; SIMULATION
+AB Climate model simulations of changes to Earth's energy budget are fundamental to improve understanding of both historical and future climate change. However, coupled models are prone to "drift" (i.e., they contain spurious unforced trends in state variables) due to incomplete spinup or nonclosure of the energy budget. This work assesses the globally integrated energy budgets of 25 models in phase 5 of CMIP (CMIP5). It is shown that for many of the models there is a significant disagreement between ocean heat content changes and net top-of-atmosphere radiation. The disagreement is largely time-constant and independent of forcing scenario. Furthermore, most of the nonconservation seems to occur as a result of energy leaks external to the ocean model realm. After drift correction, the time-varying energy budget is consistent at decadal time scales, and model responses to climate forcing are not sensitive to the magnitude of their drift. This demonstrates that, although drift terms can be significant, model output can be corrected post hoc without biasing results.
+C1 [Hobbs, Will] Univ Tasmania, IMAS, ARC Ctr Excellence Climate Syst Sci, Private Bag 129, Hobart, Tas 7001, Australia.
+   [Hobbs, Will] Univ Tasmania, Antarctic Climate & Ecosyst Cooperat Res Ctr, Hobart, Tas 7001, Australia.
+   [Palmer, Matthew D.] Met Off, Hadley Ctr, Exeter, Devon, England.
+   [Monselesan, Didier] CSIRO Oceans & Atmosphere, Hobart, Tas, Australia.
+C3 ARC Centre of Excellence for Climate System Science; University of
+   Tasmania; University of Tasmania; Antarctic Climate & Ecosystems
+   Cooperative Research Centre (ACE CRC); Met Office - UK; Hadley Centre;
+   Commonwealth Scientific & Industrial Research Organisation (CSIRO);
+   CSIRO Oceans & Atmosphere
+RP Hobbs, W (通讯作者)，Univ Tasmania, IMAS, ARC Ctr Excellence Climate Syst Sci, Private Bag 129, Hobart, Tas 7001, Australia.
+EM whobbs@utas.edu.au
+RI Hobbs, Will/G-5116-2014; Monselesan, Didier/A-2327-2012
+OI Hobbs, Will/0000-0002-2061-0899; Monselesan, Didier/0000-0002-0310-8995;
+   Palmer, Matthew/0000-0001-7422-198X
+FU Australian Climate Change Science Program; CSIRO; University of
+   Tasmania; Joint UK DECC/Defra Met Office Hadley Centre Climate Programme
+   [GA01101];  [NE/K005480/1]; NERC [NE/K005480/1] Funding Source: UKRI
+FX The authors are indebted to Dr. Jonathon Gregory, Dr. Alex Sen Gupta,
+   and two anonymous reviewers for helpful comments in the preparation of
+   this manuscript, and to Paola Petrelli for help in managing the CMIP5
+   data. DM is partly supported financially by the Australian Climate
+   Change Science Program. Much of the analysis took place during a
+   visiting science fellowship undertaken by MDP that was sponsored by
+   CSIRO and the University of Tasmania. MDP was supported by the Joint UK
+   DECC/Defra Met Office Hadley Centre Climate Programme (GA01101) and his
+   work represents a contribution to the Natural Environment Research
+   Council DEEP-C project NE/K005480/1. We acknowledge the World Climate
+   Research Programme's Working Group on Coupled Modelling, which is
+   responsible for CMIP, and we thank the climate modeling groups (listed
+   in Table 1 of this paper) for producing and making available their model
+   output. For CMIP the U.S. Department of Energy's Program for Climate
+   Model Diagnosis and Intercomparison provides coordinating support and
+   led development of software infrastructure in partnership with the
+   Global Organization for Earth System Science Portals. Much of the
+   analysis was performed using the NCAR Command Language (NCL).
+NR 32
+TC 61
+Z9 62
+U1 1
+U2 18
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693, UNITED STATES
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD MAR
+PY 2016
+VL 29
+IS 5
+BP 1639
+EP 1653
+DI 10.1175/JCLI-D-15-0477.1
+PG 15
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA DF4EQ
+UT WOS:000371301000002
+OA Green Accepted, Green Submitted, hybrid
+DA 2025-05-29
+ER

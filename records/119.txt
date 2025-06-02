@@ -1,0 +1,47 @@
+PT J
+AU Shi, YQ
+   Luo, W
+AF Shi, Yaqi
+   Luo, Wei
+TI APPLICATION OF SOLAR PHOTOVOLTAIC POWER GENERATION SYSTEM IN MARITIME
+   VESSELS AND DEVELOPMENT OF MARITIME TOURISM
+SO POLISH MARITIME RESEARCH
+LA English
+DT Article
+DE Solar photovoltaic system; Ship; Photovoltaic control system
+ID MODEL
+AB The use of new energy generation technologies such as solar energy and electric propulsion technologies to form integrated power propulsion technology for ships has become one of the most concerned green technologies on ships. Based on the introduction of the principles and usage patterns of solar photovoltaic systems, the application characteristics of solar photovoltaic systems and their components in ships are analyzed. The important characteristics of the marine power grid based on solar photovoltaic systems are explored and summarized, providing a basis for future system design and application. Photovoltaic solar cells are made using semiconductor effects that convert solar radiation directly into electrical energy. Several such battery devices are packaged into photovoltaic solar cell modules, and several components are combined into a certain power photovoltaic array according to actual needs, and are matched with devices such as energy storage, measurement, and control to form a photovoltaic power generation system. This article refers to the basic principle and composition of the land-use solar photovoltaic system, and analyzes the difference between the operational mode and the land use of the large-scale ocean-going ship solar photovoltaic system. Specific analysis of large-scale ocean-going ship solar photovoltaic system complete set of technical route, for the construction of marine solar photovoltaic system to provide design ideas.
+C1 [Shi, Yaqi] Wuhan Tech Coll Commun, Wuhan 430074, Hubei, Peoples R China.
+   [Luo, Wei] Hubei Urban Construct Vocat & Technol Coll, Wuhan 430074, Hubei, Peoples R China.
+C3 Wuhan Technical College of Communication; Hubei Urban Construction
+   Vocational & Technological College
+RP Shi, YQ (通讯作者)，Wuhan Tech Coll Commun, Dept Elect & Informat Technol, 6 Baishazhou Rd, Wuhan 430065, Hubei, Peoples R China.
+EM 13026183800@163.com
+NR 14
+TC 19
+Z9 19
+U1 5
+U2 57
+PU GDANSK UNIV TECHNOLOGY
+PI GDANSK
+PA FAC OCEAN ENGINEERING & SHIP TECHNOLOGY, UL NARUTOWICZA 11-12, GDANSK,
+   80-952, POLAND
+SN 1233-2585
+J9 POL MARIT RES
+JI Pol. Marit. Res.
+PD AUG
+PY 2018
+VL 25
+SI 2
+BP 176
+EP 181
+DI 10.2478/pomr-2018-0090
+PG 6
+WC Engineering, Marine
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA GT5FW
+UT WOS:000444532600025
+OA gold
+DA 2025-05-29
+ER

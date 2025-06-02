@@ -1,0 +1,52 @@
+PT J
+AU de Periere, MD
+   Brenac, P
+   Hilali, I
+   Lu, F
+   Albasrawi, W
+AF de Periere, Matthieu Deville
+   Brenac, Patrice
+   Hilali, Ibrahim
+   Lu, Feng
+   Albasrawi, Waheed
+TI Paleoenvironments and stratigraphy of the Valanginian-Hauterivian
+   carbonates of the Arabian Platform: Implications for the recognition of
+   the Weissert Event on the Southern Tethys
+SO CRETACEOUS RESEARCH
+LA English
+DT Article
+DE Valanginian; Carbon isotopes; Palynology; Weissert Event; Saudi Arabia
+ID CALCAREOUS NANNOFOSSIL; BENTHIC FORAMINIFERA; SHUAIBA FORMATION;
+   VOCONTIAN BASIN; FERTILIZATION; EVOLUTION; EXCURSION; BOUNDARY; HISTORY;
+   POLLEN
+AB On the Arabian Platform, the Valanginian Weissert Event is associated with the sudden drowning of a major north-easterly prograding carbonate platform located on the southern margin of the Tethys Ocean. This was associated with a sharp back-stepping of the main facies belts to the south-west, bringing shallow marine carbonates into the previously restricted platform top. Integrated detailed facies analysis, biostratigraphy (including nannofossil and palynology) and carbon isotopes have been used to recon-struct the evolution of the carbonate shelf during the Valanginian-Hauterivian in Saudi Arabia. During the early Valanginian the study area was dominated by the deposition of dolomitized clay-prone mi-crobial intertidal mudstones, which passed basinwards into low-energy inner ramp limestones. These facies encompass the initial stage of a 3rd order transgressive trend above the regional Lower Val-anginian Unconformity. They are sharply overlain by Lithocodium/Bacinella-dominated floatstones, indicating the maximum flooding of the platform during the late Valanginian. These deposits system-atically increase in thickness and abundance towards the platform margin and are associated with a broad positive excursion in d13C (c. thorn 2 parts per thousand V-PDB), corresponding to the Weissert Event. The presence of abundant Lithocodium/Bacinella in strata deposited during the major flooding of the platform is consistent with higher nutrient levels and increased upwelling during the late Valanginian. The Valanginian-Hauterivian boundary is marked by a regional unconformity identified through palynology and benthic foraminifera assemblages, and locally confirmed by carbon isotopes. The combination of carbon isotope data with detailed palynology and micropaleontology provided a stratigraphic resolution in line with ammonite biozones published in the western Tethys. The Valanginian-Hauterivian conti-nental palynoflora, described for the first time on the Arabian Platform, is dominated by primitive conifer pollen such as Classopollis suggesting a rather arid climate in agreement with published reconstructions. In addition, the occurrence of various fern and bryophyte spores suggests an increase in humidity along coastline areas, associated with higher continental input into inner ramp settings, therefore affecting the carbonate factory.(c) 2023 Elsevier Ltd. All rights reserved.
+C1 [de Periere, Matthieu Deville; Brenac, Patrice; Hilali, Ibrahim; Lu, Feng; Albasrawi, Waheed] Saudi Aramco, POB 12623, Dhahran 31311, Saudi Arabia.
+RP de Periere, MD (通讯作者)，Saudi Aramco, POB 12623, Dhahran 31311, Saudi Arabia.
+EM matthieu.devilledeperiere@aramco.com
+OI Deville de Periere, Matthieu/0009-0006-2637-8900
+NR 83
+TC 1
+Z9 1
+U1 0
+U2 6
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0195-6671
+EI 1095-998X
+J9 CRETACEOUS RES
+JI Cretac. Res.
+PD AUG
+PY 2023
+VL 148
+AR 105541
+DI 10.1016/j.cretres.2023.105541
+EA MAY 2023
+PG 29
+WC Geology; Paleontology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology; Paleontology
+GA H8GB0
+UT WOS:000998269800001
+DA 2025-05-29
+ER

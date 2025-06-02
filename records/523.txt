@@ -1,0 +1,71 @@
+PT J
+AU Vitousek, S
+   Vos, K
+   Splinter, KD
+   Erikson, L
+   Barnard, PL
+AF Vitousek, Sean
+   Vos, Kilian
+   Splinter, Kristen D.
+   Erikson, Li
+   Barnard, Patrick L.
+TI A Model Integrating Satellite-Derived Shoreline Observations for
+   Predicting Fine-Scale Shoreline Response to Waves and Sea-Level Rise
+   Across Large Coastal Regions
+SO JOURNAL OF GEOPHYSICAL RESEARCH-EARTH SURFACE
+LA English
+DT Article
+DE satellite-derived shorelines; data assimilation; shoreline model;
+   ensemble Kalman filter; sea-level rise; coastal change
+ID BRUUN RULE; CLIMATE-CHANGE; CLIFF RETREAT; HIGH-ENERGY; PART I; EROSION;
+   CALIFORNIA; BEACH; VARIABILITY; ENSEMBLE
+AB Satellite-derived shoreline observations combined with dynamic shoreline models enable fine-scale predictions of coastal change across large spatiotemporal scales. Here, we present a satellite-data-assimilated, "littoral-cell"-based, ensemble Kalman-filter shoreline model to predict coastal change and uncertainty due to waves, sea-level rise (SLR), and other natural and anthropogenic processes. We apply the developed ensemble model to the entire California coastline (approximately 1,760 km), much of which is sparsely monitored with traditional survey methods (e.g., Lidar/GPS). Water-level-corrected, satellite-derived shoreline observations (obtained from the CoastSat toolbox) offer a nearly unbiased representation of in situ surveyed shorelines (e.g., mean sea-level elevation contours) at Ocean Beach, San Francisco. We demonstrate that model calibration with satellite observations during a 20-year hindcast period (1995-2015) provides nearly equivalent model forecast accuracy during a validation period (2015-2020) compared to model calibration with monthly in situ observations at Ocean Beach. When comparing model-predicted shoreline positions to satellite-derived observations, the model achieves an accuracy of <10 m RMSE for nearly half of the entire California coastline for the validation period. The calibrated/validated model is then applied for multi-decadal simulations of shoreline change due to projected wave and sea-level conditions, while holding the model parameters fixed. By 2100, the model estimates that 24%-75% of California's beaches may become completely eroded due to SLR scenarios of 1.0-3.0 m, respectively. The satellite-data-assimilated modeling system presented here is generally applicable to a variety of coastal settings around the world owing to the global coverage of satellite imagery.
+C1 [Vitousek, Sean; Erikson, Li; Barnard, Patrick L.] US Geol Survey, Santa Cruz, CA 95060 USA.
+   [Vitousek, Sean] Univ Illinois, Chicago, IL 60607 USA.
+   [Vos, Kilian; Splinter, Kristen D.] UNSW Sydney, Sydney, NSW, Australia.
+C3 United States Department of the Interior; United States Geological
+   Survey; University of Illinois System; University of Illinois Chicago;
+   University of Illinois Chicago Hospital; University of New South Wales
+   Sydney
+RP Vitousek, S (通讯作者)，US Geol Survey, Santa Cruz, CA 95060 USA.; Vitousek, S (通讯作者)，Univ Illinois, Chicago, IL 60607 USA.
+EM svitousek@usgs.gov
+RI Vos, Kilian/AAW-3454-2020; Barnard, Patrick/MDG-4137-2025; Splinter,
+   Kristen/A-8024-2013
+OI Erikson, Li/0000-0002-8607-7695; Splinter, Kristen
+   D./0000-0002-0082-8444; Barnard, Patrick/0000-0003-1414-6476
+FU USGS Coastal and Marine Hazards and Resources Program
+FX We would like to thank Tiffany Anderson and Mohsen Taherkhani for
+   conducting internal reviews of this manuscript. We thank the three
+   anonymous journal reviewers and the editors for their comments and
+   suggestions, which lead to a significant improvement of this manuscript.
+   This work was funded by the USGS Coastal and Marine Hazards and
+   Resources Program. Any use of trade, firm, or product names is for
+   descriptive purposes only and does not imply endorsement by the U.S.
+   Government.
+NR 138
+TC 40
+Z9 41
+U1 5
+U2 15
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9003
+EI 2169-9011
+J9 J GEOPHYS RES-EARTH
+JI J. Geophys. Res.-Earth Surf.
+PD JUL
+PY 2023
+VL 128
+IS 7
+AR e2022JF006936
+DI 10.1029/2022JF006936
+PG 47
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA O0KM7
+UT WOS:001040796600001
+OA Green Submitted, hybrid
+DA 2025-05-29
+ER

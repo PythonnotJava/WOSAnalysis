@@ -1,0 +1,71 @@
+PT J
+AU Bao, MH
+   Arzaghi, E
+   Abaei, MM
+   Abbassi, R
+   Garaniya, V
+   Abdussamie, N
+   Heasman, K
+AF Bao, Minghan
+   Arzaghi, Ehsan
+   Abaei, Mohammad Mahdi
+   Abbassi, Rouzbeh
+   Garaniya, Vikram
+   Abdussamie, Nagi
+   Heasman, Kevin
+TI Site selection for offshore renewable energy platforms: A multi-criteria
+   decision-making approach
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Wave energy convertor; Offshore renewable energy; Bayesian network; Site
+   -selection; Multiple -criteria decision -making
+ID MARINE; PERFORMANCE; METHODOLOGY; CONVERTERS; DESIGN
+AB This paper presents a novel methodology for site selection of Offshore Renewable Energy (ORE) systems, addressing the growing global energy demand and the need for sustainable solutions to climate change. Focusing on the wave energy, a relatively untapped renewable energy source, this research focuses on optimizing the Wave Energy Converter (WEC) deployment amidst the uncertainties of the offshore environment. The study involves a comprehensive evaluation of potential sites, considering key factors like power generation capacity, mooring system fatigue life, and tether response to extreme loads. Initial wave data analysis for various locations is followed by numerical simulations of a point absorber WEC under different environmental conditions. A Bayesian Network (BN) model is then employed to integrate uncertainties into a multi-criteria decision-making (MCDM), enhancing the robustness of site selection. This approach facilitates the calculation of utility values for various sites, leading to the identification of the optimal decision alternative based on maximum expected utility. This work provides a detailed framework for renewable energy stakeholders, helping in the assessment of both profitability and survivability of WECs in chosen locations. It significantly contributes to minimizing economic and performance risks associated with ORE system installations, promoting efficient and sustainable energy production from ocean resources.
+C1 [Bao, Minghan; Abaei, Mohammad Mahdi; Abbassi, Rouzbeh] Macquarie Univ, Fac Sci & Engn, Sch Engn, Sydney, NSW, Australia.
+   [Arzaghi, Ehsan] Queensland Univ Technol, Fac Engn, Sch Mech Med & Proc Engn, Brisbane, Australia.
+   [Garaniya, Vikram] Univ Tasmania, Australian Maritime Coll AMC, Natl Ctr Maritime Engn & Hydrodynam NCMEH, Launceston, Australia.
+   [Abdussamie, Nagi] Univ Doha Sci & Technol, Coll Engn Technol, Doha, Qatar.
+   [Heasman, Kevin] Cawthron Inst, Blue Technol Grp, Nelson, New Zealand.
+C3 Macquarie University; Queensland University of Technology (QUT);
+   University of Tasmania; Australian Maritime College; Cawthron Institute
+RP Abbassi, R (通讯作者)，Macquarie Univ, Fac Sci & Engn, Sch Engn, Sydney, NSW, Australia.
+EM rouzbeh.abbassi@mq.edu.au
+RI Garaniya, Vikram/AAT-6310-2020; Heasman, Kevin/ISB-2933-2023; Abbassi,
+   Rouzbeh/AAA-2051-2020; Abdussamie, Nagi/HZJ-9395-2023; Abbassi,
+   Rouzbeh/N-4077-2017
+OI Heasman, Kevin/0000-0003-1928-9978; Garaniya,
+   Vikram/0000-0002-0090-147X; Abbassi, Rouzbeh/0000-0002-9230-6175
+FU Blue Economy Cooperative Research Centre; Australian Government's
+   Cooperative Research Centres Program [CRC-20180101]
+FX The authors acknowledge the financial support of the Blue Economy
+   Cooperative Research Centre, established and supported under the
+   Australian Government's Cooperative Research Centres Program, grant
+   number CRC-20180101.
+NR 73
+TC 5
+Z9 5
+U1 11
+U2 34
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+EI 1879-0682
+J9 RENEW ENERG
+JI Renew. Energy
+PD AUG
+PY 2024
+VL 229
+AR 120768
+DI 10.1016/j.renene.2024.120768
+EA JUN 2024
+PG 22
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA WR1E3
+UT WOS:001256499700001
+OA Green Submitted, hybrid
+DA 2025-05-29
+ER

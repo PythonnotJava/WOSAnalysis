@@ -1,0 +1,90 @@
+PT J
+AU Farmer, NA
+   Garrison, LP
+   Litz, JA
+   Ortega-Ortiz, JG
+   Rappucci, G
+   Richards, PM
+   Powell, JR
+   Bethea, DM
+   Jossart, JA
+   Randall, AL
+   Steen, ME
+   Matthews, TN
+   Morris, JM Jr
+AF Farmer, Nicholas A.
+   Garrison, Lance P.
+   Litz, Jenny A.
+   Ortega-Ortiz, Joel G.
+   Rappucci, Gina
+   Richards, Paul M.
+   Powell, Jessica R.
+   Bethea, Dana M.
+   Jossart, Jonathan A.
+   Randall, Alyssa L.
+   Steen, Mariana E.
+   Matthews, Tershara N.
+   Morris Jr, James A.
+TI Protected species considerations for ocean planning: A case study for
+   offshore wind energy development in the US Gulf of Mexico
+SO MARINE AND COASTAL FISHERIES
+LA English
+DT Article
+DE management; marine offshore; multispecies interactions; risk assessment;
+   risk perception and communication; threatened and endangered species
+ID SMALLTOOTH SAWFISH; PRISTIS-PECTINATA; MODELS; TOPSIS; MANAGEMENT;
+   IMPACTS; WHALES; RISK; AHP
+AB Objective: Ocean planning provides opportunities for managers to evaluate tradeoffs among environmental, social, economic, cultural, and management considerations in the development of place-based activities. Early integration of mobile protected species considerations into ocean planning reduces the likelihood of future resource conflict. Transparency and problem solving with potential conflicts in mind during the early planning stages can help to minimize contention and increase efficiency in permitting and may also minimize litigation challenges during project design and implementation. Starting with a large area, such as the Bureau of Ocean Energy Management's (BOEM) initial 12.1-million-ha call area in federal waters of the U.S. Gulf of Mexico, provided substantial geographic scope for identifying suitable areas for eventual offshore wind lease sales that also aim to minimize conflict across multiple resources and uses.
+   Methods: To support ocean planning for this large-scale activity, a generalized scoring system for protected species status and trends that facilitates relative comparison between species was developed. Spatial data for species listed under the U.S. Endangered Species Act or the Marine Mammal Protection Act were assembled. Species layers were scored based on species status and trend. The cumulative vulnerability for 23 species groups whose distributions overlap suitable areas proposed for eventual lease sales, termed wind energy areas (WEAs) by BOEM, was calculated.
+   Result: Integrating this combined protected species data layer into the broader Gulf of Mexico WEA ocean planning process helped to reduce potential protected species conflicts by 70%.
+   Conclusion: This generalized approach is directly applicable to other WEAs under consideration within the United States and is transferable to a variety of ocean spatial planning applications.
+C1 [Farmer, Nicholas A.] Natl Ocean & Atmospher Adm Fisheries, Southeast Reg Off, Protected Resources Div, Species Conservat Branch, St Petersburg, FL 33701 USA.
+   [Garrison, Lance P.; Litz, Jenny A.; Ortega-Ortiz, Joel G.; Rappucci, Gina; Richards, Paul M.] Natl Ocean & Atmospher Adm Fisheries, Southeast Fisheries Sci Ctr, Marine Mammal & Turtle Div, Miami, FL USA.
+   [Ortega-Ortiz, Joel G.; Rappucci, Gina] Univ Miami, Cooperat Inst Marine & Atmospher Studies, Rosenstiel Sch Marine & Atmospher Sci, Miami, FL USA.
+   [Powell, Jessica R.] Natl Ocean & Atmospher Adm Fisheries, Southeast Reg Off, Protected Resources Div, Marine Mammal Branch, St Petersburg, FL USA.
+   [Bethea, Dana M.] Natl Ocean & Atmospher Adm Fisheries, Southeast Reg Off, Protected Resources Div, Interagcy Cooperat Branch, St Petersburg, FL USA.
+   [Jossart, Jonathan A.; Randall, Alyssa L.] Natl Ocean Serv, CSS Inc, NOAA, Natl Ctr Coastal Ocean Sci, Beaufort, NC USA.
+   [Steen, Mariana E.] Bur Ocean Energy Management, Off Environm, New Orleans, LA USA.
+   [Matthews, Tershara N.] Bur Ocean Energy Management, Off Emerging Programs, New Orleans, LA USA.
+   [Morris Jr, James A.] Natl Ocean Serv, NOAA, Natl Ctr Coastal Ocean Sci, Beaufort, NC USA.
+C3 National Oceanic Atmospheric Admin (NOAA) - USA; National Oceanic
+   Atmospheric Admin (NOAA) - USA; University of Miami; National Oceanic
+   Atmospheric Admin (NOAA) - USA; National Oceanic Atmospheric Admin
+   (NOAA) - USA; National Oceanic Atmospheric Admin (NOAA) - USA; National
+   Ocean Service, NOAA; National Centers for Coastal Ocean Science (NOOCS);
+   National Oceanic Atmospheric Admin (NOAA) - USA; National Ocean Service,
+   NOAA; National Centers for Coastal Ocean Science (NOOCS)
+RP Farmer, NA (通讯作者)，Natl Ocean & Atmospher Adm Fisheries, Southeast Reg Off, Protected Resources Div, Species Conservat Branch, St Petersburg, FL 33701 USA.
+EM nick.farmer@noaa.gov
+RI Rappucci, Gina/IST-3040-2023
+FU Bureau of Ocean Energy Management [M17PG00013]; National Oceanic and
+   Atmospheric Administration [NA15OAR4320064]
+FX Bureau of Ocean Energy Management, Grant/Award Number: Interagency
+   Agreement M17PG00013; National Oceanic and Atmospheric Administration,
+   Grant/Award Number: cooperative agreement #NA15OAR4320064
+NR 67
+TC 5
+Z9 6
+U1 0
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1942-5120
+J9 MAR COAST FISH
+JI Mar. Coast. Fish.
+PD JUN
+PY 2023
+VL 15
+IS 3
+AR e10246
+DI 10.1002/mcf2.10246
+PG 19
+WC Fisheries; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Fisheries; Marine & Freshwater Biology
+GA L2OF4
+UT WOS:001021696700001
+OA Green Published, gold
+DA 2025-05-29
+ER

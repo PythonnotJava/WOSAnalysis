@@ -1,0 +1,56 @@
+PT J
+AU Baloch, SA
+   Abbas, M
+   Nazir, T
+   Hamed, YS
+AF Baloch, Sajawal Abbas
+   Abbas, Muhammad
+   Nazir, Tahir
+   Hamed, Y. S.
+TI Lump, periodic, multi-waves and interaction solutions to non-linear
+   Landau-Ginzburg-Higgs model
+SO OPTICAL AND QUANTUM ELECTRONICS
+LA English
+DT Article
+DE Landau-Ginzburg-Higgs model; Ansatz transformations; Lump soliton
+   solutions; Multi-waves; Lump one kink; Lump two kink
+ID PARTIAL-DIFFERENTIAL-EQUATIONS; EVOLUTION
+AB In this research, we use several ansatz transformations to study analytical solutions of different nonlinear waves (such as lump soliton, periodic waves, multi-waves, lump one kink, and lump two kink) for a well-known model, the Landau-Ginzburg-Higgs model. The Landau-Ginzburg-Higgs (LGH) model combines concepts from particle physics and condensed matter physics to describe phase transitions and symmetry-breaking processes. It integrates the particle physics concepts of the Higgs mechanism, the Landau theory of phase transitions, and the Ginzburg-Landau theory of superconductivity. A lump soliton is a confined wave phenomenon that travels through a medium without changing form or amplitude. These solitons are produced in a variety of nonlinear systems, including optical fibers and some kinds of fluid dynamics equations, where they are essential for transferring energy and information. Periodic waves are defined by consistent, recurring oscillation patterns in both space and time. These waves are essential to many technology applications and natural phenomena, such as electromagnetic radiation and ocean waves. A confined wave disturbance with a single sudden shift in amplitude is referred to as a soliton with one kink, or single-kink soliton. A soliton with two kinks is a solution for a solitary wave that has two localized areas where the wave profile bends or alters abruptly. The solutions are graphically displayed using contour, 3D, and 2D graphs.
+C1 [Baloch, Sajawal Abbas; Abbas, Muhammad; Nazir, Tahir] Univ Sargodha, Dept Math, Sargodha 40100, Pakistan.
+   [Hamed, Y. S.] Taif Univ, Coll Sci, Dept Math & Stat, POB 11099, Taif 21944, Saudi Arabia.
+C3 University of Sargodha; Taif University
+RP Abbas, M (通讯作者)，Univ Sargodha, Dept Math, Sargodha 40100, Pakistan.
+EM muhammad.abbas@uos.edu.pk
+RI Abbas, Muhammad/K-8190-2019; Hamed Hassanein, Yasser/AAD-7170-2022
+FU Taif University, Saudi Arabia [TU-DSPP-2024-47]
+FX The authors extend their appreciation to Taif University, Saudi Arabia,
+   for supporting this work through project number (TU-DSPP-2024-47). The
+   authors are also grateful to anonymous referees for their valuable
+   suggestions, which significantly improved this manuscript.
+NR 45
+TC 1
+Z9 1
+U1 2
+U2 6
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0306-8919
+EI 1572-817X
+J9 OPT QUANT ELECTRON
+JI Opt. Quantum Electron.
+PD JUL 23
+PY 2024
+VL 56
+IS 8
+AR 1345
+DI 10.1007/s11082-024-07215-8
+PG 15
+WC Engineering, Electrical & Electronic; Quantum Science & Technology;
+   Optics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics; Optics
+GA ZL2F3
+UT WOS:001275382400005
+DA 2025-05-29
+ER

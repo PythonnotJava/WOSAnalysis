@@ -1,0 +1,96 @@
+PT J
+AU Slavik, K
+   Lemmen, C
+   Zhang, WY
+   Kerimoglu, O
+   Klingbeil, K
+   Wirtz, KW
+AF Slavik, Kaela
+   Lemmen, Carsten
+   Zhang, Wenyan
+   Kerimoglu, Onur
+   Klingbeil, Knut
+   Wirtz, Kai W.
+TI The large-scale impact of offshore wind farm structures on pelagic
+   primary productivity in the southern North Sea
+SO HYDROBIOLOGIA
+LA English
+DT Article
+DE Offshore wind farm; Primary productivity; North Sea; MOSSCO; Modular
+   coupling; Biofouling
+ID MUSSEL MYTILUS-EDULIS; FEEDING BIVALVE MOLLUSKS; WADDEN SEA; ECOSYSTEM
+   ENGINEERS; ORGANIC CONTENT; MODEL; FOOD; CIRCULATION; TURBULENCE;
+   NITROGEN
+AB The increasing demand for renewable energy is projected to result in a 40-fold increase in offshore wind electricity in the European Union by 2030. Despite a great number of local impact studies for selected marine populations, the regional ecosystem impacts of offshore wind farm (OWF) structures are not yet well assessed nor understood. Our study investigates whether the accumulation of epifauna, dominated by the filter feeder Mytilus edulis (blue mussel), on turbine structures affects pelagic primary productivity and ecosystem functioning in the southern North Sea. We estimate the anthropogenically increased potential distribution based on the current projections of turbine locations and reported patterns of M. edulis settlement. This distribution is integrated through the Modular Coupling System for Shelves and Coasts to state-of-the-art hydrodynamic and ecosystem models. Our simulations reveal non-negligible potential changes in regional annual primary productivity of up to 8% within the OWF area, and induced maximal increases of the same magnitude in daily productivity also far from the wind farms. Our setup and modular coupling are effective tools for system scale studies of other environmental changes arising from large-scale offshore wind farming such as ocean physics and distributions of pelagic top predators.
+C1 [Slavik, Kaela; Lemmen, Carsten; Zhang, Wenyan; Kerimoglu, Onur; Wirtz, Kai W.] Helmholtz Zentrum Geesthacht Zentrum Mat & Kusten, Geesthacht, Germany.
+   [Slavik, Kaela] Univ Paris 06, Future Earth Paris Global Hub, Paris, France.
+   [Klingbeil, Knut] Leibniz Inst Ostseeforsch Warnemunde, Warnemunde, Germany.
+   [Klingbeil, Knut] Univ Hamburg, Hamburg, Germany.
+C3 Helmholtz Association; Helmholtz-Zentrum Hereon; Sorbonne Universite;
+   Leibniz Institut fur Ostseeforschung Warnemunde; University of Hamburg
+RP Lemmen, C (通讯作者)，Helmholtz Zentrum Geesthacht Zentrum Mat & Kusten, Geesthacht, Germany.
+EM carsten.lemmen@hzg.de
+RI Wirtz, Kai/GRY-5339-2022; Kerimoglu, Onur/E-4953-2013; Zhang,
+   Wenyan/X-6756-2018; Lemmen, Carsten/C-4490-2008
+OI Zhang, Wenyan/0000-0002-6239-8312; Klingbeil, Knut/0000-0002-6736-1260;
+   Kerimoglu, Onur/0000-0003-4289-4404; Lemmen, Carsten/0000-0003-3483-6036
+FU Marine, Coastal and Polar Systems (PACES I) of the Hermann von
+   Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V.; European
+   Commission Erasmus Mundus Masters Course in Environmental Sciences,
+   Policy and Management (MESPOM); "Modular System for Shelves and Coasts"
+   (MOSSCO) by Bundesministerium fur Bildung und Forschung [03F0667A,
+   03F0667B]; DFG priority programme 1704 "Flexibility matters: Interplay
+   between trait diversity and ecological dynamics using aquatic
+   communities as model system" (DynaTrait) [KE 1970/1-1]; DFG
+   Collaborative Research Center "Energy Transfers in Atmosphere and Ocean"
+   [TRR181]
+FX This research is funded by the Marine, Coastal and Polar Systems (PACES
+   I) of the Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren
+   e.V. Kaela Slavik is funded by the European Commission Erasmus Mundus
+   Masters Course in Environmental Sciences, Policy and Management
+   (MESPOM). Carsten Lemmen, Onur Kerimoglu and Knut Klingbeil received
+   support from the "Modular System for Shelves and Coasts" (MOSSCO) grant
+   provided by the Bundesministerium fur Bildung und Forschung under
+   agreements 03F0667A and 03F0667B; Onur Kerimoglu and Kai W. Wirtz are
+   also supported by the DFG priority programme 1704 "Flexibility matters:
+   Interplay between trait diversity and ecological dynamics using aquatic
+   communities as model system" (DynaTrait) under grant agreement KE
+   1970/1-1. Knut Klingbeil is furthermore supported by the DFG
+   Collaborative Research Center "Energy Transfers in Atmosphere and Ocean"
+   TRR181. We thank all co-developers of the model coupling framework
+   MOSSCO, foremost M. Hassan Nasermoaddeli and Richard Hofmeister. The
+   authors gratefully acknowledge the computing time granted by the John
+   von Neumann Institute for Computing (NIC) and provided on the
+   supercomputer JURECA at Forschungszentrum Julich. We are grateful to the
+   open source community that provided many of the tools used in this
+   study, including but not limited to the communities developing ESMF,
+   FABM, GETM and GOTM.
+NR 99
+TC 63
+Z9 64
+U1 7
+U2 59
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0018-8158
+EI 1573-5117
+J9 HYDROBIOLOGIA
+JI Hydrobiologia
+PD NOV
+PY 2019
+VL 845
+IS 1
+SI SI
+BP 35
+EP 53
+DI 10.1007/s10750-018-3653-5
+PG 19
+WC Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Marine & Freshwater Biology
+GA KF2UD
+UT WOS:000509102300003
+OA Green Submitted
+DA 2025-05-29
+ER

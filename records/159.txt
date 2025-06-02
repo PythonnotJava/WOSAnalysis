@@ -1,0 +1,59 @@
+PT J
+AU Zhang, HC
+   Xu, DL
+   Liu, CR
+   Wu, YS
+AF Zhang, Hai-Cheng
+   Xu, Dao-Lin
+   Liu, Chun-Rong
+   Wu, You-Sheng
+TI A Floating Platform with Embedded Wave Energy Harvesting Arrays in
+   Regular and Irregular Seas
+SO ENERGIES
+LA English
+DT Article
+DE wave energy; PTO; floating platform; wave farm; irregular waves
+ID SYSTEM; PERFORMANCE; BREAKWATERS
+AB This paper presents a study on a cost-effective engineering model that integrates an array of floating wave energy converters with a vast platform, a viable option for multi-functional performance in renewable energy capture and ocean space utilization. The wave energy converters are floating buoyance columns flexibly connected with the elastic platform. Hydrodynamic interactions among the columns are analyzed using an exact matrix transform method based on linear wave theory in the frequency domain. A parametric governing equation of compounded wave energy converter referred to as a wave farm is formulated by using Hamilton's principle which can be discretized using the Galerkin method. The effects of wave conditions and the parameters of hydraulic power take-off (PTO) on the wave energy absorption and dynamic characteristics of the energy harvesting system are investigated. Furthermore, the wave energy capture on irregular waves is also discussed. This research work aims at providing a theoretical guidance for wave energy harvesting system design.
+C1 [Zhang, Hai-Cheng; Xu, Dao-Lin] Hunan Univ, State Key Lab Adv Design & Mfg Vehicle Body, Changsha 410082, Hunan, Peoples R China.
+   [Liu, Chun-Rong] Xiamen Univ Technol, Sch Civil Engn & Architecture, Xiamen 316005, Peoples R China.
+   [Wu, You-Sheng] China Ship Sci Res Ctr, Wuxi 214082, Peoples R China.
+C3 Hunan University; Xiamen University of Technology; China Ship Scientific
+   Research Center
+RP Xu, DL (通讯作者)，Hunan Univ, State Key Lab Adv Design & Mfg Vehicle Body, Changsha 410082, Hunan, Peoples R China.
+EM zhanghc@hnu.edu.cn; dlxu@hnu.edu.cn; 2013110908@xmut.edu.cn;
+   wuys@cssrc.com.cn
+RI Zhang, Haicheng/JPA-1253-2023
+OI Zhang, Haicheng/0000-0002-5357-6332
+FU National Natural Science Foundation of China [11702088, 11472100]; 973
+   research grant [2013CB036104]; High-tech Ship Research Projects - MIIT
+FX This research work was supported by the National Natural Science
+   Foundation of China (11702088, 11472100), the 973 research grant
+   (2013CB036104) and the High-tech Ship Research Projects Sponsored by
+   MIIT.
+NR 36
+TC 15
+Z9 16
+U1 0
+U2 60
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1996-1073
+J9 ENERGIES
+JI Energies
+PD SEP
+PY 2017
+VL 10
+IS 9
+AR 1348
+DI 10.3390/en10091348
+PG 17
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA FH5RJ
+UT WOS:000411225200104
+OA gold, Green Submitted
+DA 2025-05-29
+ER

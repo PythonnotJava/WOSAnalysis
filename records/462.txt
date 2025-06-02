@@ -1,0 +1,66 @@
+PT J
+AU Qin, C
+   Du, J
+   Wang, JJ
+   Ren, Y
+AF Qin, Chuan
+   Du, Jun
+   Wang, Jingjing
+   Ren, Yong
+TI A Hierarchical Information Acquisition System for AUV Assisted Internet
+   of Underwater Things
+SO IEEE ACCESS
+LA English
+DT Article
+DE Clustering algorithms; Heuristic algorithms; Path planning; Oceans;
+   Energy management; Internet of Things; Internet of Underwater Things
+   (IoUT); Underwater Sensor Networks (UWSNs); autonomous underwater
+   vehicle (AUV); hierarchical information acquisition; clustering; AUV
+   path planning
+ID WIRELESS SENSOR NETWORKS; ROUTING PROTOCOL; DATA-COLLECTION; PREDICTION;
+   LOCALIZATION
+AB As an extension and novel category of the Internet of Things (IoT), the Internet of Underwater Things (IoUT) attracts growing interest in sensing and exploiting ocean. Underwater Sensor Networks (UWSNs) are the existing application to support the concept of IoUT but faced with many challenges in information acquisition as well. To tackle these issues, this paper proposes an autonomous underwater vehicle (AUV) assisted hierarchical information acquisition system composed of a marine stationary sensor layer and an AUV motion layer. Different from the most existing data-gathering schemes that ignored the energy management of underwater sensor nodes and the angle control in AUV operation, this work designs an energy-aware clustering protocol based on the improved K-Means algorithm (ECBIK) to achieve energy efficiency of sensor nodes and proposes a novel Ant Colony (ACO) algorithm integrating with Markov Reward Process (R-ACO) to optimize the distance and angle in AUV path planning. Specifically, in the sensor layer, we first calculate the accurate number of clusters according to the Elbow method, and then introduce a cluster head dynamic conversion mechanism by considering energy load and node survival rate. In the AUV motion layer, we establish a reliable AUV trajectory model to quantify the angle change during its operation. Meanwhile, we apply far-sighted feature of MRP to path optimization. Finally, simulation results validate the performance of our designed algorithms. Compared with the traditional clustering methods of K-Means and LEACH-L, the node survival rates of the proposed ECBIK are increased by 26% and 129.1% respectively. And in the aspect of path planning, the distance and angle under R-ACO are reduced by 4% and 18% respectively compared with ACO.
+C1 [Qin, Chuan; Du, Jun; Wang, Jingjing; Ren, Yong] Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China.
+   [Ren, Yong] Peng Cheng Lab, Shenzhen 518055, Peoples R China.
+C3 Tsinghua University; Peng Cheng Laboratory
+RP Ren, Y (通讯作者)，Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China.; Ren, Y (通讯作者)，Peng Cheng Lab, Shenzhen 518055, Peoples R China.
+EM reny@tsinghua.edu.cn
+RI Du, Jun/AAY-6649-2021; Wang, Jingjing/B-7476-2016
+OI Qin, Chuan/0000-0002-3527-6678; Wang, Jingjing/0000-0003-3170-8952; Qin,
+   Chuan/0000-0003-1897-7293
+FU National Natural Science Foundation of China [61971257, 62071268];
+   Verification Platform of Multi-tier Coverage Communication Network for
+   Oceans [LZC0020]; China Postdoctoral Science Foundation [2018M640130,
+   2019T120091, 2020T130357]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Project 61971257 and Project 62071268, in part
+   by the Verification Platform of Multi-tier Coverage Communication
+   Network for Oceans under Grant LZC0020, and in part by the China
+   Postdoctoral Science Foundation under Grant 2018M640130, Grant
+   2019T120091, and Grant 2020T130357.
+NR 47
+TC 24
+Z9 26
+U1 5
+U2 50
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 176089
+EP 176100
+DI 10.1109/ACCESS.2020.3026395
+PG 12
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA NW5RL
+UT WOS:000575069300001
+OA gold
+DA 2025-05-29
+ER

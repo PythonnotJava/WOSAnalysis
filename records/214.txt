@@ -1,0 +1,75 @@
+PT J
+AU Zhang, CL
+   Xu, JC
+   Shan, JJ
+   Liu, AD
+   Cui, MC
+   Liu, H
+   Guan, CW
+   Xie, SY
+AF Zhang, Chenglin
+   Xu, Jincheng
+   Shan, Jianjun
+   Liu, Andong
+   Cui, Mingchao
+   Liu, Huang
+   Guan, Chongwu
+   Xie, Shuangyi
+TI Preliminary Study on an Integrated System Composed of a Floating
+   Offshore Wind Turbine and an Octagonal Fishing Cage
+SO JOURNAL OF MARINE SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE fishing cage; floating offshore wind turbine; dynamics modeling; mooring
+   system; net system
+ID GEOMETRY; WAVES; NETS
+AB To maximize the utilization of ocean resources, shorten the return period of investment and directly supply energy to the fishing cage, this paper performs a preliminary study for a state-of-the-art concept integrating a floating offshore wind turbine with a fishing cage. An octagonal semisubmersible rigid fishing cage with a slack catenary mooring system is designed to match the NREL 5 MW offshore baseline wind turbine. Combined with the blade pitch controller, fully coupled aero-hydro-elastic-servo-mooring simulations are performed through FAST and AQWA to explore the dynamic performance of the integrated system. Free decay conditions, uniform wind with irregular and regular waves, and turbulent wind with irregular waves are tested. The results showed that the integrated system works normally at the operating conditions and exhibits different dynamic characteristics for various scenarios. Additionally, the study on the influence of mooring line length indicates that the increasing line length can significantly affect the cage surge motion and the maximum and mean values of the upwind line tension at fairlead. Specifically, the maximum surge motion with a 924-m-long line is 404.8% larger than that with an 880-m-long line. When the line length increases by 5%, the maximum and mean line tensions decrease by 45.7% and 47.7%, respectively, while when the line length increases by 10%, the maximum and mean line tension decrease by 52.9% and 54.2%, respectively. It should be noted that the main purpose of this work is to conduct a preliminary study on this integrated system, aiming to provide an idea for the conceptual design, modeling and simulation analysis of this integrated system.
+C1 [Zhang, Chenglin; Xu, Jincheng; Shan, Jianjun; Liu, Andong; Cui, Mingchao; Liu, Huang; Guan, Chongwu] Chinese Acad Fishery Sci, Fishery Machinery & Instrument Res Inst, Shanghai 200092, Peoples R China.
+   [Zhang, Chenglin] Shanghai Ocean Univ, Coll Engn Sci & Technol, Shanghai 201306, Peoples R China.
+   [Xie, Shuangyi] Chongqing Univ Technol, Coll Mech Engn, Chongqing 400054, Peoples R China.
+C3 Chinese Academy of Fishery Sciences; Fishery Machinery & Instrument
+   Research Institute, CAFS; Shanghai Ocean University; Chongqing
+   University of Technology
+RP Xie, SY (通讯作者)，Chongqing Univ Technol, Coll Mech Engn, Chongqing 400054, Peoples R China.
+EM xsy1986@cqut.edu.cn
+RI zhang, chenglin/JCE-9482-2023; liu, huang/HKO-0935-2023
+OI zhang, chenglin/0000-0002-5853-6524; liu, huang/0000-0002-8886-2339
+FU Key R&D program of Shandong Province demonstration project of deep sea
+   aquaculture technology [2021SFGC0701]; National Natural Science
+   Foundation of China [41976194]; Project of Science and Technology
+   Research Program of Chongqing Education Commission of China
+   [KJQN202101133]; Scientific Research Foundation of Chongqing University
+   of Technology [2020ZDZ023]
+FX This paper was funded by Key R&D program of Shandong Province
+   demonstration project of deep sea aquaculture technology (No.:
+   2021SFGC0701); National Natural Science Foundation of China (No.:
+   41976194), Project of Science and Technology Research Program of
+   Chongqing Education Commission of China (No.: KJQN202101133), and
+   Scientific Research Foundation of Chongqing University of Technology
+   (No.: 2020ZDZ023).
+NR 45
+TC 2
+Z9 2
+U1 1
+U2 23
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2077-1312
+J9 J MAR SCI ENG
+JI J. Mar. Sci. Eng.
+PD OCT
+PY 2022
+VL 10
+IS 10
+AR 1526
+DI 10.3390/jmse10101526
+PG 28
+WC Engineering, Marine; Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 5U5XY
+UT WOS:000876620700001
+OA gold
+DA 2025-05-29
+ER

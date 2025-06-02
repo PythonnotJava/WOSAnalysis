@@ -1,0 +1,73 @@
+PT J
+AU Wang, ZH
+   Hou, L
+   Yang, DS
+   Zhang, MQ
+   Liu, SL
+   Yu, ZY
+   Sun, JH
+   Mao, YP
+   Yao, MH
+   Yang, TZ
+AF Wang, Zhenghao
+   Hou, Lin
+   Yang, Dongsheng
+   Zhang, Mengqi
+   Liu, Shuanglong
+   Yu, Zhaoyuan
+   Sun, Jiahe
+   Mao, Yupeng
+   Yao, Minghui
+   Yang, Tianzhi
+TI A self-powered underwater glider using bidirectional swing-rotation
+   hybrid nanogenerator
+SO NANO ENERGY
+LA English
+DT Article
+DE Self-powered underwater glider; Wave energy harvesting; Triboelectric
+   nanogenerator; Hybrid nanogenerator
+ID ENERGY; SYSTEMS
+AB With the development of marine exploitation, ocean robots pose a great challenge to traditional battery power supply, scavenging green and sustainable energy from the ocean environment to improve duration time and operation range has become a feasible solution. Herein, a self-powered underwater glider using a bidirectional swing-rotation triboelectric-electromagnetic hybrid nanogenerator (BSR-HNG) has been fabricated to harvest energy from water waves. A mechanical rectification method using a novel gear escapement mechanism is introduced to rectify irregular low-frequency wave excitation into the stable high-frequency rotation, enabling the BSR-HNG to operate stably even at an excitation frequency of 0.1 Hz. Compared to traditional swing-rotation nanogenerators using one-way bearing, the BSR-HNG utilizes symmetrically arranged gear escapement mechanisms to convert bidirectional swing into unidirectional rotation. With the optimized design, the average output power generated in one cycle increases by 48%, and the peak power of the triboelectric nanogenerator (TENG) and electromagnetic nanogenerator (EMG) at 0.8 Hz reaches about 0.4 mW and 0.12 W, respectively. Furthermore, a commercial thermometer and a calculator are utilized to demonstrate the high performance of the BSRHNG in a simulated wave environment. The BSR-HNG is also integrated into the underwater glider as a power source, and a depth-sensor in the underwater glider is successfully powered by BSR-HNG, which provides a new solution to improve the endurance of marine robots.
+C1 [Wang, Zhenghao; Hou, Lin; Yang, Dongsheng; Liu, Shuanglong; Yu, Zhaoyuan; Sun, Jiahe; Yang, Tianzhi] Northeastern Univ, Sch Mech Engn & Automat, Shenyang 110819, Peoples R China.
+   [Zhang, Mengqi; Mao, Yupeng] Northeastern Univ, Phys Educ Dept, Shenyang 110819, Peoples R China.
+   [Yao, Minghui] Tiangong Univ, Sch Aerosp & Aeronaut, Tianjin 300387, Peoples R China.
+C3 Northeastern University - China; Northeastern University - China;
+   Tiangong University
+RP Yang, TZ (通讯作者)，Northeastern Univ, Sch Mech Engn & Automat, Shenyang 110819, Peoples R China.; Mao, YP (通讯作者)，Northeastern Univ, Phys Educ Dept, Shenyang 110819, Peoples R China.; Yao, MH (通讯作者)，Tiangong Univ, Sch Aerosp & Aeronaut, Tianjin 300387, Peoples R China.
+EM maoyupeng@pe.neu.edu.cn; merry_mingming@163.com;
+   yangtianzhi@me.neu.edu.cn
+RI Wang, Zhenghao/HGB-9731-2022; Mao, Yupeng/AAQ-3586-2021; Zhang,
+   Mengqi/IWU-9043-2023
+FU National Natural Science Foundation of China [12232014, 12072221]; Ten
+   Thousand Talents Program
+FX The authors gratefully acknowledge the support from the National Natural
+   Science Foundation of China [Grant No. 12232014, 12072221] and Ten
+   Thousand Talents Program.
+NR 59
+TC 6
+Z9 6
+U1 38
+U2 72
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD JUN 15
+PY 2024
+VL 125
+AR 109526
+DI 10.1016/j.nanoen.2024.109526
+EA MAR 2024
+PG 11
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA C4P4A
+UT WOS:001289193200001
+DA 2025-05-29
+ER

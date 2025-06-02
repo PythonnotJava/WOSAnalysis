@@ -1,0 +1,62 @@
+PT J
+AU Xue, DY
+   Wu, ZL
+   Wang, YH
+   Wang, SX
+AF Xue, Dong-Yang
+   Wu, Zhi-Liang
+   Wang, Yan-Hui
+   Wang, Shu-Xin
+TI Coordinate Control, Motion Optimization and Sea Experiment of a Fleet of
+   Petrel-II Gliders
+SO CHINESE JOURNAL OF MECHANICAL ENGINEERING
+LA English
+DT Article
+DE Underwater glider; Petrel-II; Coordinate control; Path planning;
+   Artificial potential fields (APFs); Energy consumption
+ID AUTONOMOUS UNDERWATER GLIDER; PROPULSION MECHANISM; COOPERATIVE CONTROL;
+   DRIVEN; ENERGY; VEHICLES; DESIGN
+AB The formation of hybrid underwater gliders has advantages in sustained ocean observation with high resolution and more adaptation for complicated ocean tasks. However, the current work mostly focused on the traditional gliders and AUVs. The research on control strategy and energy consumption minimization for the hybrid gliders is necessary both in methodology and experiment. A multi-layer coordinate control strategy is developed for the fleet of hybrid underwater gliders to control the gliders' motion and formation geometry with optimized energy consumption. The inner layer integrated in the onboard controller and the outer layer integrated in the ground control center or the deck controller are designed. A coordinate control model is proposed based on multibody theory through adoption of artificial potential fields. Considering the existence of ocean flow, a hybrid motion energy consumption model is constructed and an optimization method is designed to obtain the heading angle, net buoyancy, gliding angle and the rotate speed of screw propeller to minimize the motion energy with consideration of the ocean flow. The feasibility of the coordinate control system and motion optimization method has been verified both by simulation and sea trials. Simulation results show the regularity of energy consumption with the control variables. The fleet of three Petrel-II gliders developed by Tianjin University is deployed in the South China Sea. The trajectory error of each glider is less than 2.5 km, the formation shape error between each glider is less than 2 km, and the difference between actual energy consumption and the simulated energy consumption is less than 24% actual energy. The results of simulation and the sea trial prove the feasibility of the proposed coordinate control strategy and energy optimization method. In conclusion, a coordinate control system and a motion optimization method is studied, which can be used for reference in theoretical research and practical fleet operation for both the traditional gliders and hybrid gliders.
+C1 [Xue, Dong-Yang; Wu, Zhi-Liang; Wang, Yan-Hui; Wang, Shu-Xin] Tianjin Univ, Key Lab Mech Theory & Equipment Design, Minist Educ, Tianjin 300072, Peoples R China.
+   [Xue, Dong-Yang; Wu, Zhi-Liang; Wang, Yan-Hui; Wang, Shu-Xin] Tianjin Univ, Sch Mech Engn, Tianjin 300072, Peoples R China.
+   [Wang, Yan-Hui; Wang, Shu-Xin] Qingdao Natl Lab Marine Sci & Technol, Joint Lab Ocean Observing & Detecting, Qingdao 266237, Peoples R China.
+C3 Tianjin University; Ministry of Education - China; Tianjin University;
+   Laoshan Laboratory
+RP Wang, YH (通讯作者)，Tianjin Univ, Key Lab Mech Theory & Equipment Design, Minist Educ, Tianjin 300072, Peoples R China.; Wang, YH (通讯作者)，Tianjin Univ, Sch Mech Engn, Tianjin 300072, Peoples R China.; Wang, YH (通讯作者)，Qingdao Natl Lab Marine Sci & Technol, Joint Lab Ocean Observing & Detecting, Qingdao 266237, Peoples R China.
+EM yanhuiwang@tju.edu.cn
+RI wang, yanhui/HPG-3348-2023
+FU National Key RD Plan of China [2016YFC0301100]; National Natural Science
+   Foundation of China [51475319, 51575736, 41527901]; Aoshan Talents
+   Program of Qingdao National Laboratory for Marine Science and
+   Technology, China
+FX Supported by National Key R&D Plan of China (Grant No. 2016YFC0301100),
+   National Natural Science Foundation of China (Grant Nos. 51475319,
+   51575736, 41527901), and Aoshan Talents Program of Qingdao National
+   Laboratory for Marine Science and Technology, China.
+NR 40
+TC 34
+Z9 34
+U1 6
+U2 225
+PU EDITORIAL OFFICE CHINESE JOURNAL MECHANICAL ENGINEERING
+PI BEIJING
+PA 22 BAIWANZHUANG DAJIE, BEIJING, 100037, PEOPLES R CHINA
+SN 1000-9345
+EI 2192-8258
+J9 CHIN J MECH ENG-EN
+JI Chin. J. Mech. Eng.
+PD DEC
+PY 2018
+VL 31
+IS 1
+AR 17
+DI 10.1186/s10033-018-0210-0
+PG 15
+WC Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA GA4WV
+UT WOS:000428335000017
+OA gold
+DA 2025-05-29
+ER

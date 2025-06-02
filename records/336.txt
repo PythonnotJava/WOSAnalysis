@@ -1,0 +1,74 @@
+PT J
+AU Shrestha, AK
+   Kato, S
+   Wong, T
+   Rutan, DA
+   Miller, WF
+   Rose, FG
+   Smith, GL
+   Bedka, KM
+   Minnis, P
+   Fernandez, JR
+AF Shrestha, Alok K.
+   Kato, Seiji
+   Wong, Takmeng
+   Rutan, David A.
+   Miller, Walter F.
+   Rose, Fred G.
+   Smith, G. Louis
+   Bedka, Kristopher M.
+   Minnis, Patrick
+   Fernandez, Jose R.
+TI Unfiltering Earth Radiation Budget Experiment (ERBE) Scanner Radiances
+   Using the CERES Algorithm and Its Evaluation with Nonscanner
+   Observations
+SO JOURNAL OF ATMOSPHERIC AND OCEANIC TECHNOLOGY
+LA English
+DT Article
+DE Satellite observations; Climate records; Filtering techniques; Remote
+   sensing
+ID ENERGY SYSTEM INSTRUMENT; ANGULAR-DISTRIBUTION MODELS; DECADAL
+   VARIABILITY; FLUX ESTIMATION; MODIS DATA; CLOUDS; SATELLITE;
+   IDENTIFICATION; VALIDATION; MISSION
+AB The NOAA-9 Earth Radiation Budget Experiment (ERBE) scanner measured broadband shortwave, longwave, and total radiances from February 1985 through January 1987. These scanner radiances are reprocessed using the more recent Clouds and the Earth's Radiant Energy System (CERES) unfiltering algorithm. The scene information, including cloud properties, required for reprocessing is derived using Advanced Very High Resolution Radiometer (AVHRR) data on board NOAA-9, while no imager data were used in the original ERBE unfiltering. The reprocessing increases the NOAA-9 ERBE scanner unfiltered longwave radiances by 1.4%-2.0% during daytime and 0.2%-0.3% during nighttime relative to those derived from the ERBE unfiltering algorithm. Similarly, the scanner unfiltered shortwave radiances increase by similar to 1% for clear ocean and land and decrease for all-sky ocean, land, and snow/ice by similar to 1%. The resulting NOAA-9 ERBE scanner unfiltered radiances are then compared with NOAA-9 nonscanner irradiances by integrating the ERBE scanner radiance over the nonscanner field of view. The comparison indicates that the integrated scanner radiances are larger by 0.9% for shortwave and 0.7% smaller for longwave. A sensitivity study shows that the one-standard-deviation uncertainties in the agreement are +/- 2.5%, +/- 1.2%, and +/- 1.8% for the shortwave, nighttime longwave, and daytime longwave irradiances, respectively. The NOAA-9 and ERBS nonscanner irradiances are also compared using 2 years of data. The comparison indicates that the NOAA-9 nonscanner shortwave, nighttime longwave, and daytime longwave irradiances are 0.3% larger, 0.6% smaller, and 0.4% larger, respectively. The longer observational record provided by the ERBS nonscanner plays a critical role in tying the CERES-like NOAA-9 ERBE scanner dataset from the mid-1980s to the present-day CERES scanner data record.
+C1 [Shrestha, Alok K.; Rutan, David A.; Miller, Walter F.; Rose, Fred G.; Smith, G. Louis; Bedka, Kristopher M.; Fernandez, Jose R.] Sci Syst & Applicat Inc, Hampton, VA 23666 USA.
+   [Shrestha, Alok K.; Kato, Seiji; Wong, Takmeng; Rutan, David A.; Miller, Walter F.; Rose, Fred G.; Smith, G. Louis; Bedka, Kristopher M.; Minnis, Patrick; Fernandez, Jose R.] NASA, Langley Res Ctr, Hampton, VA 23665 USA.
+C3 Science Systems & Applications Inc; National Aeronautics & Space
+   Administration (NASA); NASA Langley Research Center
+RP Shrestha, AK (通讯作者)，Sci Syst & Applicat Inc, 1 Enterprise Pkwy,Suite 200, Hampton, VA 23666 USA.
+EM alok.k.shrestha@nasa.gov
+RI Wong, Takmeng/AHD-3210-2022; kato, seiji/MIT-9404-2025; Minnis,
+   Patrick/G-1902-2010
+OI Rose, Fred G/0000-0003-0769-0772; Minnis, Patrick/0000-0002-4733-6148
+FU NOAA Climate Data Record program
+FX We thank Drs. Bruce Wielicki, Norman G. Loeb, and David Johnson, and Mr.
+   David Doelling for useful discussions. This work was supported by the
+   NOAA Climate Data Record program (http://www.ncdc.noaa.gov/cdr).
+NR 35
+TC 3
+Z9 4
+U1 0
+U2 12
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0739-0572
+EI 1520-0426
+J9 J ATMOS OCEAN TECH
+JI J. Atmos. Ocean. Technol.
+PD APR
+PY 2014
+VL 31
+IS 4
+BP 843
+EP 859
+DI 10.1175/JTECH-D-13-00072.1
+PG 17
+WC Engineering, Ocean; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Meteorology & Atmospheric Sciences
+GA AE6XX
+UT WOS:000334142400006
+OA hybrid
+DA 2025-05-29
+ER

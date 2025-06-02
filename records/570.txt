@@ -1,0 +1,54 @@
+PT J
+AU Adeel, M
+   Razzak, A
+   Riaz, SMF
+   Iqbal, MJ
+AF Adeel, Muhammad
+   Razzak, Atteeq
+   Riaz, Syed Muhammad Fahad
+   Iqbal, Muhammad Jawed
+TI Impact of sea surface temperature in the Arabian Sea on the variability
+   of Summer Monsoon Rainfall over Pakistan Region
+SO DYNAMICS OF ATMOSPHERES AND OCEANS
+LA English
+DT Article
+DE Pakistan Monsoon Rainfall; Sea surface temperature; Moisture transport;
+   SVDA
+ID SINGULAR-VALUE DECOMPOSITION; WINTER PRECIPITATION; MOISTURE TRANSPORT;
+   SOUTH; PATTERNS; ONSET; INDIA
+AB The seas and oceans are essential in preserving energy in the Earth, Ocean, and atmosphere system. Assessing past trends and expected sea surface temperature (SST) shifts is critical for future climate scenarios within this framework. Previous studies have emphasized the importance of SST in the emergence and intensification of heavy rainfall events in the South Asian basin and the development of heat waves in the coastal regions of South Asia. This study has focused to investigate the relationship between SST of the Arabian Sea and mean rainfall in South Asia using Singular Value Decomposition Analysis (SVDA) for the July, August, and September (JAS) season, as most of the region's rainfall is in this season. The first mode accounts for 69 % of the covariance between Arabian Sea SST and regional JAS rainfall, with three dominant SVDA modes explaining 96 % of the total squared covariance. The degree to which the connected fields are correlated has been investigated using Root Mean Squared Covariance. By heterogeneous correlation maps, it is concluded how significant is the impact of one field (SST) on the other (rainfall), which validates our hypothesis that the SST of the Arabian Sea affects variation in precipitation. The empirical results from the SVDA are consistent with those of the composite diagrams. Dry and wet years have been defined and analyzed to examine the impact of SST on regional JAS rainfall further. Vertically integrated moisture transport reveals a significant difference in moisture transport over the Arabian Sea between wet and dry years during the JAS season. Water vapor transport is much stronger during wet years compared to dry years.
+C1 [Adeel, Muhammad; Iqbal, Muhammad Jawed] Univ Karachi, Inst Space Sci & Technol, Karachi, Pakistan.
+   [Razzak, Atteeq] Univ Karachi, Dept Math, Karachi, Pakistan.
+   [Riaz, Syed Muhammad Fahad] Natl Univ Comp & Emerging Sci FAST, Dept Sci & Humanities, Karachi, Pakistan.
+C3 University of Karachi; University of Karachi
+RP Riaz, SMF (通讯作者)，Natl Univ Comp & Emerging Sci FAST, ST-4,Sect 17-D,Natl Highway, Karachi 75030, Pakistan.
+EM fahad.riaz@nu.edu.pk
+RI Atteeq, Razzak/HTS-9592-2023
+NR 50
+TC 1
+Z9 1
+U1 0
+U2 4
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0377-0265
+EI 1872-6879
+J9 DYNAM ATMOS OCEANS
+JI Dyn. Atmos. Oceans
+PD SEP
+PY 2024
+VL 107
+AR 101482
+DI 10.1016/j.dynatmoce.2024.101482
+EA JUL 2024
+PG 16
+WC Geochemistry & Geophysics; Meteorology & Atmospheric Sciences;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics; Meteorology & Atmospheric Sciences;
+   Oceanography
+GA ZL2R1
+UT WOS:001275394200001
+DA 2025-05-29
+ER

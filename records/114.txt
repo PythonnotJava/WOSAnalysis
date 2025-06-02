@@ -1,0 +1,66 @@
+PT J
+AU Tang, TY
+   Li, YF
+   Huang, MJ
+   Mei, MQ
+   Wang, ZZ
+   Zha, FS
+   Sun, LN
+   Liu, HC
+AF Tang, Tianyi
+   Li, Yunfei
+   Huang, Manjuan
+   Mei, Mingqi
+   Wang, Zizhao
+   Zha, Fusheng
+   Sun, Lining
+   Liu, Huicong
+TI Ultra-low-frequency and high-power Mag-Boost mechanism for ocean wave
+   energy harvesting
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+LA English
+DT Article
+DE Ocean wave energy harvesting; Mag-Boost mechanism; High power density;
+   Frequency up-conversion; Self-powered sensing
+ID TRIBOELECTRIC NANOGENERATORS; PERFORMANCE; SYSTEMS
+AB Ocean wave energy is a highly promising renewable energy source that plays a significant role in advancing sustainable development. However, the ultra-low-frequency and random characteristics of ocean waves pose significant challenges to efficient and high-power energy harvesting. This paper introduces an innovative MagBoost mechanism that ingeniously leverages sudden magnetic-torque variation in orthogonal magnetic fields to convert ultra-low excitation below 1 Hz into high-frequency oscillations exceeding 50 Hz in the power-magnet without direct contact. The energy conversion efficiency can be as high as 89.3 %. By integrating four Mag-Boost units into a circular array, this study presents a high-power wave energy harvester with ultra-low-frequency response capabilities. At a frequency of 1 Hz and an inclination angle of 25 degrees, the harvester achieved a high output performance with a power of 1.79 W and a power density of 1.88 kW/m3, which is an order of magnitude higher than previously reported results. During offshore tests in the Yellow Sea, the wave energy harvester reached a peak open-circuit voltage of 10 V, providing a stable power supply for wireless temperature and humidity sensors. Furthermore, the Mag-Boost mechanism also demonstrates considerable potential for harvesting other forms of low-frequency environmental energy, including wind, vibration, and human kinetic energy.
+C1 [Tang, Tianyi; Li, Yunfei; Huang, Manjuan; Mei, Mingqi; Wang, Zizhao; Sun, Lining; Liu, Huicong] Soochow Univ, Sch Mech & Elect Engn, Jiangsu Prov Key Lab Adv Robot, Suzhou 215123, Peoples R China.
+   [Tang, Tianyi; Li, Yunfei; Zha, Fusheng; Sun, Lining] Harbin Inst Technol, State Key Lab Robot & Syst, Harbin 150001, Peoples R China.
+C3 Soochow University - China; Harbin Institute of Technology
+RP Sun, LN; Liu, HC (通讯作者)，Soochow Univ, Sch Mech & Elect Engn, Jiangsu Prov Key Lab Adv Robot, Suzhou 215123, Peoples R China.
+EM lnsun@hit.edu.cn; hcliu078@suda.edu.cn
+RI Liu, Huicong/V-2238-2019
+FU Natural Science Foundation of Jiangsu Province for Distinguished Young
+   Scholars [BK20220056]; National Natural Science Foundation of China
+   [U22B2089]
+FX Research was supported by the Natural Science Foundation of Jiangsu
+   Province for Distinguished Young Scholars (Grant No. BK20220056) and the
+   National Natural Science Foundation of China (Grant No. U22B2089) .
+   Patents have been filed based on the research results presented in this
+   manuscript.
+NR 59
+TC 0
+Z9 0
+U1 20
+U2 20
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1364-0321
+EI 1879-0690
+J9 RENEW SUST ENERG REV
+JI Renew. Sust. Energ. Rev.
+PD MAY
+PY 2025
+VL 213
+AR 115463
+DI 10.1016/j.rser.2025.115463
+EA FEB 2025
+PG 11
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA X9E7V
+UT WOS:001428296400001
+DA 2025-05-29
+ER

@@ -1,0 +1,141 @@
+PT J
+AU Olsen, E
+   Kaplan, IC
+   Ainsworth, C
+   Fay, G
+   Gaichas, S
+   Gamble, R
+   Girardin, R
+   Eide, CH
+   Ihde, TF
+   Morzaria-Luna, HN
+   Johnson, KF
+   Savina-Rolland, M
+   Townsend, H
+   Weijerman, M
+   Fulton, EA
+   Link, JS
+AF Olsen, Erik
+   Kaplan, Isaac C.
+   Ainsworth, Cameron
+   Fay, Gavin
+   Gaichas, Sarah
+   Gamble, Robert
+   Girardin, Raphael
+   Eide, Cecilie H.
+   Ihde, Thomas F.
+   Morzaria-Luna, Hem Nalini
+   Johnson, Kelli F.
+   Savina-Rolland, Marie
+   Townsend, Howard
+   Weijerman, Mariska
+   Fulton, Elizabeth A.
+   Link, Jason S.
+TI Ocean Futures Under Ocean Acidification, Marine Protection, and Changing
+   Fishing Pressures Explored Using a Worldwide Suite of Ecosystem Models
+SO FRONTIERS IN MARINE SCIENCE
+LA English
+DT Article
+DE ecosystem-based management; fisheries management; ocean acidification;
+   marine protected areas; Atlantis ecosystem model
+ID AGGREGATE SURPLUS PRODUCTION; FOOD-WEB; ECOLOGICAL INDICATORS;
+   CLIMATE-CHANGE; FISHERIES; MANAGEMENT; IMPACTS; SYSTEM; AREAS;
+   CALIFORNIA
+AB Ecosystem-based management (EBM) of the ocean considers all impacts on and uses of marine and coastal systems. In recent years, there has been a heightened interest in EBM tools that allow testing of alternative management options and help identify tradeoffs among human uses. End-to-end ecosystem modeling frameworks that consider a wide range of management options are a means to provide integrated solutions to the complex ocean management problems encountered in EBM. Here, we leverage the global advances in ecosystem modeling to explore common opportunities and challenges for ecosystem-based management, including changes in ocean acidification, spatial management, and fishing pressure across eight Atlantis (atlantis.cmar.csiro.au ) end-toend ecosystem models. These models represent marine ecosystems from the tropics to the arctic, varying in size, ecology, and management regimes, using a three-dimensional, spatially-explicit structure parametrized for each system. Results suggest stronger impacts from ocean acidification and marine protected areas than from altering fishing pressure, both in terms of guild-level (i.e., aggregations of similar species or groups) biomass and in terms of indicators of ecological and fishery structure. Effects of ocean acidification were typically negative (reducing biomass), while marine protected areas led to both "winners" and "losers" at the level of particular species (or functional groups). Changing fishing pressure (doubling or halving) had smaller effects on the species guilds or ecosystem indicators than either ocean acidification or marine protected areas. Compensatory effects within guilds led to weaker average effects at the guild level than the species or group level. The impacts and tradeoffs implied by these future scenarios are highly relevant as ocean governance shifts focus from single-sector objectives (e.g., sustainable levels of individual fished stocks) to taking into account competing industrial sectors' objectives (e.g., simultaneous spatial management of energy, shipping, and fishing) while at the same time grappling with compounded impacts of global climate change (e.g., ocean acidification and warming).
+C1 [Olsen, Erik; Eide, Cecilie H.] Inst Marine Res, Bergen, Norway.
+   [Kaplan, Isaac C.] NOAA, Conservat Biol Div, Northwest Fisheries Sci Ctr, Natl Marine Fisheries Serv, Seattle, WA USA.
+   [Ainsworth, Cameron] Univ S Florida, Coll Marine Sci, St Petersburg, FL USA.
+   [Fay, Gavin] Univ Massachusetts Dartmouth, Sch Marine Sci & Technol, Dept Fisheries Oceanog, New Bedford, MA USA.
+   [Gaichas, Sarah; Gamble, Robert] NOAA, NMFS, Northeast Fisheries Sci Ctr, Woods Hole, MA USA.
+   [Girardin, Raphael] NOAA, Long Live Kings, Northwest Fisheries Sci Ctr, Natl Manne Fisheries Serv, Seattle, WA USA.
+   [Ihde, Thomas F.] Morgan State Univ, PEARL, St Leonard, MD USA.
+   [Morzaria-Luna, Hem Nalini] CEDO Intercultural, Tucson, AZ USA.
+   [Morzaria-Luna, Hem Nalini] CEDO Intercultural, Puerto Penasco, Mexico.
+   [Morzaria-Luna, Hem Nalini] NOAA, Northwest Resource Anal & Monitoring Div, Northwest Fisheries Sci Ctr, Natl Marine Fisheries Serv, Seattle, WA USA.
+   [Johnson, Kelli F.] NOAA, Fishery Resource Anal & Monitoring Div, Northwest Fisheries Sci Ctr, Natl Marine Fisheries Serv, Seattle, WA USA.
+   [Savina-Rolland, Marie] French Res Inst Exploitat Sea, Brest, France.
+   [Townsend, Howard] Natl Marine Fisheries Serv, Cooperat Oxford Lab, Off Sci & Technol, Oxford, MD USA.
+   [Weijerman, Mariska] NOAA, Ecosyst Sci Div, Pacific Isl Fisheries Sci Ctr, Natl Marine Fisheries Serv, Honolulu, HI USA.
+   [Fulton, Elizabeth A.] CSIRO Oceans & Atmosphere, Hobart, Tas, Australia.
+   [Fulton, Elizabeth A.] Univ Tasmania, Ctr Marine Socioecol, Hobart, Tas, Australia.
+   [Link, Jason S.] NOAA, Natl Marine Fisheries Serv, Woods Hole, MA 02543 USA.
+C3 Institute of Marine Research - Norway; National Oceanic Atmospheric
+   Admin (NOAA) - USA; State University System of Florida; University of
+   South Florida; University of Massachusetts System; University
+   Massachusetts Dartmouth; National Oceanic Atmospheric Admin (NOAA) -
+   USA; National Oceanic Atmospheric Admin (NOAA) - USA; Morgan State
+   University; National Oceanic Atmospheric Admin (NOAA) - USA; National
+   Oceanic Atmospheric Admin (NOAA) - USA; Ifremer; National Oceanic
+   Atmospheric Admin (NOAA) - USA; National Oceanic Atmospheric Admin
+   (NOAA) - USA; National Aeronautics & Space Administration (NASA);
+   Commonwealth Scientific & Industrial Research Organisation (CSIRO);
+   CSIRO Oceans & Atmosphere; University of Tasmania; National Oceanic
+   Atmospheric Admin (NOAA) - USA
+RP Olsen, E (通讯作者)，Inst Marine Res, Bergen, Norway.
+EM eriko@hi.no
+RI Fulton, Beth/A-2871-2008; Olsen, Erik/ISS-3178-2023; Ihde,
+   Tom/KBC-0299-2024; Ainsworth, Cameron/E-8507-2011; Link,
+   Jason/HOF-3606-2023
+OI Girardin, Raphael/0000-0001-5244-0225; Hansen,
+   Cecilie/0000-0003-0291-2428; Ihde, Thomas/0000-0002-8150-3595;
+   Savina-Rolland, Marie/0000-0001-9762-3295; Fay,
+   Gavin/0000-0003-0425-9952; Gaichas, Sarah/0000-0002-5788-3073; Link,
+   Jason/0000-0003-2740-7161
+FU CSIRO (Australia); NOAA Fisheries (US); IMR (Norway); Norwegian Research
+   Council; Norwegian Research Fund project PRIME TRADEOFFS [1277]; David
+   and Lucile Packard Foundation; Microsoft Azure Research Award;
+   Washington Sea Grant; University of Washington [NA15OAR4170181];
+   Cooperative Institute for the North Atlantic Region, Woods Hole
+   Oceanographic Institution [NA14OAR4320158]; NOAA Ocean Acidification
+   Program; National Centers for Coastal Ocean Science; NOAA Coral Reef
+   Conservation Program
+FX This publication was an outcome of the first International Atlantis
+   Ecosystem Modeling Summit (http://atlantis.cmar.csiro.au/;
+   http://www/en/atlantis/Atlantis-Summit.html) which took place in
+   Honolulu, Hawaii on December 7-11, 2015 and was convened and funded by
+   CSIRO (Australia), NOAA Fisheries (US), and IMR (Norway) and the
+   Norwegian Research Council. EO and CE received funding from the
+   Norwegian Research Fund project PRIME TRADEOFFS (Cofasp ID 1277). HML
+   was funded through the grant "Implementing EcosystemBased Fisheries
+   Management: Two Case Studies in the Northern Gulf of California" from
+   The David and Lucile Packard Foundation to CEDO Intercultural, and a
+   Microsoft Azure Research Award "Exploring ecosystem-level effects of
+   fisheries, management, and climate change in marine systems" provided
+   cloud computing resources. KJ was funded in part by a grant from
+   Washington Sea Grant, University of Washington, pursuant to National
+   Oceanic and Atmospheric Administration Award No. NA15OAR4170181. GF was
+   funded in part by a grant from the Cooperative Institute for the North
+   Atlantic Region, Woods Hole Oceanographic Institution, pursuant to
+   National Oceanic and Atmospheric Administration Award No.
+   NA14OAR4320158. IK and California Current model development benefited
+   greatly from a grant from the NOAA Ocean Acidification Program and
+   National Centers for Coastal Ocean Science. MW and the Guam model
+   development was funded by the NOAA Coral Reef Conservation Program. The
+   views expressed herein are those of the author(s) and do not necessarily
+   reflect the views of NOAA or any of its sub-agencies. We thank Dr.
+   Kristin Marshall for comments on a draft of this manuscript.
+NR 134
+TC 47
+Z9 48
+U1 4
+U2 51
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-7745
+J9 FRONT MAR SCI
+JI Front. Mar. Sci.
+PD MAR 1
+PY 2018
+VL 5
+AR 64
+DI 10.3389/fmars.2018.00064
+PG 23
+WC Environmental Sciences; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA HJ1OJ
+UT WOS:000456932700001
+OA Green Published, Green Submitted, gold
+DA 2025-05-29
+ER

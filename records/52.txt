@@ -1,0 +1,62 @@
+PT J
+AU Assareh, E
+   Assareh, M
+   Alirahmi, SM
+   Jalilinasrabady, S
+   Dejdar, A
+   Izadi, M
+AF Assareh, Ehsanolah
+   Assareh, Mohammad
+   Alirahmi, Seyed Mojtaba
+   Jalilinasrabady, Saeid
+   Dejdar, Ali
+   Izadi, Mohsen
+TI An extensive thermo-economic evaluation and optimization of an
+   integrated system empowered by solar-wind-ocean energy converter for
+   electricity generation-Case study: Bandar Abas, Iran
+SO THERMAL SCIENCE AND ENGINEERING PROGRESS
+LA English
+DT Article
+DE Ocean thermal energy conversion; OTEC; Solar energy; Wind energy;
+   Integrated system; NSGA II; Optimization; Exergo-economic analysis;
+   Sensitivity analysis
+ID HYDROGEN-PRODUCTION; POWER-GENERATION; CONVERSION; EXERGY; DESIGN;
+   CYCLE; AMMONIA
+AB In parallel with efforts to shift human societies' reliance from fossil fuel to renewable resources, in this paper, three green-based energy generation configurations were proposed and examined thermoeconomically. Afterwards, the one with the highest performance was selected for further investigation. The chosen system was empowered by an ocean thermal energy convertor (OTEC), a wind turbine, and a solar flat plate panel. The system was modeled by Engineering Equation Solver (EES) software to conduct sensitivity analysis by assessing the impact of changes in objective parameters on the net power output, thermoelectric generator (TEG) power output, exergy efficiency, and cost ratio. In the following steps, EES was coupled with MATLAB through Dynamic Data Exchange (DDE), and a non-dominated sorting genetic algorithm (NSGA-II) was employed for optimizing design parameters including solar panels' area, organic Rankine cycle (ORC) turbine inlet temperature, condenser outlet temperature, ORC pump and turbine efficiency, TEG figure of merit, and evaporator pinch point to reach the highest possible exergy efficiency and the least amount for cost ratio. The system performed with 13.88% exergy efficiency. The exergy destruction analysis showed wind turbine was the most exergy destructor in the system. The configuration is able to generate 448 kW power at its optimal point. Eventually, a case study for Bandar Abbas city, a coastal town in the south of Iran, is carried out to investigate the system's performance concerning the region's potential throughout a year. The results indicate that the system can potentially supply 38 Iranian households with electricity all year-round.
+C1 [Assareh, Ehsanolah; Alirahmi, Seyed Mojtaba; Dejdar, Ali] Islamic Azad Univ, Dezful Branch, Dept Mech Engn, Dezful, Iran.
+   [Assareh, Mohammad] Jundi Shapur Univ Technol, Mech Engn Dept, Dezful, Iran.
+   [Jalilinasrabady, Saeid] Kyushu Univ, Dept Earth Resources Engn, 418 West Bldg 2, Fukuoka, Japan.
+   [Izadi, Mohsen] Lorestan Univ, Fac Engn, Dept Mech Engn, Khorramabad, Iran.
+C3 Islamic Azad University; Kyushu University; Lorestan University
+RP Assareh, E (通讯作者)，Islamic Azad Univ, Dezful Branch, Dept Mech Engn, Dezful, Iran.
+EM assareh@iaud.ac.ir
+RI Assareh, Ehsanolah/AAT-6892-2021; Alirahmi, Seyed/AAQ-2088-2020; Izadi,
+   Mohsen/D-3783-2018
+OI Jalilinasrabady, Saeid/0000-0002-9483-9549; Assareh,
+   Mohammad/0000-0003-1536-1282; dezhdar, ali/0000-0001-6919-135X;
+   Alirahmi, S.Mojtaba/0000-0002-5447-8056
+NR 46
+TC 39
+Z9 39
+U1 3
+U2 22
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2451-9049
+J9 THERM SCI ENG PROG
+JI Therm. Sci. Eng. Prog.
+PD OCT 1
+PY 2021
+VL 25
+AR 100965
+DI 10.1016/j.tsep.2021.100965
+EA JUN 2021
+PG 16
+WC Thermodynamics; Energy & Fuels; Engineering, Mechanical; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels; Engineering; Mechanics
+GA WC6LE
+UT WOS:000704366900005
+DA 2025-05-29
+ER

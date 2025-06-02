@@ -1,0 +1,60 @@
+PT J
+AU Vachon, D
+   Sponseller, RA
+   Karlsson, J
+AF Vachon, Dominic
+   Sponseller, Ryan A.
+   Karlsson, Jan
+TI Integrating carbon emission, accumulation and transport in inland waters
+   to understand their role in the global carbon cycle
+SO GLOBAL CHANGE BIOLOGY
+LA English
+DT Article
+DE carbon cycle; conceptual framework; coupled fluxes; global change;
+   inland waters; terrestrial carbon fate
+ID DISSOLVED ORGANIC-MATTER; CO2 EMISSIONS; LAKE; ECOSYSTEMS; STREAMS;
+   FLUXES; CALCIFICATION; STORAGE; BURIAL; ENERGY
+AB Inland waters receive a significant quantity of carbon (C) from land. The fate of this C during transit, whether it is emitted to the atmosphere, accumulated in sediments or transported to the ocean, can considerably reshape the landscape C balance. However, these different fates of terrestrial C are not independent but are instead linked via several catchment and aquatic processes. Thus, according to mass conservation, any environmental change inducing a shift in a particular C fate should come at the expense of at least one other fate. Nonetheless, studies that have investigated C emission, accumulation and transport concertedly are scarce, resulting in fragmented knowledge of the role of inland waters in the global C cycle. Here, we propose a framework to understand how different C fates in aquatic systems are interlinked and covary under environmental changes. First, to explore how C fates are currently distributed in streams, rivers, reservoirs and lakes, we compiled data from the literature and show that 'C fate allocation' varies widely both within and among inland water systems types. Secondly, we developed a framework that integrates C fates in any inland water system by identifying the key processes underlying their linkages. Our framework places the partitioning between the different C forms, and how this is controlled by export from land, internal transformations and hydrology, as central to understanding C fate allocation. We argue that, by focusing on a single fate, studies could risk drawing misleading conclusions regarding how environmental changes will alter the role of inland waters in the global C cycle. Our framework thus allows us to holistically assess the consequences of such changes on coupled C fluxes, setting a foundation for understanding the contemporary and future fate of land-derived C in inland water systems.
+C1 [Vachon, Dominic; Sponseller, Ryan A.; Karlsson, Jan] Umea Univ, Dept Ecol & Environm Sci, Climate Impacts Res Ctr CIRC, Umea, Sweden.
+C3 Umea University
+RP Vachon, D (通讯作者)，Umea Univ, Dept Ecol & Environm Sci, Climate Impacts Res Ctr CIRC, Umea, Sweden.
+EM domvachon@gmail.com
+RI Sponseller, Ryan/ABI-7338-2020
+OI Vachon, Dominic/0000-0003-1157-5240
+FU Knut och Alice Wallenbergs Stiftelse [2016.0083]; Swedish Research
+   Council [2016-05275]; Natural Sciences and Engineering Research Council;
+   Swedish Research Council [2016-05275] Funding Source: Swedish Research
+   Council
+FX Knut och Alice Wallenbergs Stiftelse, Grant/Award Number: 2016.0083;
+   Swedish Research Council, Grant/Award Number: 2016-05275; Natural
+   Sciences and Engineering Research Council
+NR 58
+TC 39
+Z9 43
+U1 10
+U2 144
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1354-1013
+EI 1365-2486
+J9 GLOBAL CHANGE BIOL
+JI Glob. Change Biol.
+PD FEB
+PY 2021
+VL 27
+IS 4
+BP 719
+EP 727
+DI 10.1111/gcb.15448
+EA DEC 2020
+PG 9
+WC Biodiversity Conservation; Ecology; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA PU3PH
+UT WOS:000596706700001
+PM 33200491
+OA Green Published, hybrid
+DA 2025-05-29
+ER

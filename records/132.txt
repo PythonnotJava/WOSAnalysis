@@ -1,0 +1,82 @@
+PT J
+AU Yang, Y
+   Shi, ZB
+   Fu, JB
+   Ma, L
+   Yu, J
+   Fang, F
+   Li, C
+   Chen, SH
+   Yang, WX
+AF Yang, Yang
+   Shi, Zhaobin
+   Fu, Jianbin
+   Ma, Lu
+   Yu, Jie
+   Fang, Fang
+   Li, Chun
+   Chen, Shunhua
+   Yang, Wenxian
+TI Effects of tidal turbine number on the performance of a 10 MW-class
+   semi-submersible integrated floating wind-current system
+SO ENERGY
+LA English
+DT Article
+DE Integrated floating energy system; Tidal turbine; Wind turbine; Coupled
+   dynamic responses
+ID DYNAMIC-RESPONSE; WAVE
+AB The integrated floating energy system (IFES) consisting of wind and tidal/current energy generators is more capable of utilizing energy from the ocean in a relatively lower cost compared to floating offshore wind turbines (FOWTs). Apparently, the performance of an IFES is significantly affected by the amount and installation position of the tidal turbines, which is rarely investigated in the state-of-the-art. In order to address the research need, this study aims to examine the complicated interaction effects between the wind and tidal turbines of a 10 MW-class semi-submersible floating wind-current integrated system (IFES) that is composed of the DTU 10 MW wind turbine, OO-Star platform, and indefinite 550 kW tidal turbines. A coupled analysis tool is developed to consider the aero-hydro-servo-elastic coupling effects of the IFES under wind, wave, current loadings. The dynamic responses of the IFES with 0 similar to 3 tidal turbines under different load cases are obtained. The fatigue damage at the tower base of the IFES is subsequently evaluated to illustrate the effect of the tidal turbines. The results indicate that the increase of the number of tidal turbines leads to a relatively smaller platform pitch motion under each of the examined load cases. The presence of the tidal turbines has an insignificant effect on fatigue damage at the tower base, implying that the integration of tidal turbines has no negative effects on the floating platform. The total power of the IFES with three tidal turbines is expected to increase by 9.46% compared to the FOWT. This study has confirmed the benefits of integrating marine energy convertors with a FOWT in enhancing the energy utilization efficiency and system stability.
+C1 [Yang, Yang; Shi, Zhaobin; Fu, Jianbin] Ningbo Univ, Fac Maritime & Transportat, Ningbo 315211, Zhejiang, Peoples R China.
+   [Ma, Lu] China Three Gorges Co Ltd, Wuhan 430014, Hubei, Peoples R China.
+   [Yu, Jie; Li, Chun] Univ Shanghai Sci & Technol, Sch Energy & Power Engn, Shanghai 200093, Peoples R China.
+   [Fang, Fang] North China Elect Power Univ, State Key Lab Alternate Elect Power Syst Renewable, Beijing 102206, Peoples R China.
+   [Chen, Shunhua] Sun Yat Sen Univ, Sch Marine Engn & Technol, Zhuhai, Peoples R China.
+   [Yang, Wenxian] Newcastle Univ, Sch Engn, Newcastle Upon Tyne NE1 7RU, England.
+C3 Ningbo University; University of Shanghai for Science & Technology;
+   North China Electric Power University; Sun Yat Sen University; Newcastle
+   University - UK
+RP Yang, Y (通讯作者)，Ningbo Univ, Fac Maritime & Transportat, Ningbo 315211, Zhejiang, Peoples R China.
+EM yangyang1@nbu.edu.cn
+RI Yang, Yang/JBR-7886-2023; Fang, Fang/HNB-3397-2023; Yang,
+   Wenxian/O-2688-2014
+OI Yang, Wenxian/0000-0002-1122-2990; YANG, Yang/0000-0002-6251-0837
+FU National Key R & D Program of China [:52101317]; National Natural
+   Science Foundation of China [2023J091]; China Three Gorges Group Co.,
+   LTD.; Ningbo Municipal Natural Science Foundation [202303059]; State Key
+   Laboratory of Alternate Electrical Power System with Renewable Energy
+   Sources; Natural Science Foundation of Zhejiang Province [LAPS22009]; 
+   [2023YFE0102000];  [LQ22E090001]
+FX This project is funded by the National Key R & D Program of China (No.
+   2023YFE0102000) , National Natural Science Foundation of China (Grant
+   No:52101317) , China Three Gorges Group Co., LTD (Contract No:202303059)
+   , Ningbo Municipal Natural Science Foundation (Grant No.: 2023J091) .
+   and the State Key Laboratory of Alternate Electrical Power System with
+   Renewable Energy Sources (Grant No. LAPS22009) . The authors are also
+   very grateful for the financial support from Natural Science Foundation
+   of Zhejiang Province (LQ22E090001) .
+NR 38
+TC 13
+Z9 14
+U1 9
+U2 60
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD DEC 15
+PY 2023
+VL 285
+AR 128789
+DI 10.1016/j.energy.2023.128789
+EA AUG 2023
+PG 14
+WC Thermodynamics; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels
+GA R2KV3
+UT WOS:001062695600001
+DA 2025-05-29
+ER

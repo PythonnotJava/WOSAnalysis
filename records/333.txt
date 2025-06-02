@@ -1,0 +1,52 @@
+PT J
+AU Vasconcelos, D
+   Nunes, NJ
+AF Vasconcelos, Dinarte
+   Nunes, Nuno Jardim
+TI A Low-Cost Multi-Purpose IoT Sensor for Biologging and Soundscape
+   Activities
+SO SENSORS
+LA English
+DT Article
+DE multipurpose sensor; biodiversity monitoring; optical detection;
+   acoustic capability; LoRa technology; embedded systems
+ID INSECTS; AUDIO; NOISE; BIRDS
+AB The rapid expansion in miniaturization, usability, energy efficiency, and affordability of Internet of Things (IoT) sensors, integrated with innovations in smart capability, is greatly increasing opportunities in ground-level monitoring of ecosystems at a specific scale using sensor grids. Surrounding sound is a powerful data source for investigating urban and non-urban ecosystem health, and researchers commonly use robust but expensive passive sensors as monitoring equipment to capture it. This paper comprehensively describes the hardware behind our low-cost, small multipurpose prototype, capable of monitoring different environments (e.g., remote locations) with onboard processing power. The device consists of a printed circuit board, microprocessor, local memory, environmental sensor, microphones, optical sensors and LoRa (Long Range) communication systems. The device was successfully used in different use cases, from monitoring mosquitoes enhanced with optical sensors to ocean activities using a hydrophone.
+C1 [Vasconcelos, Dinarte; Nunes, Nuno Jardim] Inst Super Tecn, ITI LARSyS, Av Rovisco Pais 1, P-1049001 Lisbon, Portugal.
+C3 Universidade de Lisboa
+RP Vasconcelos, D (通讯作者)，Inst Super Tecn, ITI LARSyS, Av Rovisco Pais 1, P-1049001 Lisbon, Portugal.
+EM dinarte.vasconcelos@tecnico.ulisboa.pt
+RI Vasconcelos, Dinarte/AGK-8307-2022; Nunes, Nuno/M-4006-2013;
+   Vasconcelos, Dinarte/C-8979-2018
+OI Nunes, Nuno/0000-0002-2498-0643; Vasconcelos,
+   Dinarte/0000-0001-7437-066X
+FU LARSyS [UIDB/50009/2020]
+FX This research was funded by LARSyS (Project - UIDB/50009/2020).
+NR 47
+TC 5
+Z9 5
+U1 2
+U2 13
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD OCT
+PY 2022
+VL 22
+IS 19
+AR 7100
+DI 10.3390/s22197100
+PG 27
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA 5H9MX
+UT WOS:000867995800001
+PM 36236203
+OA gold, Green Published
+DA 2025-05-29
+ER

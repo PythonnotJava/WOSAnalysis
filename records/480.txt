@@ -1,0 +1,49 @@
+PT J
+AU Cheung, HM
+   Chu, JE
+AF Cheung, Hung Ming
+   Chu, Jung-Eun
+TI Global increase in destructive potential of extratropical transition
+   events in response to greenhouse warming
+SO NPJ CLIMATE AND ATMOSPHERIC SCIENCE
+LA English
+DT Article
+ID WESTERN NORTH PACIFIC; TROPICAL CYCLONES; PART I; RESOLUTION; MODEL;
+   CLIMATOLOGY; EVOLUTION; CIRCULATION; SIMULATION; HURRICANES
+AB When tropical cyclones (TCs) move to the mid-latitudes, they oftentimes undergo extratropical transition (ET) by which they lose their symmetry and warm-core characteristics. Upon transforming into extratropical cyclones (ETCs), they tend to impact larger areas and thus larger populations. In light of the increased TC intensity due to global warming identified in previous studies, here we examine its effect on the frequency and destructiveness of ET events globally using a high-resolution fully coupled Earth System model (0.25 & DEG; for atmosphere; 0.1 & DEG; for ocean) prescribed with present-day, doubling, and quadrupling CO2 concentrations. Our findings indicate that ETCs originated from the tropics with higher destructiveness (indicated by integrated kinetic energy) become more frequent in response to greenhouse warming, although the number of ET events does not change significantly. The key factor in the change in the destructiveness of ETCs is the increase in wind speed and the high-wind area at ET. Despite the uncertainty in the Northern Hemisphere, our results underscore the necessity for climate resilience in the mid-latitudes against global warming.
+C1 [Cheung, Hung Ming; Chu, Jung-Eun] City Univ Hong Kong, Sch Energy & Environm, Hong Kong, Peoples R China.
+   [Chu, Jung-Eun] City Univ Hong Kong, Low Carbon & Climate Impact Res Ctr, Sch Energy & Environm, Hong Kong, Peoples R China.
+C3 City University of Hong Kong; City University of Hong Kong
+RP Chu, JE (通讯作者)，City Univ Hong Kong, Sch Energy & Environm, Hong Kong, Peoples R China.; Chu, JE (通讯作者)，City Univ Hong Kong, Low Carbon & Climate Impact Res Ctr, Sch Energy & Environm, Hong Kong, Peoples R China.
+EM jungeun.chu@cityu.edu.hk
+RI Cheung, Hung Ming/GLT-6870-2022; Chu, Jung-Eun/JXN-5141-2024
+OI CHU, JUNGEUN/0000-0003-2088-4758; Cheung, Hung Ming/0000-0002-5352-4006
+FU City University of Hong Kong [9610571]
+FX This research was supported City University of Hong Kong under project
+   number 9610571.
+NR 59
+TC 4
+Z9 5
+U1 0
+U2 14
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2397-3722
+J9 NPJ CLIM ATMOS SCI
+JI npj Clim. Atmos. Sci.
+PD SEP 9
+PY 2023
+VL 6
+IS 1
+AR 137
+DI 10.1038/s41612-023-00470-8
+PG 10
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA R0TH4
+UT WOS:001061548300002
+OA gold
+DA 2025-05-29
+ER

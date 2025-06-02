@@ -1,0 +1,106 @@
+PT J
+AU van der Woude, AM
+   de Kok, R
+   Smith, N
+   Luijkx, IT
+   Botia, S
+   Karstens, U
+   Kooijmans, LMJ
+   Koren, G
+   Meijer, HAJ
+   Steeneveld, GJ
+   Storm, I
+   Super, I
+   Scheeren, HA
+   Vermeulen, A
+   Peters, W
+AF van der Woude, Auke M.
+   de Kok, Remco
+   Smith, Naomi
+   Luijkx, Ingrid T.
+   Botia, Santiago
+   Karstens, Ute
+   Kooijmans, Linda M. J.
+   Koren, Gerbrand
+   Meijer, Harro A. J.
+   Steeneveld, Gert-Jan
+   Storm, Ida
+   Super, Ingrid
+   Scheeren, Hubertus A.
+   Vermeulen, Alex
+   Peters, Wouter
+TI Near-real-time CO2 fluxes from CarbonTracker Europe for
+   high-resolution atmospheric modeling
+SO EARTH SYSTEM SCIENCE DATA
+LA English
+DT Article; Data Paper
+ID FOSSIL-FUEL CO2; EMISSION INVENTORY; CARBON FLUXES; EXCHANGE; NETWORK;
+   STILT; CH4
+AB We present the CarbonTracker Europe High-Resolution (CTE-HR) system that estimates carbon dioxide (CO2) exchange over Europe at high resolution (0.1 x 0.2(?degrees)) and in near real time (about 2 months' latency). It includes a dynamic anthropogenic emission model, which uses easily available statistics on economic activity, energy use, and weather to generate anthropogenic emissions with dynamic time profiles at high spatial and temporal resolution (0.1x0.2 degrees(,) hourly). Hourly net ecosystem productivity (NEP) calculated by the Simple Biosphere model Version 4 (SiB4) is driven by meteorology from the European Centre for Medium-Range Weather Forecasts (ECMWF) Reanalysis 5th Generation (ERA5) dataset. This NEP is downscaled to 0.1x0.2 degrees using the high-resolution Coordination of Information on the Environment (CORINE) land-cover map and combined with the Global Fire Assimilation System (GFAS) fire emissions to create terrestrial carbon fluxes. Ocean CO2 fluxes are included in our product, based on Jena CarboScope ocean CO2 fluxes, which are downscaled using wind speed and temperature. Jointly, these flux estimates enable modeling of atmospheric CO2 mole fractions over Europe.
+   We assess the skill of the CTE-HR CO2 fluxes (a) to reproduce observed anomalies in biospheric fluxes and atmospheric CO2 mole fractions during the 2018 European drought, (b) to capture the reduction of anthropogenic emissions due to COVID-19 lockdowns, (c) to match mole fraction observations at Integrated Carbon Observation System (ICOS) sites across Europe after atmospheric transport with the Transport Model, version 5 (TM5) and the Stochastic Time-Inverted Lagrangian Transport (STILT), driven by ECMWF-IFS, and (d) to capture the magnitude and variability of measured CO2 fluxes in the city center of Amsterdam (the Netherlands).
+   We show that CTE-HR fluxes reproduce large-scale flux anomalies reported in previous studies for both biospheric fluxes (drought of 2018) and anthropogenic emissions (COVID-19 pandemic in 2020). After applying transport of emitted CO2, the CTE-HR fluxes have lower median root mean square errors (RMSEs) relative to mole fraction observations than fluxes from a non-informed flux estimate, in which biosphere fluxes are scaled to match the global growth rate of CO2 (poor person's inversion). RMSEs are close to those of the reanalysis with the CTE data assimilation system. This is encouraging given that CTE-HR fluxes did not profit from the weekly assimilation of CO2 observations as in CTE.
+   We furthermore compare CO2 concentration observations at the Dutch Lutjewad coastal tower with high-resolution STILT transport to show that the high-resolution fluxes manifest variability due to different emission sectors in summer and winter. Interestingly, in periods where synoptic-scale transport variability dominates CO2 concentration variations, the CTE-HR fluxes perform similarly to low-resolution fluxes (5-10x coarsened). The remaining 10 % of the simulated CO2 mole fraction differs by > 2 ppm between the low-resolution and high-resolution flux representation and is clearly associated with coherent structures ("plumes") originating from emission hotspots such as power plants. We therefore note that the added resolution of our product will matter most for very specific locations and times when used for atmospheric CO2 modeling. Finally, in a densely populated region like the Amsterdam city center, our modeled fluxes underestimate the magnitude of measured eddy covariance fluxes but capture their substantial diurnal variations in summertime and wintertime well.
+   We conclude that our product is a promising tool for modeling the European carbon budget at a high resolution in near real time. The fluxes are freely available from the ICOS Carbon Portal (CC-BY-4.0) to be used for near-real-time monitoring and modeling, for example, as an a priori flux product in a CO2 data assimilation system. The data are available at https://doi.org/10.18160/20Z1-AYJ2 (van der Woude, 2022a).
+C1 [van der Woude, Auke M.; Meijer, Harro A. J.; Scheeren, Hubertus A.; Peters, Wouter] Univ Groningen, Energy & Sustainabil Res Inst Groningen, Ctr Isotope Res, Nijenborgh 4, NL-9747 AG Groningen, Netherlands.
+   [van der Woude, Auke M.; de Kok, Remco; Smith, Naomi; Luijkx, Ingrid T.; Kooijmans, Linda M. J.; Koren, Gerbrand; Steeneveld, Gert-Jan; Storm, Ida; Peters, Wouter] Wageningen Univ, Meteorol & Air Qual Grp, POB 47, NL-6700 AA Wageningen, Netherlands.
+   [de Kok, Remco; Vermeulen, Alex] ICOS ERIC Carbon Portal, Geocentrum2, Solvegatan 12, S-22362 Lund, Sweden.
+   [Botia, Santiago] Max Planck Inst Biogeochem, Hans Knoell Str 10, D-07745 Jena, Germany.
+   [Karstens, Ute; Storm, Ida; Vermeulen, Alex] Lund Univ, ICOS ERIC Carbon Portal Phys Geog & Ecosyst Sci, POB 117, S-22100 Lund, Sweden.
+   [Koren, Gerbrand] Univ Utrecht, Copernicus Inst Sustainable Dev, Utrecht, Netherlands.
+   [Super, Ingrid] TNO, Dept Climate Air & Sustainabil, POB 80015, NL-3508 Utrecht, Netherlands.
+C3 University of Groningen; Wageningen University & Research; Max Planck
+   Society; Lund University; Utrecht University; Netherlands Organization
+   Applied Science Research
+RP van der Woude, AM (通讯作者)，Univ Groningen, Energy & Sustainabil Res Inst Groningen, Ctr Isotope Res, Nijenborgh 4, NL-9747 AG Groningen, Netherlands.; van der Woude, AM (通讯作者)，Wageningen Univ, Meteorol & Air Qual Grp, POB 47, NL-6700 AA Wageningen, Netherlands.
+EM auke.van.der.woude@rug.nl
+RI Steeneveld, Gert-Jan/B-2816-2010; Botía, Santiago/AAG-4970-2021; Luijkx,
+   Ingrid/G-9169-2011; de Kok, Remco/U-5637-2019; Peters,
+   Wouter/B-8305-2008; Koren, Gerbrand/IZE-2064-2023; Karstens,
+   Ute/P-7075-2014; Vermeulen, Alex/A-2867-2015
+OI Kooijmans, Linda/0000-0002-4758-3368; de Kok, Remco/0000-0001-6906-2662;
+   Koren, Gerbrand/0000-0002-2275-0713; Karstens, Ute/0000-0002-8985-7742;
+   Scheeren, Bert/0000-0001-6333-8402; Woude, van der,
+   Auke/0000-0002-6286-2621; Vermeulen, Alex/0000-0002-8158-8787; Botia,
+   Santiago/0000-0002-5447-3968; Luijkx, Ingrid/0000-0002-3990-6737
+FU Netherlands Organisation for Scientific Research (NWO) [864.14.007]; ERC
+   [742798]; Amsterdam Institute for Advanced Metropolitan Solutions (AMS
+   Institute) [VIR16002]; Hungarian National Research, Development and
+   Innovation Office [OTKA K141839]; European Research Council (ERC)
+   [742798] Funding Source: European Research Council (ERC)
+FX The authors were funded by the Netherlands Organisation for Scientific
+   Research (NWO) (project: 864.14.007).Linda Maria Johanna Kooijmans is
+   funded through the ERC ad-vanced funding scheme (COS-OCS, grant no.
+   742798). The ob-servations of the Amsterdam Atmospheric Monitoring
+   Supersitehave been financially supported by the Amsterdam Institute for
+   Advanced Metropolitan Solutions (AMS Institute) under project VIR16002.
+   and Laszlo Haszpra (HUN observations) with fundingby the Hungarian
+   National Research, Development and Innovation Office (grant no. OTKA
+   K141839)
+NR 114
+TC 7
+Z9 7
+U1 9
+U2 49
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1866-3508
+EI 1866-3516
+J9 EARTH SYST SCI DATA
+JI Earth Syst. Sci. Data
+PD FEB 6
+PY 2023
+VL 15
+IS 2
+BP 579
+EP 605
+DI 10.5194/essd-15-579-2023
+PG 27
+WC Geosciences, Multidisciplinary; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology; Meteorology & Atmospheric Sciences
+GA 8P5TH
+UT WOS:000926585200001
+OA gold, Green Submitted
+DA 2025-05-29
+ER

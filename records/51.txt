@@ -1,0 +1,67 @@
+PT J
+AU Xia, QC
+   Chen, YH
+   Yang, CJ
+   Chen, BZ
+   Muhammad, G
+   Ma, XX
+AF Xia, Qingchao
+   Chen, Yanhu
+   Yang, Canjun
+   Chen, Bingzhe
+   Muhammad, Gul
+   Ma, Xiaoxia
+TI Maximum efficiency point tracking for an ocean thermal energy harvesting
+   system
+SO INTERNATIONAL JOURNAL OF ENERGY RESEARCH
+LA English
+DT Article
+DE ocean thermal energy; fixed initial energy; hydraulic power generation
+   system; maximum efficiency point tracking (MEPT); current control;
+   artificial neural network
+ID PHASE-CHANGE MATERIAL; MODEL; OPTIMIZATION; CONVERSION
+AB Limited energy is the most critical factor that restricts the persistent presence of underwater vehicles in the oceans; thus, harvesting the ocean's thermal energy that is stored in the water column between the sea surface and deep water is a particularly promising solution for the current power shortage. This paper has designed a new ocean thermal energy conversion system which using phase change material as energy storage medium, and proposed a novel maximum efficiency point tracking (MEPT) method for energy conversion. This new method, which is integrated with a radial basis function neural network (RBFNN), particle swarm optimization (PSO) and the proportion integration differentiation (PID) control method, could effectively improve the efficiency of energy conversion. Compared with the power generation system that does not use the MEPT method, experimental results show that the proposed method can improve the efficiency of the power generation from less than 19.05% to more than 34.3% and has higher stability (using this method: the efficiency changes from 34.3%-34.7%; without using this method: the efficiency changes from 13.56% -19.05%) when the load changes. This novel method can be used in many conditions, especially when the mathematical model of the generation system is unknown or researchers want to use fewer sensors for maximum efficiency point tracking.
+C1 [Xia, Qingchao; Chen, Yanhu; Yang, Canjun; Chen, Bingzhe; Muhammad, Gul; Ma, Xiaoxia] Zhejiang Univ, State Key Lab Fluid Power & Mechatron Syst, Hangzhou 310027, Peoples R China.
+   [Xia, Qingchao; Yang, Canjun] Zhejiang Univ, Ningbo Res Inst, Ningbo, Peoples R China.
+C3 Zhejiang University; Zhejiang University
+RP Yang, CJ (通讯作者)，Zhejiang Univ, State Key Lab Fluid Power & Mechatron Syst, Hangzhou 310027, Peoples R China.
+EM ycj@zju.edu.cn
+RI Yang, Can-jun/AAM-6416-2020
+FU Fundamental Research Funds for the Central Universities [2018QNA4005];
+   Strategic Priority Research Program of Chinese Academy of Sciences
+   [XDA22000000]; Natural Science Foundation of Zhejiang Province
+   [LQ20E090008]
+FX Fundamental Research Funds for the Central Universities, Grant/Award
+   Number: No. 2018QNA4005; Strategic Priority Research Program of Chinese
+   Academy of Sciences, Grant/Award Number: No. XDA22000000; Natural
+   Science Foundation of Zhejiang Province, Grant/Award Number: No.
+   LQ20E090008
+NR 31
+TC 16
+Z9 17
+U1 8
+U2 52
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0363-907X
+EI 1099-114X
+J9 INT J ENERG RES
+JI Int. J. Energy Res.
+PD MAR 25
+PY 2020
+VL 44
+IS 4
+BP 2693
+EP 2703
+DI 10.1002/er.5055
+EA JAN 2020
+PG 11
+WC Energy & Fuels; Nuclear Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Nuclear Science & Technology
+GA KT8ZS
+UT WOS:000508115400001
+OA gold
+DA 2025-05-29
+ER

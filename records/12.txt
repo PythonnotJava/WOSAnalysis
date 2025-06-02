@@ -1,0 +1,66 @@
+PT J
+AU Guo, SY
+   Zhou, B
+   Chan, KW
+   Bu, SQ
+   Li, CB
+   Liu, N
+   Zhang, C
+AF Guo, Siyuan
+   Zhou, Bin
+   Chan, Ka Wing
+   Bu, Siqi
+   Li, Canbing
+   Liu, Nian
+   Zhang, Cong
+TI Optimal Offering Strategy of Virtual Power Plant with Hybrid Renewable
+   Ocean Energy Portfolio
+SO CSEE JOURNAL OF POWER AND ENERGY SYSTEMS
+LA English
+DT Article
+DE Oceans; Renewable energy sources; Fluids; Pumps; Ocean temperature;
+   Electricity supply industry; Energy resources; Ocean thermal energy
+   conversion; rolling optimization; subsea pumped storage system; tidal
+   power generation; virtual power plant
+ID PERFORMANCE ANALYSIS; CONVERSION SYSTEM; OPTIMIZATION; CYCLE; DESIGN
+AB This paper proposes a hybrid ocean energy system to form a virtual power plant (VPP) for participating in electricity markets in order to promote the renewable ocean energy utilization and accommodation. In the proposed system, solar thermal energy is integrated with the closed-cycle ocean thermal energy conversion (OTEC) to boost the temperature differences between the surface and deep seawater for efficiency and flexibility improvements, and the thermodynamic effects of seawater mass flow rates on the output of solar-boosted OTEC (SOTEC) are exploited for deploying SOTEC as a renewable dispatchable unit. An optimal tidal-storage operation model is also developed to make use of subsea pumped storage (SPS) with hydrostatic pressures at ocean depths for mitigating the intermittent tidal range energy in order to make the arbitrage in the electricity market. Furthermore, a two-stage coordinated scheduling strategy is presented to optimally control seawater mass flow rates of SOTEC and hydraulic reversible pump-turbines of SPS for enhancing the daily VPP profit. Comparative studies have been investigated to confirm the superiority of the developed methodology in various renewable ocean energy and electricity market price scenarios.
+C1 [Guo, Siyuan; Zhou, Bin; Zhang, Cong] Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Peoples R China.
+   [Chan, Ka Wing; Bu, Siqi] Hong Kong Polytech Univ, Dept Elect Engn, Hong Kong, Peoples R China.
+   [Li, Canbing] Shanghai Jiao Tong Univ, Sch Elect Informat & Elect Engn, Shanghai 200240, Peoples R China.
+   [Liu, Nian] North China Elect Power Univ, State Key Lab Alternate Elect Power Syst Renewable, Beijing 102206, Peoples R China.
+C3 Hunan University; Hong Kong Polytechnic University; Shanghai Jiao Tong
+   University; North China Electric Power University
+RP Zhou, B (通讯作者)，Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Peoples R China.
+EM binzhou@hnu.edu.cn
+RI ZHOU, Bin/AAQ-8355-2020; Guo, Siyuan/HOH-9145-2023
+OI BU, Siqi/0000-0002-1047-2568
+FU National Natural Science Foundation of China
+FX No Statement Available
+NR 43
+TC 2
+Z9 2
+U1 5
+U2 13
+PU CHINA ELECTRIC POWER RESEARCH INST
+PI BEIJING
+PA 15, QINGHE XIAOYING DONG LU, HAIDIAN-QU, BEIJING, 100192, PEOPLES R
+   CHINA
+SN 2096-0042
+J9 CSEE J POWER ENERGY
+JI CSEE J. Power Energy Syst.
+PD NOV
+PY 2023
+VL 9
+IS 6
+BP 2040
+EP 2051
+DI 10.17775/CSEEJPES.2020.06420
+PG 12
+WC Energy & Fuels; Engineering, Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA CA0F3
+UT WOS:001122403700038
+OA gold
+DA 2025-05-29
+ER

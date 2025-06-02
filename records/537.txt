@@ -1,0 +1,148 @@
+PT J
+AU Turschwell, MP
+   Brown, CJ
+   Lacharité, M
+   Melbourne-Thomas, J
+   Hayes, KR
+   Bustamante, RH
+   Dambacher, JM
+   Evans, K
+   Fidelman, P
+   MacDonald, DH
+   Van Putten, I
+   Wood, G
+   Abdussamie, N
+   Bates, M
+   Blackwell, D
+   D'Alessandro, S
+   Dutton, I
+   Ericson, JA
+   Frid, CLJ
+   McDougall, C
+   Lea, MA
+   Rissik, D
+   Trebilco, R
+   Fulton, EA
+AF Turschwell, Mischa P.
+   Brown, Christopher J.
+   Lacharite, Myriam
+   Melbourne-Thomas, Jess
+   Hayes, Keith R.
+   Bustamante, Rodrigo H.
+   Dambacher, Jeffrey M.
+   Evans, Karen
+   Fidelman, Pedro
+   MacDonald, Darla Hatton
+   Van Putten, Ingrid
+   Wood, Graham
+   Abdussamie, Nagi
+   Bates, Mathilda
+   Blackwell, Damien
+   D'Alessandro, Steven
+   Dutton, Ian
+   Ericson, Jessica A.
+   Frid, Christopher L. J.
+   McDougall, Carmel
+   Lea, Mary-Anne
+   Rissik, David
+   Trebilco, Rowan
+   Fulton, Elizabeth A.
+TI Co-designing a multi-criteria approach to ranking hazards to and from
+   Australia's emerging offshore blue economy
+SO ENVIRONMENTAL SCIENCE & POLICY
+LA English
+DT Article
+DE Sustainability; Equity; Seafood production; Renewable energy; Ocean
+   multi-use
+ID RISK ANALYSIS; DECISION
+AB A multi-sectoral assessment of risks can support the management and investment decisions necessary for emerging blue economy industries to succeed. Traditional risk assessment methods will be challenged when applied to the complex socio-ecological systems that characterise offshore environments, and when data available to support management are lacking. Therefore, there is a need for assessments that account for multiple sectors. Here we describe the development of an efficient method for an integrated hazard analysis that is a precursor to full risk assessments. Our approach combines diverse disciplinary expertise, expert elicitation and multi-criteria analysis to rank hazards, so it encompasses all types of hazards including human-caused, natural and technological. We demonstrate our approach for two sectors that are predicted to grow rapidly in Australia: offshore aquaculture and marine renewable energy. Experts ranked Climate Change as the hazard with the highest overall concern, but hazards including Altered Ecosystem Function, Biosecurity, Cumulative Effects, Structural Failure and Social Licence were also highly ranked. We show here how outputs from this approach (multi-criteria scores and ranks) could be used to identify hazards that; i) could be safely retired, ii) should be progressed to more quantitative risk assessments or iii) require ongoing information collection. The approach can encompass all types of hazards, which enables it to holistically consider priorities. The expert-based multi-criteria approach outlined here represents a pragmatic way to solve some of the challenges of applying risk assessments to emerging industries by using a method that can be applied across multiple blue economy sectors.
+C1 [Turschwell, Mischa P.; Brown, Christopher J.; McDougall, Carmel] Griffith Univ, Australian Rivers Inst, Coastal Marine Res Ctr, Nathan, Qld 4111, Australia.
+   [Lacharite, Myriam; Lea, Mary-Anne] Univ Tasmania, Inst Marine & Antarctic Studies, Hobart 7053, Australia.
+   [Lacharite, Myriam; Melbourne-Thomas, Jess; Evans, Karen; Fidelman, Pedro; MacDonald, Darla Hatton; Van Putten, Ingrid; Wood, Graham; Dutton, Ian; Lea, Mary-Anne; Trebilco, Rowan; Fulton, Elizabeth A.] Univ Tasmania, Ctr Marine Socioecol, Hobart, Tas 7001, Australia.
+   [Melbourne-Thomas, Jess; Evans, Karen; Van Putten, Ingrid; Trebilco, Rowan; Fulton, Elizabeth A.] CSIRO Environm, Hobart, Tas 7001, Australia.
+   [Hayes, Keith R.; Dambacher, Jeffrey M.] CSIRO Data61, Hobart, Tas 7001, Australia.
+   [Bustamante, Rodrigo H.] CSIRO Environm, St Lucia, Qld 4072, Australia.
+   [Fidelman, Pedro] Univ Queensland, Ctr Policy Futures, St Lucia, Qld 4072, Australia.
+   [MacDonald, Darla Hatton] Univ Tasmania, Tasmanian Sch Business & Econ, Sandy Bay, Tas 7005, Australia.
+   [Wood, Graham] Univ Tasmania, Sch Humanities, Launceston 7250, Australia.
+   [Abdussamie, Nagi] Univ Tasmania, Australian Maritime Coll, Natl Ctr Maritime Engn & Hydrodynam, Launceston, Tas, Australia.
+   [Bates, Mathilda] James Cook Univ, Coll Sci & Engn, Townsville, Australia.
+   [Blackwell, Damien; Dutton, Ian] Dept Nat Resources & Environm, Hobart, Tas 7001, Australia.
+   [D'Alessandro, Steven] Edith Cowan Univ, Sch Business & Law, Joondalup, WA 6027, Australia.
+   [Ericson, Jessica A.] Cawthron Inst, Private Bag 2, Nelson 7042, New Zealand.
+   [Frid, Christopher L. J.] Griffith Univ, Sch Environm & Sci, Southport, Qld 4222, Australia.
+   [Rissik, David] Deloitte, Brisbane, Qld 4000, Australia.
+C3 Griffith University; University of Tasmania; University of Tasmania;
+   Commonwealth Scientific & Industrial Research Organisation (CSIRO);
+   Commonwealth Scientific & Industrial Research Organisation (CSIRO);
+   Commonwealth Scientific & Industrial Research Organisation (CSIRO);
+   University of Queensland; University of Tasmania; University of
+   Tasmania; University of Tasmania; Australian Maritime College; James
+   Cook University; Edith Cowan University; Cawthron Institute; Griffith
+   University; Griffith University - Gold Coast Campus; Deloitte Touche
+   Tohmatsu Limited
+RP Turschwell, MP (通讯作者)，Griffith Univ, Australian Rivers Inst, Coastal Marine Res Ctr, Nathan, Qld 4111, Australia.
+EM m.turschwell@griffith.edu.au
+RI Turschwell, Mischa/A-5222-2014; Lea, Mary-Anne/E-9054-2013; McDougall,
+   Carmel/G-3512-2010; Wood, Graham/L-7558-2015; Ericson,
+   Jessica/AAP-1976-2020; Fidelman, Pedro/N-1466-2014; evans,
+   karen/D-7110-2012; Melbourne-Thomas, Jess/N-2437-2019; van putten,
+   ingrid/AAV-1301-2021; MacDonald, Darla/D-3344-2011; Frid,
+   Christopher/C-6512-2011; Fulton, Beth/AAJ-1398-2021; Abdussamie,
+   Nagi/HZJ-9395-2023; Trebilco, Rowan/I-5311-2012; Brown,
+   Christopher/G-4287-2011; Ericson, Jessica/B-1696-2016; Hayes,
+   Keith/A-4550-2009; D'Alessandro, Steven/A-3797-2014; Bustamante,
+   Rodrigo/B-4307-2009
+OI Fidelman, Pedro/0000-0001-7780-0952; Trebilco,
+   Rowan/0000-0001-9712-8016; Melbourne-Thomas, Jess/0000-0001-6585-876X;
+   Brown, Christopher/0000-0002-7271-4091; Ericson,
+   Jessica/0000-0001-5220-8493; Frid, Christopher/0000-0002-7565-635X;
+   Hayes, Keith/0000-0003-4094-3575; D'Alessandro,
+   Steven/0000-0001-7480-232X; McDougall, Carmel/0000-0002-2116-5651;
+   Abdussamie, Nagi/0000-0002-8628-562X; Bustamante,
+   Rodrigo/0000-0002-9787-338X
+FU Blue Economy Cooperative Research Centre (CRC); Australian Government's
+   CRC Program [CRC-20180101]; CRC Program; Australian Research Council
+   [DP180103124, FT210100792]; Cawthron Shellfish Aquaculture Platform
+   [CAWX1801]; Australian Research Council [FT210100792] Funding Source:
+   Australian Research Council
+FX The authors acknowledge the financial support of the Blue Economy
+   Cooperative Research Centre (CRC) , established and supported under the
+   Australian Government's CRC Program, grant number CRC-20180101. The CRC
+   Program supports industryled collaborations between industry,
+   researchers and the community. CJB, and MPT-Discovery Project
+   (DP180103124) from the Australian Research Council. CJB - Future
+   Fellowship (FT210100792) from the Australian Research Council. Thank you
+   to Derek Fulton for developing Figure 3 and the scenario figures in the
+   supplementary information. Thank you to members of Seascape models lab
+   for testing the online ranking web application. J.A. Ericson's
+   participation was supported by the Cawthron Shellfish Aquaculture
+   Platform (MBIE contract CAWX1801) .
+NR 49
+TC 3
+Z9 3
+U1 2
+U2 10
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1462-9011
+EI 1873-6416
+J9 ENVIRON SCI POLICY
+JI Environ. Sci. Policy
+PD SEP
+PY 2023
+VL 147
+BP 154
+EP 168
+DI 10.1016/j.envsci.2023.06.008
+EA JUN 2023
+PG 15
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA M1RT1
+UT WOS:001028020300001
+OA hybrid, Green Accepted
+DA 2025-05-29
+ER

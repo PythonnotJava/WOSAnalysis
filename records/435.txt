@@ -1,0 +1,71 @@
+PT J
+AU Chun, J
+   Kim, JW
+   Jung, WS
+   Kang, CY
+   Kim, SW
+   Wang, ZL
+   Baik, JM
+AF Chun, Jinsung
+   Kim, Jin Woong
+   Jung, Woo-suk
+   Kang, Chong-Yun
+   Kim, Sang-Woo
+   Wang, Zhong Lin
+   Baik, Jeong Min
+TI Mesoporous pores impregnated with Au nanoparticles as effective
+   dielectrics for enhancing triboelectric nanogenerator performance in
+   harsh environments
+SO ENERGY & ENVIRONMENTAL SCIENCE
+LA English
+DT Article
+ID HARVESTING BIOMECHANICAL ENERGY; CONTACT-ELECTRIFICATION; TRANSPARENT;
+   VIBRATION; DRIVEN
+AB A facile and scalable synthesis of mesoporous films impregnated with Au nanoparticles (NPs) as effective dielectrics is demonstrated for enhancing the nanogenerator performance based on vertical contact-separation mode. This technique is so simple and scalable, providing a promising solution for developing large-scale and practical self-powered devices. The spatial distribution of Au NPs made it possible to fabricate an Au NP-embedded mesoporous triboelectric nanogenerator (AMTENG) with a high output power of 13 mW under cycled compressive force, giving over 5-fold power enhancement, compared with a flat film-based TENG under the same mechanical force. It is proposed that the presence of aligned dipoles produced due to the charges created by the contact between Au NPs and PDMS inside the pores can influence the surface potential energy of mesoporous films. With such an enhanced power output and unique device design, we demonstrate various applications such as self-powered shape mapping sensors, foot-step driven large-scale AMTENGs, and integrated circuits with capacitors for powering commercial cell phones for realizing self-powered systems from footsteps, wind power, and ocean waves.
+C1 [Chun, Jinsung; Kim, Jin Woong; Baik, Jeong Min] Ulsan Natl Inst Sci & Technol, Sch Mat Sci & Engn, KIST UNIST Ulsan Ctr Convergent Mat, Ulsan 689798, South Korea.
+   [Jung, Woo-suk] Korea Inst Sci & Technol, Elect Mat Res Ctr, Seoul 137791, South Korea.
+   [Kang, Chong-Yun] Korea Univ, KU KIST Grad Sch Converging Sci & Technol, Seoul 136701, South Korea.
+   [Kim, Sang-Woo] Sungkyunkwan Univ SKKU, Sch Adv Mat Sci & Engn, Suwon 440746, South Korea.
+   [Wang, Zhong Lin] Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+C3 Ulsan National Institute of Science & Technology (UNIST); Korea
+   Institute of Science & Technology (KIST); Korea University; Sungkyunkwan
+   University (SKKU); University System of Georgia; Georgia Institute of
+   Technology
+RP Chun, J (通讯作者)，Ulsan Natl Inst Sci & Technol, Sch Mat Sci & Engn, KIST UNIST Ulsan Ctr Convergent Mat, Ulsan 689798, South Korea.
+EM jbaik@unist.ac.kr
+RI Baik, Jeong/E-9205-2010; Kang, Chong-Yun/K-4889-2012; Wang, Zhong
+   Lin/E-2176-2011; Kim, Sang-Woo/I-7769-2014
+OI Wang, Zhong Lin/0000-0002-5530-0380; Kim, Sang-Woo/0000-0002-0079-5806
+FU Samsung Research Funding Center of Samsung Electronics [SRFC-TA1403-06]
+FX This work was supported by Samsung Research Funding Center of Samsung
+   Electronics under Project Number SRFC-TA1403-06.
+NR 35
+TC 338
+Z9 354
+U1 18
+U2 450
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1754-5692
+EI 1754-5706
+J9 ENERG ENVIRON SCI
+JI Energy Environ. Sci.
+PY 2015
+VL 8
+IS 10
+BP 3006
+EP 3012
+DI 10.1039/c5ee01705j
+PG 7
+WC Chemistry, Multidisciplinary; Energy & Fuels; Engineering, Chemical;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Energy & Fuels; Engineering; Environmental Sciences & Ecology
+GA CS8PZ
+UT WOS:000362351700022
+HC Y
+HP N
+DA 2025-05-29
+ER

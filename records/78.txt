@@ -1,0 +1,54 @@
+PT J
+AU Moulin, A
+   Wirth, A
+AF Moulin, A.
+   Wirth, A.
+TI Momentum Transfer Between an Atmospheric and an Oceanic Layer at the
+   Synoptic and the Mesoscale: An Idealized Numerical Study
+SO BOUNDARY-LAYER METEOROLOGY
+LA English
+DT Article
+DE Air-sea interaction; Numerical modelling; Turbulence
+ID GLASS-TRANSITION; CIRCULATION; SEA
+AB We consider air-sea interaction at the (atmospheric) synoptic and the mesoscale due to momentum transfer only. Two superposed one-layer fine-resolution shallow-water models are numerically integrated, where the upper layer represents the atmosphere and the lower layer the ocean. The frictional force between the two layers is implemented using a quadratic drag law and experiments with different values of the surface drag coefficient are performed. The actual energy loss of the atmosphere and the energy gain by the ocean, due to the interfacial shear, is determined and compared to estimates based on average speeds. The correlation between the vorticity in the atmosphere and the ocean is determined. Results differ from previous investigations where the exchange of momentum was considered at basin scale. It is shown that the ocean has a passive role, absorbing kinetic energy at nearly all times and locations, results showing that the energy input to the ocean increases almost quadratically with the value of the drag coefficient. Due to the feeble velocities in the ocean, the energy transfer depends only weakly on the oceanic velocity. The ocean dynamics leave nevertheless their imprint on atmospheric dynamics, leading to a quenched disordered state of the atmosphere-ocean system for the highest value of the drag coefficient considered. This finding questions the ergodic hypothesis for the idealized configuration studied here. The ergodic hypothesis is at the basis of a large number of experimental, observational and numerical results in ocean, atmosphere and climate dynamics.
+C1 [Moulin, A.; Wirth, A.] Univ Grenoble Alpes, CNRS, LEGI, F-38000 Grenoble, France.
+C3 Communaute Universite Grenoble Alpes; Institut National Polytechnique de
+   Grenoble; Universite Grenoble Alpes (UGA); Centre National de la
+   Recherche Scientifique (CNRS)
+RP Moulin, A (通讯作者)，Univ Grenoble Alpes, CNRS, LEGI, F-38000 Grenoble, France.
+EM aimie.moulin@legi.grenoble-inp.fr; achim.wirth@legi.grenoble-inp.fr
+OI MOULIN, AIMIE/0000-0002-9489-0985
+FU AGIR, UGA (France); Labex OSUG [ANR10 LABX56]; IDRIS (France)
+   [i2015016802]
+FX We thank J.B. Flor for discussion. The work is funded by AGIR, UGA
+   (France) and by a grant from Labex OSUG@2020 (Investissements d'avenir -
+   ANR10 LABX56). Calculations were done at IDRIS (France) project:
+   i2015016802.
+NR 15
+TC 4
+Z9 5
+U1 0
+U2 7
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-8314
+EI 1573-1472
+J9 BOUND-LAY METEOROL
+JI Bound.-Layer Meteor.
+PD SEP
+PY 2016
+VL 160
+IS 3
+BP 551
+EP 568
+DI 10.1007/s10546-016-0153-x
+PG 18
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA DU2BI
+UT WOS:000382015300008
+OA Green Submitted
+DA 2025-05-29
+ER

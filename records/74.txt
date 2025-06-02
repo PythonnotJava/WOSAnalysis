@@ -1,0 +1,55 @@
+PT J
+AU da Fonseca, FCX
+   Amaral, L
+   Chainho, P
+AF Correia da Fonseca, Francisco X.
+   Amaral, Luis
+   Chainho, Paulo
+TI A Decision Support Tool for Long-Term Planning of Marine Operations in
+   Ocean Energy Projects
+SO JOURNAL OF MARINE SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE logistics; marine operation planning; dtoceanplus; decision support;
+   ocean energy
+ID MAINTENANCE COSTS; WIND; INSTALLATION; OPTIMIZATION; VESSELS; SYSTEMS;
+   WAVE
+AB Ocean energy is a relevant source of clean renewable energy, and as it is still facing challenges related to its above grid-parity costs, tariffs intended to support in a structured and coherent way are of great relevance and potential impact. The logistics and marine operations required for installing and maintaining these systems are major cost drivers of marine renewable energy projects. Planning the logistics of marine energy projects is a highly complex and intertwined process, and to date, limited advances have been made in the development of decision support tools suitable for ocean energy farm design. The present paper describes the methodology of a novel, open-source, logistic and marine operation planning tool, integrated within DTOceanPlus suite of design tools, and responsible for producing logistic solutions comprised of optimal selections of vessels, port terminals, equipment, as well as operation plans, for ocean energy projects. Infrastructure selection logistic functions were developed to select vessels, ports, and equipment for specific projects. A statistical weather window model was developed to estimate operation delays due to weather. A vessel charter rate modeling approach, based on an in-house vessel database and industry experience, is described in detail. The overall operation assumptions and underlying operating principles of the statistical weather window model, maritime infrastructure selection algorithms, and cost modeling strategies are presented. Tests performed for a case study based a theoretical floating wave energy converter produced results in good agreement with reality.
+C1 [Correia da Fonseca, Francisco X.; Amaral, Luis; Chainho, Paulo] WavEC Offshore Renewables, Edif Diogo Cao, P-1350352 Lisbon, Portugal.
+RP da Fonseca, FCX (通讯作者)，WavEC Offshore Renewables, Edif Diogo Cao, P-1350352 Lisbon, Portugal.
+EM francisco.fonseca@wavec.org; luis.amaral@wavec.org; paulo@wavec.org
+OI Correia da Fonseca, Francisco/0000-0002-2143-2449; Amaral,
+   Luis/0000-0002-2935-0835; Chainho, Paulo/0000-0002-8382-7390
+FU European Union's Horizon 2020 research and innovation programme
+   [785921]; H2020 Societal Challenges Programme [785921] Funding Source:
+   H2020 Societal Challenges Programme
+FX This work has been partially supported by European Union's Horizon 2020
+   research and innovation programme under grant agreement No 785921,
+   project DTOceanPlus (Advanced Design Tools for Ocean Energy Systems
+   Innovation, Development and Deployment).
+NR 62
+TC 8
+Z9 8
+U1 1
+U2 15
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2077-1312
+J9 J MAR SCI ENG
+JI J. Mar. Sci. Eng.
+PD AUG
+PY 2021
+VL 9
+IS 8
+AR 810
+DI 10.3390/jmse9080810
+PG 23
+WC Engineering, Marine; Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA UG7UA
+UT WOS:000689451100001
+OA gold
+DA 2025-05-29
+ER

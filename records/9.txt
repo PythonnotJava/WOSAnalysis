@@ -1,0 +1,69 @@
+PT J
+AU Lu, ZQ
+   Zhao, L
+   Fu, HL
+   Yeatman, E
+   Ding, H
+   Chen, LQ
+AF Lu, Ze-Qi
+   Zhao, Long
+   Fu, Hai-Ling
+   Yeatman, Eric
+   Ding, Hu
+   Chen, Li-Qun
+TI Ocean wave energy harvesting with high energy density and self-powered
+   monitoring system
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID NANOGENERATOR; CONVERTERS
+AB Constructing a ocean Internet of Things requires an essential ocean environment monitoring system. However, the widely distributed existing ocean monitoring sensors make it impractical to provide power and transmit monitored information through cables. Therefore, ocean environment monitoring systems particularly need a continuous power supply and wireless transmission capability for monitoring information. Consequently, a high-strength, environmentally multi-compatible, floatable metamaterial energy harvesting device has been designed through integrated dynamic matching optimization of materials, structures, and signal transmission. The self-powered monitoring system breaks through the limitations of cables and batteries in the ultra-low-frequency wave environment (1 to 2 Hz), enabling real-time monitoring of various ocean parameters and wirelessly transmitting the data to the cloud for post-processing. Compared with solar and wind energy in the ocean environment, the energy harvesting device based on the defective state characteristics of metamaterials achieves a high-energy density (99 W/m3). For the first time, a stable power supply for the monitoring system has been realized in various weather conditions (24 h).
+   Point-defect metamaterials have the property of concentrating vibration energy at the defect location. We design an environmental monitoring node based on this property, which can efficiently convert wave kinetic energy into electrical energy for real-time monitoring of the ocean environment.
+C1 [Lu, Ze-Qi; Zhao, Long; Ding, Hu; Chen, Li-Qun] Shanghai Univ, Shanghai Inst Appl Math & Mech, Shanghai Frontier Sci Ctr Mechanoinformat, Sch Mech & Engn Sci,Shanghai Key Lab Mech Energy E, Shanghai, Peoples R China.
+   [Lu, Ze-Qi; Zhao, Long] Shanghai Univ, Sch Microelect, Shanghai, Peoples R China.
+   [Fu, Hai-Ling] Beijing Inst Technol, Sch Automat, Beijing, Peoples R China.
+   [Yeatman, Eric] Imperial Coll London, Dept Elect & Elect Engn, London, England.
+C3 Shanghai University; Shanghai University; Beijing Institute of
+   Technology; Imperial College London
+RP Lu, ZQ (通讯作者)，Shanghai Univ, Shanghai Inst Appl Math & Mech, Shanghai Frontier Sci Ctr Mechanoinformat, Sch Mech & Engn Sci,Shanghai Key Lab Mech Energy E, Shanghai, Peoples R China.; Lu, ZQ (通讯作者)，Shanghai Univ, Sch Microelect, Shanghai, Peoples R China.; Fu, HL (通讯作者)，Beijing Inst Technol, Sch Automat, Beijing, Peoples R China.
+EM luzeqi@shu.edu.cn; hailing.fu@bit.edu.cn
+RI Ding, Hu/C-7240-2009; Lu, Zeqi/AAC-3601-2021; Fu, Hailing/J-3568-2019
+OI Fu, Hailing/0000-0002-7557-3853; Yeatman, Eric/0000-0003-0487-2693; Lu,
+   Ze-Qi/0000-0002-0150-7490
+FU National Natural Science Foundation of China (National Science
+   Foundation of China) [12272210, 11872037, 11572182]; National Natural
+   Science Foundation of China [2017-01-07-00-09- E00019]; Innovation
+   Program of Shanghai Municipal Education Commission
+FX This study was funded by the National Natural Science Foundation of
+   China (Grant Nos. 12272210 and 11872037 to Z.-Q.L.; Grant No. 11572182
+   to L.-Q.C.) and the Innovation Program of Shanghai Municipal Education
+   Commission (Grant No. 2017-01-07-00-09- E00019 to L.-Q.C.).
+NR 65
+TC 51
+Z9 51
+U1 79
+U2 127
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD AUG 2
+PY 2024
+VL 15
+IS 1
+AR 6513
+DI 10.1038/s41467-024-50926-5
+PG 14
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA A6D9V
+UT WOS:001283431700013
+PM 39095429
+OA Green Published, gold
+HC Y
+HP Y
+DA 2025-05-29
+ER

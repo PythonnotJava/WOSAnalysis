@@ -1,0 +1,58 @@
+PT J
+AU Hacker, SD
+   Menge, BA
+   Nielsen, KJ
+   Chan, F
+   Gouhier, TC
+AF Hacker, Sally D.
+   Menge, Bruce A.
+   Nielsen, Karina J.
+   Chan, Francis
+   Gouhier, Tarik C.
+TI Regional processes are stronger determinants of rocky intertidal
+   community dynamics than local biotic interactions
+SO ECOLOGY
+LA English
+DT Article
+DE comparative-experimental design; macrophytes; meta-ecosystem; northern
+   California Current System; Pacific Northwest coast; sessile
+   invertebrates; upwelling
+ID TOP-DOWN; POSITIVE INTERACTIONS; META-ECOSYSTEMS; SCALE; RECRUITMENT;
+   COMPETITION; ORGANIZATION; VARIABILITY; DISTURBANCE; MECHANISMS
+AB Understanding the relative roles of species interactions and environmental factors in structuring communities has historically focused on local scales where manipulative experiments are possible. However, recent interest in predicting the effects of climate change and species invasions has spurred increasing attention to processes occurring at larger spatial and temporal scales. The "meta-ecosystem" approach is an ideal framework for integrating processes operating at multiple scales as it explicitly considers the influence of local biotic interactions and regional flows of energy, materials, and organisms on community structure. Using a comparative-experimental design, we asked (1) what is the relative importance of local biotic interactions and oceanic processes in determining rocky intertidal community structure in the low zone within the Northern California Current System, and (2) what factors are most important in regulating this structure and why? We focused on functional group interactions between macrophytes and sessile invertebrates and their consumers (grazers, predators), how these varied across spatial scales, and with ocean-driven conditions (upwelling, temperature) and ecological subsidies (nutrients, phytoplankton, sessile invertebrate recruits). Experiments were conducted at 13 sites divided across four capes in Oregon and northern California. Results showed that biotic interactions were variable in space and time but overall, sessile invertebrates had no effect on macrophytes while macrophytes had weakly negative effects on sessile invertebrates. Consumers, particularly predators, also had weakly negative effects on both functional groups. Overall, we found that 40-49% of the variance in community structure at the local scale was explained by external factors (e.g., spatial scale, time, upwelling, temperature, ecological subsidies) vs. 19-39% explained by functional group interactions. When individual functional group interaction strengths were used, only 2-3% of the variation was explained by any one functional group while 28-54% of the variation was explained by external factors. We conclude that community structure in the low intertidal zone is driven primarily by external factors at the regional scale with local biotic interactions playing a secondary role.
+C1 [Hacker, Sally D.; Menge, Bruce A.; Chan, Francis] Oregon State Univ, Dept Integrat Biol, Corvallis, OR 97331 USA.
+   [Nielsen, Karina J.] San Francisco State Univ, Estuary & Ocean Sci Ctr, Tiburon, CA 94920 USA.
+   [Gouhier, Tarik C.] Northeastern Univ, Marine Sci Inst, Nahant, MA 01908 USA.
+C3 Oregon State University; California State University System; San
+   Francisco State University; Northeastern University
+RP Hacker, SD (通讯作者)，Oregon State Univ, Dept Integrat Biol, Corvallis, OR 97331 USA.
+EM hackers@science.oregonstate.edu
+RI Nielsen, Karina/AAQ-6430-2020; Gouhier, Tarik/C-3611-2009; Menge,
+   Bruce/I-6571-2012
+OI Gouhier, Tarik/0000-0002-9537-7358
+NR 53
+TC 20
+Z9 22
+U1 1
+U2 52
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-9658
+EI 1939-9170
+J9 ECOLOGY
+JI Ecology
+PD AUG
+PY 2019
+VL 100
+IS 8
+DI 10.1002/ecy.2763
+PG 12
+WC Ecology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA IM6KY
+UT WOS:000478103000018
+PM 31127616
+DA 2025-05-29
+ER

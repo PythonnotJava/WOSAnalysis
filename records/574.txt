@@ -1,0 +1,85 @@
+PT J
+AU Riedinger, N
+   Strasser, M
+   Harris, RN
+   Klockgether, G
+   Lyons, TW
+   Screaton, EJ
+AF Riedinger, N.
+   Strasser, M.
+   Harris, R. N.
+   Klockgether, G.
+   Lyons, T. W.
+   Screaton, E. J.
+TI Deep subsurface carbon cycling in the Nankai Trough (Japan)-Evidence of
+   tectonically induced stimulation of a deep microbial biosphere
+SO GEOCHEMISTRY GEOPHYSICS GEOSYSTEMS
+LA English
+DT Article
+ID ORGANIC-MATTER; PERMEABILITY ENHANCEMENT; VITRINITE REFLECTANCE;
+   INTERSTITIAL WATERS; ANAEROBIC OXIDATION; METHANE PRODUCTION; BIOGENIC
+   METHANE; SEISMIC SLIP; MARINE; SEA
+AB The abundance of microbial life and the sources of energy necessary for deep subsurface microbial communities remain enigmatic. Here we investigate deep microbial processes and their potential relationships to tectonic events in sediments from the Nankai Trough offshore Japan, drilled and sampled during IODP (Integrated Ocean Drilling Program) Expedition 316. Observed methane isotope profiles indicate that microbially mediated methane production occurs at Sites C0006 and C0007 in sediments below similar to 450 meters below seafloor (mbsf) and similar to 425 mbsf, respectively. The active carbon cycling in these deep subsurface sediments is likely related to the highly dynamic tectonic regime at Nankai Trough. We propose that transient increases in temperature have restimulated organic matter degradation at these distinct depths and explore several candidate processes for transient heating. Our favored hypothesis is frictional heating associated with earthquakes. In concert with transient heating leading to the reactivation of recalcitrant organic matter, the heterogeneous sedimentary system provides niches for microbial life. The newly available/accessible organic carbon compounds fuel the microbial community-resulting in an onset of methanogenesis several hundred meters below the seafloor. This process is captured in the methane C-isotope signal, showing the efficacy of methane C-isotopes for delineating locations of active microbial processes in deeply buried sediments. Additionally, simple model approaches applied to observed chemical pore water profiles can potentially constrain timing relationships, which can then be linked to causative tectonic events. Our results suggest the occurrence of slip-to-the-trench earthquake(s) 200-400 year ago, which could relate to historical earthquakes (1707 Hoei and/or 1605 Keicho earthquakes).
+C1 [Riedinger, N.; Lyons, T. W.] Univ Calif Riverside, Dept Earth Sci, Riverside, CA 92521 USA.
+   [Riedinger, N.; Klockgether, G.] Max Planck Inst Marine Microbiol, Bremen, Germany.
+   [Strasser, M.] ETH, Inst Geol, CH-8092 Zurich, Switzerland.
+   [Harris, R. N.] Oregon State Univ, Coll Ocean & Atmospher Sci, Corvallis, OR 97331 USA.
+   [Screaton, E. J.] Univ Florida, Dept Geol Sci, Gainesville, FL USA.
+C3 University of California System; University of California Riverside; Max
+   Planck Society; Swiss Federal Institutes of Technology Domain; ETH
+   Zurich; Oregon State University; State University System of Florida;
+   University of Florida
+RP Riedinger, N (通讯作者)，Oklahoma State Univ, Boone Pickens Sch Geol, Stillwater, OK 74078 USA.
+EM Natascha.Riedinger@okstate.edu
+RI Lyons, Timothy/ADT-8795-2022; Strasser, Michael/A-2424-2009
+OI Strasser, Michael/0000-0003-3991-2405; Riedinger,
+   Natascha/0000-0001-6766-0749
+FU Deutsche Forschungsgemeinschaft (DFG)-IODP; National Science Foundation
+   (NSF); Max Planck Society; Swiss National Science Foundation
+   [PP00P2-133481]; U.S. Science Support Program; NSF [OCE-0751497]; U.S.
+   Science Support Program for IODP [NSF 0652315]; Swiss National Science
+   Foundation (SNF) [PP00P2_133481] Funding Source: Swiss National Science
+   Foundation (SNF)
+FX The authors thank the captain and the crew of the D/V Chikyu during IODP
+   Expedition 316. Our special appreciation goes to L. Wehrmann, T.
+   Ferdelman, and M. Formolo for fruitful discussions and critical
+   comments. We thank the Editor and two reviewers for providing
+   constructive comments that helped to improve this paper. This research
+   was funded by the Deutsche Forschungsgemeinschaft (DFG)-IODP and the
+   National Science Foundation (NSF). N.R. was partially supported by the
+   Max Planck Society. M.S. acknowledges support by Swiss National Science
+   Foundation (grant PP00P2-133481). E.S. acknowledges support from the
+   U.S. Science Support Program and NSF (OCE-0751497). R.H. was partially
+   supported by U.S. Science Support Program for IODP (NSF 0652315) that is
+   administered by the Consortium for Ocean Leadership. This is an Oklahoma
+   State University-Boone Pickens School of Geology contribution 2015-27.
+   This research used samples and data provided by the Integrated Ocean
+   Drilling Program (IODP). All additional data are provided in the
+   supporting information.
+NR 66
+TC 7
+Z9 9
+U1 0
+U2 24
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 1525-2027
+J9 GEOCHEM GEOPHY GEOSY
+JI Geochem. Geophys. Geosyst.
+PD SEP
+PY 2015
+VL 16
+IS 9
+BP 3257
+EP 3270
+DI 10.1002/2015GC006050
+PG 14
+WC Geochemistry & Geophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics
+GA CW5ML
+UT WOS:000365039400030
+OA Bronze, Green Published
+DA 2025-05-29
+ER

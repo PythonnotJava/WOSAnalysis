@@ -1,0 +1,69 @@
+PT J
+AU Wang, TR
+   Guo, ZA
+   Jin, H
+   Li, YZ
+   Liu, B
+   Liu, JH
+   Xu, GC
+   Xu, P
+   Xu, MY
+AF Wang, Tianrun
+   Guo, Zinan
+   Jin, Hao
+   Li, Yuanzheng
+   Liu, Bo
+   Liu, Jianhua
+   Xu, Gengchen
+   Xu, Peng
+   Xu, Minyi
+TI A coral-inspired and fully self-powered wave monitoring system based on
+   hybridized triboelectric-electromagnetic nanogenerator
+SO SENSORS AND ACTUATORS A-PHYSICAL
+LA English
+DT Article
+DE Self-powered sensing; Triboelectric nanogenerator; Ocean wave
+   monitoring; Energy harvesting
+ID WAVERIDER BUOY MEASUREMENTS; COMPARATIVE PERFORMANCE; FREQUENCY; RADAR;
+   LASER
+AB The need for effective ocean monitoring in the marine environment presents a meaningful and challenging research direction to develop multi-directional, self-powered, and environmentally friendly sensors. This study presents a self-powered coral-inspired sensing (SPCS) system for real-time ocean wave monitoring. The SPCS integrates a triboelectric nanogenerator, a small electromagnetic generator (EMG)-based wave energy harvesting, and biomimetic structures to harvest mechanical energy from ocean waves, enabling autonomous operation without an external power source. The system demonstrates high sensitivity to wave height, frequency, and multi-directional sensing. Specifically, the SPCS accurately detects wave heights ranging from 25 mm to 125 mm, exhibiting a linear voltage increase with a correlation coefficient of 0.95. The EMG-based wave energy harvesting generates approximately 3 mW of power under typical wave conditions, sufficient to sustain the system's wireless transmission module. Thus, the SPCS offers a promising solution for long-term, remote wave monitoring in marine environments, offshore platforms, and oceanographic research.
+C1 [Wang, Tianrun; Guo, Zinan; Jin, Hao; Li, Yuanzheng; Liu, Bo; Liu, Jianhua; Xu, Gengchen; Xu, Peng; Xu, Minyi] Dalian Maritime Univ, Marine Engn Coll, Dalian Key Lab Marine Micro, Nano Energy & Selfpowered Syst, Dalian 116026, Peoples R China.
+   [Xu, Peng] Peking Univ, Coll Engn, Dept Biomed Engn, 5 Yiheyuan Rd Haidian Dist, Beijing 100871, Peoples R China.
+C3 Dalian Maritime University; Peking University
+RP Xu, P; Xu, MY (通讯作者)，Dalian Maritime Univ, Marine Engn Coll, Dalian Key Lab Marine Micro, Nano Energy & Selfpowered Syst, Dalian 116026, Peoples R China.
+EM pengxu@pku.edu.cn; xuminyi@dlmu.edu.cn
+RI xu, minyi/AAY-7624-2020
+FU National Natural Science Foundation of China [52371345, 52401399];
+   Xingliao Talent Plan Young Talent Project of Liaoning Province
+   [XLYC2203175]; Postdoctoral Fellowship Program of China Postdoctoral
+   Science Foun-dation [GZC20230062]
+FX This work was supported in part by the National Natural Science
+   Foundation of China (52371345, 52401399) , the Xingliao Talent Plan
+   Young Talent Project of Liaoning Province (XLYC2203175) , and the
+   Postdoctoral Fellowship Program of China Postdoctoral Science
+   Foun-dation (GZC20230062) .
+NR 48
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0924-4247
+EI 1873-3069
+J9 SENSOR ACTUAT A-PHYS
+JI Sens. Actuator A-Phys.
+PD JUN 1
+PY 2025
+VL 387
+AR 116451
+DI 10.1016/j.sna.2025.116451
+PG 12
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Instruments & Instrumentation
+GA 2NI0W
+UT WOS:001486732500001
+DA 2025-05-29
+ER

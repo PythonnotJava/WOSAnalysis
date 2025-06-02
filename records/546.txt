@@ -1,0 +1,78 @@
+PT J
+AU Trumbo, SK
+   Brown, ME
+   Hand, KP
+AF Trumbo, Samantha K.
+   Brown, Michael E.
+   Hand, Kevin P.
+TI H2O2 within Chaos Terrain on Europa's Leading
+   Hemisphere
+SO ASTRONOMICAL JOURNAL
+LA English
+DT Article
+DE planets and satellites: composition; planets and satellites: individual
+   (Europa); planets and satellites: surfaces
+ID HYDROGEN-PEROXIDE; WATER ICE; SHALLOW SUBSURFACE; SURFACE; TEMPERATURE;
+   RADIOLYSIS; ENERGY
+AB Hydrogen peroxide is part of an important radiolytic cycle on Europa and may be a critical source of oxidants to the putative subsurface ocean. The surface geographic distribution of hydrogen peroxide may constrain the processes governing its abundance as well as its potential relevance to the subsurface chemistry. However, maps of Europa's hydrogen peroxide beyond hemispherical averages have never been published. Here, we present spatially resolved L-band (3.16-4 mu m) observations of Europa's 3.5 mu m hydrogen peroxide absorption, which we obtained using the Near InfraRed Spectrograph (NIRSPEC) and the adaptive optics system on the Keck II telescope. Using these data, we map the strength of the 3.5 mu m absorption across the surface at a nominal spatial resolution of similar to 300 km. Though previous disk-integrated data seemed consistent with the laboratory expectation that Europa's hydrogen peroxide exists primarily in its coldest and iciest regions, we find nearly the exact opposite at this finer spatial scale. Instead, we observe the largest hydrogen peroxide absorptions at low latitudes on the leading and anti-Jovian hemispheres, correlated with chaos terrain, and relative depletions toward the cold, icy high latitudes. This distribution may reflect the effects of decreased hydrogen peroxide destruction due to efficient electron scavenging by CO2 within chaos terrain.
+C1 [Trumbo, Samantha K.; Brown, Michael E.] CALTECH, Div Geol & Planetary Sci, Pasadena, CA 91125 USA.
+   [Hand, Kevin P.] CALTECH, Jet Prop Lab, Pasadena, CA 91109 USA.
+C3 California Institute of Technology; National Aeronautics & Space
+   Administration (NASA); NASA Jet Propulsion Laboratory (JPL); California
+   Institute of Technology
+RP Trumbo, SK (通讯作者)，CALTECH, Div Geol & Planetary Sci, Pasadena, CA 91125 USA.
+RI Moody, Michael/H-9377-2013; Hand, Kevin/I-8246-2018
+OI Brown, Michael E./0000-0002-8255-0545; Trumbo,
+   Samantha/0000-0002-0767-8901; Hand, Kevin/0000-0002-3225-9426
+FU National Science Foundation [1313461]; NASA Headquarters under the NASA
+   Earth and Space Science Fellowship Program [80NSSC17K0478]; Jet
+   Propulsion Laboratory, California Institute of Technology; National
+   Aeronautics and Space Administration; internal Research and Technology
+   Development program; W. M. Keck Foundation; Division Of Astronomical
+   Sciences; Direct For Mathematical & Physical Scien [1313461] Funding
+   Source: National Science Foundation
+FX This research was supported by grant 1313461 from the National Science
+   Foundation. This work was also supported by NASA Headquarters under the
+   NASA Earth and Space Science Fellowship Program Grant 80NSSC17K0478.
+   K.P.H. acknowledges support from the Jet Propulsion Laboratory,
+   California Institute of Technology, under a contract with the National
+   Aeronautics and Space Administration and funded in part through the
+   internal Research and Technology Development program. The data presented
+   herein were obtained at the W.M. Keck Observatory, which is operated as
+   a scientific partnership among the California Institute of Technology,
+   the University of California, and the National Aeronautics and Space
+   Administration. The Observatory was made possible by the generous
+   financial support of the W. M. Keck Foundation. The authors wish to
+   recognize and acknowledge the very significant cultural role and
+   reverence that the summit of Maunakea has always had within the
+   indigenous Hawaiian community. We are most fortunate to have the
+   opportunity to conduct observations from this mountain. We thank Robert
+   W. Carlson for sharing enlightening details concerning Galileo NIMS
+   observations of CO<INF>2</INF> on Europa.
+NR 34
+TC 28
+Z9 29
+U1 1
+U2 12
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0004-6256
+EI 1538-3881
+J9 ASTRON J
+JI Astron. J.
+PD SEP
+PY 2019
+VL 158
+IS 3
+AR 127
+DI 10.3847/1538-3881/ab380c
+PG 6
+WC Astronomy & Astrophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Astronomy & Astrophysics
+GA IT7IS
+UT WOS:000483049500001
+OA Green Submitted, Green Accepted, Bronze
+DA 2025-05-29
+ER

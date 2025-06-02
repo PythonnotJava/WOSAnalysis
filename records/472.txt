@@ -1,0 +1,115 @@
+PT J
+AU Zhang, CZ
+   Golaz, JC
+   Forsyth, R
+   Vo, T
+   Xie, SC
+   Shaheen, Z
+   Potter, GL
+   Asay-Davis, XS
+   Zender, CS
+   Lin, WY
+   Chen, CC
+   Terai, CR
+   Mahajan, S
+   Zhou, T
+   Balaguru, K
+   Tang, Q
+   Tao, C
+   Zhang, YY
+   Emmenegger, T
+   Burrows, S
+   Ullrich, PA
+AF Zhang, Chengzhu
+   Golaz, Jean-Christophe
+   Forsyth, Ryan
+   Vo, Tom
+   Xie, Shaocheng
+   Shaheen, Zeshawn
+   Potter, Gerald L.
+   Asay-Davis, Xylar S.
+   Zender, Charles S.
+   Lin, Wuyin
+   Chen, Chih-Chieh
+   Terai, Chris R.
+   Mahajan, Salil
+   Zhou, Tian
+   Balaguru, Karthik
+   Tang, Qi
+   Tao, Cheng
+   Zhang, Yuying
+   Emmenegger, Todd
+   Burrows, Susannah
+   Ullrich, Paul A.
+TI The E3SM Diagnostics Package (E3SM Diags v2.7): a Python-based
+   diagnostics package for Earth system model evaluation
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID TROPICAL CYCLONES; CMIP6 MODELS; CLIMATE; PRECIPITATION; SATELLITE;
+   WEATHER; OCEAN; TEMPESTEXTREMES; SEASONALITY; VARIABILITY
+AB The E3SM Diagnostics Package (E3SM Diags) is a modern, Python-based Earth system model (ESM) evaluation tool (with Python module name e3sm_diags), developed to support the Department of Energy (DOE) Energy Exascale Earth System Model (E3SM). E3SM Diags provides a wide suite of tools for evaluating native E3SM output, as well as ESM data on regular latitude-longitude grids, including output from Coupled Model Intercomparison Project (CMIP) class models. E3SM Diags is modeled after the National Center for Atmospheric Research (NCAR) Atmosphere Model Working Group diagnostics package. In its version 1 release, E3SM Diags included a set of core essential diagnostics to evaluate the mean physical climate from model simulations. As of version 2.7, more process-oriented and phenomenon-based evaluation diagnostics have been implemented, such as analysis of the quasi-biennial oscillation (QBO), the El Nino-Southern Oscillation (ENSO), streamflow, the diurnal cycle of precipitation, tropical cyclones, ozone and aerosol properties. An in situ dataset from DOE's Atmospheric Radiation Measurement (ARM) program has been integrated into the package for evaluating the representation of simulated cloud and precipitation processes. This tool is designed with enough flexibility to allow for the addition of new observational datasets and new diagnostic algorithms. Additional features include customizable figures; streamlined installation, configuration and execution; and multiprocessing for fast computation. The package uses an up-to-date observational data repository maintained by its developers, where recent datasets are added to the repository as they become available. Finally, several applications for the E3SM Diags module were introduced to fit a diverse set of use cases from the scientific community.
+C1 [Zhang, Chengzhu; Golaz, Jean-Christophe; Forsyth, Ryan; Vo, Tom; Xie, Shaocheng; Shaheen, Zeshawn; Potter, Gerald L.; Terai, Chris R.; Tang, Qi; Tao, Cheng; Zhang, Yuying] Lawrence Livermore Natl Lab, Livermore, CA 94550 USA.
+   [Asay-Davis, Xylar S.] Los Alamos Natl Lab, Los Alamos, NM USA.
+   [Zender, Charles S.] Univ Calif Irvine, Earth Syst Sci Dept, Irvine, CA USA.
+   [Lin, Wuyin] Brookhaven Natl Lab, Upton, NY USA.
+   [Chen, Chih-Chieh] Natl Ctr Atmospher Res, Boulder, CO USA.
+   [Mahajan, Salil] Oak Ridge Natl Lab, Oak Ridge, TN USA.
+   [Zhou, Tian; Balaguru, Karthik; Burrows, Susannah] Pacific Northwest Natl Lab, Richland, WA USA.
+   [Emmenegger, Todd] Univ Calif Los Angeles, Dept Atmospher & Ocean Sci, Los Angeles, CA USA.
+   [Ullrich, Paul A.] Univ Calif Davis, Dept Land Air & Water Resources, Davis, CA USA.
+   [Shaheen, Zeshawn] Google LLC, Mountain View, CA USA.
+C3 United States Department of Energy (DOE); Lawrence Livermore National
+   Laboratory; United States Department of Energy (DOE); Los Alamos
+   National Laboratory; University of California System; University of
+   California Irvine; United States Department of Energy (DOE); Brookhaven
+   National Laboratory; National Center Atmospheric Research (NCAR) - USA;
+   United States Department of Energy (DOE); Oak Ridge National Laboratory;
+   United States Department of Energy (DOE); Pacific Northwest National
+   Laboratory; University of California System; University of California
+   Los Angeles; University of California System; University of California
+   Davis; Alphabet Inc.; Google Incorporated
+RP Zhang, CZ (通讯作者)，Lawrence Livermore Natl Lab, Livermore, CA 94550 USA.
+EM zhang40@llnl.gov
+RI Tao, Cheng/Y-4848-2019; Ullrich, Paul/E-9350-2015; Zhang,
+   Yuying/H-5011-2012; Zhou, Tian/J-4007-2019; Zender, Charles/D-4485-2012;
+   Burrows, Susannah/A-7429-2011; Zhou, Tian/F-8659-2015; Xie,
+   Shaocheng/D-2207-2013; Golaz, Jean-Christophe/D-5007-2014; Tang,
+   Qi/C-1032-2011
+OI Mahajan, Salil/0000-0001-5767-8590; Zender, Charles/0000-0003-0129-8024;
+   Burrows, Susannah/0000-0002-0745-7252; Zhou, Tian/0000-0003-1582-4005;
+   Zhang, Chengzhu/0000-0002-9632-0716; Xie, Shaocheng/0000-0001-8931-5145;
+   Golaz, Jean-Christophe/0000-0003-1616-5435; Asay-Davis,
+   Xylar/0000-0002-1990-892X; Tang, Qi/0000-0003-2959-0203
+FU US DOE (E3SM project); US DOE ARM program; US DOE RGMA program; NSF
+FX This research has been supported by the US DOE (E3SM project) and
+   partially supported by the US DOE ARM program and RGMA program, as well
+   as by NSF.
+NR 75
+TC 4
+Z9 4
+U1 0
+U2 9
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD DEC 20
+PY 2022
+VL 15
+IS 24
+BP 9031
+EP 9056
+DI 10.5194/gmd-15-9031-2022
+PG 26
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA 7E9HK
+UT WOS:000901469600001
+OA Green Submitted, gold
+DA 2025-05-29
+ER

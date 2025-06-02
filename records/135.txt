@@ -1,0 +1,75 @@
+PT J
+AU Ma, QF
+   Zheng, Y
+   Lu, H
+   Li, JR
+   Wang, SH
+   Wang, CP
+   Wu, ZY
+   Shen, YJ
+   Liu, XJ
+AF Ma, Qingfen
+   Zheng, Yun
+   Lu, Hui
+   Li, Jingru
+   Wang, Shenghui
+   Wang, Chengpeng
+   Wu, Zhongye
+   Shen, Yijun
+   Liu, Xuejin
+TI A Novel Ocean Thermal Energy Driven System for Sustainable Power and
+   Fresh Water Supply
+SO MEMBRANES
+LA English
+DT Article
+DE OTEC; organic rankine cycle; membrane distillation; thermal efficiency
+ID CONTACT MEMBRANE DISTILLATION; OTEC; SIMULATION
+AB The ocean thermal energy conversion (OTEC) is a potential substitute for traditional power plants in tropical islands and coastal regions. However, the OTEC power generation cycle has low thermal efficiency and the integrated utilization is imperative, in which an OTEC coupled with seawater desalination is the most attractive option. Membrane distillation (MD) has distinct advantages making itself a competitive process for seawater desalination, especially the feature that the drained warm seawater from the OTEC power plant can be recycled, improving the integrated output of the OTEC system. In this study, an innovative OTEC system coupling a power generation sub-cycle (PGC) and a water production sub-cycle (WPC) was proposed, composed of the upstream organic Rankine cycle and the downstream membrane distillation modules. The mass, energy and exergy balance of the individual equipment, the sub-cycles and the whole system were performed by constructing the corresponding balance models. The thermal dynamic parameters were calculated, and the performance of power generation and water production was predicted. The results showed that by coupling with the MD desalination, the thermal efficiency of the OTEC system can be greatly improved from 2.19% to 25.38% while the exergy efficiency changed little. For a 100 kW OTEC power generation cycle, the water production rate approached 58.874 t/d. In addition, the economic analysis based on the electricity and water sale was carried out, and the profit can be improved by extra water production, especially in the Hawaii and Rainbow Beach by nearly 20%.
+C1 [Ma, Qingfen; Zheng, Yun; Li, Jingru; Wang, Shenghui; Wu, Zhongye; Liu, Xuejin] Hainan Univ, Coll Mech & Elect Engn, Haikou 570228, Hainan, Peoples R China.
+   [Lu, Hui] Chinese Acad Trop Agr Sci, Inst Environm & Plant Protect, Haikou 571101, Hainan, Peoples R China.
+   [Wang, Shenghui; Wang, Chengpeng] Inst Seawater Desalinat & Multipurpose Utilizat, MNR, 55 Hanghai Rd, Tianjin 300192, Peoples R China.
+   [Shen, Yijun] State Key Lab Marine Resources Utilizat South Chi, Haikou 570228, Hainan, Peoples R China.
+C3 Hainan University; Chinese Academy of Tropical Agricultural Sciences
+RP Ma, QF; Wang, SH (通讯作者)，Hainan Univ, Coll Mech & Elect Engn, Haikou 570228, Hainan, Peoples R China.; Wang, SH (通讯作者)，Inst Seawater Desalinat & Multipurpose Utilizat, MNR, 55 Hanghai Rd, Tianjin 300192, Peoples R China.; Shen, YJ (通讯作者)，State Key Lab Marine Resources Utilizat South Chi, Haikou 570228, Hainan, Peoples R China.
+EM mqf0920@hainanu.edu.cn; zyunzoey@163.com; aaaluhui@163.com;
+   ljr@hainanu.edu.cn; wang_sh04@126.com; cpwang2003@foxmail.com;
+   wuzhongye@126.com; yshen2000@163.com; lxj2669@163.com
+RI 卢, 辉/HIZ-6185-2022; shen, yijun/AAD-4991-2019; Wang,
+   Chengpeng/J-1736-2017; Zheng, Yun/E-8834-2017; Li, Jingru/AAY-6683-2021
+OI , Qingfen/0000-0002-3501-1995
+FU Hainan Province Science and Technology Special Fund [ZDYF2020207,
+   ZDYF2021GXJS021]; National Natural Science Foundations of China
+   [51769006]
+FX FundingThis research was funded by the Hainan Province Science and
+   Technology Special Fund (grant number: ZDYF2020207 and ZDYF2021GXJS021),
+   and the National Natural Science Foundations of China (grant number
+   51769006).
+NR 29
+TC 9
+Z9 9
+U1 3
+U2 34
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2077-0375
+J9 MEMBRANES-BASEL
+JI Membranes
+PD FEB
+PY 2022
+VL 12
+IS 2
+AR 160
+DI 10.3390/membranes12020160
+PG 20
+WC Biochemistry & Molecular Biology; Chemistry, Physical; Engineering,
+   Chemical; Materials Science, Multidisciplinary; Polymer Science
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry; Engineering; Materials
+   Science; Polymer Science
+GA ZJ1NF
+UT WOS:000762078300001
+PM 35207081
+OA gold, Green Published
+DA 2025-05-29
+ER

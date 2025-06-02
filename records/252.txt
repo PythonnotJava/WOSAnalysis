@@ -1,0 +1,68 @@
+PT J
+AU Colbourn, G
+   Ridgwell, A
+   Lenton, TM
+AF Colbourn, G.
+   Ridgwell, A.
+   Lenton, T. M.
+TI The time scale of the silicate weathering negative feedback on
+   atmospheric CO2
+SO GLOBAL BIOGEOCHEMICAL CYCLES
+LA English
+DT Article
+DE silicate weathering; negative feedback; carbon dioxide; Earth system
+   model; carbon cycle; climate change
+ID GLOBAL SYSTEM; OCEAN; MODEL; TRANSPORT; NEUTRALIZATION; PLANTS; RIVERS;
+   MASS
+AB The ultimate fate of CO2 added to the ocean-atmosphere system is chemical reaction with silicate minerals and burial as marine carbonates. The time scale of this silicate weathering negative feedback on atmospheric pCO(2) will determine the duration of perturbations to the carbon cycle, be they geological release events or the current anthropogenic perturbation. However, there has been little previous work on quantifying the time scale of the silicate weathering feedback, with the primary estimate of 300-400 kyr being traceable to an early box model study by Sundquist (1991). Here we employ a representation of terrestrial rock weathering in conjunction with the GENIE (Grid ENabled Integrated Earth system) model to elucidate the different time scales of atmospheric CO2 regulation while including the main climate feedbacks on CO2 uptake by the ocean. In this coupled model, the main dependencies of weatheringrunoff, temperature, and biological productivitywere driven from an energy-moisture balance atmosphere model and parameterized plant productivity. Long-term projections (1Myr) were conducted for idealized scenarios of 1000 and 5000PgC fossil fuel emissions and their sensitivity to different model parameters was tested. By fitting model output to a series of exponentials we determined the e-folding time scale for atmospheric CO2 drawdown by silicate weathering to be approximate to 240kyr (range 170-380kyr), significantly less than existing quantifications. Although the time scales for reequilibration of global surface temperature and surface ocean pH are similar to that for CO2, a much greater proportion of the peak temperature anomaly persists on this longest time scale; approximate to 21% compared to approximate to 10% for CO2.
+C1 [Colbourn, G.; Lenton, T. M.] Univ Exeter, Coll Life & Environm Sci, Exeter, Devon, England.
+   [Colbourn, G.; Ridgwell, A.] Univ Bristol, Sch Geog Sci, Bristol, Avon, England.
+   [Colbourn, G.] Univ E Anglia, Sch Environm Sci, Norwich NR4 7TJ, Norfolk, England.
+C3 University of Exeter; University of Bristol; University of East Anglia
+RP Lenton, TM (通讯作者)，Univ Exeter, Coll Life & Environm Sci, Exeter, Devon, England.
+EM t.m.lenton@exeter.ac.uk
+RI Lenton, Tim/X-1893-2018; Ridgwell, Andy/AAD-9487-2021
+OI Ridgwell, Andy/0000-0003-2333-0128
+FU Leverhulme Trust [RPG-2013106]; NERC [NE/G018332/2, NE/H017453/1,
+   NE/H023852/1] Funding Source: UKRI
+FX We thank E. Sundquist and an anonymous referee for helpful comments. G.
+   Colbourn acknowledges a NERC PhD Studentship, the GENIE team, and the
+   UEA e-Science facilities. In particular, G. Williams for technical
+   assistance with GENIE and C. Collins for helping smooth the running of
+   hundreds of million year simulations of the Earth System. T. M. Lenton's
+   contribution was supported by NERC (NE/G018332/2), and T. M. Lenton and
+   A. Ridgwell were supported by the Leverhulme Trust (RPG-2013106). The
+   cGENIE model code can be obtained from mycgenie.seao2.org, instructions
+   for alternative parameter settings and data for time series output years
+   (as plotted in Figures 3-5 and S1-S2) are given in Text S1 and Table S2
+   in the supporting information.
+NR 43
+TC 68
+Z9 78
+U1 2
+U2 93
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0886-6236
+EI 1944-9224
+J9 GLOBAL BIOGEOCHEM CY
+JI Glob. Biogeochem. Cycle
+PD MAY
+PY 2015
+VL 29
+IS 5
+BP 583
+EP 596
+DI 10.1002/2014GB005054
+PG 14
+WC Environmental Sciences; Geosciences, Multidisciplinary; Meteorology &
+   Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Geology; Meteorology & Atmospheric
+   Sciences
+GA CK7BD
+UT WOS:000356383700005
+OA Green Published, Bronze
+DA 2025-05-29
+ER

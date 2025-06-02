@@ -1,0 +1,69 @@
+PT J
+AU Qian, JC
+   Zhai, XM
+   Wang, ZM
+   Jochum, M
+AF Qian, Jiangchao
+   Zhai, Xiaoming
+   Wang, Zhaomin
+   Jochum, Markus
+TI Distribution and Trend of Wind Power Input to Near-Inertial Motions in
+   the Southern Ocean
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+ID ENERGY FLUX; MODEL; VARIABILITY; CIRCULATION; DEPENDENCE; WAVES; SWELL
+AB Wind power input to near-inertial motions is an important energy source for generating diapycnal mixing in the ocean. However, the distribution and long-term trend of this input over the Southern Ocean have yet to be quantified. In this study, we investigate the near-inertial wind power input (WPIi) to the Southern Ocean using a global eddy-permitting coupled ocean-sea ice model forced by a high-resolution atmospheric reanalysis product. Our results reveal a zonally asymmetric distribution of WPIi in the Southern Ocean, with the strongest input in the South Indian Ocean and the weakest in the South Pacific. The integrated WPIi between 30 & DEG;S and 60 & DEG;S exhibits a significant positive trend over the past four decades due to the intensification of mesoscale weather systems. The surface mixed-layer depth is found to modulate the spatial pattern and trend of WPIi by altering the surface near-inertial currents.
+   Wind fluctuations can excite surface ocean currents that oscillate at frequencies close to the inertial frequency. These near-inertial motions play an important role in generating turbulent mixing in the ocean. However, the distribution and long-term trend of wind power input to near-inertial motions in the Southern Ocean remains unquantified. In this study, we investigate this wind power input using a global ocean circulation model driven by a high-resolution atmospheric reanalysis data set. Our results reveal a pronounced zonal asymmetry in the distribution of near-inertial wind power input in the Southern Ocean. Furthermore, this power input has increased significantly over the past four decades due to the intensification of mesoscale weather systems. Results from this study have important implications for understanding Southern Ocean mixing and circulation.
+   Distribution of near-inertial wind power input in the Southern Ocean is zonally asymmetricNear-inertial wind power input in the Southern Ocean has increased significantly in recent decadesThis increase is primarily driven by the intensification of mesoscale weather systems
+C1 [Qian, Jiangchao] Hohai Univ, Minist Nat Resources, Key Lab Marine Hazards Forecasting, Nanjing, Peoples R China.
+   [Qian, Jiangchao] Hohai Univ, Coll Oceanog, Nanjing, Peoples R China.
+   [Zhai, Xiaoming] Univ East Anglia, Ctr Ocean & Atmospher Sci, Sch Environm Sci, Norwich, England.
+   [Wang, Zhaomin] Southern Marine Sci & Engn Guangdong Lab Zhuhai, Zhuhai, Peoples R China.
+   [Jochum, Markus] Univ Copenhagen, Niels Bohr Inst, Phys Ice Climate & Earth, Copenhagen, Denmark.
+C3 Ministry of Natural Resources of the People's Republic of China; Hohai
+   University; Hohai University; University of East Anglia; Southern Marine
+   Science & Engineering Guangdong Laboratory; Southern Marine Science &
+   Engineering Guangdong Laboratory (Zhuhai); University of Copenhagen;
+   Niels Bohr Institute
+RP Zhai, XM (通讯作者)，Univ East Anglia, Ctr Ocean & Atmospher Sci, Sch Environm Sci, Norwich, England.; Wang, ZM (通讯作者)，Southern Marine Sci & Engn Guangdong Lab Zhuhai, Zhuhai, Peoples R China.
+EM Xiaoming.Zhai@uea.ac.uk; wangzhaomin@sml-zhuhai.cn
+RI jochum, markus/F-8237-2013
+OI jochum, markus/0000-0003-2690-3139
+FU National Natural Science Foundation of China (NSFC) [41941007,
+   41876220]; Innovation Group Project of Southern Marine Science and
+   Engineering Guangdong Laboratory (Zhuhai) [313022009]; Royal Society
+   International Exchanges Award [IES\R1\180037]
+FX This work was supported by the National Natural Science Foundation of
+   China (NSFC) Projects (41941007; 41876220) and the Innovation Group
+   Project of Southern Marine Science and Engineering Guangdong Laboratory
+   (Zhuhai) (313022009). XZ and MJ acknowledges support by a Royal Society
+   International Exchanges Award (IES\R1\180037). We thank two anonymous
+   reviewers for their constructive comments.
+NR 46
+TC 0
+Z9 0
+U1 1
+U2 9
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD SEP 28
+PY 2023
+VL 50
+IS 18
+AR e2023GL105411
+DI 10.1029/2023GL105411
+PG 9
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA R8EV1
+UT WOS:001066642000001
+OA gold, Green Accepted
+DA 2025-05-29
+ER

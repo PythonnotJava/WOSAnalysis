@@ -1,0 +1,69 @@
+PT J
+AU Taylor, R
+   Marshall, AG
+   Crimp, S
+   Cary, GJ
+   Harris, S
+AF Taylor, Rachel
+   Marshall, Andrew G.
+   Crimp, Steven
+   Cary, Geoffrey J.
+   Harris, Sarah
+TI Climate Driver Influences on Prediction of the Australian Fire Behaviour
+   Index
+SO ATMOSPHERE
+LA English
+DT Article
+DE fire danger; climate drivers; forecast skill; subseasonal prediction;
+   Australia; extreme event skill score
+ID OSCILLATION; RAINFALL; VERIFICATION; VARIABILITY; DEFINITION; BLOCKING;
+   SEASON; IMPACT
+AB Fire danger poses a pressing threat to ecosystems and societies worldwide. Adequate preparation and forewarning can help reduce these threats, but these rely on accurate prediction of extreme fire danger. With the knowledge that climatic conditions contribute heavily to overall fire danger, this study evaluates the skill with which episodes of extreme fire danger in Australia can be predicted from the activity of large-scale climate driver patterns. An extremal dependence index for extreme events is used to depict the historical predictive skill of the Australian Bureau of Meteorology's subseasonal climate prediction system in replicating known relationships between the probability of top-decile fire danger and climate driver states at a lead time of 2-3 weeks. Results demonstrate that the El Nino Southern Oscillation, Southern Annular Mode, persistent modes of atmospheric blocking, Indian Ocean Dipole and Madden-Julian Oscillation are all key for contributing to predictability of fire danger forecasts in different regions during critical fire danger periods. Northwest Australia is found to be particularly predictable, with the highest mean index differences (>0.50) when certain climate drivers are active, compared with the climatological index mean. This integrated approach offers a valuable resource for decision-making in fire-prone regions, providing greater confidence to users relying on fire danger outlooks for key management decisions, such as those involved in the sectors of national park and forest estate management, agriculture, emergency services, health and energy. Furthermore, the results highlight strengths and weaknesses in both the Australian Fire Danger Rating System and the operational climate model, contributing additional information for improving and refining future iterations of these systems.
+C1 [Taylor, Rachel; Crimp, Steven; Cary, Geoffrey J.] Australian Natl Univ, Fenner Sch Environm & Soc, Canberra 2601, Australia.
+   [Marshall, Andrew G.] Univ Southern Queensland, Ctr Appl Climate Sci, Toowoomba 4350, Australia.
+   [Marshall, Andrew G.] Bur Meteorol, 111 Macquarie St, Hobart 7000, Australia.
+   [Crimp, Steven] Australian Natl Univ, Inst Climate Energy & Disaster Solut, 9 Fellows Rd, Canberra 2601, Australia.
+   [Harris, Sarah] Country Fire Author, Fire Risk Res & Community Preparedness, Melbourne 3151, Australia.
+C3 Australian National University; University of Southern Queensland;
+   Bureau of Meteorology - Australia; Australian National University
+RP Taylor, R (通讯作者)，Australian Natl Univ, Fenner Sch Environm & Soc, Canberra 2601, Australia.
+EM rachel.taylor@anu.edu.au; andrew.marshall@bom.gov.au;
+   geoffrey.cary@anu.edu.au; sarah.harris@cfa.vic.gov.au
+RI Taylor, Rachel/LVR-6399-2024; Cary, Geoffrey/AAX-1964-2021; Crimp,
+   Steven/D-6995-2011
+OI Cary, Geoffrey J./0000-0002-6386-1751; Taylor,
+   Rachel/0000-0002-4260-131X
+FU Australian Government
+FX This work was undertaken with the assistance of resources from the
+   National Computational Infrastructure (NCI), which is supported by the
+   Australian Government. We extend our thanks to the Bureau of Meteorology
+   ACCESS-S team [22] for their work on the production and management of
+   the ACCESS-S2 hindcasts, to Samuel Sauvage for his work on the BARRA
+   AFDRS Climatology and to Paul Gregory for his work on the AFDRS
+   hindcasts at the Bureau of Meteorology.
+NR 50
+TC 3
+Z9 3
+U1 4
+U2 6
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2073-4433
+J9 ATMOSPHERE-BASEL
+JI Atmosphere
+PD FEB
+PY 2024
+VL 15
+IS 2
+AR 203
+DI 10.3390/atmos15020203
+PG 19
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA JZ3Z7
+UT WOS:001176954500001
+OA gold
+DA 2025-05-29
+ER

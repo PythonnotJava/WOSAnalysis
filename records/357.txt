@@ -1,0 +1,63 @@
+PT J
+AU Ouyang, TC
+   Wang, ZP
+   Liu, WJ
+   Qin, PJ
+   Mo, HJ
+AF Ouyang, Tiancheng
+   Wang, Zhiping
+   Liu, Wenjun
+   Qin, Peijia
+   Mo, Haijun
+TI Performance investigation and collaborative optimization of power,
+   economy and NOx removal for waste heat cascade utilization system in
+   ocean-going vessels
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Over-expansion transcritical CO2 cycle; Double effect absorption
+   refrigeration; Nitrogen oxide removal; Multi-objective optimization;
+   Energy efficiency existing ship index
+ID ORGANIC RANKINE-CYCLE; THERMODYNAMIC ANALYSIS; RECOVERY SYSTEM; ENERGY;
+   ENGINE; EXERGY; CONFIGURATIONS; COMBUSTION; GENERATION; REDUCTION
+AB Waste heat recovery technology of ships is meaningful for the enhancement of system efficiency and protection of environment. Compared with conventional diesel engines, the natural gas engines have the advantage of low emission, and its exhaust gas with quite high temperature is very suitable for utilization as the heat source of cascade waste heat system. This study integrates an over-expansion transcritical CO2 cycle with a double effect absorption refrigeration cycle to recover the heat energy from a natural gas engine. At the same time, a post processing unit is proposed to remove the nitrogen oxide of flue gas. The research results indicate that the higher engine load contributes to improving the equivalent output work and economy of the combined cycle while the post-processing unit can further reduce the payback time under the given conditions. In terms of the parameters analyses, the turbine outlet pressure of transcritical cycle has an optimal value of 2.25 MPa, which can make the output work to reach the maximum value of 305.0 kW, and the performance improvement of refrigeration cycle can be achieved by decreasing the temperature of high pressure generator or increasing the temperature of low pressure generator. After multi-objective optimization, the residual equivalent output work, payback period and amount of NOx reduction of the total system are 150.77 kW, 4.20 years and 8.16 g/kWh, respectively. In addition, the Energy Efficiency Existing Ship Index is further reduced to 8.21 gCO(2)/ton.nm with the aid of the proposed system.
+C1 [Ouyang, Tiancheng; Wang, Zhiping; Liu, Wenjun; Qin, Peijia; Mo, Haijun] Guangxi Univ, Sch Mech Engn, Nanning, Peoples R China.
+   [Ouyang, Tiancheng] Guangxi Univ, Guangxi Key Lab Mfg Syst & Adv Mfg Technol, Nanning, Peoples R China.
+C3 Guangxi University; Guangxi University
+RP Ouyang, TC; Mo, HJ (通讯作者)，Guangxi Univ, Sch Mech Engn, Nanning, Peoples R China.; Ouyang, TC (通讯作者)，Guangxi Univ, Guangxi Key Lab Mfg Syst & Adv Mfg Technol, Nanning, Peoples R China.
+EM ouyangtiancheng@gxu.edu.cn; cherrymhj@163.com
+FU National Natural Science Foundationnbsp;of China [2021NSFC52175081];
+   Guangxi Key Laboratory of Manufacturing System amp; Advanced
+   Manufacturing Technology [17-259-05S001]
+FX This work was supported by the National Natural Science Foundation &
+   nbsp;of China [grant numbers 2021NSFC52175081], the Guangxi Key
+   Laboratory of Manufacturing System & Advanced Manufacturing Technology
+   [grant numbers 17-259-05S001].
+NR 58
+TC 7
+Z9 7
+U1 1
+U2 32
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD MAR 20
+PY 2022
+VL 341
+AR 130939
+DI 10.1016/j.jclepro.2022.130939
+EA FEB 2022
+PG 19
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA ZX2JA
+UT WOS:000771724400004
+DA 2025-05-29
+ER

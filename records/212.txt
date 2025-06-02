@@ -1,0 +1,60 @@
+PT J
+AU Keramea, P
+   Kokkos, N
+   Gikas, GD
+   Sylaios, G
+AF Keramea, Panagiota
+   Kokkos, Nikolaos
+   Gikas, Georgios D.
+   Sylaios, Georgios
+TI Operational Modeling of North Aegean Oil Spills Forced by Real-Time
+   Met-Ocean Forecasts
+SO JOURNAL OF MARINE SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE OpenDrift; OpenOil; oil spill modeling; simulations; met-ocean
+   forecasts; oil dispersion; turbulent kinetic energy
+ID SIZE DISTRIBUTION; BREAKING WAVES; DISPERSION; EMULSIFICATION;
+   TRANSPORT; DROPLETS; SYSTEM; WATER; DRIFT
+AB Over the latest decades, oil marine pollution has posed a vital threat for global ocean health, since spillages of any scale are related to environmental, social and financial impacts. The worldwide increase in oil and gas demand, and the parallel rise in oil and gas production, exploiting particularly coastal and offshore marine deposits, have significantly increased the risk of accidental oil release to the sea. In the present study, an operational oil spill model was applied to test the oil dispersive properties and to reveal the relative magnitude of weathering processes, after an accidental oil spill release along the main tanker transportation route in the North Aegean Sea. Numerical simulations were implemented using the OpenOil transport and fate numerical model, a subclass of the OpenDrift open-source trajectory framework. This model integrates algorithms with several physical processes, such as oil entrainment, vertical mixing, oil resurfacing and oil emulsification. The oil dispersion model was coupled to real-time met-ocean forecasts received from NOAA-GFS and CMEMS. Present simulation results have focused on the impact of turbulent kinetic energy, induced by the background flow field, on the horizontal spreading of particles, as well as on the evolution of oil mass balance and oil mass properties.
+C1 [Keramea, Panagiota; Kokkos, Nikolaos; Gikas, Georgios D.; Sylaios, Georgios] Democritus Univ Thrace, Dept Environm Engn, Lab Ecol Engn & Technol, Xanthi 67100, Greece.
+C3 Democritus University of Thrace
+RP Sylaios, G (通讯作者)，Democritus Univ Thrace, Dept Environm Engn, Lab Ecol Engn & Technol, Xanthi 67100, Greece.
+EM kerameapanagiota@gmail.com; nikolaoskokkos@gmail.com;
+   ggkikas@env.duth.gr; gsylaios@env.duth.gr
+RI Keramea, Panagiota/AAP-8387-2021; Sylaios, Georgios/AAM-6994-2020;
+   Gikas, Georgios/AAE-3347-2019
+OI SYLAIOS, GEORGIOS/0000-0003-2327-4015; KOKKOS,
+   NIKOLAOS/0000-0003-2514-7343; Gikas, Georgios/0000-0002-1685-6394;
+   KERAMEA, PANAGIOTA/0000-0003-4110-6787
+FU European Commission [101037643-ILIAD]
+FX This research received funding from the European Commission's Horizon
+   2020 Research and Innovation Program under grant agreement no.
+   101037643-ILIAD ("Integrated Digital Framework for Comprehensive
+   Maritime Data and Information Services").
+NR 51
+TC 9
+Z9 9
+U1 1
+U2 22
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2077-1312
+J9 J MAR SCI ENG
+JI J. Mar. Sci. Eng.
+PD MAR
+PY 2022
+VL 10
+IS 3
+AR 411
+DI 10.3390/jmse10030411
+PG 22
+WC Engineering, Marine; Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 0B8WX
+UT WOS:000774909400001
+OA gold
+DA 2025-05-29
+ER

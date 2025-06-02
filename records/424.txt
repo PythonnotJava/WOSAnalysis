@@ -1,0 +1,58 @@
+PT J
+AU Mattei, F
+   Buonocore, E
+   Franzese, PP
+   Scardi, M
+AF Mattei, F.
+   Buonocore, E.
+   Franzese, P. P.
+   Scardi, M.
+TI Global assessment of marine phytoplankton primary production:
+   Integrating machine learning and environmental accounting models
+SO ECOLOGICAL MODELLING
+LA English
+DT Article
+DE Phytoplankton primary production; Systems ecology; Artificial neural
+   networks; Machine learning; Emergy accounting
+ID PHOTOSYNTHETICALLY ACTIVE RADIATION; ECOSYSTEM SERVICES; PROTECTED
+   AREAS; CLIMATE-CHANGE; ECO-EXERGY; OCEAN; EMERGY; FLOWS; GEOBIOSPHERE;
+   INDICATORS
+AB The emergy accounting method has been widely applied to terrestrial and marine ecosystems although there is a lack of emergy studies focusing on phytoplankton primary production. Phytoplankton production is a pivotal process since it is intimately coupled with oceanic food webs, energy fluxes, carbon cycle, and Earth's climate. In this study, we proposed a new methodology to perform a biophysical assessment of the global phytoplankton primary production combining Machine Learning (ML) techniques and an emergy-based accounting model. Firstly, we produced global phytoplankton production estimates using an Artificial Neural Network (ANN) model. Secondly, we assessed the main energy inputs supporting the global phytoplankton production. Finally, we converted these inputs into emergy units and analysed the results from an ecological perspective. Among the energy flows, tides showed the highest maximum emergy contribution to global phytoplankton production highlighting the importance of thise flow in the complex dynamics of marine ecosystems. In addition, an emergy/ production ratio was calculated showing different global patterns in terms of emergy convergence into the primary production process. We believe that the proposed emergy-based assessment of phytoplankton production could be extremely valuable to improve our understanding of this key biological process at global scale adopting a systems perspective. This model can also provide a useful benchmark for future assessments of marine ecosystem services at global scale.
+C1 [Mattei, F.; Scardi, M.] Univ Roma Tor Vergata, Dept Biol, Via Ric Sci, I-00133 Rome, Italy.
+   [Buonocore, E.; Franzese, P. P.] Parthenope Univ Naples, Dept Sci & Technol, UNESCO Chair Environm Resources & Sustainable Dev, Via F Petrarca 80, I-80123 Naples, Italy.
+   [Mattei, F.; Buonocore, E.; Franzese, P. P.; Scardi, M.] CoNISMa, Piazzale Flaminio 9, I-00196 Rome, Italy.
+   [Mattei, F.] Univ Roma Tor Vergata, Dept Biol, PhD Program Evolutionary Biol & Ecol, I-00133 Rome, Italy.
+C3 University of Rome Tor Vergata; Parthenope University Naples; CoNISMa;
+   University of Rome Tor Vergata
+RP Mattei, F (通讯作者)，Univ Roma Tor Vergata, Dept Biol, Via Ric Sci, I-00133 Rome, Italy.; Mattei, F (通讯作者)，CoNISMa, Piazzale Flaminio 9, I-00196 Rome, Italy.; Mattei, F (通讯作者)，Univ Roma Tor Vergata, Dept Biol, PhD Program Evolutionary Biol & Ecol, I-00133 Rome, Italy.
+EM francesco.mattei90@yahoo.it
+RI Scardi, Michele/AFL-8936-2022; Franzese, Pier/H-3357-2011; buonocore,
+   elvira/AAJ-5995-2021
+OI Buonocore, Elvira/0000-0003-0477-4284; Mattei,
+   Francesco/0000-0003-0660-5310; Franzese, Pier Paolo/0000-0003-2156-6380
+NR 84
+TC 16
+Z9 17
+U1 3
+U2 56
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-3800
+EI 1872-7026
+J9 ECOL MODEL
+JI Ecol. Model.
+PD JUL 1
+PY 2021
+VL 451
+AR 109578
+DI 10.1016/j.ecolmodel.2021.109578
+EA MAY 2021
+PG 11
+WC Ecology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA RZ5RZ
+UT WOS:000648655400002
+DA 2025-05-29
+ER

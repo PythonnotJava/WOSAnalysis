@@ -1,0 +1,52 @@
+PT J
+AU Pearson, B
+   Fox-Kemper, B
+AF Pearson, Brodie
+   Fox-Kemper, Baylor
+TI Log-Normal Turbulence Dissipation in Global Ocean Models
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID CALIFORNIA CURRENT SYSTEM; 2-DIMENSIONAL TURBULENCE; SUBMESOSCALE
+   TRANSITION; GEOSTROPHIC TURBULENCE; ENERGY-DISSIPATION; KINETIC-ENERGY;
+   MESOSCALE; CASCADE; PARAMETERIZATIONS; FLUX
+AB Data from turbulent numerical simulations of the global ocean demonstrate that the dissipation of kinetic energy obeys a nearly log-normal distribution even at large horizontal scales O(10 km). As the horizontal scales of resolved turbulence are larger than the ocean is deep, the Kolmogorov-Yaglom theory for intermittency in 3D homogeneous, isotropic turbulence cannot apply; instead, the down-scale potential enstrophy cascade of quasigeostrophic turbulence should. Yet, energy dissipation obeys approximate lognormality-robustly across depths, seasons, regions, and subgrid schemes. The distribution parameters, skewness and kurtosis, show small systematic departures from log-normality with depth and subgrid friction schemes. Log-normality suggests that a few high-dissipation locations dominate the integrated energy and enstrophy budgets, which should be taken into account when making inferences from simplified models and inferring global energy budgets from sparse observations.
+C1 [Pearson, Brodie; Fox-Kemper, Baylor] Brown Univ, Dept Earth Environm & Planetary Sci, Providence, RI 02906 USA.
+C3 Brown University
+RP Pearson, B (通讯作者)，Brown Univ, Dept Earth Environm & Planetary Sci, Providence, RI 02906 USA.
+RI Pearson, Brodie/T-8893-2019; Fox-Kemper, Baylor/A-1159-2007
+OI Fox-Kemper, Baylor/0000-0002-2871-2048; Pearson,
+   Brodie/0000-0002-0202-0481
+FU National Key Research Program of China [2017YFA0604100]; NSF
+   [OCE-1350795]; ONR [N00014-17-1-2963]
+FX The authors acknowledge support from the National Key Research Program
+   of China (2017YFA0604100), NSF OCE-1350795, and ONR N00014-17-1-2963.
+   Professors McWilliams and Marston provided helpful advice.
+NR 47
+TC 54
+Z9 59
+U1 1
+U2 10
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+EI 1079-7114
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD FEB 26
+PY 2018
+VL 120
+IS 9
+AR 094501
+DI 10.1103/PhysRevLett.120.094501
+PG 5
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA FX4KY
+UT WOS:000426046000003
+PM 29547327
+OA hybrid, Green Submitted
+DA 2025-05-29
+ER

@@ -1,0 +1,75 @@
+PT J
+AU Saufina, E
+   Trismidianto
+   Satiadi, D
+   Harjupa, W
+   Purwaningsih, A
+   Fathrio, I
+   Praja, AS
+   Juaeni, I
+   Witono, A
+   Rahmatia, F
+   Pratama, R
+   Putri, MS
+   Wulandari, P
+AF Saufina, Elfira
+   Trismidianto
+   Satiadi, Didi
+   Harjupa, Wendi
+   Purwaningsih, Anis
+   Fathrio, Ibnu
+   Praja, Alfan Sukmana
+   Juaeni, Ina
+   Witono, Adi
+   Rahmatia, Fahmi
+   Pratama, Ridho
+   Putri, Muhaji Sahnita
+   Wulandari, Putri
+TI The role of Madden-Julian Oscillation, Westerly Wind Bursts, and Kelvin
+   Waves in triggering extreme rainfall through Mesoscale Convective
+   Systems: A case study of West Sumatra, March 7-8, 2024
+SO ATMOSPHERIC RESEARCH
+LA English
+DT Article
+DE Extreme rainfall; Mesoscale convective systems; West sumatra; Kelvin
+   waves; MJO; WWB
+ID COUPLED EQUATORIAL WAVES; INDONESIAN MARITIME CONTINENT; MOISTURE FLUX
+   CONVERGENCE; INTRASEASONAL VARIATIONS; DIURNAL CYCLE; PART I; SATELLITE;
+   MJO; PRECIPITATION; PACIFIC
+AB The West Sumatra region experienced devastating floods and landslides due to intense rainfall on March 7-8, 2024, with precipitation ranging from 200 to 394 mm/day exceeding the extreme rainfall threshold of 150 mm/ day. We investigated the atmospheric dynamics to understand the mechanisms underlying this event. We used satellite data from Himawari-8 and Global Satellite Mapping of Precipitation (GSMaP) and ground-based observations to analyze cloud development and rainfall distribution. Wind velocity, Integrated Water Vapor Transport (IVT), Convective Available Potential Energy (CAPE), Convective Inhibition (CINH), K-Index, Vertically Integrated Moisture Flux Convergence (VIMFC), and Outgoing Longwave Radiation (OLR) from ERA5 reanalysis datasets are used to analyze convective instability and identify Equatorial waves. The Hybrid SingleParticle Lagrangian Integrated Trajectory (HYSPLIT) model was employed to assess moisture transport. Our findings indicate that extreme rainfall was driven by the Mesoscale Convective System (MCS), as confirmed by cloud observations from Himawari-8. Further analysis revealed that moisture convergence, intensified by a Westerly Wind Burst (WWB) from the Indian Ocean, interacted with local topography and atmospheric circulations over West Sumatra. This interaction was associated with an active Madden-Julian Oscillation (MJO) in Phase 4, strengthening the westerly winds, transporting moisture and fueling convection. Before the event, MJO activity in Phase 3 over the Indian Ocean coincided with an atmospheric Kelvin wave, intensifying low-level convergence, enriching the Indian Ocean region with moisture, and transporting it to West Sumatra via the WWB. The interplay of the MJO, WWB, and Kelvin waves likely amplified the event. This study provides insights into the atmospheric processes behind this event and highlights their importance in developing early warning systems for future events.
+C1 [Saufina, Elfira; Trismidianto; Satiadi, Didi; Harjupa, Wendi; Purwaningsih, Anis; Fathrio, Ibnu; Praja, Alfan Sukmana; Juaeni, Ina; Witono, Adi] Natl Res & Innovat Agcy, Ctr Climate & Atmospher Res, Bandung, West Java, Indonesia.
+   [Harjupa, Wendi] Telkom Univ, Sch Elect Engn, Dept Comp Engn, Bandung 40257, Indonesia.
+   [Harjupa, Wendi] Kyoto Univ, Disaster Prevent Res Inst, Kyoto 6110011, Japan.
+   [Rahmatia, Fahmi; Pratama, Ridho] Natl Res & Innovat Agcy, Directorate Lab Management, Agam Observat Stn, Res Facil & Sci & Technol Pk, Agam, Indonesia.
+   [Putri, Muhaji Sahnita; Wulandari, Putri] Bandung Inst Technol, Fac Earth Sci & Technol, Bandung 40257, Indonesia.
+C3 Telkom University; Kyoto University; Institute Technology of Bandung
+RP Saufina, E (通讯作者)，Natl Res & Innovat Agcy, Ctr Climate & Atmospher Res, Bandung, West Java, Indonesia.
+EM elfira.saufina@brin.go.id
+RI harjupa, wendi/JJF-3663-2023; Praja, Alfan Sukmana/JDD-7234-2023; Nanda
+   Pratama, Ridho/LMP-9903-2024
+NR 146
+TC 1
+Z9 1
+U1 3
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0169-8095
+EI 1873-2895
+J9 ATMOS RES
+JI Atmos. Res.
+PD JUN 1
+PY 2025
+VL 318
+AR 107993
+DI 10.1016/j.atmosres.2025.107993
+EA FEB 2025
+PG 20
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA Y2V4B
+UT WOS:001430762200001
+DA 2025-05-29
+ER

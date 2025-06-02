@@ -1,0 +1,52 @@
+PT J
+AU Asadpour, S
+   Mahdavi, E
+   Dias, RFD
+AF Asadpour, Seifollah
+   Mahdavi, Elham
+   Dias, Robson Francisco da Silva
+TI Zero-Emission Unified Wind Energy System Design for Offshore Oil and Gas
+   Platforms: A Robust Framework for Managing Uncertainty
+SO IEEE ACCESS
+LA English
+DT Article
+DE Uncertainty; Wind energy; Oils; Renewable energy sources; Offshore
+   installations; Wind energy generation; Reliability; Energy storage; Wind
+   turbines; Wind power generation; Distributed energy storage systems;
+   offshore oil and gas platforms; power downtimes; reliability; stability;
+   uncertainties; wind speed; wind turbines
+ID STORAGE
+AB The integration of renewable energy sources into offshore oil and gas extraction operations enhances sustainability and operational efficiency. This paper presents a comprehensive approach to system design for energy production on offshore platforms using wind turbines as the primary power source. Our approach focuses on two main components: wind uncertainty analysis and the design of a robust power supply system. We analyze wind uncertainty using metocean data from 23 ocean sites in the United States, including wind speed and direction, calculating key metrics such as mean wind speed, standard deviation, and extreme values for the West Coast, East Coast, and Gulf of Mexico. This analysis provides insights into the uncertainties of wind energy production in offshore environments. Based on the wind analysis, we propose a system that integrates wind turbines with distributed energy storage systems, managed by a centralized control system. Our system design emphasizes minimizing power downtimes, reducing the impact of aleatoric uncertainty in wind patterns, and improving energy stability. This work uniquely emphasizes a zero-emission constraint, eliminating fossil fuel backups. Unlike prior studies, our framework integrates advanced uncertainty management techniques to address wind variability across multiple sites, ensuring energy storage for uninterrupted power under a zero-emission constraint. Simulation results demonstrate a 50% reduction in power downtimes and an 80.88% improvement in energy stability, significantly reducing uncertainty in power supply and advancing the application of renewable energy in offshore oil and gas operations. The code developed for this study is available on GitHub: GitHub Repository.
+C1 [Asadpour, Seifollah; Mahdavi, Elham; Dias, Robson Francisco da Silva] Fed Univ Rio de Janeiro UFRJ, Dept Elect Engn, BR-21941853 Rio De Janeiro, Brazil.
+RP Mahdavi, E (通讯作者)，Fed Univ Rio de Janeiro UFRJ, Dept Elect Engn, BR-21941853 Rio De Janeiro, Brazil.
+EM elh.mahdavi@gmail.com
+FU Coordination for the Improvement of Higher Education Personnel-Brazil
+   (CAPES) [001]
+FX This work was supported by the Coordination for the Improvement of
+   Higher Education Personnel-Brazil (CAPES)-Finance Code 001
+NR 26
+TC 0
+Z9 0
+U1 5
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2024
+VL 12
+BP 170913
+EP 170922
+DI 10.1109/ACCESS.2024.3500356
+PG 10
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA N1N4D
+UT WOS:001362079800020
+OA gold
+DA 2025-05-29
+ER

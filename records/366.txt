@@ -1,0 +1,64 @@
+PT J
+AU Cao, LNY
+   Su, ER
+   Xu, ZJ
+   Wang, ZL
+AF Cao, Leo N. Y.
+   Su, Erming
+   Xu, Zijie
+   Wang, Zhong Lin
+TI Fully enclosed microbeads structured TENG arrays for omnidirectional
+   wind energy harvesting with a portable galloping oscillator
+SO MATERIALS TODAY
+LA English
+DT Article
+DE Triboelectric nanogenerator; Microbeads; Omnidirectional wind
+   oscillator; Distributed network; 3D printing
+ID WAVE ENERGY; TRIBOELECTRIC NANOGENERATORS; CONTACT-ELECTRIFICATION
+AB To facilitate the transition of triboelectric nanogenerators (TENG) from early stages to large-scale realworld applications, urgent mass production is imperative, necessitating standardized manufacturing processes. In this study, a novel "pause-and-insert" and "print-in-place" 3D printing approach has been devised, employing widely available fused deposition modeling (FDM) printers along with conductive (as electrodes) and nonconductive (for casing and support) filaments to make encapsulate microbeads triboelectric nanogenerator (MB-TENG). This innovation results in a fully enclosed freestanding-mode TENG pack, seamlessly integrated with a lightweight wind-induced oscillator featuring tuning systems, thus enabling efficient, safe, and noiseless omnidirectional wind energy harvesting. Through adept design and manufacturing techniques, systematic inner-structure optimization has been achieved, yielding superior output and industrialization levels compared to similar efforts. MB-TENG's surface charge density is as high as 19.9 mC/m2. The average power density is 13.8 W/m3. Moreover, the elimination of postprocessing significantly streamlines standard manufacturing, enhancing the prospects for device commercialization. Beyond its wind energy application, the versatile energy packs can serve as both ocean wave and human motion harvesters within network configurations, capable of powering a massive real-time monitoring sensor array.
+C1 [Cao, Leo N. Y.; Su, Erming; Xu, Zijie; Wang, Zhong Lin] Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing 100083, Peoples R China.
+   [Cao, Leo N. Y.; Su, Erming; Xu, Zijie; Wang, Zhong Lin] Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.
+   [Wang, Zhong Lin] Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.
+   [Wang, Zhong Lin] Yonsei Univ, Yonsei Frontier Lab, Seoul 03722, South Korea.
+C3 Chinese Academy of Sciences; Beijing Institute of Nanoenergy &
+   Nanosystems, CAS; Chinese Academy of Sciences; University of Chinese
+   Academy of Sciences, CAS; University System of Georgia; Georgia
+   Institute of Technology; Yonsei University
+RP Wang, ZL (通讯作者)，Chinese Acad Sci, Beijing Inst Nanoenergy & Nanosyst, Beijing 100083, Peoples R China.; Wang, ZL (通讯作者)，Univ Chinese Acad Sci, Sch Nanosci & Technol, Beijing 100049, Peoples R China.; Wang, ZL (通讯作者)，Georgia Inst Technol, Sch Mat Sci & Engn, Atlanta, GA 30332 USA.; Wang, ZL (通讯作者)，Yonsei Univ, Yonsei Frontier Lab, Seoul 03722, South Korea.
+EM zhong.wang@mse.gatech.edu
+RI Cao, Leo/AAU-9199-2021; Wang, Zhonglin/ADF-8684-2022
+OI Su, Erming/0000-0003-4806-898X
+FU National Key R & D Project from Minister of Science and Technology
+   [2021YFA1201601]; National Natural Science Foundation of China
+   [52192610]; CAS Youth Interdisciplinary Team
+FX Acknowledgements Support from the National Key R & D Project from
+   Minister of Science and Technology (2021YFA1201601) , National Natural
+   Science Foundation of China (Grant No. 52192610) , and CAS Youth
+   Interdisciplinary Team are appreciated.
+NR 41
+TC 40
+Z9 40
+U1 27
+U2 95
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1369-7021
+EI 1873-4103
+J9 MATER TODAY
+JI Mater. Today
+PD DEC
+PY 2023
+VL 71
+BP 9
+EP 21
+DI 10.1016/j.mattod.2023.11.001
+EA DEC 2023
+PG 13
+WC Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science
+GA EF4P2
+UT WOS:001137498000001
+DA 2025-05-29
+ER

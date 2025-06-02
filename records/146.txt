@@ -1,0 +1,55 @@
+PT J
+AU Fang, YZ
+   Wu, H
+   Zhou, QW
+   Jiang, B
+   Wang, XY
+AF Fang, Yizhou
+   Wu, He
+   Zhou, Qingwei
+   Jiang, Bo
+   Wang, Xiaoyong
+TI A Detailed Investigation Into the Wave Energy Resource at a Small-Scale
+   Ocean Energy Test Site in China
+SO FRONTIERS IN ENERGY RESEARCH
+LA English
+DT Article
+DE wave energy; test site; SWAN; site scaling; WEC
+ID WIND ENERGY; GALWAY BAY; SEA; VARIABILITY; TECHNOLOGIES; COAST
+AB During the R&D of marine renewable energy converters, scale models are usually used in the early stages of development of marine renewable energy converters. China's National Ocean Integrated Test Site (NOITS) is being developed by the National Ocean Technology Center (NOTC) in Weihai, Shandong Province, to facilitate testing of scaled wave and tidal energy converters in an open sea environment. This research aims to gain a detailed understanding of the wave characteristics and the wave energy resource at this site. A nested modeling system has been implemented using Simulating WAves Nearshore (SWAN) to provide a 10-year high-resolution wave hindcast between 2009 and 2019 with an approximately 60 m resolution covering the test site. Analysis of the spatio-temporal distribution of wave energy resource in NOITS reveals its strong seasonality, with the mean wave power density of >1.5 kW/m during winter and <0.2 kW/m during summer. We also performed a statistical analysis of the high and extreme wave conditions and their occurrence. By applying scaling methods to wave resources, four WECs were selected to demonstrate the testing at different scale ratios in NOITS. The results of this study provide engineering references for the design of scale wave energy converter models which target to perform open sea trials in NOITS.
+C1 [Fang, Yizhou; Wu, He; Zhou, Qingwei; Jiang, Bo; Wang, Xiaoyong] Natl Ocean Technol Ctr, Tianjin, Peoples R China.
+C3 National Ocean Technology Center (NOTC)
+RP Wu, H (通讯作者)，Natl Ocean Technol Ctr, Tianjin, Peoples R China.
+EM wh_crane@163.com
+RI Fang, Yizhou/AAN-7898-2020; wu, he/IUO-8626-2023
+FU National Key R&D Program of China [2017YFE0132000, 2019YFE0102500,
+   2019YFB1504401]; National Natural Science Foundation of China [52078251]
+FX Funding This research was funded by the National Key R&D Program of
+   China, under grant numbers 2017YFE0132000, 2019YFE0102500, and
+   2019YFB1504401, and National Natural Science Foundation of China under
+   grant number 52078251.
+NR 44
+TC 1
+Z9 1
+U1 1
+U2 17
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 2296-598X
+J9 FRONT ENERGY RES
+JI Front. Energy Res.
+PD JUN 24
+PY 2022
+VL 10
+AR 883553
+DI 10.3389/fenrg.2022.883553
+PG 15
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA 3A8GT
+UT WOS:000827493400001
+OA gold
+DA 2025-05-29
+ER

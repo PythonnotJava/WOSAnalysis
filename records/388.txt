@@ -1,0 +1,50 @@
+PT J
+AU Zhou, GD
+   Li, ZH
+   Cheng, XH
+AF Zhou, Guidi
+   Li, Zhuhua
+   Cheng, Xuhua
+TI Intrinsic and Wind-Driven Decadal Variability of the Kuroshio Extension
+   in Altimeter Observations
+SO FRONTIERS IN MARINE SCIENCE
+LA English
+DT Article
+DE Kuroshio Extension; mesoscale eddy; Rossby wave; wind stress forcing;
+   decadal variability
+ID WESTERN NORTH PACIFIC; LOW-FREQUENCY VARIABILITY; ROSSBY WAVES;
+   KINETIC-ENERGY; ATMOSPHERIC RESPONSE; EDDY CHARACTERISTICS; COHERENCE
+   RESONANCE; OCEAN CIRCULATION; OYASHIO EXTENSION; STORM-TRACK
+AB In this work we use satellite altimeter observations to study the mechanism of decadal variability of the Kuroshio Extension (KE), with special attention on jet-eddy energy transfer, and on the relationship between the wind-driven sea surface height anomalies (SSHAs) and those directly driven by intrinsic oceanic processes including jet and eddies. It is shown that energy feedback between the jet and mesoscale eddies can maintain the decadal oscillation of the KE. The wind-driven SSHAs are broad-scale and very weak compared to the intrinsic variability. Physically they can potentially trigger delayed responses of the latter by modulating vorticity advection from upstream but the statistical significance is low. KE perturbations resulting from the intrinsic variability, on the other hand, could feedback onto the wind-driven SSHAs by inducing anomalous basin-scale wind stress. The KE jet is thus an integrated system involving the jet and the eddies, possibly feeding back to, and paced by, wind stress anomalies.
+C1 [Zhou, Guidi; Li, Zhuhua; Cheng, Xuhua] Hohai Univ, Key Lab Marine Hazards Forecasting, Minist Nat Resources, Nanjing, Peoples R China.
+   [Zhou, Guidi; Li, Zhuhua; Cheng, Xuhua] Hohai Univ, Coll Oceanog, Nanjing, Peoples R China.
+C3 Hohai University; Ministry of Natural Resources of the People's Republic
+   of China; Hohai University
+RP Zhou, GD (通讯作者)，Hohai Univ, Key Lab Marine Hazards Forecasting, Minist Nat Resources, Nanjing, Peoples R China.; Zhou, GD (通讯作者)，Hohai Univ, Coll Oceanog, Nanjing, Peoples R China.
+EM guidi.zhou@hhu.edu.cn
+RI Zhou, Guidi/AAD-1474-2020; Cheng, Xuhua/AAQ-6124-2020
+NR 83
+TC 3
+Z9 3
+U1 0
+U2 24
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-7745
+J9 FRONT MAR SCI
+JI Front. Mar. Sci.
+PD NOV 22
+PY 2021
+VL 8
+AR 766226
+DI 10.3389/fmars.2021.766226
+PG 12
+WC Environmental Sciences; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA YI7NX
+UT WOS:000744032700001
+OA gold
+DA 2025-05-29
+ER

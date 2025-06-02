@@ -1,0 +1,51 @@
+PT J
+AU Wolrige, SH
+   Howe, D
+   Majidiyan, H
+AF Wolrige, Samuel Hugh
+   Howe, Damon
+   Majidiyan, Hamed
+TI Intelligent Computerized Video Analysis for Automated Data Extraction in
+   Wave Structure Interaction; A Wave Basin Case Study
+SO JOURNAL OF MARINE SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE intelligent systems; computer vision; autonomous monitoring; image-based
+   sensing; hydrodynamic testing; FSI
+AB Despite advancements in direct sensing technologies, accurately capturing complex wave-structure interactions remain a significant challenge in ship and ocean engineering. Ensuring the safety and reliability of floating structures requires precise monitoring of dynamic water interactions, particularly in extreme sea conditions. Recent developments in computer vision and artificial intelligence have enabled advanced image-based sensing techniques that complement traditional measurement methods. This study investigates the application of Computerized Video Analysis (CVA) for water surface tracking in maritime experimental tests, marking the first exploration of digitalized experimental video analysis at the Australian Maritime College (AMC). The objective is to integrate CVA into laboratory data acquisition systems, enhancing the accuracy and robustness of wave interaction measurements. A novel algorithm was developed to track water surfaces near floating structures, with its effectiveness assessed through a Wave Energy Converter (WEC) experiment. The method successfully captured wave runup interactions with the hull form, operating alongside traditional sensors to evaluate spectral responses at a wave height of 0.4 m. Moreover, its application in irregular wave conditions demonstrated the algorithm's capability to reliably detect the waterline across varying wave heights and periods. The findings highlight CVA as a reliable and scalable approach for improving safety assessments in maritime structures. Beyond controlled laboratory environments, this method holds potential for real-world applications in offshore wind turbines, floating platforms, and ship stability monitoring, contributing to enhanced structural reliability under operational and extreme sea states.
+C1 [Wolrige, Samuel Hugh; Howe, Damon; Majidiyan, Hamed] Univ Tasmania, Australian Maritime Coll, Ctr Maritime Engn & Hydrodynam, Launceston 7250, Australia.
+   [Howe, Damon] Blue Econ Cooperat Res Ctr, Launceston 7248, Australia.
+C3 University of Tasmania; Australian Maritime College; University of
+   Western Australia
+RP Majidiyan, H (通讯作者)，Univ Tasmania, Australian Maritime Coll, Ctr Maritime Engn & Hydrodynam, Launceston 7250, Australia.
+EM samuel.wolrige@utas.edu.au; damon.howe@utas.edu.au;
+   hamed.majidiyan@utas.edu.au
+RI Howe, Damon/X-3623-2019; Majidian, Hamed/AAP-4215-2020
+FU Blue Economy CRC;  [CRC-20180101]
+FX This research was funded by Blue Economy CRC grant number CRC-20180101.
+NR 35
+TC 0
+Z9 0
+U1 5
+U2 5
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2077-1312
+J9 J MAR SCI ENG
+JI J. Mar. Sci. Eng.
+PD MAR 20
+PY 2025
+VL 13
+IS 3
+AR 617
+DI 10.3390/jmse13030617
+PG 26
+WC Engineering, Marine; Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 0PV2C
+UT WOS:001453147300001
+OA gold
+DA 2025-05-29
+ER

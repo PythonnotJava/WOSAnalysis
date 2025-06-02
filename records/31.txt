@@ -1,0 +1,54 @@
+PT J
+AU Rasool, S
+   Muttaqi, KM
+   Sutanto, D
+AF Rasool, Safdar
+   Muttaqi, Kashem M.
+   Sutanto, Danny
+TI A Multi-Filter Based Dynamic Power Sharing Control for a Hybrid Energy
+   Storage System Integrated to a Wave Energy Converter for Output Power
+   Smoothing
+SO IEEE TRANSACTIONS ON SUSTAINABLE ENERGY
+LA English
+DT Article
+DE Batteries; Supercapacitors; Energy storage; Wave energy conversion;
+   Hybrid power systems; Real-time systems; Force; Wave energy converters;
+   hybrid energy storage; supercapacitor; battery storage; power-sharing
+   control; and power smoothing
+ID CONTROL STRATEGY; MODEL; QUALITY; FARM
+AB The output power fluctuations from the wave energy converters (WECs) with a high peak-to-average ratio need to be smoothed out before supplying power to electric loads or power grids. Usually, short-term energy storage is used to smooth out the output power fluctuations of WECs. In this article, a novel multi-filter-based dynamic power-sharing control is devised for a hybrid energy storage system (HESS) integrated with a grid-connected WEC. An advanced model of HESS-integrated WEC consisting of a direct-drive permanent magnet linear generator, a supercapacitor, and a battery system is developed to test the proposed multi-filter-based dynamic control strategy under realistic conditions. The distinguishing features of this study are as follows; 1) the power-sharing strategy is based on a dynamic filter that is designed to change its corner frequency depending upon the incoming ocean wave, 2) the low and the high-frequency power components are allocated based on ocean wave conditions, 3) the proposed strategy is suitable for the real-time control of the proposed HESS integrated with the WEC, and 4) a detailed model of the WEC is used instead of using a pre-saved power profile. The results suggest that with the implementation of the proposed multi-filter-based dynamic power-sharing scheme in the HESS integrated WECs, the output power can be effectively smoothed out before supplying the power to the grid.
+C1 [Rasool, Safdar; Muttaqi, Kashem M.; Sutanto, Danny] Univ Wollongong, Sch Elect Comp & Telecommun Engn, Australian Power & Energy Res Inst APERI, Wollongong, NSW 2522, Australia.
+C3 University of Wollongong
+RP Muttaqi, KM (通讯作者)，Univ Wollongong, Sch Elect Comp & Telecommun Engn, Australian Power & Energy Res Inst APERI, Wollongong, NSW 2522, Australia.
+EM sr785@uowmail.edu.au; kashem@uow.edu.au; soetanto@uow.edu.au
+RI Rasool, Safdar/ABA-7450-2021; Muttaqi, Kashem/J-8040-2012
+OI Muttaqi, Kashem/0000-0003-2424-0722; Sutanto,
+   Darmawan/0000-0002-2497-2766; Rasool, Safdar/0000-0002-6319-3255
+NR 42
+TC 40
+Z9 42
+U1 5
+U2 58
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1949-3029
+EI 1949-3037
+J9 IEEE T SUSTAIN ENERG
+JI IEEE Trans. Sustain. Energy
+PD JUL
+PY 2022
+VL 13
+IS 3
+BP 1693
+EP 1706
+DI 10.1109/TSTE.2022.3170938
+PG 14
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering,
+   Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA 2I0SV
+UT WOS:000814695900037
+DA 2025-05-29
+ER

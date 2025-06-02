@@ -1,0 +1,63 @@
+PT J
+AU Palmer, MD
+   McNeall, DJ
+AF Palmer, M. D.
+   McNeall, D. J.
+TI Internal variability of Earth's energy budget simulated by CMIP5 climate
+   models
+SO ENVIRONMENTAL RESEARCH LETTERS
+LA English
+DT Article
+DE heat content; earths energy budget; top-of-atmosphere radiation; surface
+   temperature; climate variability
+ID HEAT
+AB We analyse a large number of multi-century pre-industrial control simulations from the fifth phase of the Coupled Model Intercomparison Project (CMIP5) to investigate relationships between: net top-of-atmosphere radiation (TOA), globally averaged surface temperature (GST), and globally integrated ocean heat content (OHC) on decadal timescales. Consistent with previous studies, we find that large trends (similar to 0.3 K dec(-1)) in GST can arise from internal climate variability and that these trends are generally an unreliable indicator of TOA over the same period. In contrast, trends in total OHC explain 95% or more of the variance in TOA for two-thirds of the models analysed; emphasizing the oceans' role as Earth's primary energy store. Correlation of trends in total system energy (TE = time integrated TOA) against trends in OHC suggests that for most models the ocean becomes the dominant term in the planetary energy budget on a timescale of about 12 months. In the context of the recent pause in global surface temperature rise, we investigate the potential importance of internal climate variability in both TOA and ocean heat rearrangement. The model simulations suggest that both factors can account for O (0.1 W m(-2)) on decadal timescales and may play an important role in the recently observed trends in GST and 0-700 m (and 0-1800 m) ocean heat uptake.
+C1 [Palmer, M. D.; McNeall, D. J.] Hadley Ctr, Met Off, Exeter, Devon, England.
+C3 Met Office - UK; Hadley Centre
+RP Palmer, MD (通讯作者)，Hadley Ctr, Met Off, Exeter, Devon, England.
+EM matthew.palmer@metoffice.gov.uk
+OI Palmer, Matthew/0000-0001-7422-198X
+FU UK DECC/Defra Met Office Hadley Centre Climate Programme [GA01101]; Met
+   Office [NE/K005480/1]; NERC [NE/K005480/1] Funding Source: UKRI
+FX We acknowledge the World Climate Research Programme's Working Group on
+   Coupled Modelling, which is responsible for CMIP, and we thank the
+   climate modelling groups (listed in Table S1 in supplementary materials
+   available at stacks.iop.org /ERL/9/034016/mmedia) for producing and
+   making available their model output. For CMIP the US Department of
+   Energy's Program for Climate Model Diagnosis and Intercomparison
+   provides coordinating support and led development of software
+   infrastructure in partnership with the Global Organization for Earth
+   System Science Portals. Ian Edmond and Jamie Kettleborough provided
+   scripts to help with downloading and archiving of CMIP5 climate model
+   data. We are grateful to Rowan Sutton, Jonathan Gregory and John Church
+   for useful discussions on this work. Two anonymous reviewers provided
+   helpful comments on an earlier draft of the manuscript. This work was
+   supported by the Joint UK DECC/Defra Met Office Hadley Centre Climate
+   Programme (GA01101) and represents a Met Office contribution to the
+   Natural Environment Research Council DEEP-C project NE/K005480/1.
+NR 29
+TC 94
+Z9 98
+U1 1
+U2 38
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1748-9326
+J9 ENVIRON RES LETT
+JI Environ. Res. Lett.
+PD MAR
+PY 2014
+VL 9
+IS 3
+AR 034016
+DI 10.1088/1748-9326/9/3/034016
+PG 8
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA AE5ZO
+UT WOS:000334068000019
+OA gold
+DA 2025-05-29
+ER

@@ -1,0 +1,86 @@
+PT J
+AU Zheng, L
+   Cheng, X
+   Chen, ZQ
+   Wang, SY
+   Liang, Q
+   Wang, K
+AF Zheng, Lei
+   Cheng, Xiao
+   Chen, Zhuoqi
+   Wang, Shaoyin
+   Liang, Qi
+   Wang, Kang
+TI Global Snowmelt Onset Reflects Climate Variability: Insights from
+   Spaceborne Radiometer Observations
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+DE Antarctica; Arctic; Remote sensing; Climate variability
+ID ARCTIC SEA-ICE; PASSIVE-MICROWAVE; INTERANNUAL VARIABILITY; SOUTHERN
+   OSCILLATION; MELT SEASON; FREEZE-UP; TEMPERATURE; ANTARCTICA; DURATION;
+   EURASIA
+AB Snowmelt is a critical component in the cryosphere and has a direct impact on Earth's energy and water budget. Here, a 40-yr integrated melt onset (MO) dataset over sea ice, ice sheets, and terrestrial snow is compiled from spaceborne microwave radiometers and ERA5, allowing an overall assessment of the cryosphere. Results suggest that MO in both hemispheres shows latitudinal and vertical zonalities. The global cryosphere presented a trend toward earlier MO (-2 days decade(-1)) with hotpots distributed at the Northern Hemisphere high latitudes where the warming rate is much higher than that at lower latitudes. Overall, variations in MO showed a similar pattern to that in near-surface temperature. The advance of MO has been slowing down since the 1990s and no significant trend was observed during the so-called warming hiatus period (1998-2012). Regionally, climatic linkage analyses suggest the local MO variations were associated with different climate indices. MO in the pan-Arctic region is related with the Arctic Oscillation and North Atlantic Oscillation, while that in the pan-Antarctic region is associated with El Nino-Southern Oscillation and the southern annular mode. Occasionally, abnormal MO occurs as a result of extreme weather conditions. In February 2018, abnormal early melt events that occurred in the Arctic Ocean are found to be linked with the warm southerly flow due to sudden stratospheric warming. These findings suggest the satellite-based MO allows examining the dynamics and extremes in the climate system, both regionally and globally.
+C1 [Zheng, Lei; Cheng, Xiao; Chen, Zhuoqi; Wang, Shaoyin; Liang, Qi] Sun Yat Sen Univ, Sch Geospatial Engn & Sci, Guangzhou, Peoples R China.
+   [Zheng, Lei; Cheng, Xiao; Chen, Zhuoqi; Wang, Shaoyin; Liang, Qi] Southern Marine Sci & Engn Guangdong Lab Zhuhai, Zhuhai, Peoples R China.
+   [Zheng, Lei; Cheng, Xiao; Chen, Zhuoqi; Wang, Shaoyin; Liang, Qi] Univ Corp Polar Res, Beijing, Peoples R China.
+   [Wang, Kang] East China Normal Univ, Sch Geog Sci, Shanghai, Peoples R China.
+C3 Sun Yat Sen University; Southern Marine Science & Engineering Guangdong
+   Laboratory; Southern Marine Science & Engineering Guangdong Laboratory
+   (Zhuhai); East China Normal University
+RP Cheng, X (通讯作者)，Sun Yat Sen Univ, Sch Geospatial Engn & Sci, Guangzhou, Peoples R China.; Cheng, X (通讯作者)，Southern Marine Sci & Engn Guangdong Lab Zhuhai, Zhuhai, Peoples R China.; Cheng, X (通讯作者)，Univ Corp Polar Res, Beijing, Peoples R China.
+EM chengxiao9@mail.sysu.edu.cn
+RI Wang, Kang/J-7351-2019; Liang, Qi/AAI-4973-2020; Cheng,
+   Xiao/AAT-6307-2020
+FU National Natural Science Foundation of China [42006192]; Innovation
+   Group Project of Southern Marine Science and Engineering Guangdong
+   Laboratory (Zhuhai) [311021008]; China Postdoctoral Science Foundation
+   [2020M683054, 2021T140756]; National Key Research and Development
+   Program of China [2019YFC1509104]
+FX We thank the NASA DAAC at the NSIDC for providing the passive microwave
+   datasets and sea ice concentration product (SMMR,
+   https://n5eil01u.ecs.nsidc.org/PM/NSIDC-0071.001; SSM/I and SSMIS,
+   https://n5eil01u.ecs.nsidc.org/DP1/PM/NSIDC-0032.002; Bootstrap sea ice
+   concentration, https://n5eil01u.ecs.nsidc.org/PM/NSIDC-0079.003). The
+   European Centre for Medium-Range Weather Forecasts (ECMWF) is thanked
+   for providing the ERA5 data. Sea ice AWS observations are obtained from
+   the buoys deployed by the International Arctic Buoy Programme (IABP)
+   (http://iabp.apl.washington.edu/). Measurements from the Greenland Ice
+   Sheet AWS are provided by the Programme for Monitoring of the Greenland
+   Ice Sheet (PROMICE) (https://www.promice.dk/). Land surface AWS
+   observations are obtained from the National Oceanic and Atmospheric
+   Administration (https://gis.ncdc.noaa.gov/maps/ncei). This study was
+   supported by the National Natural Science Foundation of China (Grant
+   42006192), the Innovation Group Project of Southern Marine Science and
+   Engineering Guangdong Laboratory (Zhuhai) (311021008), the China
+   Postdoctoral Science Foundation (2020M683054 and 2021T140756), and the
+   National Key Research and Development Program of China (Grant
+   2019YFC1509104). The authors declare that they have no conflict of
+   interest.
+NR 77
+TC 9
+Z9 11
+U1 3
+U2 37
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693, UNITED STATES
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD MAY 15
+PY 2022
+VL 35
+IS 10
+BP 2945
+EP 2959
+DI 10.1175/JCLI-D-21-0265.1
+PG 15
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA 1J5GA
+UT WOS:000797946000002
+DA 2025-05-29
+ER

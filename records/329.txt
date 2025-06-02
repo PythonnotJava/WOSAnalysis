@@ -1,0 +1,46 @@
+PT J
+AU Turgut, HSA
+   Dincer, I
+AF Turgut, Hilal Sayhan Akci
+   Dincer, Ibrahim
+TI Experimental investigation of an integrated electro-cation exchange
+   reactor for better carbon dioxide extraction and environmental
+   management
+SO PROCESS SAFETY AND ENVIRONMENTAL PROTECTION
+LA English
+DT Article
+DE Hydrogen; Electrolysis; Carbon dioxide; Cation exchange; Energy;
+   Optimization; Environment; Sustainable development
+ID CYCLE
+AB The research focuses on a uniquely designed three-compartment type integrated electrochemical reactor developed in a laboratory setting. This innovative reactor uses an electrolytic cation exchange technique to extract substantial quantities of carbon dioxide from ocean water as bicarbonate and carbonate while simultaneously producing hydrogen gas for potential hydrocarbon production. The study employs the Design Expert software package to evaluate and optimize the implementation of electrochemical carbon dioxide extraction from ocean water. The reactor is divided into three compartments by two cation-exchange membranes: a middle part and two electrode parts for the cathode and anode sides. The membranes possess acidic properties that facilitate cation transport while inhibiting anion transport. The laboratory studies, including 35-minute long experimental runs, are conducted to determine the system's feasibility by assessing carbon dioxide extraction under different conditions, such as electrolyte concentration, applied voltage, and pH levels. The reactor achieves a maximum COQ extraction rate of 1479.73 mg/min, with optimal conditions yielding 1514.6 mg/min. The ideal operating parameters are found to be a voltage of 14.8 V, an electrolyte concentration of 0.557 M, and a pH of 2.26. The results of the optimization study further reveal that carbon dioxide extraction increases with decreasing pH levels.
+C1 [Turgut, Hilal Sayhan Akci; Dincer, Ibrahim] Ontario Tech Univ, Clean Energy Res Lab CERL, FEAS, 2000 Simcoe St North, Oshawa, ON L1H 7K4, Canada.
+RP Turgut, HSA (通讯作者)，Ontario Tech Univ, Clean Energy Res Lab CERL, FEAS, 2000 Simcoe St North, Oshawa, ON L1H 7K4, Canada.
+EM hilal.akci@ontariotechu.net; Ibrahim.Dincer@ontariotechu.ca
+NR 27
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0957-5820
+EI 1744-3598
+J9 PROCESS SAF ENVIRON
+JI Process Saf. Environ. Protect.
+PD DEC
+PY 2024
+VL 192
+BP 1576
+EP 1587
+DI 10.1016/j.psep.2024.10.109
+EA NOV 2024
+PG 12
+WC Engineering, Environmental; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA M6P9C
+UT WOS:001358745900001
+OA hybrid
+DA 2025-05-29
+ER

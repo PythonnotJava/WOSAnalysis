@@ -1,0 +1,62 @@
+PT J
+AU Bento, PMR
+   Pombo, JAN
+   Mendes, RPG
+   Calado, MRA
+   Mariano, SJPS
+AF Bento, P. M. R.
+   Pombo, J. A. N.
+   Mendes, R. P. G.
+   Calado, M. R. A.
+   Mariano, S. J. P. S.
+TI Ocean wave energy forecasting using optimised deep learning neural
+   networks
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Ocean wave energy; Short-term forecasting; Deep neural networks; Data
+   selection; Moth-flame optimisation; Forecasting skills
+ID HEIGHT; MACHINE
+AB Ocean renewable energy is a promising inexhaustible source of renewable energy, with an estimated harnessing potential of approximately 337 GW worldwide, which could re-shape the power generation mix. As with other sources of renewables, however, wave energy has an intermittent and irregular nature, which is a major concern for power system stability. Consequently, in order to integrate wave energy into power grids, it must be forecasted. This paper proposes using optimised deep learning neural networks to forecast the wave energy flux, and other wave parameters. In particular, we use moth-flame optimisation as the central decision-making unit to configure the deep neural network structure and the proper input data selection. Besides, the moth-flame optimisation algorithm was modified to improve its search space mechanisms. The forecasting skills are assessed using 13 datasets from locations across the Pacific and Atlantic coasts, and the Gulf of Mexico. The proposed optimised deep neural network performs well at all the sites, especially over short-term horizons, where it outperforms statistical and physics-based approaches.
+C1 [Bento, P. M. R.; Pombo, J. A. N.; Mendes, R. P. G.; Calado, M. R. A.; Mariano, S. J. P. S.] Univ Beira Interior, Covilha, Portugal.
+   [Bento, P. M. R.; Pombo, J. A. N.; Mendes, R. P. G.; Calado, M. R. A.] Inst Telecomunicacoes, Covilha, Portugal.
+C3 Universidade da Beira Interior
+RP Mariano, SJPS (通讯作者)，Univ Beira Interior, Covilha, Portugal.
+EM pedro.bento@lx.it.pt; jose.pombo@ubi.pt; rui.mendes@lx.it.pt; rc@ubi.pt;
+   sm@ubi.pt
+RI Bento, Pedro/AAH-9434-2020; Pinto Simoes Mariano, Silvio
+   Jose/N-6834-2013; Calado, M. do Rosario/N-6809-2013
+OI Pombo, Jose/0000-0002-8727-0067; Rocha Bento, Pedro
+   Miguel/0000-0002-9102-7086; Pinto Simoes Mariano, Silvio
+   Jose/0000-0002-6102-5872; Calado, M. do Rosario/0000-0002-5206-487X
+FU Fundacao para a Ciencia e a Tecnologia (FCT), Portugal
+   [SFRH/BD/140371/2018]; Fundação para a Ciência e a Tecnologia
+   [SFRH/BD/140371/2018] Funding Source: FCT
+FX P.M.R. Sento gives his special thanks to the Fundacao para a Ciencia e a
+   Tecnologia (FCT), Portugal, for the Ph.D. Grant (SFRH/BD/140371/2018).
+NR 46
+TC 70
+Z9 73
+U1 5
+U2 56
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD JAN 1
+PY 2021
+VL 219
+AR 108372
+DI 10.1016/j.oceaneng.2020.108372
+PG 18
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA PO1JW
+UT WOS:000604928100087
+DA 2025-05-29
+ER

@@ -1,0 +1,84 @@
+PT J
+AU Song, Y
+   Shi, WC
+   Wang, YH
+   Wu, HY
+   Yang, SQ
+   Hou, HB
+   Xu, YX
+AF Song, Yang
+   Shi, Weichao
+   Wang, Yanhui
+   Wu, Hongyu
+   Yang, Shaoqiong
+   Hou, Hongbo
+   Xu, Yunxin
+TI Evaluation of energy consumption and motion accuracy for underwater
+   gliders based on quadrant analysis
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Underwater glider; Energy consumption model; Motion accuracy evaluation;
+   LQR control; Quadrant analysis
+ID MODEL; VEHICLE; SIMULATION
+AB Underwater gliders are well known as a type of enduring platform for underwater exploration; nevertheless, they have also been criticised in terms of their compromised course-keeping capability, particularly in harsh ocean environments. A motion controller that can improve motion accuracy while maintaining a low energy demand is preferred by developers and operators. In this paper, a motion controller based on a combined feedforward and Linear Quadratic Regulator (LQR) control is proposed. The controller has been evaluated in terms of energy consumption and motion accuracy with a fully coupled numerical model integrating the vehicle dynamics, the energy consumption and the control system. A energy-accuracy chart and a quadrant analysis are then introduced to support the analysis of the controller performance and the identification of the optimum operating conditions. Based on the prototype underwater glider that has been developed at Tianjin University, various case studies in different ocean environmental conditions are performed. The results show that the method proposed can quantitatively evaluate the performance of the vehicle to effectively achieve the balance between energy consumption and motion accuracy which can support the decision-making process for the best operation strategy.
+C1 [Song, Yang; Wang, Yanhui; Yang, Shaoqiong] Tianjin Univ, Sch Mech Engn, Key Lab Mech Theory & Equipment Design, Minist Educ, Tianjin 300350, Peoples R China.
+   [Song, Yang; Hou, Hongbo; Xu, Yunxin] Univ Strathclyde, Fac Engn, Dept Naval Architecture Ocean & Marine Engn, Glasgow G4 0LZ, Scotland.
+   [Song, Yang; Shi, Weichao] Newcastle Univ, Sch Engn, Marine Offshore & Subsea Technol Grp, Mech Engn & Marine Technol, Newcastle NE1 7RU, England.
+   [Wang, Yanhui; Yang, Shaoqiong] Pilot Natl Lab Marine Sci & Technol, Joint Lab Ocean Observing & Detect, Qingdao 266237, Shandong, Peoples R China.
+   [Wu, Hongyu] Tsinghua Univ, Dept Mech Engn, State Key Lab Tribol Adv Equipment, Beijing 100084, Peoples R China.
+C3 Ministry of Education - China; Tianjin University; University of
+   Strathclyde; Newcastle University - UK; Laoshan Laboratory; Tsinghua
+   University
+RP Wang, YH (通讯作者)，Tianjin Univ, Sch Mech Engn, Key Lab Mech Theory & Equipment Design, Minist Educ, Tianjin 300350, Peoples R China.
+EM yanhuiwang@tju.edu.cn
+RI Yang, Shaoqiong/AAW-8106-2021; WANG, Yanhui/AAS-3446-2020; Shi,
+   Weichao/C-2099-2017
+OI Shi, Weichao/0000-0001-9730-7313; Xu, Yunxin/0000-0001-7254-2333; Hou,
+   Hongbo/0000-0002-5644-5354
+FU National Key R amp; D Program of China; National Natural Science
+   Foundation of China [11902219]; Natural Science Foundation of Tianjin
+   City [18JCJQJC46400]; Royal Society [IEC \NSFC\201050]; China
+   Postdoctoral Science Foundation [2023M731946]; Shuimu Scholar Program of
+   Tsinghua University [2022SM018]; China Scholarship Council
+   [202006250118]
+FX The funding supports received from the National Key R & D Program of
+   China, the National Natural Science Foundation of China (Grant:
+   11902219) , the Natural Science Foundation of Tianjin City (Grant
+   18JCJQJC46400) , the Royal Society (Biomimetic improvement for the
+   hydrodynamic performance of the enduring underwater glider, Ref: IEC
+   \NSFC\201050) , the China Postdoctoral Science Foundation (Grant:
+   2023M731946) , the Shuimu Scholar Program of Tsinghua University (Grant:
+   2022SM018) , and the China Scholarship Council (File No. 202006250118)
+   are greatly appreciated and acknowledged. The authors also would like to
+   express their sincere thanks to Callum Stark for his helping to revise
+   the grammar.
+NR 44
+TC 10
+Z9 10
+U1 2
+U2 121
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD OCT 1
+PY 2023
+VL 285
+AR 115399
+DI 10.1016/j.oceaneng.2023.115399
+EA JUL 2023
+PN 2
+PG 23
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA P1BJ8
+UT WOS:001048057600001
+OA Green Accepted
+DA 2025-05-29
+ER

@@ -1,0 +1,58 @@
+PT J
+AU Crivellari, A
+   Cozzani, V
+   Dincer, I
+AF Crivellari, Anna
+   Cozzani, Valerio
+   Dincer, Ibrahim
+TI Design and energy analyses of alternative methanol production processes
+   driven by hybrid renewable power at the offshore Thebaud platform
+SO ENERGY CONVERSION AND MANAGEMENT
+LA English
+DT Article
+DE Wind energy; Solar energy; Offshore oil & gas sector; Methanol
+   production; Energy efficiency; Footprint analysis
+ID CARBON-DIOXIDE; PERFORMANCE ANALYSIS; DIRECT CONVERSION; DIMETHYL ETHER;
+   SOLAR-ENERGY; WIND ENERGY; GAS; TECHNOLOGIES; PROSPECTS; HYDROGEN
+AB In the present study, novel processes for the offshore production of methanol via alternative routes than reforming of synthesis gas are investigated. Two process schemes are defined differing in the carbon source in input, i.e. the catalytic hydrogenation of carbon dioxide and the direct oxidation of methane via radical gas reaction. Both the schemes are considered to be installed at the main facility of the Canadian Sable Offshore Project in the Atlantic Ocean, the gas production Thebaud platform. Both offshore wind farm and solar parabolic trough systems are integrated to supply electricity and heat power to each process. The Aspen HYSYS is used to simulate the chemical processes, while Homer Pro and System Advisor Model are adopted for the design of feasible renewable energy plants. A thermodynamic modelling through energy analysis is conducted to evaluate and compare the energy efficiencies of sub-systems and overall schemes. Moreover, a preliminary design analysis is performed to estimate the footprint required for the components of the two schemes located on the offshore facility. The present results reveal that the methane-to-methanol process makes more efficient use of the integrated renewable sources but requires relatively higher space at the installation than the other scheme.
+C1 [Crivellari, Anna; Cozzani, Valerio] Univ Bologna, Dept Civil Chem Environm & Mat Engn, Via Terracini 28, I-40131 Bologna, Italy.
+   [Crivellari, Anna; Dincer, Ibrahim] UOIT, Fac Engn & Appl Sci, 2000 Simcoe St North, Oshawa, ON L1H 7K4, Canada.
+C3 University of Bologna; Ontario Tech University
+RP Crivellari, A (通讯作者)，Univ Bologna, Dept Civil Chem Environm & Mat Engn, Via Terracini 28, I-40131 Bologna, Italy.
+EM anna.crivellari2@unibo.it
+RI Dincer, Ibrahim/ITU-6448-2023
+OI crivellari, anna/0000-0001-8433-9316; COZZANI,
+   VALERIO/0000-0003-4680-535X
+FU Italian Ministry of Economic Development, General Directorate for Safety
+   of Mining and Energy Activities (DGS)-National Office of Mining for
+   Hydrocarbons and Georesources (UNMIG)
+FX The authors acknowledge the support provided by the Italian Ministry of
+   Economic Development, General Directorate for Safety of Mining and
+   Energy Activities (DGS)-National Office of Mining for Hydrocarbons and
+   Georesources (UNMIG).
+NR 63
+TC 28
+Z9 28
+U1 3
+U2 40
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0196-8904
+EI 1879-2227
+J9 ENERG CONVERS MANAGE
+JI Energy Conv. Manag.
+PD MAY 1
+PY 2019
+VL 187
+BP 148
+EP 166
+DI 10.1016/j.enconman.2019.03.017
+PG 19
+WC Thermodynamics; Energy & Fuels; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels; Mechanics
+GA IA9VE
+UT WOS:000469904200013
+DA 2025-05-29
+ER

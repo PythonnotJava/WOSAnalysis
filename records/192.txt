@@ -1,0 +1,55 @@
+PT J
+AU Lai, WB
+   Li, JL
+   Rong, SZ
+   Yang, HK
+   Zheng, XB
+AF Lai, Wenbin
+   Li, Jialong
+   Rong, Sizhang
+   Yang, Hongkun
+   Zheng, Xiongbo
+TI Experimental and numerical study on the integration of a built-in wave
+   energy converter(BIWEC) and floating platform
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Built-in; Wave energy converter; Floating platform; Coupled dynamic
+   characteristics; Power generation performance
+ID POINT ABSORBER; OFFSHORE WIND; SEA
+AB Nowadays generating electricity continuously in real waves over extended periods is a big challenge due to harsh ocean environment for wave energy converters (WECs). In this study, in order to enhance the reliability of WEC, a novel BIWEC which can form an integrated system by combing with existing floating platforms is proposed. This design method provides a robust mechanism for using wave energy efficiently and has been validated through the numerical simulations and physical model experiments of integrated systems. In addition, a comprehensive study and analysis on the coupling dynamic characteristics of the integrated system, as well as the influence of different power take-off (PTO) parameters on the power generation performance of BIWEC are conducted. Furthermore, using the typical wave conditions in the South China Sea (2-10 s wave period and 2 m wave height) as an example, the capture power and capture width ratio of BIWEC under various effective motion strokes and mass ratios are investigated. The research results indicate that the BIWEC has the characteristics of dual resonance frequencies, a wide range of wave frequency capture, and high energy conversion efficiency, and the results of the physical experiments are consistent with those of numerical simulations, validating the reliability of the physical experiments. In the physical experimental tests, the average mechanical efficiency of the BIWEC model is 49.17%. The research results presented in this paper have significant implications for the further promoting of commercialization of WEC.
+C1 [Lai, Wenbin; Li, Jialong; Rong, Sizhang; Yang, Hongkun; Zheng, Xiongbo] Harbin Engn Univ, Sch Math Sci, Harbin 150001, Heilongjiang, Peoples R China.
+C3 Harbin Engineering University
+RP Zheng, XB (通讯作者)，Harbin Engn Univ, Sch Math Sci, Harbin 150001, Heilongjiang, Peoples R China.
+EM zhengxiongbo@hrbeu.edu.cn
+RI LIU, Di/JOZ-7725-2023
+FU National Nature Science Foundation of China [52071094]
+FX <BOLD>Acknowledgements</BOLD> The authors acknowledge the support of the
+   National Nature Science Foundation of China (grant No. 52071094) .
+NR 42
+TC 2
+Z9 2
+U1 4
+U2 16
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD MAY 1
+PY 2024
+VL 299
+AR 117408
+DI 10.1016/j.oceaneng.2024.117408
+EA MAR 2024
+PG 15
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA PA4Q0
+UT WOS:001211349700001
+DA 2025-05-29
+ER

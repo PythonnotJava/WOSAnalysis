@@ -1,0 +1,50 @@
+PT J
+AU Johnson, B
+   Cotilla-Sanchez, E
+AF Johnson, Brandon
+   Cotilla-Sanchez, Eduardo
+TI Estimating the impact of ocean wave energy on power system reliability
+   with a well-being approach
+SO IET RENEWABLE POWER GENERATION
+LA English
+DT Article
+DE ocean waves; power system reliability; wave power plants; Monte Carlo
+   methods; wind power plants; power generation reliability; power grids;
+   power system reliability; future energy demand; Reliability assessment
+   techniques; IEEE Reliability Test System 1996; synthesised ocean wave
+   energy farms; wave energy results
+ID CHALLENGES; GENERATION; ADEQUACY
+AB Ocean wave energy is a developing industry that provides many attractive qualities for utilities to meet future energy demand. Therefore, it is important to investigate and understand the impact that ocean wave energy has on power system reliability. Reliability assessment techniques have been applied to systems with variable amounts of wind penetration, but as of yet, no study has explored the impacts that ocean wave energy may have on the reliability of power grids. The authors' approach to this problem applies a sequential Monte Carlo technique coupled with a Well-Being analysis approach to capture the seasonal variations associated with the ocean and then calculate key loss-of-load indices. The authors benchmark this method on the IEEE Reliability Test System 1996 and integrate synthesised ocean wave energy farms throughout the system. Their results suggest that wave energy results in a small decrease on the reliability of the power system, however, this change does not result in additional failure states as compared to the base system. Additionally, they are able to mitigate marginal system states with a relatively small increase in system capacity.
+C1 [Johnson, Brandon; Cotilla-Sanchez, Eduardo] Oregon State Univ, Sch Elect Engn & Comp Sci, Corvallis, OR 97331 USA.
+C3 Oregon State University
+RP Johnson, B (通讯作者)，Oregon State Univ, Sch Elect Engn & Comp Sci, Corvallis, OR 97331 USA.
+EM johnbran@oregonstate.edu
+RI Cotilla-Sanchez, Eduardo/JXN-5290-2024
+NR 35
+TC 4
+Z9 6
+U1 1
+U2 9
+PU INST ENGINEERING TECHNOLOGY-IET
+PI HERTFORD
+PA MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD SG1 2AY, ENGLAND
+SN 1752-1416
+EI 1752-1424
+J9 IET RENEW POWER GEN
+JI IET Renew. Power Gener.
+PD MAR 16
+PY 2020
+VL 14
+IS 4
+BP 608
+EP 615
+DI 10.1049/iet-rpg.2019.0567
+PG 8
+WC Green & Sustainable Science & Technology; Energy & Fuels; Engineering,
+   Electrical & Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels; Engineering
+GA KW1MU
+UT WOS:000520936400013
+DA 2025-05-29
+ER

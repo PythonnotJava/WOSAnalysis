@@ -1,0 +1,58 @@
+PT J
+AU Liu, ZQ
+   Gan, JP
+AF Liu, Zhiqiang
+   Gan, Jianping
+TI Open boundary conditions for tidally and subtidally forced circulation
+   in a limited-area coastal model using the Regional Ocean Modeling System
+   (ROMS)
+SO JOURNAL OF GEOPHYSICAL RESEARCH-OCEANS
+LA English
+DT Article
+ID EAST CHINA SEA; FLUID; TIDE; DYNAMICS; SURFACE
+AB In limited-area ocean models, open boundary conditions (OBCs) often create dynamic inconsistencies and perform poorly in resolving tidal or subtidal flow when both forces exist. Orlanski-type radiation OBCs are reasonably efficient at treating the subtidally forced flow, and Flather-type OBCs are commonly adapted for the tidally forced flow. However, neither of them performs well when tidal and subtidal forces simultaneously drive the flows. We have developed a novel OBC that integrates the active OBC in Gan and Allen (2005) and a Flather-type OBC. This new OBC accommodates the concurrent Tidal and Subtidal (TST) forcing, and the respective tidal or subtidal forcing, at the open boundary of a limited-area model. This new TST-OBC treats the tidal component with a Flather-type OBC, and it separates subtidal barotropic and baroclinic components into local (forced) and global (unforced) components. Then an unforced Orlanski-type OBC can be applied to the global part. We applied the TST-OBC to all model variables to reduce dynamic inconsistence. Using the Regional Ocean Modeling System, we applied the TST-OBC to the shallow East China Sea shelf where strong tidal and subtidal forces over complex topography govern the circulation. Our numerical experiments and analyses suggest that the TST-OBC was robust for both concurrent tidal-subtidal forcing and solely tidal or subtidal forcing at the open boundary. It reduced spurious energy reflection, and, overall, it performed better than an Orlanski-type or Flather-type OBC in reproducing realistic tidal and subtidal shelf circulation.
+C1 [Liu, Zhiqiang; Gan, Jianping] Hong Kong Univ Sci & Technol, Dept Math, Kowloon, Hong Kong, Peoples R China.
+   [Liu, Zhiqiang; Gan, Jianping] Hong Kong Univ Sci & Technol, Div Environm, Kowloon, Hong Kong, Peoples R China.
+C3 Hong Kong University of Science & Technology; Hong Kong University of
+   Science & Technology
+RP Gan, JP (通讯作者)，Hong Kong Univ Sci & Technol, Dept Math, Kowloon, Hong Kong, Peoples R China.; Gan, JP (通讯作者)，Hong Kong Univ Sci & Technol, Div Environm, Kowloon, Hong Kong, Peoples R China.
+EM magan@ust.hk
+RI Gan, Jianping/AAJ-6821-2021; LIU, Zhiqiang/AAG-6964-2020
+OI LIU, Zhiqiang/0000-0002-8568-432X; LIU, Zhiqiang/0000-0002-0068-5981;
+   Gan, Jianping/0000-0001-9827-7929
+FU National Basic Research Program (973) of China [2015CB954004]; Hong Kong
+   Research Grant Council [N_HKUST627/13, 16202514]
+FX This research was supported by the National Basic Research Program (973)
+   of China, under project 2015CB954004, and by the Hong Kong Research
+   Grant Council, under projects N_HKUST627/13 and 16202514. The authors
+   are grateful for the thoughtful comments and suggestions from the
+   anonymous reviewers. We also thank Linlin Liang for computer programming
+   support. The programs, codes, and data for this study are available from
+   the corresponding author at email address: magan@ust.hk.
+NR 33
+TC 39
+Z9 41
+U1 0
+U2 36
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9275
+EI 2169-9291
+J9 J GEOPHYS RES-OCEANS
+JI J. Geophys. Res.-Oceans
+PD AUG
+PY 2016
+VL 121
+IS 8
+BP 6184
+EP 6203
+DI 10.1002/2016JC011975
+PG 20
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA EA8TU
+UT WOS:000386912700047
+DA 2025-05-29
+ER

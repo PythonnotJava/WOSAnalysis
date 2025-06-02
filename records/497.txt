@@ -1,0 +1,66 @@
+PT J
+AU Ortega, A
+   Tomy, JP
+   Shek, J
+   Paboeuf, S
+   Ingram, D
+AF Ortega, Arturo
+   Tomy, Joseph Praful
+   Shek, Jonathan
+   Paboeuf, Stephane
+   Ingram, David
+TI An Inter-Comparison of Dynamic, Fully Coupled, Electro-Mechanical,
+   Models of Tidal Turbines
+SO ENERGIES
+LA English
+DT Article
+DE coupled system; tidal turbine; electrical system; blade element momentum
+   theory; actuator line model; computational fluid dynamics
+ID ELEMENT MOMENTUM THEORY; DESIGN; BLADE; PERFORMANCE
+AB Production of electricity using hydrokinetic tidal turbines has many challenges that must be overcome to ensure reliable, economic and practical solutions. Kinetic energy from flowing water is converted to electricity by a system comprising diverse mechanical and electrical components from the rotor blades up to the electricity grid. To date these have often been modelled using simulations of independent systems, lacking bi-directional, real-time, coupling. This approach leads to critical effects being missed. Turbulence in the flow, results in large velocity fluctuations around the blades, causing rapid variation in the shaft torque and generator speed, and consequently in the voltage seen by the power electronics and so compromising the export power quality. Conversely, grid frequency and voltage changes can also cause the generator speed to change, resulting in changes to the shaft speed and torque and consequently changes to the hydrodynamics acting on the blades. Clearly, fully integrated, bi-directional, models are needed. Here we present two fully coupled models which use different approaches to model the hydrodynamics of rotor blades. The first model uses the Blade Element Momentum Theory (BEMT), resulting in an efficient tool for turbine designers. The second model also uses BEMT, combines this with an actuator line model of the blades coupled to an unsteady computational fluid dynamics simulation by OpenFOAM (CFD/BEMT). Each model is coupled to an OpenModelica model of the electro-mechanical system by an energy balance to compute the shaft speed. Each coupled system simulates the performance of a 1.2 m diameter, three-bladed horizontal axis tidal turbine tested in the University of Edinburgh FloWave Ocean Energy Research Facility. The turbulent flow around the blades and the mechanical-electrical variables during the stable period of operation are analysed. Time series and tabulated average values of thrust, torque, power, and rotational speed, as well as, electrical variables of generator power, electromagnetic torque, voltage and current are presented for the coupled system simulation. The relationship between the mechanical and electrical variables and the results from both tidal turbine approaches are discussed. Our comparison shows that while the BEMT model provides an effective design tool (leading to slightly more conservative designs), the CFD/BEMT simulations show the turbulence influence in the mechanical and electrical variables which can be especially important in assessing an additional source of stresses in the whole electro-mechanical system (though at an increased computational cost).
+C1 [Ortega, Arturo; Shek, Jonathan; Ingram, David] Univ Edinburgh, Sch Engn, Inst Energy Syst, Colin Maclaurin Rd, Edinburgh EH9 3DW, Midlothian, Scotland.
+   [Tomy, Joseph Praful; Paboeuf, Stephane] Bur Veritas Marine & Offshore, F-44323 Nantes, France.
+C3 University of Edinburgh
+RP Ortega, A (通讯作者)，Univ Edinburgh, Sch Engn, Inst Energy Syst, Colin Maclaurin Rd, Edinburgh EH9 3DW, Midlothian, Scotland.
+EM arturo.ortega@ed.ac.uk; joseph-praful.tomy@bureauveritas.com;
+   j.shek@ed.ac.uk; stephane.paboeuf@bureauveritas.com;
+   david.ingram@ed.ac.uk
+RI Ortega, Alejandro/KJM-3377-2024; Ingram, David Mark/B-4618-2013
+OI Tomy, Joseph Praful/0000-0001-5299-376X; Ingram, David
+   Mark/0000-0002-8669-8942; ORTEGA, ARTURO/0000-0002-9546-7628; Shek,
+   Jonathan/0000-0001-5734-2907; paboeuf, stephane/0000-0002-3985-7701
+FU European Commission H2020 Programme for Research & Innovation-"Advanced
+   monitoring, simulation and control of tidal devices in unsteady, highly
+   turbulent realistic tide environments [727689]; H2020 Societal
+   Challenges Programme [727689] Funding Source: H2020 Societal Challenges
+   Programme
+FX This research was funded by the European Commission H2020 Programme for
+   Research & Innovation-"Advanced monitoring, simulation and control of
+   tidal devices in unsteady, highly turbulent realistic tide environments
+   (RealTide Project)", grant number 727689.
+NR 34
+TC 4
+Z9 4
+U1 1
+U2 9
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD OCT
+PY 2020
+VL 13
+IS 20
+AR 5389
+DI 10.3390/en13205389
+PG 19
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA OM7RC
+UT WOS:000586215900001
+OA gold, Green Submitted, Green Published
+DA 2025-05-29
+ER

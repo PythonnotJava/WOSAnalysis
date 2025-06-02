@@ -1,0 +1,55 @@
+PT J
+AU Xu, JF
+   Liu, ZZ
+AF Xu, Jiafei
+   Liu, Zhizhao
+TI Development and Validation of Integrated Water Vapor Under Variable
+   Cloud Conditions Using Sentinel-3 OLCI Near-Infrared Radiance
+   Measurements
+SO IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
+LA English
+DT Article
+DE Global navigation satellite system; Absorption; Satellite broadcasting;
+   Clouds; Atmospheric measurements; Sea measurements; Instruments; Cloud
+   computing; Channel estimation; Training; Global Navigation Satellite
+   System (GNSS); integrated water vapor (IWV); near infrared; Ocean and
+   Land Color Imager (OLCI); radiosonde; retrieval
+ID PRECIPITABLE WATER; GPS METEOROLOGY; COLUMN; RETRIEVALS; DELAYS
+AB Integrated water vapor (IWV) is a dominant influence element in radiation absorption, energy transfer, and water circulation on both local and global scales. The Sentinel-3 Ocean and Land Color Imager (OLCI) instrument provides operational IWV measurements using a two-band ratio of an IWV absorption channel (O19; 900 nm) and a referenced channel (O18; 885 nm). However, the operational OLCI/Sentinel-3 satellite product does not offer IWV estimates under cloudy-sky conditions, as OLCI-sensed near-infrared data have considerable uncertainties when clouds are in existence. We develop a practical machine learning-based retrieval algorithm to derive IWV estimates from OLCI near-infrared radiance observations under all-sky conditions. The retrieval method utilizes O19 900-nm and O20 940-nm IWV absorption bands as well as O18 885-nm and O21 1020-nm referenced bands, based on both two-band and three-band ratio methods. IWVs from the Global Navigation Satellite System (GNSS) are used as the desired IWV retrievals. The results show that all newly derived IWV retrievals have an excellent agreement with reference IWV from additional GNSS and radiosonde data, regardless of sky weather conditions. The weighted-mean IWV retrievals present the highest performance with GNSS and radiosonde IWV [correlation coefficient: 0.86 and 0.85; root-mean-square error (RMSE): 2.85 and 3.49 mm; and mean bias (MB): -0.14 and -0.99 mm]. The newly retrieved cloudy-sky IWV is comparable to operational clear-sky IWV, denoting the capability and effectiveness of the retrieval algorithm. The retrieval approach exhibits a dependable performance in both spatial and temporal dimensions, which could be employed in other areas and periods.
+C1 [Xu, Jiafei; Liu, Zhizhao] Hong Kong Polytech Univ, Dept Land Surveying & Geoinformat, Hung Hom, Hong Kong, Peoples R China.
+C3 Hong Kong Polytechnic University
+RP Liu, ZZ (通讯作者)，Hong Kong Polytech Univ, Dept Land Surveying & Geoinformat, Hung Hom, Hong Kong, Peoples R China.
+EM garfield.xu@connect.polyu.hk; lszzliu@polyu.edu.hk
+RI ; Liu, Zhizhao/C-7406-2012
+OI Xu, Jiafei/0000-0001-7500-870X; Liu, Zhizhao/0000-0001-6822-9248
+FU Research Grants Council of the Hong Kong Special Administrative Region,
+   China [PolyU/RGC 15221620/B-Q80Q, 15205821/B-Q84W, 15212622/B-Q94L]
+FX This work was supported in part by the Research Grants Council of the
+   Hong Kong Special Administrative Region, China, under Project PolyU/RGC
+   15221620/B-Q80Q, Project 15205821/B-Q84W,and Project 15212622/B-Q94L.
+NR 62
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0196-2892
+EI 1558-0644
+J9 IEEE T GEOSCI REMOTE
+JI IEEE Trans. Geosci. Remote Sensing
+PY 2025
+VL 63
+AR 4102914
+DI 10.1109/TGRS.2025.3541127
+PG 14
+WC Geochemistry & Geophysics; Engineering, Electrical & Electronic; Remote
+   Sensing; Imaging Science & Photographic Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics; Engineering; Remote Sensing; Imaging Science
+   & Photographic Technology
+GA Z7O4Z
+UT WOS:001440752700003
+DA 2025-05-29
+ER

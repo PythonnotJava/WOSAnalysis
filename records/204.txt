@@ -1,0 +1,54 @@
+PT J
+AU Lu, KH
+   Hong, CM
+   Cheng, FS
+AF Lu, Kai-Hung
+   Hong, Chih-Ming
+   Cheng, Fu-Sheng
+TI Enhanced Dynamic Performance in Hybrid Power System Using a Designed
+   ALTS-PFPNN Controller
+SO ENERGIES
+LA English
+DT Article
+DE adaptive least trimmed squares petri fuzzy probabilistic neural network
+   (ALTS-PFPNN); offshore wind power farm; ocean wave power farm; unified
+   power flow controller (UPFC)
+ID INTEGRATED OFFSHORE WIND; NEURAL-NETWORK; STABILITY ENHANCEMENT; UPFC;
+   CLASSIFICATION; GENERATOR
+AB The large-scale, nonlinear and uncertain factors of hybrid power systems (HPS) have always been difficult problems in dynamic stability control. This research mainly focuses on the dynamic and transient stability performance of large HPS under various operating conditions. In addition to the traditional synchronous power generator, wind-driven generator and ocean wave generator, the hybrid system also adds battery energy storage system and unified power flow controller (UPFC), making the system more diversified and more consistent with the current actual operation mode of the complex power grid. The purpose of this study is to propose an adaptive least squares Petri fuzzy probabilistic neural network (ALTS-PFPNN) for UPFC installed in the power grid to enhance the behavior of HPS operation. The proposed scheme improves the active power adjustment and dynamic performance of the integrated wave power generation and offshore wind system under a large range of operating conditions. Through various case studies, the practicability and robustness of ALTS-PFPNN method are verifying it by comparison and analysis with the damping controller based on the designed proportional integral differential (PID) and the control scheme without UPFC. Time-domain simulations were performed using Matlab-Simulink to validate the optimal damping behavior and efficiency of the suggested scheme under various disturbance conditions.
+C1 [Lu, Kai-Hung] Minnan Univ Sci & Technol, Sch Elect & Elect Engn, Quanzhou 362700, Peoples R China.
+   [Hong, Chih-Ming] Natl Kaohsiung Univ Sci & Technol, Dept Elect Commun Engn, Kaohsiung 811213, Taiwan.
+   [Cheng, Fu-Sheng] Cheng Shiu Univ, Dept Elect Engn, Kaohsiung 833301, Taiwan.
+C3 National Kaohsiung University of Science & Technology; Cheng Shiu
+   University
+RP Hong, CM (通讯作者)，Natl Kaohsiung Univ Sci & Technol, Dept Elect Commun Engn, Kaohsiung 811213, Taiwan.
+EM hung71721@nkust.edu.tw
+FU Natural Science Foundation of Fujian Province of China [2021J01531]
+FX The project was supported by the Natural Science Foundation of Fujian
+   Province of China (No. 2021J01531).
+NR 32
+TC 2
+Z9 2
+U1 0
+U2 2
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD NOV
+PY 2022
+VL 15
+IS 21
+AR 8263
+DI 10.3390/en15218263
+PG 22
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA 6F2VW
+UT WOS:000883926200001
+OA gold
+DA 2025-05-29
+ER

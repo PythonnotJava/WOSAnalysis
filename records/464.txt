@@ -1,0 +1,56 @@
+PT J
+AU Kazmi, SS
+   Riaz, MB
+   Jhangeer, A
+AF Kazmi, Syeda Sarwat
+   Riaz, Muhammad Bilal
+   Jhangeer, Adil
+TI Integrating data overlaps and nonlinear dynamics: A novel approach to
+   the Davey-Stewartson system in optical fluid model
+SO AIN SHAMS ENGINEERING JOURNAL
+LA English
+DT Article
+DE (2 + 1)-dimensional Davey-Stewartson system; Generalized logistic
+   equation method; Dynamical behavior; Chaotic attractors; Return maps;
+   Power spectrum; Overlapping of solutions
+AB In this study, the newly developed (2 + 1)-dimensional Davey-Stewartson system, characterized by parabolic law nonlinearity, is examined. This equation is recognized as significant for modeling surface wave patterns in finite-depth conditions. The model is initially transformed into lower dimensions using the wave transformation. Various soliton solutions, including kink, anti-kink, periodic, and chirped solitons, are derived using the generalized logistic equation method. These soliton structures have practical applications in fields such as optical pulse propagation in fiber optics, signal transmission in communication systems, energy transport in ocean engineering, and biological wave modeling, particularly in understanding nonlinear wave dynamics in shallow water and geophysical flows. To deepen our understanding of the physics behind these solutions, they are visualized using various representations, including 3D plots, 2D plots, density plots, and polar plots. Following this, a phase portrait analysis is conducted on the critical points of the unperturbed dynamical system. Subsequently, an outward force is introduced, and the perturbed system's behavior is examined using advanced chaos detection techniques. These include Poincar & eacute; maps, time series graphs, multistability analysis, chaotic attractors, return maps, power spectra, and Lyapunov exponents. A newly introduced bidirectional scatter plot approach is employed to perform a comparative analysis of solution behaviors, effectively highlighting overlapping regions and distinctions within their solution spaces through data points. This study contributes to the understanding of nonlinear wave systems and provides new tools for future research in applied mathematics.
+C1 [Kazmi, Syeda Sarwat; Riaz, Muhammad Bilal; Jhangeer, Adil] VSB Tech Univ Ostrava, IT4Innovat, Ostrava, Czech Republic.
+   [Riaz, Muhammad Bilal] Appl Sci Private Univ, Appl Sci Res Ctr, Amman, Jordan.
+   [Kazmi, Syeda Sarwat] Chitkara Univ, Inst Engn & Technol, Rajpura, Punjab, India.
+C3 Technical University of Ostrava; Applied Science University - Jordan;
+   Chitkara University, Punjab
+RP Kazmi, SS (通讯作者)，VSB Tech Univ Ostrava, IT4Innovat, Ostrava, Czech Republic.; Kazmi, SS (通讯作者)，Chitkara Univ, Inst Engn & Technol, Rajpura, Punjab, India.
+EM syeda.sarwat.kazmi@vsb.cz
+RI Jhangeer, Adil/G-4301-2018; Riaz, Muhammad/ABA-9824-2021
+FU European Union [CZ.10.03.01/00/22_003/0000048]
+FX This article has been produced with the financial support of the
+   European Union under the REFRESH-Research Excellence for Region
+   Sustain-ability and High-Tech Industries project number
+   CZ.10.03.01/00/22_003/0000048 via the Operational Programme Just
+   Transition.
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2090-4479
+EI 2090-4495
+J9 AIN SHAMS ENG J
+JI Ain Shams Eng. J.
+PD JUL
+PY 2025
+VL 16
+IS 7
+AR 103420
+DI 10.1016/j.asej.2025.103420
+PG 23
+WC Engineering, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA 2KT1R
+UT WOS:001484984800001
+DA 2025-05-29
+ER

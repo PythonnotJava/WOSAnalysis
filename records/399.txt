@@ -1,0 +1,58 @@
+PT J
+AU Allshouse, MR
+   Lee, FM
+   Morrison, PJ
+   Swinney, HL
+AF Allshouse, Michael R.
+   Lee, Frank M.
+   Morrison, Philip J.
+   Swinney, Harry L.
+TI Internal wave pressure, velocity, and energy flux from density
+   perturbations
+SO PHYSICAL REVIEW FLUIDS
+LA English
+DT Article
+ID TIDAL CONVERSION; SYNTHETIC SCHLIEREN; GENERATION; FIELD; FLOW
+AB Determination of energy transport is crucial for understanding the energy budget and fluid circulation in density varying fluids such as the ocean and the atmosphere. However, it is rarely possible to determine the energy flux field J = pu, which requires simultaneous measurements of the pressure and velocity perturbation fields p and u, respectively. We present a method for obtaining the instantaneous J(x, z, t) from density perturbations alone: A Green's function-based calculation yields p; u is obtained by integrating the continuity equation and the incompressibility condition. We validate our method with results from Navier-Stokes simulations: The Green's function method is applied to the density perturbation field from the simulations and the result for J is found to agree typically to within 1% with J computed directly using p and u from the Navier-Stokes simulation. We also apply the Green's function method to density perturbation data from laboratory schlieren measurements of internal waves in a stratified fluid and the result for J agrees to within 6% with results from Navier-Stokes simulations. Our method for determining the instantaneous velocity, pressure, and energy flux fields applies to any system described by a linear approximation of the density perturbation field, e.g., to small-amplitude lee waves and propagating vertical modes. The method can be applied using our MATLAB graphical user interface EnergyFlux.
+C1 [Allshouse, Michael R.; Swinney, Harry L.] Univ Texas Austin, Ctr Nonlinear Dynam, Austin, TX 78712 USA.
+   [Allshouse, Michael R.; Lee, Frank M.; Morrison, Philip J.; Swinney, Harry L.] Univ Texas Austin, Dept Phys, Austin, TX 78712 USA.
+   [Lee, Frank M.; Morrison, Philip J.] Univ Texas Austin, Inst Fus Studies, Austin, TX 78712 USA.
+C3 University of Texas System; University of Texas Austin; University of
+   Texas System; University of Texas Austin; University of Texas System;
+   University of Texas Austin
+RP Allshouse, MR (通讯作者)，Univ Texas Austin, Ctr Nonlinear Dynam, Austin, TX 78712 USA.; Allshouse, MR (通讯作者)，Univ Texas Austin, Dept Phys, Austin, TX 78712 USA.
+EM mallshouse@chaos.utexas.edu
+FU Office of Naval Research [N000141110701]; U.S. Department of Energy,
+   Office of Science, Office of Fusion Energy Sciences [DE-FG02-04ER-54742]
+FX We thank Likun Zhang and Robert Moser for helpful discussions. The
+   computations were done at the Texas Advanced Computing Center. M.R.A.
+   and H.L.S. were supported by the Office of Naval Research Grant No.
+   N000141110701, and F.M.L. and P.J.M. were supported by the U.S.
+   Department of Energy, Office of Science, Office of Fusion Energy
+   Sciences, under Award No. DE-FG02-04ER-54742.
+NR 40
+TC 13
+Z9 13
+U1 1
+U2 21
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-990X
+J9 PHYS REV FLUIDS
+JI Phys. Rev. Fluids
+PD MAY 2
+PY 2016
+VL 1
+IS 1
+AR 014301
+DI 10.1103/PhysRevFluids.1.014301
+PG 20
+WC Physics, Fluids & Plasmas
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA EF2YI
+UT WOS:000390191100006
+OA Bronze, Green Published, Green Submitted
+DA 2025-05-29
+ER

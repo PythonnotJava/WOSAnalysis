@@ -1,0 +1,67 @@
+PT J
+AU Tian, Z
+   Zou, XZ
+   Zhang, Y
+   Gao, WZ
+   Chen, W
+   Peng, H
+AF Tian, Zhen
+   Zou, Xianzhi
+   Zhang, Yuan
+   Gao, Wenzhong
+   Chen, Wu
+   Peng, Hao
+TI 4E analyses and multi-objective optimization for an innovative
+   solar-ocean thermal energy conversion/air conditioning system
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Solar-OTEC; Air conditioning; 4E analyses; Carbon reduction index; Multi
+   -objective optimization
+ID RANKINE-CYCLE ORC; PERFORMANCE ANALYSIS; POWER-GENERATION; OTEC SYSTEM;
+   COLD ENERGY; EXERGY; SIMULATION; SELECTION
+AB This paper proposes a solar-ocean thermal energy conversion system (S-OTEC/AC) with integrated air conditioning cycles to provide power, cooling capacity, and fresh water in the South China Sea. Solar energy and surface seawater are used as heat sources in S-OTEC/AC system, the deep-sea water is used to absorb heat. The organic Rankine cycle (ORC) is selected as the main cycle of OTEC, with R134a as the working medium. In order to improve the sustainability of the system, energy, exergy, economic, and environmental (4E) analysis models were proposed for the system. Parametric studies are performed to investigate the effects of R134a temperature at the evaporator outlet, turbine inlet, and outlet pressures, and water flow rate of solar heater on the system performance indicators. Furthermore, multi-optimization is conducted with the Levelized Cost Of Energy (LCOE) and the product of energy-exergy efficiencies (& eta;en,sys*& eta;ex,sys) as objective functions. The linear programming technique of multi-dimensional preference analysis (LINMAP) is introduced to make decisions on the Pareto front. Under basic conditions, the S-OTEC/AC system performs superior to the S-OTEC system in terms of energy, economy, and environmental friendliness. The additional profits of the AC cycle are represented by the annual water fee saving of 3.6x104 $/year and the cooling capacity of 85.8 kW, respectively. Sensitivity results show that water flow rate of solar heaters has the most obvious influence on system performance among the four key parameters. The results of optimizing the non-dominant scheme suggested by Pareto point show that optimized LCOE is 1.18 $/kWh, and & eta;en,sys*& eta;ex,sys is 7.81%. Under this condition, the system's network output, energy efficiency, and exergy efficiency are 89.32 kW,14.09%, and 52.83%, respectively.
+C1 [Tian, Zhen; Zou, Xianzhi; Zhang, Yuan; Gao, Wenzhong; Chen, Wu] Shanghai Maritime Univ, Merchant Marine Coll, Shanghai 201306, Peoples R China.
+   [Peng, Hao] Hainan Univ, State Key Lab Marine Resource Utilizat South China, Haikou, Peoples R China.
+C3 Shanghai Maritime University; Hainan University
+RP Tian, Z (通讯作者)，Shanghai Maritime Univ, Merchant Marine Coll, Shanghai 201306, Peoples R China.
+EM ztian@shmtu.edu.cn; 1139548446@qq.com; zhangyuan@shmtu.edu.cn;
+   wzgao@shmtu.edu.cn; chenwu@shmtu.edu.cn; 996027@hainanu.edu.cn
+RI Zhang, Wenhao/JEO-9872-2023; peng, hao/IVV-8271-2023
+FU Shanghai Municipal Science and Technology Commission [22ZR1426900,
+   20DZ2252300]; Shanghai Frontiers Science Center of Full Penetration
+   Far-reaching Offshore Ocean Energy and Power, and International
+   Associations of Maritime Universities [YAS20220201]
+FX The authors would like to thank the support from the Shanghai Municipal
+   Science and Technology Commission (22ZR1426900, 20DZ2252300) , Shanghai
+   Frontiers Science Center of Full Penetration Far-reaching Offshore Ocean
+   Energy and Power, and International Associations of Maritime
+   Universities (YAS20220201) .
+NR 45
+TC 15
+Z9 15
+U1 6
+U2 22
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD AUG 15
+PY 2023
+VL 414
+AR 137532
+DI 10.1016/j.jclepro.2023.137532
+EA JUN 2023
+PG 18
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA L1YR1
+UT WOS:001021285500001
+DA 2025-05-29
+ER

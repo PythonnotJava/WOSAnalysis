@@ -1,0 +1,52 @@
+PT J
+AU Smith, KD
+   Moore, AM
+   Arango, HG
+AF Smith, Kevin D.
+   Moore, Andrew M.
+   Arango, Hernan G.
+TI Estimates of ocean forecast error covariance derived from Hessian
+   Singular Vectors
+SO OCEAN MODELLING
+LA English
+DT Article
+DE Singular value decomposition; Data assimilation; Forecast error
+   covariance
+ID MODELING SYSTEM ROMS; PART I; PERTURBATION GROWTH; ADJOINT METHOD;
+   PREDICTION; PREDICTABILITY; VARIANCE; DYNAMICS; CIRCULATION; SURFACE
+AB Experience in numerical weather prediction suggests that singular value decomposition (SVD) of a forecast can yield useful a priori information about the growth of forecast errors. It has been shown formally that SVD using the inverse of the expected analysis error covariance matrix to define the norm at initial time yields the Empirical Orthogonal Functions (EOFs) of the forecast error covariance matrix at the final time. Because of their connection to the 2nd derivative of the cost function in 4-dimensional variational (4D-Var) data assimilation, the initial time singular vectors defined in this way are often referred to as the Hessian Singular Vectors (HSVs). In the present study, estimates of ocean forecast errors and forecast error covariance were computed using SVD applied to a baroclinically unstable temperature front in a re-entrant channel using the Regional Ocean Modeling System (ROMS). An identical twin approach was used in which a truth run of the model was sampled to generate synthetic hydrographic observations that were then assimilated into the same model started from an incorrect initial condition using 4D-Var. The 4D-Var system was run sequentially, and forecasts were initialized from each ocean analysis. SVD was performed on the resulting forecasts to compute the HSVs and corresponding EOFs of the expected forecast error covariance matrix. In this study, a reduced rank approximation of the inverse expected analysis error covariance matrix was used to compute the HSVs and EOFs based on the Lanczos vectors computed during the 4D-Var minimization of the cost function. This has the advantage that the entire spectrum of HSVs and EOFs in the reduced space can be computed. The associated singular value spectrum is found to yield consistent and reliable estimates of forecast error variance in the space spanned by the EOFs. In addition, at long forecast lead times the resulting HSVs and companion EOFs are able to capture many features of the actual realized forecast error at the largest scales. Forecast error growth via the HSVs was found to be significantly influenced by the non-normal character of the underlying forecast circulation, and is accompanied by a forward energy cascade, suggesting that forecast errors could be effectively controlled by reducing the error at the largest scales in the forecast initial conditions. A predictive relation for the amplitude of the basin integrated forecast error in terms of the mean aspect ratio of the forecast error hyperellipse (quantified in terms of the mean eccentricity) was also identified which could prove useful for predicting the level of forecast error a priori. All of these findings were found to be insensitive to the configuration of the 4D-Var data assimilation system and the resolution of the observing network. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Smith, Kevin D.; Moore, Andrew M.] Univ Calif Santa Cruz, Dept Ocean Sci, Santa Cruz, CA 95062 USA.
+   [Arango, Hernan G.] Rutgers State Univ, Inst Marine & Coastal Sci, New Brunswick, NJ 08901 USA.
+C3 University of California System; University of California Santa Cruz;
+   Rutgers University System; Rutgers University New Brunswick
+RP Moore, AM (通讯作者)，Univ Calif Santa Cruz, Dept Ocean Sci, 1156 High St, Santa Cruz, CA 95062 USA.
+EM ammoore@ucsc.edu
+FU Office of Naval Research - United States [N00014-10-1-0476]
+FX The authors wish to acknowledge the generous support of the Office of
+   Naval Research - United States (award number N00014-10-1-0476).
+NR 38
+TC 3
+Z9 3
+U1 0
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1463-5003
+EI 1463-5011
+J9 OCEAN MODEL
+JI Ocean Model.
+PD MAY
+PY 2015
+VL 89
+BP 104
+EP 121
+DI 10.1016/j.ocemod.2015.03.003
+PG 18
+WC Meteorology & Atmospheric Sciences; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences; Oceanography
+GA CG3ND
+UT WOS:000353186000007
+DA 2025-05-29
+ER

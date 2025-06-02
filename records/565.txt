@@ -1,0 +1,59 @@
+PT J
+AU Cloern, JE
+   Foster, SQ
+   Kleckner, AE
+AF Cloern, J. E.
+   Foster, S. Q.
+   Kleckner, A. E.
+TI Phytoplankton primary production in the world's estuarine-coastal
+   ecosystems
+SO BIOGEOSCIENCES
+LA English
+DT Article
+ID SAN-FRANCISCO BAY; NET PRIMARY PRODUCTION; GROWTH-RATES;
+   EMPIRICAL-MODEL; ORGANIC-CARBON; CHESAPEAKE BAY; ANNUAL CYCLE;
+   FRESH-WATER; PRODUCTION PATTERNS; MASSACHUSETTS BAY
+AB Estuaries are biogeochemical hot spots because they receive large inputs of nutrients and organic carbon from land and oceans to support high rates of metabolism and primary production. We synthesize published rates of annual phytoplankton primary production (APPP) in marine ecosystems influenced by connectivity to land - estuaries, bays, lagoons, fjords and inland seas. Review of the scientific literature produced a compilation of 1148 values of APPP derived from monthly incubation assays to measure carbon assimilation or oxygen production. The median value of median APPP measurements in 131 ecosystems is 185 and the mean is 252 gCm(-2) yr(-1), but the range is large: from -105 (net pelagic production in the Scheldt Estuary) to 1890 g Cm-2 yr(-1) (net phytoplankton production in Tamagawa Estuary). APPP varies up to 10-fold within ecosystems and 5-fold from year to year (but we only found eight APPP series longer than a decade so our knowledge of decadal-scale variability is limited). We use studies of individual places to build a conceptual model that integrates the mechanisms generating this large variability: nutrient supply, light limitation by turbidity, grazing by consumers, and physical processes (river inflow, ocean exchange, and inputs of heat, light and wind energy). We consider method as another source of variability because the compilation includes values derived from widely differing protocols. A simulation model shows that different methods reported in the literature can yield up to 3-fold variability depending on incubation protocols and methods for integrating measured rates over time and depth.
+   Although attempts have been made to upscale measures of estuarine-coastal APPP, the empirical record is inadequate for yielding reliable global estimates. The record is deficient in three ways. First, it is highly biased by the large number of measurements made in northern Europe (particularly the Baltic region) and North America. Of the 1148 reported values of APPP, 958 come from sites between 30 and 60 degrees N; we found only 36 for sites south of 20 degrees N. Second, of the 131 ecosystems where APPP has been reported, 37% are based on measurements at only one location during 1 year. The accuracy of these values is unknown but probably low, given the large interannual and spatial variability within ecosystems. Finally, global assessments are confounded by measurements that are not intercomparable because they were made with different methods.
+   Phytoplankton primary production along the continental margins is tightly linked to variability of water quality, biogeochemical processes including ocean-atmosphere CO2 exchange, and production at higher trophic levels including species we harvest as food. The empirical record has deficiencies that preclude reliable global assessment of this key Earth system process. We face two grand challenges to resolve these deficiencies: (1) organize and fund an international effort to use a common method and measure APPP regularly across a network of coastal sites that are globally representative and sustained over time, and (2) integrate data into a unifying model to explain the wide range of variability across ecosystems and to project responses of APPP to regional manifestations of global change as it continues to unfold.
+C1 [Cloern, J. E.; Foster, S. Q.; Kleckner, A. E.] US Geol Survey, Menlo Pk, CA 94025 USA.
+C3 United States Department of the Interior; United States Geological
+   Survey
+RP Cloern, JE (通讯作者)，US Geol Survey, 345 Middlefield Rd, Menlo Pk, CA 94025 USA.
+EM jecloern@usgs.gov
+RI Cloern, James/C-1499-2011
+OI Cloern, James/0000-0002-5880-6862
+FU US Geological Survey Priority Ecosystem Science; National Research
+   Program of the Water Resources Discipline
+FX We thank our colleagues E. Kress, C. Martin, T. Schraga and referees C.
+   Gallegos, L. Harding and M. Murrell for improving the content and
+   clarity of this paper. This work was supported by US Geological Survey
+   Priority Ecosystem Science and the National Research Program of the
+   Water Resources Discipline.
+NR 188
+TC 496
+Z9 564
+U1 24
+U2 367
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1726-4170
+EI 1726-4189
+J9 BIOGEOSCIENCES
+JI Biogeosciences
+PY 2014
+VL 11
+IS 9
+BP 2477
+EP 2501
+DI 10.5194/bg-11-2477-2014
+PG 25
+WC Ecology; Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Geology
+GA AJ8IJ
+UT WOS:000337946400004
+OA Green Submitted, gold
+DA 2025-05-29
+ER

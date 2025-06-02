@@ -1,0 +1,60 @@
+PT J
+AU Rony, JS
+   Karmakar, D
+AF Rony, J. S.
+   Karmakar, D.
+TI Coupled Dynamic Analysis of Hybrid Offshore Wind Turbine and Wave Energy
+   Converter
+SO JOURNAL OF OFFSHORE MECHANICS AND ARCTIC ENGINEERING-TRANSACTIONS OF THE
+   ASME
+LA English
+DT Article
+DE submerged tension-leg platform (STLP); areo-servo-hydro-elastic
+   simulation; wave energy converter (WEC); responses; forces and moments
+ID RESPONSES
+AB The combined offshore wind and wave energy on an integrated platform is an economical solution for the offshore energy industry as they share the infrastructure and ocean space. The study presents the dynamic analysis of the Submerged Tension-Leg Platform (STLP) combined with a heaving-type point absorber wave energy converter (WEC). The feasibility study of the hybrid concept is performed using the aero-servo-hydro-elastic simulation tool FAST. The study analyzes the responses of the combined system to understand the influence of the WECs on the STLP platform for various operating conditions of the wind turbine under regular and irregular waves. Positive synergy is observed between the platform and the WECs, and the study also focuses on the forces and moments developed at the interface of the tower and platform to understand the effect of wind energy on the turbine tower and the importance of motion amplitudes on the performance of the combined platform system. The mean and standard deviation for the translation and rotational motions of combined wind and wave energy converters are determined for different sea states under both regular and irregular waves to analyze the change in responses of the structure. The study observed a reduction in motion amplitudes of the hybrid floating system with the addition of the wave energy converters around the STLP floater to improve the energy efficiency of the hybrid system. The study helps in understanding the best possible arrangement of point absorber-type wave energy converters at the conceptual stage of the design process.
+C1 [Rony, J. S.; Karmakar, D.] Natl Inst Technol Karnataka, Dept Water Resources & Ocean Engn, Mangalore 575025, India.
+C3 National Institute of Technology (NIT System); National Institute of
+   Technology Karnataka
+RP Karmakar, D (通讯作者)，Natl Inst Technol Karnataka, Dept Water Resources & Ocean Engn, Mangalore 575025, India.
+EM dkarmakar@nitk.edu.in
+RI Karmakar, Debabrata/AAU-3886-2021
+OI Rony, J S/0000-0002-7750-2223
+FU Science and Engineering Research Board (SERB), Department of Science &
+   Technology (DST), Government of India [CRG/2018/004184]; DST for
+   India-Portugal Bilateral Scientific Technological Cooperation
+   [DST/INT/Portugal/P-13/2017]; Vision Group for Science and Technology
+   (VGST), Government of Karnataka [VGST/RGS-F/GRD-901/2019-20/2020-21/198]
+FX The authors acknowledge Science and Engineering Research Board (SERB),
+   Department of Science & Technology (DST), Government of India for
+   supporting financially under the research Grant No. CRG/2018/004184, DST
+   for India-Portugal Bilateral Scientific Technological Cooperation,
+   Project Grant No. DST/INT/Portugal/P-13/2017 and Vision Group for
+   Science and Technology (VGST), Government of Karnataka, Project Grant
+   No. VGST/RGS-F/GRD-901/2019-20/2020-21/198.
+NR 26
+TC 21
+Z9 21
+U1 5
+U2 30
+PU ASME
+PI NEW YORK
+PA TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0892-7219
+EI 1528-896X
+J9 J OFFSHORE MECH ARCT
+JI J. Offshore Mech. Arct. Eng. Trans. ASME
+PD JUN 1
+PY 2022
+VL 144
+IS 3
+AR 032002
+DI 10.1115/1.4052936
+PG 13
+WC Engineering, Ocean; Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA 0X3EK
+UT WOS:000789593600013
+DA 2025-05-29
+ER

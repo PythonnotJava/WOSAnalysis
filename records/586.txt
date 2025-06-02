@@ -1,0 +1,74 @@
+PT J
+AU Collins, DS
+   Avdis, A
+   Wells, MR
+   Dean, CD
+   Mitchell, AJ
+   Allison, PA
+   Johnson, HD
+   Hampson, GJ
+   Hill, J
+   Piggott, MD
+AF Collins, Daniel S.
+   Avdis, Alexandros
+   Wells, Martin R.
+   Dean, Christopher D.
+   Mitchell, Andrew J.
+   Allison, Peter A.
+   Johnson, Howard D.
+   Hampson, Gary J.
+   Hill, Jon
+   Piggott, Matthew D.
+TI Prediction of shoreline-shelf depositional process regime guided by
+   palaeotidal modelling
+SO EARTH-SCIENCE REVIEWS
+LA English
+DT Article
+DE Shoreline; Shelf; Delta; Wave; Tide; Fluvial; Process regime; Numerical
+   modelling; Palaeotidal
+ID INCLINED HETEROLITHIC STRATIFICATION; BOHEMIAN CRETACEOUS BASIN; SOUTH
+   CHINA SEA; UNSTRUCTURED MESH GENERATION; PLATE TECTONIC EVOLUTION;
+   WESTERN INTERIOR SEAWAY; TIDE-DOMINATED SEAWAY; LOWER SEGO SANDSTONE;
+   FERRON NOTOM DELTA; MEKONG RIVER DELTA
+AB Ancient shoreline-shelf depositional systems are influenced by an unusually wide array of geological, biological and hydrodynamic processes, with sediment transport and deposition primarily determined by the interaction of river, wave (including storm) and tidal processes, and changes in relative sea level. Understanding the impact of these processes on shoreline-shelf morphodynamics and stratigraphic preservation remains challenging. Numerical modelling integrated with traditional facies analysis provides an increasingly viable approach, with the potential to quantify, and thereby improve understanding of, the impact of these complex coastal sedimentary processes. An integrated approach is presented here that focuses on palaeotidal modelling to investigate the controls on ancient tides and their influence on sedimentary deposition and preservation - one of the three cornerstones of the ternary process classification scheme of shoreline-shelf systems. Numerical tidal modelling methodology is reviewed and illustrated in three palaeotidal model case studies of different scales and focus. The results are synthesised in the context of shoreline-shelf processes, including a critique and modification of the process-based classification scheme. The emphasis on tidal processes reflects their global importance throughout Earth's history. Ancient palaeotidal models are able to highlight and quantify the following four controls on tidal processes: (1) the physiography (shape and depth) of oceans (1000s km scale) determines the degree of tidal resonance; (2) the physiography of ocean connections to partly enclosed water bodies (100-1000s km scale) determines the regional-scale flux of tidal energy (inflow versus outflow); (3) the physiography of continental shelves influences shelf tidal resonance potential; and (4) tides in relatively local-scale embayments (typically 1-10s km scale) are influenced by the balance of tidal amplification due to funnelling, shoaling and resonance effects versus frictional damping. In deep time, palaeogeographic and palaeobathymetric uncertainty can be accounted for in palaeotidal models by performing sensitivity analyses to different scenarios, across this range of spatial scales. These tidal process controls are incorporated into an updated predictive decision tree for determining shoreline-shelf process regime in terms of the relative interaction of wave, fluvial and tidal processes. The predictive decision tree considers the effects of basin physiography, shelf width and shoreline morphology on wave, fluvial and tidal processes separately. Uncertainty and ambiguity in applying the widely used three-tier process classification scheme are reduced by using the decision tree in conjunction with a proposed two-tier classification of process regime that is limited to primary and secondary processes. This two-tier classification scheme is illustrated in the three case studies, showing how integration of numerical modelling with facies analysis of the preserved stratigraphic record improves confidence in prediction of tide-influenced shoreline-shelf process regimes. Wider application of this approach will further improve process-based classifications and predictions of modern and ancient shoreline-shelf systems.
+C1 [Collins, Daniel S.] Shell Int Ltd, London SE1 7NA, England.
+   [Collins, Daniel S.; Avdis, Alexandros; Mitchell, Andrew J.; Allison, Peter A.; Johnson, Howard D.; Hampson, Gary J.; Piggott, Matthew D.] Imperial Coll London, Dept Earth Sci & Engn, South Kensington Campus, London SW7 2AZ, England.
+   [Wells, Martin R.] BP Plc, Chertsey Rd, Sunbury On Thames TW16 7LN, Middx, England.
+   [Dean, Christopher D.] Nat Hist Museum, Dept Earth Sci, London SW7 5BD, England.
+   [Hill, Jon] Univ York, Environm Dept, York YO10 5DD, N Yorkshire, England.
+C3 Royal Dutch Shell; Imperial College London; BP; Natural History Museum
+   London; University of York - UK
+RP Collins, DS (通讯作者)，Shell Int Ltd, London SE1 7NA, England.
+EM dscollins.geo@gmail.com
+RI Hill, Jon/ABA-8617-2021; Hampson, Gary/C-1488-2009; Allison,
+   Peter/D-1916-2009; Avdis, Alexandros/AAA-9238-2020; Collins,
+   Daniel/J-8496-2019; Dean, Christopher D./AAC-1112-2019
+OI Avdis, Alexandros/0000-0002-2695-3358; Dean, Christopher
+   D./0000-0001-6471-6903; Hampson, Gary/0000-0003-2047-8469
+NR 340
+TC 7
+Z9 8
+U1 3
+U2 17
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0012-8252
+EI 1872-6828
+J9 EARTH-SCI REV
+JI Earth-Sci. Rev.
+PD DEC
+PY 2021
+VL 223
+AR 103827
+DI 10.1016/j.earscirev.2021.103827
+EA NOV 2021
+PG 39
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA XO3TV
+UT WOS:000730111700001
+OA Green Submitted, Green Accepted
+DA 2025-05-29
+ER

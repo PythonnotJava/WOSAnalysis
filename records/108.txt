@@ -1,0 +1,64 @@
+PT J
+AU Zhou, SH
+   Liu, XY
+   Zhang, KC
+   Yue, QJ
+   Bian, YN
+   Shen, SQ
+AF Zhou, Shihe
+   Liu, Xinyu
+   Zhang, Kechong
+   Yue, Qianjin
+   Bian, Yongning
+   Shen, Shengqiang
+TI Evaluation of a novel ammonia-water based combined cooling, desalination
+   and power system based on thermodynamic and exergoeconomic analyses
+SO ENERGY CONVERSION AND MANAGEMENT
+LA English
+DT Article
+DE Ocean thermal energy; Multi-generation; Kalina cycle; Spray flash
+   evaporation; Ejector refrigeration; Exergoeconomic
+ID OFF-DESIGN PERFORMANCE; ORGANIC RANKINE-CYCLE; MULTIOBJECTIVE
+   OPTIMIZATION; THERMOECONOMIC ANALYSIS; KALINA CYCLE; ECONOMIC-ANALYSIS;
+   WORKING FLUIDS; ENERGY; EXERGY; REFRIGERATION
+AB It is of great significance and development potential to make full use of ocean thermal energy and seawater resources to solve the problem of energy and fresh water supply in tropical coastal areas. In the present article, an innovative ammonia-water (NH3-H2O) based combined cooling, desalination and power (CCDP) system is proposed, consisting of Kalina cycle-based ocean thermal energy conversion (OTEC), ejector refrigeration cycle (ERC) and spray flash evaporation (SFE) desalination unit. An ejector is introduced for coupling the Kalina cycle and ERC, which creates a larger pressure difference across the turbine in favor of higher power output. Besides, a multi-stage SFE desalination system is integrated into the proposed system for making full use of seawater resources and providing fresh water output. Mathematical model is established for simulating steady operation of the proposed system, and parametric analysis is performed to determine the influences of operational parameters including vapor generation pressure and temperature, ammonia concentration of basic solution and condensation pressure on the system thermodynamic and exergoeconomic performances. Results show that by comparison with the stand-alone Kalina cycle and the organic Rankine cycle (ORC) based multi-generation system, the proposed CCDP system is more advantageous with regard to the effective efficiency, exergy efficiency and net power output. Over 70% of the total exergy destruction occurs in the three components of SFE, condenser and turbine. The improvement of both effective efficiency and exergy efficiency can be accomplished by reducing the condensation pressure and raising the basic ammonia concentration, while not greatly affected by vapor generation temperature.
+C1 [Zhou, Shihe; Liu, Xinyu; Zhang, Kechong; Yue, Qianjin; Bian, Yongning] Dalian Univ Technol, Sch Ocean Sci & Technol, Panjin 124221, Liaoning, Peoples R China.
+   [Shen, Shengqiang] Dalian Univ Technol, Sch Energy & Power Engn, Dalian 116024, Liaoning, Peoples R China.
+   [Zhou, Shihe; Shen, Shengqiang] Dalian Univ Technol, Key Lab Liaoning Prov Desalinat, Dalian 116024, Liaoning, Peoples R China.
+C3 Dalian University of Technology; Dalian University of Technology; Dalian
+   University of Technology
+RP Bian, YN (通讯作者)，Dalian Univ Technol, Sch Ocean Sci & Technol, Panjin 124221, Liaoning, Peoples R China.; Zhou, SH; Shen, SQ (通讯作者)，Dalian Univ Technol, Key Lab Liaoning Prov Desalinat, Dalian 116024, Liaoning, Peoples R China.
+EM zhoushihe@dlut.edu.cn
+RI Liu, Xinyu/AFI-4662-2022
+FU National Key R&D Program of China [2019YFB1504301]; National Natural
+   Science Foundation of China [51936002, 52076027]
+FX This research is supported by the National Key R&D Program of China
+   (No.2019YFB1504301) and the project of National Natural Science
+   Foundation of China (No.51936002 & No.52076027) . The authors are
+   grateful for the support.
+NR 63
+TC 30
+Z9 31
+U1 4
+U2 37
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0196-8904
+EI 1879-2227
+J9 ENERG CONVERS MANAGE
+JI Energy Conv. Manag.
+PD JUL 1
+PY 2021
+VL 239
+AR 114176
+DI 10.1016/j.enconman.2021.114176
+EA MAY 2021
+PG 19
+WC Thermodynamics; Energy & Fuels; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels; Mechanics
+GA SJ5EU
+UT WOS:000655558400007
+DA 2025-05-29
+ER

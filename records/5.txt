@@ -1,0 +1,77 @@
+PT J
+AU Zhang, Y
+   Chen, YL
+   Qiu, XC
+   Tian, Z
+   Peng, H
+   Gao, WZ
+AF Zhang, Yuan
+   Chen, Yulu
+   Qiu, Xuchang
+   Tian, Zhen
+   Peng, Hao
+   Gao, Wenzhong
+TI Experimental study and performance comparison of a 1 kW-class
+   solar-ocean thermal energy conversion system integrated air
+   conditioning: Energy, exergy, economic, and environmental (4E) analysis
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Pilot system; Ocean thermal energy conversion (OTEC); Solar energy;
+   Air-conditioning (AC); 4E analysis; Performance comparison
+ID ORGANIC RANKINE-CYCLE; HYDROGEN-PRODUCTION; EFFICIENCY; DESIGN; ORC
+AB In this paper, a 1 kW-class Solar -Ocean Thermal Energy Conversion integrated Air-Conditioning (S-OTEC/AC) experimental system, which can provide both electrical energy and cooling energy without any pollution, is constructed for the first time. Based on the experimental data, the system ' s overall performance was comprehensively evaluated in terms of energy, exergy, economy, and environment (4 E). Furthermore, the performance difference between the system using solar energy (i.e., S-OTEC/AC) and the system without solar energy (i.e., OTEC/AC) was compared. The experimental results revealed that the maximum thermal efficiency of the SOTEC/AC system could reach 2.10%, which was 1.91 times higher than the OTEC/AC system. For the OTEC/AC and S-OTEC/AC systems, the maximum cold energy utilization efficiency was 4.12% and 10.09%, and the maximum isentropic efficiency was 18.81% and 76.84%, respectively. The minimum payback period for the SOTEC/AC system was 13.90 years, which was much lower than the 18.40 years of the OTEC/AC system. Additionally, the maximum primary energy saving achieved by the OTEC/AC system was 0.53 kW, while the SOTEC/AC system reached a higher value of 1.56 kW. From the results, the superiority of the S-OTEC/AC system over the OTEC/AC system was confirmed. This work not only provides data references for the actual operating characteristics of the S -OTEC integrated system, but also provides a new technical way for comprehensive utilization of ocean temperature difference energy.
+C1 [Zhang, Yuan; Chen, Yulu; Tian, Zhen; Gao, Wenzhong] Shanghai Maritime Univ, Coll Merchant Marine, Shanghai 201306, Peoples R China.
+   [Qiu, Xuchang] Shandong Hanxing Environm Engn Co Ltd, Weifang 262500, Peoples R China.
+   [Peng, Hao] Hainan Univ, State Key Lab Marine Resource Utilizat South China, Haikou 570228, Peoples R China.
+C3 Shanghai Maritime University; Hainan University
+RP Zhang, Y; Gao, WZ (通讯作者)，Shanghai Maritime Univ, Coll Merchant Marine, Shanghai 201306, Peoples R China.
+EM zhangyuan@shmtu.edu.cn; wzgao@shmtu.edu.cn
+RI Zhang, Wenhao/JEO-9872-2023
+FU National Natural Science Foundation of China [51806136]; Shanghai
+   Frontiers Science Center of "Full Penetration; Science & Technology
+   Commission of Shanghai Municipality; Shanghai Engineering Research
+   Center of Ship Intelligent Maintenance and Energy Efficiency
+   [20DZ2252300]; Shanghai Municipal Science and Technology Commission
+   [22ZR1426900]; Shanghai Risingstar Program [23QA1404400]; Hainan
+   Province Science and Technology Special Fund [ZDYF2024GXJS010]; Shanghai
+   High-level Local University Innovation Team (Maritime Safety & Technical
+   Support)
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant No. 51806136) , Shanghai Frontiers Science Center of "Full
+   Penetration" Far-reaching Offshore Ocean Energy and Power, the Science &
+   Technology Commission of Shanghai Municipality and Shanghai Engineering
+   Research Center of Ship Intelligent Maintenance and Energy Efficiency
+   (Grant No. 20DZ2252300) , Shanghai Municipal Science and Technology
+   Commission (Grant No. 22ZR1426900) , Shanghai Risingstar Program (Grant
+   No. 23QA1404400) , Hainan Province Science and Technology Special Fund
+   (Grant No. ZDYF2024GXJS010) , and Shanghai High-level Local University
+   Innovation Team (Maritime Safety & Technical Support) .
+NR 36
+TC 2
+Z9 2
+U1 5
+U2 14
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD APR 20
+PY 2024
+VL 451
+AR 142033
+DI 10.1016/j.jclepro.2024.142033
+EA APR 2024
+PG 16
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA QV7G3
+UT WOS:001223704200001
+DA 2025-05-29
+ER

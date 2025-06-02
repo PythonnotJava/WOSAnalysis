@@ -1,0 +1,49 @@
+PT J
+AU Wakelin-King, GA
+   Webb, JA
+AF Wakelin-King, G. A.
+   Webb, J. A.
+TI Origin, geomorphology and geoheritage potential of Australia's longest
+   coastal cliff lines
+SO AUSTRALIAN JOURNAL OF EARTH SCIENCES
+LA English
+DT Article
+DE calcarenite; geomorphology; geoheritage; arid karst; rocky coast; arid
+   coast; Western Australia; South Australia; Nullarbor; Shark Bay
+ID LIMESTONE; EVOLUTION; HISTORY; SANDS; BASIN
+AB Two spectacular cliff lines occur along Australia's south and west coasts: the Great Southern Scarp (new name) and the Zuytdorp Cliffs. Detailed measurements of their length show that they are exceptionally long and unusually continuous. The Great Southern Scarp is the southern edge of the Nullarbor Plain's Bunda Plateau; it is cut into shallow marine sediments and extends for 820 km. Once a continuous sea-cliff, local uplift has isolated two sections from the ocean, so it now comprises the Bunda Cliffs (210 km of coastal cliff, 180 km of which is uninterrupted cliff line), Hampton Range (inland; 300 km), Baxter Cliffs (160 km of coastal cliff) and Wylie Scarp (inland; 160 km). The Zuytdorp Cliffs are coastal cliffs cut into eolianite, and extend for 210 km with an uninterrupted section of 120 km. The length of the Great Southern Scarp and the Zuytdorp Cliffs results from an unusual combination of circumstances. They are both composed of poorly jointed, relatively homogenous biogenic calcarenites, presented to high-energy ocean waves by regional uplift. The carbonates are sufficiently well cemented to maintain a steep vertical cliff face, but susceptible to disintegration under direct wave attack. Cliff retreat has been fairly uniform because of the broad spatial scale of both lithology and erosion. The arid climate, absence of nearby non-karstic catchments and karstic nature of the cliffs' hinterlands has discouraged integrated drainage development, so no significant fluvial systems dissect the cliffs; this is a key factor in cliff edge preservation. In the case of the Great Southern Scarp, these processes have formed the longest continuous cliff line in Australia and probably the world. Referenced against criteria from Australia's National Heritage List, the cliffs have potentially international/national levels of significance for the rarity of their scale, their demonstration of landscape evolution, and their spectacular beauty.
+C1 [Wakelin-King, G. A.] Wakelin Associates, POB 271,Clifton Hill, Melbourne, Vic 3068, Australia.
+   [Wakelin-King, G. A.; Webb, J. A.] La Trobe Univ, Dept Ecol Environm & Evolut, Bundoora, Vic, Australia.
+C3 La Trobe University
+RP Wakelin-King, GA (通讯作者)，Wakelin Associates, POB 271,Clifton Hill, Melbourne, Vic 3068, Australia.
+EM gresley@wakelinassociates.com.au
+RI Webb, John/B-2479-2012
+OI Webb, John/0000-0002-6357-5966
+NR 50
+TC 7
+Z9 7
+U1 0
+U2 17
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0812-0099
+EI 1440-0952
+J9 AUST J EARTH SCI
+JI Aust. J. Earth Sci.
+PD JUL 3
+PY 2020
+VL 67
+IS 5
+BP 649
+EP 661
+DI 10.1080/08120099.2020.1742202
+EA APR 2020
+PG 13
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA LK7QH
+UT WOS:000523021400001
+DA 2025-05-29
+ER

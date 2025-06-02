@@ -1,0 +1,94 @@
+PT J
+AU Chen, H
+   Lin, ZF
+   Qiu, HW
+   Tang, Y
+   Yang, SN
+   Zhao, JT
+   Zhou, QC
+   Wang, J
+   Liu, GZ
+   Zhao, Y
+   Chen, DS
+   Luo, ZB
+   Xu, FY
+   Huang, SL
+   Chen, XH
+   Li, SP
+   Cai, DJ
+   Kang, JY
+AF Chen, Han
+   Lin, Zefeng
+   Qiu, Hongwei
+   Tang, Yan
+   Yang, Shini
+   Zhao, Jingtian
+   Zhou, Qicheng
+   Wang, Jun
+   Liu, Guozhen
+   Zhao, Yang
+   Chen, Dongsheng
+   Luo, Zhibin
+   Xu, Feiya
+   Huang, Shengli
+   Chen, Xiaohong
+   Li, Shuping
+   Cai, Duanjun
+   Kang, Junyong
+TI High-Responsivity Natural-Electrolyte Undersea Photoelectrochemical
+   Photodetector with Self-Powered Cu@GaN Nanowires Network
+SO ADVANCED FUNCTIONAL MATERIALS
+LA English
+DT Article
+DE copper nanowires; photodetectors; self-powered devices; underwater
+   optical communication
+ID PHOTORESPONSE PERFORMANCE; CONTACTS
+AB Undersea optical communication (UOC) has been considered as the most potential next-generation underwater wireless communication technology for ocean exploration. Photodetector is the essential component in UOC system, however, the harsh undersea environment like light attenuation and seawater corrosivity restricts the applications of conventional photodetectors. Herein, a novel natural-electrolyte self-powered photoelectrochemical (PEC) photodetector based on core-shell structured Cu@GaN nanowires (NWs) network is demonstrated and direct utilization of seawater. High quality GaN shell is encapsulated on the Cu NWs network through Ga-coating and high temperature nitridation processes. A Schottky junction along radial direction has formed at the Cu/GaN interface due to the outward diffusion of Cu into the GaN layer. Such a structure provides narrowed band detection on blue light as well as efficient carrier separation. A self-powered undersea PEC photodetector is designed with a mini-pipes connected device chamber, which allows direct indrawing of seawater and blue channel light communication (458 nm). This photodetector works stably for UOC in both shallow and deep-sea conditions in Pacific Ocean area. It shows a high responsivity up to 5.04 mA W-1 and rapid response time of 0.68 ms. This photodetector can be easily integrated to marine equipment without waterproof packaging for the future energy-saving UOC.
+C1 [Chen, Han; Lin, Zefeng; Qiu, Hongwei; Tang, Yan; Yang, Shini; Zhao, Jingtian; Zhou, Qicheng; Wang, Jun; Liu, Guozhen; Zhao, Yang; Xu, Feiya; Huang, Shengli; Chen, Xiaohong; Li, Shuping; Cai, Duanjun; Kang, Junyong] Xiamen Univ, Fujian Key Lab Semicond Mat & Applicat, CI Ctr OSED, Coll Phys Sci & Technol, R China, Xiamen 361005, Peoples R China.
+   [Chen, Han] Shanghai Jiao Tong Univ, Sch Mech Engn, Shanghai 200240, Peoples R China.
+   [Zhao, Yang] Xiamen Univ, Keji High Sch, Xiamen 361005, Peoples R China.
+   [Chen, Dongsheng; Luo, Zhibin] Xiamen Univ, Coll Ocean & Earth Sci, Xiamen 361005, Peoples R China.
+C3 Xiamen University; Shanghai Jiao Tong University; Xiamen University;
+   Xiamen University
+RP Huang, SL; Cai, DJ (通讯作者)，Xiamen Univ, Fujian Key Lab Semicond Mat & Applicat, CI Ctr OSED, Coll Phys Sci & Technol, R China, Xiamen 361005, Peoples R China.
+EM huangsl@xmu.edu.cn; dcai@xmu.edu.cn
+RI Huang, Sheng-Li/N-3144-2017; Zhao, Yang/KUC-9438-2024; 陈,
+   东升/GSD-6712-2022; Liu, Guozhen/B-5488-2009; Kang, Jun/F-5091-2013; Li,
+   Shuping/G-4136-2010
+OI Chen, Han/0000-0003-1949-8761
+FU National Key Research and Development Program [2022YFB3604904]; NSFC
+   [62074133, 61974124, 61974125, 11804115]; Science and Technology
+   Programs of Fujian Province [2022H0058]
+FX Acknowledgements This work was partly supported by the National Key
+   Research and Development Program (2022YFB3604904), the NSFC (62074133,
+   61974124, 61974125 and 11804115), and the Science and Technology
+   Programs of Fujian Province (2022H0058) of China.
+NR 62
+TC 29
+Z9 31
+U1 22
+U2 120
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1616-301X
+EI 1616-3028
+J9 ADV FUNCT MATER
+JI Adv. Funct. Mater.
+PD JUL
+PY 2023
+VL 33
+IS 29
+DI 10.1002/adfm.202302872
+EA APR 2023
+PG 11
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA M2LX9
+UT WOS:000970822200001
+DA 2025-05-29
+ER

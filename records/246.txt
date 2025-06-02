@@ -1,0 +1,57 @@
+PT J
+AU Wang, HC
+   Daoutidis, P
+   Zhang, Q
+AF Wang, Hanchu
+   Daoutidis, Prodromos
+   Zhang, Qi
+TI Harnessing the Wind Power of the Ocean with Green Offshore Ammonia
+SO ACS SUSTAINABLE CHEMISTRY & ENGINEERING
+LA English
+DT Article
+DE sustainable engineering; green ammonia; offshore wind; techno-economic
+   analysis; integrated design and operation
+ID ENERGY-SYSTEMS; OPTIMAL-DESIGN; WATER; COST
+AB Offshore wind is playing an increasingly important role in our energy mix as it provides the opportunity to increase the penetration of wind energy considerably beyond the current capacity of land-based wind resources. While most planned offshore wind projects consider constructing the wind farms relatively close to the coast, there is vast untapped potential over the open ocean where wind velocities are significantly higher. However, transmitting electricity generated far from shore to onshore demand points is a major challenge since using submarine power cables for long distances can be prohibitively expensive. To address this challenge, we consider using offshore wind energy to directly produce green ammonia that can then be transported to shore via ships or pipelines. This is technically feasible since electricity-based production of ammonia only requires water and air as input materials. We perform a comprehensive techno-economic analysis for such green offshore ammonia plants, determining the minimum achievable levelized costs of ammonia for various wind profiles, plant capacities, distances to shore, and water depths. Our results indicate that the proposed approach has the promise to be cost-competitive, especially when considering expected cost reductions in offshore wind turbines in the foreseeable future.
+C1 [Wang, Hanchu; Daoutidis, Prodromos; Zhang, Qi] Univ Minnesota, Dept Chem Engn & Mat Sci, Minneapolis, MN 55455 USA.
+C3 University of Minnesota System; University of Minnesota Twin Cities
+RP Daoutidis, P; Zhang, Q (通讯作者)，Univ Minnesota, Dept Chem Engn & Mat Sci, Minneapolis, MN 55455 USA.
+EM daout001@umn.edu; qizh@umn.edu
+RI Zhang, Qi/MFI-5227-2025; Wang, Hanchu/HNS-5711-2023
+OI Wang, Hanchu/0000-0001-9235-2844
+FU Advanced Research Projects Agency-Energy (ARPA-E), U.S. Department of
+   Energy [DE-AR0000804]; Digital Technology Center of the University of
+   Minnesota through a Digital Technology Initiative Seed Grant
+FX This work was funded in part by the Advanced Research Projects
+   Agency-Energy (ARPA-E), U.S. Department of Energy, under award number
+   DE-AR0000804 and in part by the Digital Technology Center of the
+   University of Minnesota through a Digital Technology Initiative Seed
+   Grant.
+NR 68
+TC 25
+Z9 27
+U1 2
+U2 30
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 2168-0485
+J9 ACS SUSTAIN CHEM ENG
+JI ACS Sustain. Chem. Eng.
+PD NOV 1
+PY 2021
+VL 9
+IS 43
+BP 14605
+EP 14617
+DI 10.1021/acssuschemeng.1c06030
+EA OCT 2021
+PG 13
+WC Chemistry, Multidisciplinary; Green & Sustainable Science & Technology;
+   Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Engineering
+GA WS5JI
+UT WOS:000715216700029
+DA 2025-05-29
+ER

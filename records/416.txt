@@ -1,0 +1,69 @@
+PT J
+AU Zhu, YH
+   Wei, ZX
+   Fang, GH
+   Wang, YG
+   Guan, YP
+AF Zhu Yaohua
+   Wei Zexun
+   Fang Guohong
+   Wang Yonggang
+   Guan Yuping
+TI Interbasin exchanges and their roles in global ocean circulation: A
+   study based on 1 400 years' spin up of MOM4p1
+SO ACTA OCEANOLOGICA SINICA
+LA English
+DT Article
+DE numerical modeling; global ocean; interbasin exchange; meridional
+   transport; meridional overturning circulation
+ID HEAT-TRANSPORT; THERMOHALINE CIRCULATION; WORLD OCEAN; ATLANTIC; WATER
+AB A global prognostic model based on MOM4p1, which is a primitive equation nonBoussinesq numerical model, has been integrated with 1 400 years from the state of rest based on the realistic topography to study the long-term pattern of combined wind-driven and thermodynamically-driven general circulation. The model is driven by monthly climatological mean forces and includes 192 x 189 horizontal grids and 31 pressure-based vertical levels. The main objective is to investigate the mass and heat transports at interbasin passages and their compensations and roles in the global ocean circulation under equilibrium state of long-term spin up. The kinetic energy analysis divides the spin up process into three stages: the quasi-stable state of wind driven current, the growing phase of thermodynamical circulation and the equilibrium state of thermohaline circulation. It is essential to spin up over a thousand years in order to reach the thermohaline equilibrium state from a state of rest. The Arctic Throughflow from the Bering Strait to the Greenland Sea and the Indonesian Throughflow (ITF) are captured and examined with their compensations and existing data. Analysis reveals that the slope structures of sea surface height are the dynamical driving mechanism of the Pacific-Arctic-Atlantic throughflow and ITF. The analysis denotes, in spite of O (1.4 x 10(6) m(3)/s) of the southward volume transport in the northern Atlantic, that there is still O (1 PW) of heat transported northward since the northward currents in the upper layer carry much higher temperature water than the southward flowing northern Atlantic deep water (NADW). Meridional volume and heat transports are focused on the contributions to NADW renewals and Atlantic meridional overturning circulation (AMOC). Quantitative descriptions of the interbasin exchanges are explained by meridional compensations and supported by previous observations and numerical modeling results. Analysis indicates that the volume and heat exchanges on the interbasin passages proposed in this article manifest their hub roles in the Great Ocean Conveyor System.
+C1 [Zhu Yaohua; Wei Zexun; Fang Guohong; Wang Yonggang] State Ocean Adm, Inst Oceanog 1, Key Lab Marine Sci & Numer Modeling, Qingdao 266061, Peoples R China.
+   [Guan Yuping] Chinese Acad Sci, South China Sea Inst Oceanol, State Key Lab Trop Oceanog, Guangzhou 510301, Guangdong, Peoples R China.
+C3 First Institute of Oceanography, Ministry of Natural Resources; Chinese
+   Academy of Sciences; South China Sea Institute of Oceanology, CAS
+RP Wei, ZX (通讯作者)，State Ocean Adm, Inst Oceanog 1, Key Lab Marine Sci & Numer Modeling, Qingdao 266061, Peoples R China.
+EM weizx@fio.org.cn
+RI Guan, Yuping/A-1119-2015
+OI Zhu, Yaohua/0000-0002-3092-9318
+FU The National Basic Research Program Grant of China [2011CB403502];
+   International Cooperation Program Grant of China [2010DFB23580];
+   International Cooperation Program of State Oceanic Administration of
+   China [QY0213022]; First Institute of Oceanography, State Oceanic
+   Administration of China [2010G06]; The National Natural Science
+   Foundation of China [40976011, 91228202]
+FX Foundation item: The National Basic Research Program Grant of China
+   under contact No. 2011CB403502; the International Cooperation Program
+   Grant of China under contact No. 2010DFB23580; the International
+   Cooperation Program of State Oceanic Administration of China under
+   contract No. QY0213022; project supported by the First Institute of
+   Oceanography, the State Oceanic Administration of China under contract
+   No. 2010G06; author Guan Yuping is supported by The National Natural
+   Science Foundation of China under contact Nos 40976011 and 91228202.
+NR 23
+TC 1
+Z9 1
+U1 1
+U2 12
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0253-505X
+EI 1869-1099
+J9 ACTA OCEANOL SIN
+JI Acta Oceanol. Sin.
+PD JAN
+PY 2014
+VL 33
+IS 1
+BP 11
+EP 23
+DI 10.1007/s13131-014-0429-2
+PG 13
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA 295BT
+UT WOS:000330092300002
+DA 2025-05-29
+ER

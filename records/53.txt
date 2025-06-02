@@ -1,0 +1,78 @@
+PT J
+AU Xue, F
+   Chen, L
+   Li, CC
+   Ren, J
+   Yu, JB
+   Hou, XJ
+   Geng, WP
+   Mu, JL
+   He, J
+   Chou, XJ
+AF Xue Feng
+   Chen Liang
+   Li ChunCheng
+   Ren Jing
+   Yu JunBin
+   Hou XiaoJuan
+   Geng WenPing
+   Mu JiLiang
+   He Jian
+   Chou XiuJian
+TI A static-dynamic energy harvester for a self-powered ocean environment
+   monitoring application
+SO SCIENCE CHINA-TECHNOLOGICAL SCIENCES
+LA English
+DT Article
+DE hybrid nanogenerator; static energy; dynamic energy; energy harvester;
+   wireless monitoring system
+ID BROAD FREQUENCY BAND; WAVE ENERGY; TRIBOELECTRIC NANOGENERATOR;
+   HYBRIDIZED NANOGENERATOR; BLUE ENERGY
+AB Ocean intelligent buoy is important for ocean environment monitoring. With the increase of requisite sensors and transportable data, a long power supply has become a problem to be solved urgently. In this work, a hybrid nanogenerator integrating triboelectric, piezoelectric, electromagnetic, photovoltaic, and thermotropic units is proposed to maximize ocean ambient energy harvesting, which includes static energy (solar and thermal energy) and dynamic energy (wave energy). Compared with a device with a single energy conversion mechanism, this structural design breaks the limit of harvesting time and natural conditions during the energy harvesting process, thereby increasing the harvested energy. Static energy harvesting is realized by the thermoelectric (TG) and photovoltaic (PV) units located inside the device and the PV unit attached to the device surface. Results show that the maximum open-circuit voltage and short-circuit current are 5 V and 41 mA in the external PV and 1.33 V and 49 mA in the internal PV under 30000 Lux illumination, respectively. The open-circuit voltage and short-circuit current of the TG unit are 5 V and 15 mA, respectively. The core component of the dynamic generation unit is the gimbal used to harvest wave energy by the triboelectric nanogenerator (TENG), piezoelectric generator (PENG), and electromagnetic generator. When the frequency is 2.4 Hz, the maximum peak-to-peak power of the TENG, PENG, and EMG are 0.25, 1.58, and 13.8 mW, respectively. Finally, an intelligent ocean buoy is fabricated by the integration of an energy harvester, a power management circuit, sensors, a microcontroller, and a wireless communication module. Driven by static and dynamic energy, temperature signal, humidity signal, GPS signal, and sound signal are sent to the receiving terminal wirelessly. The ocean energy harvester proposed in this work is of great significance for ocean energy harvesting and ocean wireless monitoring systems.
+C1 [Xue Feng; Chen Liang; Li ChunCheng; Ren Jing; Yu JunBin; Hou XiaoJuan; Geng WenPing; Mu JiLiang; He Jian; Chou XiuJian] North Univ China, Sci & Technol Elect Test & Measurement Lab, Taiyuan 030051, Peoples R China.
+C3 North University of China
+RP He, J (通讯作者)，North Univ China, Sci & Technol Elect Test & Measurement Lab, Taiyuan 030051, Peoples R China.
+EM drhejian@nuc.edu.cn
+OI Yu, Junbin/0000-0001-9977-226X
+FU National Key Research and Development Program of China [2019YFB2004802,
+   2019YFF0301802, 2018YFF0300605]; National Natural Science Foundation of
+   China [51975542, 51975541, 62101513]; Applied Fundamental Research
+   Program of Shanxi Province [201901D211281, 201801D121152,
+   20210302124170]; National Defense Fundamental Research Project; Program
+   for the Innovative Talents of Higher Education Institutions of Shanxi
+FX This work was supported by the National Key Research and Development
+   Program of China (Grant Nos. 2019YFB2004802, 2019YFF0301802, and
+   2018YFF0300605), the National Natural Science Foundation of China (Grant
+   Nos. 51975542, 51975541 and 62101513), the Applied Fundamental Research
+   Program of Shanxi Province (Grant Nos. 201901D211281, 201801D121152 and
+   20210302124170), National Defense Fundamental Research Project, and
+   Program for the Innovative Talents of Higher Education Institutions of
+   Shanxi.
+NR 34
+TC 23
+Z9 24
+U1 24
+U2 250
+PU SCIENCE PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 1674-7321
+EI 1869-1900
+J9 SCI CHINA TECHNOL SC
+JI Sci. China-Technol. Sci.
+PD APR
+PY 2022
+VL 65
+IS 4
+BP 893
+EP 902
+DI 10.1007/s11431-021-1974-8
+EA MAR 2022
+PG 10
+WC Engineering, Multidisciplinary; Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Materials Science
+GA 1I9TJ
+UT WOS:000769372600002
+DA 2025-05-29
+ER

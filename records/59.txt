@@ -1,0 +1,60 @@
+PT J
+AU Lee, J
+   Choi, Y
+   Che, S
+   Choi, M
+   Chang, D
+AF Lee, Jinkwang
+   Choi, Younseok
+   Che, Sanghyun
+   Choi, Minsoo
+   Chang, Daejun
+TI Integrated design evaluation of propulsion, electric power, and
+   re-liquefaction system for large-scale liquefied hydrogen tanker
+SO INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+LA English
+DT Article
+DE Liquified hydrogen tanker; Boil-off hydrogen; Re-liquefaction;
+   Cost-benefit analysis; Shipping cost
+ID PROJECT EQHHPP; LNG; ENERGY; JAPAN; TRANSPORTATION
+AB This study proposes the integrated designs of energy systems and a re-liquefaction system for ocean-going LH2 tankers. Five prospective energy systems (Systems A to E) are suggested, using LNG as fuel, and a re-liquefaction system with a Claude cycle is developed. Their economic value, technological feasibility, and environmental impact are evaluated. The re-liquefaction systems' exergy efficiency and specific energy consumption ranges were 26.79-46.27% and 3-7.45 kWh/kg, respectively. The re-liquefaction system in System C is economically feasible up to $2/kg of H2. LCC of the integrated designs shows that System C has the lowest cost of $140 million. The shipping costs for each design are reviewed, and the lowest one is $447/ton of H2 for System C. Although System C CAPEX is the second expensive, it has the highest efficiency. Consequently, System C with the lowpressure engine, SOFC, and the re-liquefaction system is determined to be the optimal one. (c) 2021 Hydrogen Energy Publications LLC. Published by Elsevier Ltd. All rights reserved.
+C1 [Lee, Jinkwang; Choi, Younseok; Che, Sanghyun; Choi, Minsoo; Chang, Daejun] Korea Adv Inst Sci & Technol, Dept Mech Engn, Daehak Ro 291, Daejeon 34141, South Korea.
+C3 Korea Advanced Institute of Science & Technology (KAIST)
+RP Chang, D (通讯作者)，Korea Adv Inst Sci & Technol, Dept Mech Engn, Daehak Ro 291, Daejeon 34141, South Korea.
+EM djchang@kaist.ac.kr
+RI Lee, Jinkwang/GOV-6230-2022
+OI Choi, Minsoo/0000-0002-4357-8510; Che, Sanghyun/0000-0002-1897-3279;
+   Lee, Jinkwang/0000-0001-7037-7880
+FU Korea Agency for Infra-structure Technology Advancement - Ministry of
+   Land, Infrastructure and Transport [1615012293]
+FX This work was supported by the Korea Agency for Infra-structure
+   Technology Advancement grant funded by the Ministry of Land,
+   Infrastructure and Transport [grant number 1615012293] .
+NR 71
+TC 15
+Z9 16
+U1 0
+U2 24
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-3199
+EI 1879-3487
+J9 INT J HYDROGEN ENERG
+JI Int. J. Hydrog. Energy
+PD JAN 19
+PY 2022
+VL 47
+IS 6
+BP 4120
+EP 4135
+DI 10.1016/j.ijhydene.2021.11.004
+EA JAN 2022
+PG 16
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry; Energy & Fuels
+GA YI7FT
+UT WOS:000744011300016
+DA 2025-05-29
+ER

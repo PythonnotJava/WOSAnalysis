@@ -1,0 +1,73 @@
+PT J
+AU Roberts, CD
+   Senan, R
+   Molteni, F
+   Boussetta, S
+   Mayer, M
+   Keeley, SPE
+AF Roberts, Christopher D.
+   Senan, Retish
+   Molteni, Franco
+   Boussetta, Souhail
+   Mayer, Michael
+   Keeley, Sarah P. E.
+TI Climate model configurations of the ECMWF Integrated Forecasting System
+   (ECMWF-IFS cycle 43r1) for HighResMIP
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID MERIDIONAL OVERTURNING CIRCULATION; ANTARCTIC CIRCUMPOLAR CURRENT;
+   NUMERICAL WEATHER PREDICTION; HIGH-RESOLUTION VERSION; TEMPERATURE DATA
+   SET; SOUTHERN-OCEAN; ENERGY BUDGET; ICE MODEL; EC-EARTH; IMPACT
+AB This paper presents atmosphere-only and coupled climate model configurations of the European Centre for Medium-Range Weather Forecasts Integrated Forecasting System (ECMWF-IFS) for different combinations of ocean and atmosphere resolution. These configurations are used to perform multi-decadal ensemble experiments following the protocols of the High Resolution Model Intercomparison Project (HighResMIP) and phase 6 of the Coupled Model Intercomparison Project (CMIP6). These experiments are used to evaluate the sensitivity of major biases in the atmosphere, ocean, and cryosphere to changes in atmosphere and ocean resolution. All configurations successfully reproduce the observed long-term trends in global mean surface temperature. Furthermore, following an adjustment to account for "drift" in the subsurface ocean, coupled configurations of ECMWF-IFS realistically reproduce observation-based estimates of ocean heat content change since 1950. Climatological surface biases in ECMWF-IFS are relatively insensitive to an increase in atmospheric resolution from similar to 50 to similar to 25 km. However, increasing the horizontal resolution of the atmosphere while maintaining the same vertical resolution enhances the magnitude of a cold bias in the lower stratosphere. In coupled configurations, there is a strong sensitivity to an increase in ocean model resolution from 1 to 0.25 degrees. However, this sensitivity to ocean resolution takes many years to fully manifest and is less apparent in the first year of integration. This result has implications for the ECMWF coupled model development strategy that typically relies on the analysis of biases in short (< 1 year) ensemble (re)forecast data sets. The impacts of increased ocean resolution are particularly evident in the North Atlantic and Arctic, where they are associated with an improved Atlantic meridional overturning circulation, increased meridional ocean heat transport, and more realistic sea-ice cover. In the tropical Pacific, increased ocean resolution is associated with improvements to the magnitude and asymmetry of El Nino-Southern Oscillation (ENSO) variability and better representation of non-linear sea surface temperature (SST)-radiation feedbacks during warm events. However, increased ocean model resolution also increases the magnitude of a warm bias in the Southern Ocean. Finally, there is tentative evidence that both ocean coupling and increased atmospheric resolution can improve teleconnections between tropical Pacific rainfall and geopotential height anomalies in the North Atlantic.
+C1 [Roberts, Christopher D.; Senan, Retish; Molteni, Franco; Boussetta, Souhail; Mayer, Michael; Keeley, Sarah P. E.] European Ctr Medium Range Weather Forecasts, Shinfield Pk, Reading RG2 9AX, Berks, England.
+   [Roberts, Christopher D.] Met Off, Fitzroy Rd, Exeter EX1 3PB, Devon, England.
+C3 European Centre for Medium-Range Weather Forecasts (ECMWF); Met Office -
+   UK
+RP Roberts, CD (通讯作者)，European Ctr Medium Range Weather Forecasts, Shinfield Pk, Reading RG2 9AX, Berks, England.; Roberts, CD (通讯作者)，Met Off, Fitzroy Rd, Exeter EX1 3PB, Devon, England.
+EM chris.roberts@ecmwf.int
+RI Keeley, Sarah/G-3352-2016; Roberts, Christopher/F-6197-2011; Senan,
+   Retish/AAF-1798-2019; Senan, Retish/F-1701-2014; Roberts,
+   Chris/M-9058-2018
+OI Senan, Retish/0000-0003-1949-1893; Boussetta,
+   Souhail/0000-0001-8646-8701; Keeley, Sarah/0000-0002-8046-765X; Roberts,
+   Chris/0000-0002-2958-6637
+FU European Union's Horizon 2020 programme [641727]
+FX This work is a contribution to the PRIMAVERA project, which is funded by
+   the European Union's Horizon 2020 programme, grant agreement no. 641727.
+   ECMWF provided institutional support and access to high-performance
+   computing. We acknowledge the many contributors to the IFS code, both
+   past and present, from ECMWF and the EC-Earth consortium. In particular,
+   we acknowledge the EC-Earth consortium for supporting the implementation
+   of the MACv2-SP aerosol scheme. We thank Magdalena Balmaseda and two
+   anonymous reviewers for insightful comments on an earlier version of the
+   manuscript, and Kristian Mogensen for help with the development of the
+   ECMWF-IFS configuration.
+NR 122
+TC 133
+Z9 137
+U1 2
+U2 24
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD SEP 11
+PY 2018
+VL 11
+IS 9
+BP 3681
+EP 3712
+DI 10.5194/gmd-11-3681-2018
+PG 32
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA GT2MZ
+UT WOS:000444329700002
+OA Green Submitted, gold
+DA 2025-05-29
+ER

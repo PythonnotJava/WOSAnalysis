@@ -1,0 +1,61 @@
+PT J
+AU Jolliff, JK
+   Smith, TA
+AF Jolliff, Jason K.
+   Smith, Travis A.
+TI Biological modulation of upper ocean physics: Simulating the biothermal
+   feedback effect in Monterey Bay, California
+SO JOURNAL OF GEOPHYSICAL RESEARCH-BIOGEOSCIENCES
+LA English
+DT Article
+DE bio-optics; biogeochemical modeling; biosphere; atmosphere interactions;
+   Monterey Bay
+ID DISSOLVED ORGANIC-MATTER; COASTAL OCEAN; PHYTOPLANKTON PHOTOSYNTHESIS;
+   BOUNDARY-LAYER; MODEL; SEA; TEMPERATURE; CIRCULATION; WATERS;
+   PARAMETERIZATION
+AB Marine phytoplankton and associated organic materials absorb a substantial quantity of solar shortwave energy penetrating the upper ocean. Most of this absorbed energy is lost as heat and thereby contributes to the warming of near-surface waters. Here we examine this biothermal feedback effect on upper ocean physics and air-sea energy exchange using a fully integrated ocean-atmosphere-biological modeling system. Our model simulations show that a local phytoplankton bloom may impact upper ocean physics in such a way as to promote the spatiotemporal persistence of the bloom itself within a semi-enclosed coastal embayment. This is accomplished primarily via enhanced thermal stratification that promotes vertical stability and more efficient utilization of macronutrients. Modulations of wind stress patterns due to perturbations in the local surface pressure gradients also arise as a result of the simulated biothermal warming of surface waters. The model evidence suggests that the observed persistence of phytoplankton blooms in the northern Monterey Bay, California, may be enhanced by similar synergistic interactions between ocean biology and physics.
+C1 [Jolliff, Jason K.; Smith, Travis A.] Naval Res Lab, Stennis Space Ctr, MS 39529 USA.
+C3 United States Department of Defense; United States Navy; United States
+   Naval Research Laboratory
+RP Jolliff, JK (通讯作者)，Naval Res Lab, Stennis Space Ctr, MS 39529 USA.
+EM jolliff@nrlssc.navy.mil
+OI Jolliff, Jason/0000-0002-0829-6294
+FU Naval Research Laboratory 6.2 project "Resolving Bio-Optical Feedbacks
+   to Ocean/Atmosphere Dynamics"; NRL 6.1 project "Buoyancy Plume
+   Modulation of Coastal Air-Sea Exchange Processes"
+FX This work was supported by the Naval Research Laboratory 6.2 project
+   "Resolving Bio-Optical Feedbacks to Ocean/Atmosphere Dynamics" and the
+   NRL 6.1 project "Buoyancy Plume Modulation of Coastal Air-Sea Exchange
+   Processes." The authors thank Stephanie Anderson for help preparing
+   figures. The authors also thank anonymous reviewers and Shubha
+   Sathyendranath for comments that improved the manuscript. The wind data
+   presented in Figure 4a were provided by the Monterey Bay Aquarium
+   Research Institute (www.mbari.org).
+NR 51
+TC 7
+Z9 8
+U1 1
+U2 12
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-8953
+EI 2169-8961
+J9 J GEOPHYS RES-BIOGEO
+JI J. Geophys. Res.-Biogeosci.
+PD MAY
+PY 2014
+VL 119
+IS 5
+BP 703
+EP 721
+DI 10.1002/2013JG002522
+PG 19
+WC Environmental Sciences; Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Geology
+GA AJ3ZN
+UT WOS:000337607900001
+OA Bronze
+DA 2025-05-29
+ER

@@ -1,0 +1,77 @@
+PT J
+AU Zhang, Q
+   Liang, QJ
+   Nandakumar, DK
+   Qu, H
+   Shi, QF
+   Alzakia, FI
+   Tay, DJJ
+   Yang, L
+   Zhang, XP
+   Suresh, L
+   Lee, C
+   Wee, ATS
+   Tan, SC
+AF Zhang, Qian
+   Liang, Qijie
+   Nandakumar, Dilip Krishna
+   Qu, Hao
+   Shi, Qiongfeng
+   Alzakia, Fuad Indra
+   Tay, Darrell Jun Jie
+   Yang, Lin
+   Zhang, Xueping
+   Suresh, Lakshmi
+   Lee, Chengkuo
+   Wee, Andrew Thye Shen
+   Tan, Swee Ching
+TI Shadow enhanced self-charging power system for wave and solar energy
+   harvesting from the ocean
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID TRIBOELECTRIC NANOGENERATOR; HYDROTHERMAL SYNTHESIS;
+   MOLYBDENUM-DISULFIDE; MOS2; NANOSHEETS; ELECTRODE; RAMAN
+AB Hybrid energy-harvesting systems that capture both wave and solar energy from the oceans using triboelectric nanogenerators and photovoltaic cells are promising renewable energy solutions. However, ubiquitous shadows cast from moving objects in these systems are undesirable as they degrade the performance of the photovoltaic cells. Here we report a shadow-tribo-effect nanogenerator that hybrids tribo-effect and shadow-effect together to overcome this issue. Several fiber-supercapacitors are integrated with the shadow-tribo-effect nanogenerator to form a self-charging power system. To capture and store wave/solar energy from oceans, an energy ball based on the self-charging power system is demonstrated. By harnessing the shadow-effect, i.e. the shadow of the moving object in the energy ball, the charging time shortens to 253.3s to charge the fiber-supercapacitors to the same voltage (0.3V) as using pure tribo-effect. This cost-effective method to harvest and store the wave/solar energy from the oceans in this work is expected to inspire next-generation large-scale blue energy harvesting. Ubiquitous shadows cast from moving objects in hybrid energy-harvesting systems are undesirable as they degrade the performance of the photovoltaic cells. Here the authors report the shadow of the moving object in a hybrid energy-harvesting system shortens charging time to charge a self-charging power system.
+C1 [Zhang, Qian; Nandakumar, Dilip Krishna; Qu, Hao; Alzakia, Fuad Indra; Tay, Darrell Jun Jie; Yang, Lin; Zhang, Xueping; Suresh, Lakshmi; Tan, Swee Ching] Natl Univ Singapore, Dept Mat Sci & Engn, 9 Engn Dr 1, Singapore 117574, Singapore.
+   [Liang, Qijie; Wee, Andrew Thye Shen] Natl Univ Singapore, Dept Phys, 2 Sci Dr 3, Singapore 117551, Singapore.
+   [Shi, Qiongfeng; Lee, Chengkuo] Natl Univ Singapore, Dept Elect & Comp Engn, 4 Engn Dr 3, Singapore 117576, Singapore.
+C3 National University of Singapore; National University of Singapore;
+   National University of Singapore
+RP Tan, SC (通讯作者)，Natl Univ Singapore, Dept Mat Sci & Engn, 9 Engn Dr 1, Singapore 117574, Singapore.
+EM msetansc@nus.edu.sg
+RI Wee, Andrew/B-6624-2009; Shi, Qiongfeng/Z-5767-2019; Nandakumar,
+   Dilip/AAJ-8032-2020; Tan, Swee/B-5527-2011; LEE, CHENGKUO/R-3999-2018;
+   Liang, Qijie/G-1471-2018
+OI Shi, Qiongfeng/0000-0002-5979-1420; Liang, Qijie/0000-0003-4252-7997;
+   QU, HAO/0000-0003-3251-6442; Tay, Darrell/0000-0003-4366-7844
+FU Ministry of Education Academic Research Fund Tier 2 [R-284-000-217-112]
+FX S.C.T. acknowledges the financial support from the Ministry of Education
+   Academic Research Fund Tier 2 (R-284-000-217-112).
+NR 40
+TC 100
+Z9 104
+U1 25
+U2 246
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+EI 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD JAN 27
+PY 2021
+VL 12
+IS 1
+AR 616
+DI 10.1038/s41467-021-20919-9
+PG 11
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA QC0CE
+UT WOS:000614500600016
+PM 33504813
+OA Green Published, gold
+DA 2025-05-29
+ER

@@ -1,0 +1,60 @@
+PT J
+AU Yang, RX
+   Wang, JD
+   Fan, CC
+   Gao, TY
+   Zhang, CB
+   Chen, YP
+AF Yang, Ruixue
+   Wang, Jiadian
+   Fan, Chengcheng
+   Gao, Tieyu
+   Zhang, Chengbin
+   Chen, Yongping
+TI Sustainable underwater propulsion via ocean thermal energy conversion
+   with latent heat storage
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Ocean thermal energy conversion; Thermodynamic analysis; Energy storage;
+   Underwater glider
+ID VEHICLE; ENGINE
+AB Integrating an ocean thermal energy conversion (OTEC) system into an underwater glider can theoretically enable the glider to achieve sustainable underwater propulsion without the need for resurfacing. Based on this concept, this paper proposes a closed-cycle OTEC system with latent heat storage. The system utilizes a condenser with encapsulated solid-liquid phase-change material to store cold energy in deep ocean and transport it to the surface along the glider's cruise path. To preliminarily assess the feasibility of this system and its application potential in underwater gliders, a thermodynamic model is developed to investigate its operational characteristics and adjustability. The results indicate that the system exhibits a net power generation of 1872.6 kJ during a single driving cycle, with a net thermal efficiency of 2.28 %. This electrical energy is sufficient to support the glider's power requirements. Moreover, under the designed conditions, the power generation process of the proposed system can be completed within 33 min, and the duration of the power generation process can be adjusted through the warm-seawater pump and the working-fluid pump to accommodate different operational states of the underwater glider. However, reducing the duration of the power generation process is accompanied by a decrease in the total power generation.
+C1 [Yang, Ruixue; Fan, Chengcheng; Zhang, Chengbin; Chen, Yongping] Southeast Univ, Inst Sci & Technol Carbon Neutral, Sch Energy & Environm, Nanjing 210096, Peoples R China.
+   [Wang, Jiadian; Gao, Tieyu] Xi An Jiao Tong Univ, Sch Energy & Power Engn, Xian 710049, Shaanxi, Peoples R China.
+   [Wang, Jiadian] 703 Res Inst China State Shipbuilding Corp Ltd, Harbin 150078, Peoples R China.
+C3 Southeast University - China; Xi'an Jiaotong University
+RP Zhang, CB (通讯作者)，Southeast Univ, Inst Sci & Technol Carbon Neutral, Sch Energy & Environm, Nanjing 210096, Peoples R China.
+EM cbzhang@seu.edu.cn
+FU National Key R & D Program of China [2019YFB1504300]; Science and
+   Technology Support Program of Jiangsu Province [BA2023103]; Major
+   Science and Technology Special Projects of Nanjing [202405012]
+FX This study was supported by the National Key R & D Program of China (No.
+   2019YFB1504300) , the Science and Technology Support Program of Jiangsu
+   Province (No. BA2023103) , and the Major Science and Technology Special
+   Projects of Nanjing (No. 202405012) .
+NR 40
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+EI 1879-0682
+J9 RENEW ENERG
+JI Renew. Energy
+PD AUG 15
+PY 2025
+VL 249
+AR 123228
+DI 10.1016/j.renene.2025.123228
+PG 14
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA 2XZ3E
+UT WOS:001493990900001
+DA 2025-05-29
+ER

@@ -1,0 +1,68 @@
+PT J
+AU Rajan, KC
+   Vengatesen, T
+AF Rajan, Kanmani Chandra
+   Vengatesen, Thiyagarajan
+TI Molecular adaptation of molluscan biomineralisation to
+   high-CO2 oceans - The known and the unknown
+SO MARINE ENVIRONMENTAL RESEARCH
+LA English
+DT Article
+DE Ocean acidification; Biomineralisation; Shell proteins; Ion
+   transporters; Adaptation; Gene expression; Molluscs
+ID CALCIUM-CARBONATE SATURATION; OYSTER LARVAL PROTEOME; OXIDATIVE STRESS;
+   SHELL MATRIX; SEAWATER ACIDIFICATION; CRASSOSTREA-VIRGINICA;
+   ELEVATED-TEMPERATURE; CALCIFICATION RATE; SOLUBLE-PROTEIN; EASTERN
+   OYSTERS
+AB High-CO2 induced ocean acidification (OA) reduces the calcium carbonate (CaCO3) saturation level (Omega) and the pH of oceans. Consequently, OA is causing a serious threat to several ecologically and economically important biomineralising molluscs. Biomineralisation is a highly controlled biochemical process by which molluscs deposit their calcareous structures. In this process, shell matrix proteins aid the nucleation, growth and assemblage of the CaCO3 crystals in the shell. These molluscan shell proteins (MSPs) are, ultimately, responsible for determination of the diverse shell microstructures and mechanical strength. Recent studies have attempted to integrate gene and protein expression data of MSPs with shell structure and mechanical properties. These advances made in understanding the molecular mechanism of biomineralisation suggest that molluscs either succumb or adapt to OA stress. In this review, we discuss the fate of biomineralisation process in future high-CO2 oceans and its ultimate impact on the mineralised shell's structure and mechanical properties from the perspectives of limited substrate availability theory, proton flux limitation model and the omega myth theory.
+   Furthermore, studying the interplay of energy availability and differential gene expression is an essential first step towards understanding adaptation of molluscan biomineralisation to OA, because if there is a need to change gene expression under stressors, any living system would require more energy than usual. To conclude, we have listed, four important future research directions for molecular adaptation of molluscan biomineralisation in high-CO2 oceans: 1) Including an energy budgeting factor while understanding differential gene expression of MSPs and ion transporters under OA. 2) Unraveling the genetic or epigenetic changes related to biomineralisation under stressors to help solving a bigger picture about future evolution of molluscs, and 3) Understanding Post Translational Modifications of MSPs with and without stressors. 4) Understanding carbon uptake mechanisms across taxa with and without OA to clarify the OA theories on Omega.
+C1 [Rajan, Kanmani Chandra; Vengatesen, Thiyagarajan] Univ Hong Kong, Swire Inst Marine Sci, Hong Kong, Peoples R China.
+   [Rajan, Kanmani Chandra; Vengatesen, Thiyagarajan] Univ Hong Kong, Sch Biol Sci, Hong Kong, Peoples R China.
+   [Rajan, Kanmani Chandra; Vengatesen, Thiyagarajan] State Key Lab Marine Pollut, Hong Kong, Peoples R China.
+C3 University of Hong Kong; University of Hong Kong
+RP Rajan, KC; Vengatesen, T (通讯作者)，Univ Hong Kong, Swire Inst Marine Sci, Hong Kong, Peoples R China.; Rajan, KC; Vengatesen, T (通讯作者)，Univ Hong Kong, Sch Biol Sci, Hong Kong, Peoples R China.
+EM u3005329@hku.hk; rajan@hku.hk
+RI Vengatesen, Thiyagarajan/D-3133-2009; Chandra Rajan,
+   Kanmani/IZD-6276-2023
+OI Thiyagarajan, Vengatesen/0000-0002-2062-4799
+FU Research Grant Council - General Research Funds of Hong Kong SAR
+   [17303517, 17304619]; University of Hong Kong Post Graduate Scholarship;
+   Hong Kong Branch of Southern Marine Science and Engineering Guangdong
+   Laboratory (Guangzhou, China)
+FX The authors would like to thank Dr. Camilla Campanati for her comments
+   on a primitive version of this manuscript. The authors are grateful for
+   the comments from two anonymous reviewers on an earlier version of this
+   manuscript. This work was funded by two Research Grant Council - General
+   Research Funds (Grant Numbers: 17303517 and 17304619) of Hong Kong SAR.
+   Kanmani Chandra Rajan was supported by the University of Hong Kong Post
+   Graduate Scholarship. The authors also acknowledge the support from Hong
+   Kong Branch of Southern Marine Science and Engineering Guangdong
+   Laboratory (Guangzhou, China). The authors are also part of the State
+   Key laboratory of Marine Pollution, Hong Kong SAR.
+NR 161
+TC 24
+Z9 26
+U1 1
+U2 54
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0141-1136
+EI 1879-0291
+J9 MAR ENVIRON RES
+JI Mar. Environ. Res.
+PD MAR
+PY 2020
+VL 155
+AR 104883
+DI 10.1016/j.marenvres.2020.104883
+PG 12
+WC Environmental Sciences; Marine & Freshwater Biology; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology;
+   Toxicology
+GA KV6RU
+UT WOS:000520610400008
+PM 32072987
+DA 2025-05-29
+ER

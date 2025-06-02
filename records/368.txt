@@ -1,0 +1,74 @@
+PT J
+AU Robertson, FR
+   Bosilovich, MG
+   Roberts, JB
+AF Robertson, Franklin R.
+   Bosilovich, Michael G.
+   Roberts, Jason B.
+TI Reconciling Land-Ocean Moisture Transport Variability in Reanalyses with
+   P - ET in Observationally Driven Land Surface Models
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+ID NORTHEAST BRAZIL RAINFALL; ATMOSPHERIC MOISTURE; HYDROLOGICAL CYCLE;
+   INTERDECADAL VARIABILITY; SAHEL RAINFALL; GLOBAL ENERGY; WATER-VAPOR;
+   CLIMATE; ENSO; PATTERNS
+AB Vertically integrated atmospheric moisture transport from ocean to land [vertically integrated atmospheric moisture flux convergence (VMFC)] is a dynamic component of the global climate system but remains problematic in atmospheric reanalyses, with current estimates having significant multidecadal global trends differing even in sign. Continual evolution of the global observing system, particularly stepwise improvements in satellite observations, has introduced discrete changes in the ability of data assimilation to correct systematic model biases, manifesting as nonphysical variability. Land surface models (LSMs) forced with observed precipitation P and near-surface meteorology and radiation provide estimates of evapotranspiration (ET). Since variability of atmospheric moisture storage is small on interannual and longer time scales, VMFC 5 P - ET is a good approximation and LSMs can provide an alternative estimate. However, heterogeneous density of rain gauge coverage, especially the sparse coverage over tropical continents, remains a serious concern.
+   Rotated principal component analysis (RPCA) with prefiltering of VMFC to isolate the artificial variability is used to investigate artifacts in five reanalysis systems. This procedure, although ad hoc, enables useful VMFC corrections over global land. The P - ET estimates from seven different LSMs are evaluated and subsequently used to confirm the efficacy of the RPCA-based adjustments. Global VMFC trends over the period 1979-2012 ranging from 0.07 to 20.03 mm day(-1) decade(-1) are reduced by the adjustments to 0.016 mm da(-1) decade(-1), much closer to the LSM P - ET estimate (0.007 mm day(-1) decade(-1)). Neither is significant at the 90% level. ENSO-related modulation of VMFC and P - ET remains the largest global interannual signal, with mean LSM and adjusted reanalysis time series correlating at 0.86.
+C1 [Robertson, Franklin R.; Roberts, Jason B.] NASA Marshall Space Flight Ctr, Earth Sci Off, Huntsville, AL USA.
+   [Bosilovich, Michael G.] NASA Goddard Space Flight Ctr, Global Modeling & Assimilat Off, Greenbelt, MD USA.
+C3 National Aeronautics & Space Administration (NASA); NASA Marshall Space
+   Flight Center; National Aeronautics & Space Administration (NASA); NASA
+   Goddard Space Flight Center
+RP Robertson, FR (通讯作者)，NASA Marshall Space Flight Ctr, 320 Sparkman Dr, Huntsville, AL 35805 USA.
+EM pete.robertson@nasa.gov
+RI Bosilovich, Michael/F-8175-2012
+FU NASA Energy and Water Cycle Study (NEWS) program [WBS281945]
+FX This work was sponsored in large part by the NASA Energy and Water Cycle
+   Study (NEWS) program (Grant WBS281945)-Dr. Jared Entin, Program Manager.
+   The authors wish to acknowledge the institutions and individuals
+   involved in development and production of the many datasets listed here.
+   (For references and data access, see Tables 1 and 2.) The authors also
+   gratefully acknowledge the many individuals who discussed, enabled data
+   access to, and contributed datasets used in this investigation: Drs.
+   Steven Sitch and Sam Levis for access to the CLM4C data under the
+   auspices of the TRENDY initiative and Drs. Graham Weedon and Ben Poulter
+   for the ORCHIDEE integrations from the WFDEI component of the WATCH
+   program. Dr. Markus Reichstein facilitated access to the MPI-BGC
+   satellite-based ET estimates. MERRA and MERRA-2 are distributed by the
+   Goddard Earth Sciences (GES) Data and Information Services Center
+   (DISC). JRA-55 data were obtained from the project website
+   (http://jra.kishou.go.jp/JRA-55/index_en.html). CFSR VMFC fields were
+   obtained from the National Center for Atmospheric Research Climate
+   Analysis Section data holdings
+   (http://www.cgd.ucar.edu/cas/catalog/newbudgets/index.html). We thank
+   Dr. Aiguo Dai for providing the updated global river runoff time series.
+NR 105
+TC 15
+Z9 15
+U1 0
+U2 4
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693, UNITED STATES
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD DEC
+PY 2016
+VL 29
+IS 23
+BP 8625
+EP 8646
+DI 10.1175/JCLI-D-16-0379.1
+PG 22
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA ED2LK
+UT WOS:000388676000019
+PM 32848293
+OA hybrid, Green Accepted
+DA 2025-05-29
+ER

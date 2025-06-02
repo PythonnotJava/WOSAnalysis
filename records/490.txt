@@ -1,0 +1,71 @@
+PT J
+AU Pili, R
+   Romagnoli, A
+   Kamossa, K
+   Schuster, A
+   Spliethoff, H
+   Wieland, C
+AF Pili, Roberto
+   Romagnoli, Alessandro
+   Kamossa, Kai
+   Schuster, Andreas
+   Spliethoff, Hartmut
+   Wieland, Christoph
+TI Organic Rankine Cycles (ORC) for mobile applications - Economic
+   feasibility in different transportation sectors
+SO APPLIED ENERGY
+LA English
+DT Article; Proceedings Paper
+CT 8th International Conference on Applied Energy (ICAE)
+CY OCT 08-11, 2016
+CL Beijing Inst Technol, Beijing, PEOPLES R CHINA
+SP Appl Energy Innovat Inst, Malardalen UNiv, China Assoc Sci & Technologies, HOME Program, Sichuan Univ, Jiangsu Univ, China Univ Min & Technol, Tianjin Univ, Tongji Univ, SW Jiaotong Univ, Xian Jiaotong Univ, Collaborat Innovat Ctr Elect Vehicles Beijing, Technol Unnovat Local Scale Optimum Integrat Battery Energy Storage, BAIC, BJEV, YuTong, Shenwu Grp
+HO Beijing Inst Technol
+DE Organic Rankine Cycle; Transportation; Space requirements; Volume;
+   Weight; Feasibility
+ID ENGINE
+AB Organic Rankine Cycles (ORC) offer a valuable alternative to recover waste heat from internal combustion engines (ICE) in transportation systems, leading to fuel energy savings and reduced emissions. Nevertheless, the additional weight of the ORC affects the net energy balance of the overall system and the ORC occupies additional volume that competes with vehicle transportation capacity. A lower income from delivered freight or passenger tickets will be therefore achieved. This work defines a benchmark for the economic feasibility of integrating an ORC into an ICE and the resulting economic impact of weight and volume in the transportation sector. It additionally investigates the current ORC situation on the market.
+   The applied methodology defines a maximum allowable change of transport capacity caused by the integration of the ORC. The procedure is applied to a typical city bus, a truck of 40 t of payload capacity, a middle-size freight train (1000 t), an inland water vessel (Va RoRo, 2500 t) and ocean vessel (25,000 t). The results are compared with commercial ORC products.
+   The findings of the present study are a theoretical and practical approach for the economic application of ORCs in the transportation sector. For maritime transportation, the situation appears highly favorable. For integration for trains and trucks appeared successful, but close to the limit line. For busses, a competitive integration requires a strong reduction in weight and volume.
+   In future works, the potential for volume and mass reduction of the ORC has to be addressed together with the integration of an economic assessment for the ORC. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Pili, Roberto; Spliethoff, Hartmut; Wieland, Christoph] Tech Univ Munich, Inst Energy Syst, Boltzmannstr 15, D-85748 Garching, Germany.
+   [Romagnoli, Alessandro] Nanyang Technol Univ, Coll Engn, Sch Mech & Aerosp Engn, 50 Nanyang Ave, Singapore 637820, Singapore.
+   [Kamossa, Kai; Schuster, Andreas] Orcan Energy AG, Rupert Mayer Str 44, D-81379 Munich, Germany.
+C3 Technical University of Munich; Nanyang Technological University
+RP Pili, R (通讯作者)，Tech Univ Munich, Inst Energy Syst, Boltzmannstr 15, D-85748 Garching, Germany.
+EM roberto.pili@tum.de
+RI Schuster, Andreas/HPG-1207-2023; Romagnoli, Alessandro/N-1975-2014
+OI Pili, Roberto/0000-0002-6596-8800; Wieland,
+   Christoph/0000-0001-5820-9673; Romagnoli,
+   Alessandro/0000-0003-1271-5479; Spliethoff, Hartmut/0000-0003-3743-2731
+FU Munich School of Engineering (MSE), as part of the ICER project; Nanyang
+   Technological University of Singapore (NTU)
+FX This work was supported by Munich School of Engineering (MSE), as part
+   of the ICER projects in cooperation with the Nanyang Technological
+   University of Singapore (NTU).
+NR 37
+TC 25
+Z9 25
+U1 1
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD OCT 15
+PY 2017
+VL 204
+BP 1188
+EP 1197
+DI 10.1016/j.apenergy.2017.04.056
+PG 10
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Energy & Fuels; Engineering
+GA FJ6KK
+UT WOS:000412866500094
+DA 2025-05-29
+ER

@@ -1,0 +1,57 @@
+PT J
+AU Mohammadi, A
+   Mehrpooya, M
+AF Mohammadi, Amin
+   Mehrpooya, Mehdi
+TI A comprehensive review on coupling different types of electrolyzer to
+   renewable energy sources
+SO ENERGY
+LA English
+DT Article
+DE Hydrogen production; Electrolyzer; Renewable energy; Coupling
+   strategies; Economic analysis
+ID FUEL-CELL SYSTEM; HIGH-TEMPERATURE ELECTROLYSIS; LIQUEFIED NATURAL-GAS;
+   POWERED HYDROGEN-PRODUCTION; SOLID POLYMER ELECTROLYTE; SOLAR DISH
+   COLLECTOR; GEOTHERMAL-ENERGY; WIND ENERGY; EXERGY ANALYSIS;
+   THERMAL-ENERGY
+AB Fossil fuels cannot provide all the required energy in future due to their exhaustibility. Their utilization also leads to huge environmental problems. Therefore, it is vital to find a new inexhaustible and clean source of energy which could be easily stored and transported. Hydrogen produced by renewable energy sources has all the above mentioned advantages. There are many hydrogen production methods which could be coupled with renewable energy sources. Among them, electrolysis process is the most mature one. In this paper, a review is performed on different methods of coupling electrolyzer systems with different renewable energy sources, including solar energy, wind energy, geothermal energy, ocean thermal energy conversion system and hydroelectric energy. The focus of this study is on how these systems can be integrated and which one has the highest total efficiency. Finally, cost of hydrogen production by different energy sources is compared. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Mohammadi, Amin; Mehrpooya, Mehdi] Univ Tehran, Fac New Sci & Technol, Renewable Energies & Environm Dept, Tehran, Iran.
+C3 University of Tehran
+RP Mehrpooya, M (通讯作者)，Univ Tehran, Fac New Sci & Technol, Renewable Energies & Environm Dept, Tehran, Iran.
+EM mehrpoya@ut.ac.ir
+RI Mehrpooya, Mehdi/AAH-1617-2019
+OI Mehrpooya, Mehdi/0000-0001-9274-5824
+FU Iran National science foundation (INSF); university of Tehran
+   [27636/01/01]
+FX Authors acknowledge the financial support provided by Iran National
+   science foundation (INSF). The authors would like to acknowledge the
+   financial support of university of Tehran for this research under grant
+   number 27636/01/01.
+NR 169
+TC 226
+Z9 244
+U1 16
+U2 152
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD SEP 1
+PY 2018
+VL 158
+BP 632
+EP 655
+DI 10.1016/j.energy.2018.06.073
+PG 24
+WC Thermodynamics; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels
+GA GU6QK
+UT WOS:000445440500055
+HC Y
+HP N
+DA 2025-05-29
+ER

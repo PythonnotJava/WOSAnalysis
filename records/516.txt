@@ -1,0 +1,76 @@
+PT J
+AU García-de-Vinuesa, A
+   Florido, D
+   Vilas, C
+   Torres, MA
+   Delgado, M
+   Muñoz, I
+   Cabrera-Castro, R
+   Ramos, F
+   Llope, M
+AF Garcia-de-Vinuesa, Alfredo
+   Florido, David
+   Vilas, Cesar
+   Torres, Maria Angeles
+   Delgado, Marina
+   Munoz, Isabel
+   Cabrera-Castro, Remedios
+   Ramos, Fernando
+   Llope, Marcos
+TI Framing social systems for ecosystem-based management: The Guadalquivir
+   estuary-Gulf of Cadiz coupled SES as case study
+SO ENVIRONMENTAL DEVELOPMENT
+LA English
+DT Article
+DE Social network analysis (SNA); Social-ecological systems (SES);
+   Integrated ecosystem assessment (IEA); Human dimension; Ecosystem
+   services; Nature's contributions to people (NCP)
+ID NETWORK ANALYSIS; ATLANTIC; ASSESSMENTS; SERVICES; ISSUES
+AB Conserving and using the oceans, seas, and marine resources sustainably is a high-level management goal encouraged by the United Nations Decade of Ocean Science for Sustainable Development and endorsed by most national policies. Estuaries are complex Social-Ecological Systems (SES) impacted by pressures from multi-sectoral activities. In these contexts, a holistic management approach, such as Ecosystem-Based Management (EBM), is essential to prevent the loss of ecosystem services. The Guadalquivir estuary-Gulf of Cadiz (Ge-GoC) is an intricate SES that faces pressures from numerous sectoral activities, including fishing, agriculture, shipping, aquaculture, and mining. The cumulative effects of these pressures (such as juvenile exploitation, eutrophication, pollution, riverbank erosion, and the introduction of alien species) could potentially drive the SES toward an ecological regime shift and deplete current ecosystem services such as its nursery role. Although there is a good understanding of the Ge-GoC ecosystem dynamics, no efforts have been made to consider and incorporate the human dimension, which is essential for successful EBM implementation. Social Network Analysis (SNA) is a tool from social sciences that characterizes the relationships among stakeholders within a given social setting. In an effort to frame the Ge-GoC social system, the first SNA was conducted, involving interviews with 55 stakeholders representing 11 sectors. The SNA identified key stakeholders from the government, fishing, shipping, surveillance, local city councils energy and NGO sectors due to their high centrality. While the shipping and energy sectors displayed significant influence in estuary management, they demonstrated limited interest and, in some cases, disagreement with the overall SES objectives, in contrast to the NGO and surveillance sectors. The primary management goals identified by stakeholders include reducing water pollution, controlling invasive species, combating drug trafficking, and addressing illegal fishing. However, the majority of stakeholders expressed reluctance regarding the goal of shipping optimization. The information extracted through SNA provides a valuable knowledge base for creating participatory processes that can guide complex SES toward EBM.
+C1 [Garcia-de-Vinuesa, Alfredo; Torres, Maria Angeles; Delgado, Marina; Munoz, Isabel; Ramos, Fernando; Llope, Marcos] Inst Espanol Oceanog IEO CSIC, Ctr Oceanog Cadiz, Cadiz 11006, Spain.
+   [Florido, David] Univ Sevilla US, Dept Antropol Social, Grp Estudio Ident Socioculturales Andalucia Geisa, Seville, Spain.
+   [Vilas, Cesar] Inst Andaluz Invest & Formac Agr, Pescara Alimentaria & Prod Ecol IFAPA, Cadiz, Spain.
+   [Cabrera-Castro, Remedios] Univ Cadiz, Fac Ciencias Mar & Ambientales, Dept Biol, Ave Republ Saharaui S-N,Campus Excelencia Int Mar, Puerto Real 11510, Spain.
+   [Cabrera-Castro, Remedios] Inst Univ Invest Marina INMAR, Campus Excelencia Int Mar CEIMAR,Avda Republ Sahar, Cadiz 11510, Spain.
+   [Llope, Marcos] Inst Espanol Oceanog IEO CSIC, Ctr Oceanog Gijon Xixon, Camin Arbeyal s-n, Xixon 33212, Asturias, Spain.
+C3 University of Sevilla; Universidad de Cadiz
+RP García-de-Vinuesa, A (通讯作者)，Inst Espanol Oceanog IEO CSIC, Ctr Oceanog Cadiz, Cadiz 11006, Spain.
+EM alfredo.gvinuesa@ieo.csic.es
+RI Florido, David/C-7646-2015; CABRERA, REMEDIOS/N-8072-2015; Llope,
+   Marcos/LJM-0252-2024; Muñoz, Isabel/HGU-3704-2022
+OI Munoz, Isabel/0000-0003-1055-0754
+FU MCIN/AEI [PID2020-114383RB-I00, MCIN/AEI/10.13039/501100011033/and];
+   FEDER a way of making Europe
+FX This publication is part of the R&D project SNAPQUIVIR
+   (PID2020-114383RB-I00) , financed by MCIN/AEI/10.13039/501100011033/and
+   by "FEDER a way of making Europe". We would also like to thank the
+   Ge-GoC stakeholders, whose willingness to participate was instrumental
+   to achieving the objectives of this work, and the reviewers for their
+   thorough reviews, constructive comments, and valuable suggestions.
+NR 74
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-4645
+EI 2211-4653
+J9 ENVIRON DEV
+JI Environ. Dev.
+PD JUL
+PY 2025
+VL 55
+AR 101206
+DI 10.1016/j.envdev.2025.101206
+EA MAR 2025
+PG 15
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA 0XJ8M
+UT WOS:001458287700001
+OA hybrid
+DA 2025-05-29
+ER

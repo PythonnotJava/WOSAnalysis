@@ -1,0 +1,63 @@
+PT J
+AU Baseer, MA
+   Kumar, P
+   Nascimento, EGS
+AF Baseer, Mohammad Abdul
+   Kumar, Prashant
+   Nascimento, Erick Giovani Sperandio
+TI Advancements in hydrogen production through the integration of renewable
+   energy sources with AI techniques: A comprehensive literature review
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Hydrogen production; Artificial intelligence; Renewable energy sources;
+   Energy efficiency; Sustainable energy
+ID ARTIFICIAL-INTELLIGENCE; SYSTEM; OPTIMIZATION; INNOVATIONS; GENERATION;
+   GLUCOSE; IMPACT
+AB Hydrogen possesses the ability to produce energy with minimal greenhouse gas emissions when sustainably produced, making it a promising renewable energy carrier. Moreover, recent advancements in Artificial Intelligence (AI) can further enhance cleaner hydrogen production in a more optimised way. The main objective of this review paper is to comprehensively examine the current state-of-the-art in the integration of AI techniques with Renewable Energy Sources (RES), such as biomass, solar, algae power, geothermal, and wind to advance various hydrogen production methods, including electrolysis, biological, and photovoltaic processes. Furthermore, we aim to explore how AI optimisation can enhance sustainability, reliability, and commercial viability of Green Hydrogen (GH2) systems. These processes are crucial for reducing greenhouse gas emissions and meet the world's growing energy needs. The integration of RES with hydrogen production technologies has been recognised as a key strategy to attain a sustainable and environmentally friendly energy future, and the incorporation of AI can optimise efficiency and cost-effectiveness. This review found that there is a growing interest in the development of AI techniques to optimise GH2 production. While most of the studies focus on utilising wind and solar energy sources, this review found minimal existing research applying AI to GH2 production from algae, ocean, intermittency, and hybrid RES. Moreover, no works exploring AI to optimise GH2 production from sources like tidal and hydropower were found. Thus, prioritising AI-enabled system development to integrate and optimise these resources for GH2 production can help progress renewable generation capabilities towards a more sustainable, cleaner, carbon-free future for industry, transport, and societal sectors. Further extensive research is essential to fully harness the promise of AI in transforming diverse RES for clean hydrogen.
+C1 [Baseer, Mohammad Abdul; Nascimento, Erick Giovani Sperandio] Univ Surrey, Surrey Inst People Ctr Artificial Intelligence, Fac Engn & Phys Sci, Guildford GU2 7XH, England.
+   [Kumar, Prashant] Univ Surrey, Inst Sustainabil, Guildford GU2 7XH, England.
+   [Baseer, Mohammad Abdul; Kumar, Prashant; Nascimento, Erick Giovani Sperandio] Univ Surrey, Global Ctr Clean Res GCARE, Sch Sustainabil Civil & Environm Engn & Phys Sci, Guildford GU2 7XH, England.
+   [Nascimento, Erick Giovani Sperandio] SENAI CIMATEC Univ, Stricto Sensu Dept, Salvador, BA, Brazil.
+C3 University of Surrey; University of Surrey; University of Surrey
+RP Nascimento, EGS (通讯作者)，Univ Surrey, Surrey Inst People Ctr Artificial Intelligence, Fac Engn & Phys Sci, Guildford GU2 7XH, England.
+EM ma04676@surrey.ac.uk; p.kumar@surrey.ac.uk; erick.sperandio@surrey.ac.uk
+RI ABDUL BASEER, MOHAMMAD/AAY-7428-2021; Giovani Sperandio Nascimento,
+   Erick/ABC-8551-2021; Kumar, Prashant/C-6357-2011
+OI Giovani Sperandio Nascimento, Erick/0000-0003-2219-0290; Kumar,
+   Prashant/0000-0002-2462-4411
+FU National Council for Scientific and Technological Development (CNPq,
+   Brazil); CNPq [308963/2022-9]
+FX The authors express their sincere appreciation to the Surrey Institute
+   for People-Centred Artificial Intelligence and the Global Centre for
+   Clean Air Research (GCARE) at the University of Surrey, United Kingdom,
+   for their valuable support and resources. We also thank the National
+   Council for Scientific and Technological Development (CNPq, Brazil) for
+   their support, as Erick G. Sperandio Nascimento is a CNPq technological
+   development fellow (Proc. 308963/2022-9) .
+NR 94
+TC 6
+Z9 6
+U1 25
+U2 25
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD APR 1
+PY 2025
+VL 383
+AR 125354
+DI 10.1016/j.apenergy.2025.125354
+EA JAN 2025
+PG 20
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA T1K7L
+UT WOS:001402689100001
+DA 2025-05-29
+ER

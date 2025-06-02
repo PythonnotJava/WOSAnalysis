@@ -1,0 +1,80 @@
+PT J
+AU Loeb, NG
+   Wang, HL
+   Cheng, AN
+   Kato, S
+   Fasullo, JT
+   Xu, KM
+   Allan, RP
+AF Loeb, Norman G.
+   Wang, Hailan
+   Cheng, Anning
+   Kato, Seiji
+   Fasullo, John T.
+   Xu, Kuan-Man
+   Allan, Richard P.
+TI Observational constraints on atmospheric and oceanic cross-equatorial
+   heat transports: revisiting the precipitation asymmetry problem in
+   climate models
+SO CLIMATE DYNAMICS
+LA English
+DT Article
+DE Energy budget; Heat transport; Radiation; Precipitation; Latent heat;
+   Sensible heat
+ID INTERTROPICAL CONVERGENCE ZONE; ANGULAR-DISTRIBUTION MODELS; RADIATIVE
+   FLUX ESTIMATION; ENERGY SYSTEM INSTRUMENT; PART II; ITCZ; CONSISTENT;
+   SATELLITE; MISSION; CLOUDS
+AB Satellite based top-of-atmosphere (TOA) and surface radiation budget observations are combined with mass corrected vertically integrated atmospheric energy divergence and tendency from reanalysis to infer the regional distribution of the TOA, atmospheric and surface energy budget terms over the globe. Hemispheric contrasts in the energy budget terms are used to determine the radiative and combined sensible and latent heat contributions to the cross-equatorial heat transports in the atmosphere (AHT(EQ)) and ocean (OHTEQ). The contrast in net atmospheric radiation implies an AHT(EQ) from the northern hemisphere (NH) to the southern hemisphere (SH) (0.75 PW), while the hemispheric difference in sensible and latent heat implies an AHT(EQ) in the opposite direction (0.51 PW), resulting in a net NH to SH AHT(EQ) (0.24 PW). At the surface, the hemispheric contrast in the radiative component (0.95 PW) dominates, implying a 0.44 PW SH to NH OHTEQ. Coupled model intercomparison project phase 5 (CMIP5) models with excessive net downward surface radiation and surface-to-atmosphere sensible and latent heat transport in the SH relative to the NH exhibit anomalous northward AHT(EQ) and overestimate SH tropical precipitation. The hemispheric bias in net surface radiative flux is due to too much longwave surface radiative cooling in the NH tropics in both clear and all-sky conditions and excessive shortwave surface radiation in the SH subtropics and extratropics due to an underestimation in reflection by clouds.
+C1 [Loeb, Norman G.; Kato, Seiji; Xu, Kuan-Man] NASA, Langley Res Ctr, Hampton, VA 23665 USA.
+   [Wang, Hailan; Cheng, Anning] Sci Syst & Applicat Inc, Hampton, VA USA.
+   [Fasullo, John T.] Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA.
+   [Allan, Richard P.] Univ Reading, Dept Meteorol, Reading, Berks, England.
+C3 National Aeronautics & Space Administration (NASA); NASA Langley
+   Research Center; Science Systems & Applications Inc; National Center
+   Atmospheric Research (NCAR) - USA; University of Reading
+RP Loeb, NG (通讯作者)，NASA, Langley Res Ctr, Hampton, VA 23665 USA.
+EM norman.g.loeb@nasa.gov
+RI Loeb, Norman/ABC-7817-2021; kato, seiji/MIT-9404-2025; Fasullo,
+   John/H-4552-2019; Allan, Richard/B-5782-2008; Xu, Kuan-Man/B-7557-2013
+OI FASULLO, JOHN/0000-0003-1216-892X; Allan, Richard/0000-0003-0264-9447;
+   Xu, Kuan-Man/0000-0001-7851-2629
+FU NASA CERES project; UK Natural Environment Research Council DEEP-C
+   project [NE/K005480/1]; National Centre for Earth Observation; NERC
+   [NE/K005480/1, nceo020006] Funding Source: UKRI
+FX We would like to thank Dr. Aaron Donohoe for his thorough review of this
+   paper and insightful comments. This research has been supported by the
+   NASA CERES project. The CERES datasets were obtained from
+   http://ceres.larc.nasa.gov/compare_products.php. The NASA Langley
+   Atmospheric Sciences Data Center processed the instantaneous Single
+   Scanner Footprint and monthly SYN1 deg_Edition3 data used to produce
+   EBAF Ed2.8. R. Allan is supported by the UK Natural Environment Research
+   Council DEEP-C project (NE/K005480/1) and National Centre for Earth
+   Observation.
+NR 52
+TC 45
+Z9 46
+U1 0
+U2 29
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0930-7575
+EI 1432-0894
+J9 CLIM DYNAM
+JI Clim. Dyn.
+PD MAY
+PY 2016
+VL 46
+IS 9-10
+BP 3239
+EP 3257
+DI 10.1007/s00382-015-2766-z
+PG 19
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA DK5OU
+UT WOS:000374970200035
+OA hybrid
+DA 2025-05-29
+ER

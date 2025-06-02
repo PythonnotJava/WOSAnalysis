@@ -1,0 +1,59 @@
+PT J
+AU Chen, YJ
+   Hwang, YT
+   Ceppi, P
+AF Chen, Yong-Jhih
+   Hwang, Yen-Ting
+   Ceppi, Paulo
+TI The Impacts of Cloud-Radiative Changes on Poleward Atmospheric and
+   Oceanic Energy Transport in a Warmer Climate
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+DE Energy transport; Climate change; Cloud radiative effects
+ID HEAT-TRANSPORT; SOUTHERN-OCEAN; ITCZ POSITION; EL-NINO; FEEDBACKS;
+   CIRCULATION; MODEL; JET
+AB Based on theory and climate model experiments, previous studies suggested that most of the uncertainties in projected future changes in meridional energy transport and zonal mean surface temperature can be attributed to cloud feedback. To investigate how radiative and dynamical adjustments modify the influence of cloud-radiative changes on energy transport, this study applies a cloud-locking technique in a fully coupled climate model, CESM. Under global warming, the impacts of cloud-radiative changes on the meridional energy transport are asymmetric in the two hemispheres. In the Northern Hemisphere, the cloud-radiative changes have little impact on energy transport because 89% of the cloudinduced heating is balanced locally by increasing outgoing longwave radiation. In the Southern Hemisphere, on the other hand, cloud-induced dynamical changes in the atmosphere and the ocean cause enhanced poleward energy transport, accounting for most of the increase in energy transport under warming. Our experiments highlight that the local longwave radiation adjustment induced by temperature variation can partially offset the impacts of cloud-radiative changes on energy transport, making the estimated impacts smaller than those obtained from directly integrating cloud-radiative changes in previous studies. It is also demonstrated that the cloud-radiative impacts on temperature and energy transport can be significantly modulated by the oceanic circulation, suggesting the necessity of considering atmospheric-oceanic coupling when estimating the impacts of cloud-radiative changes on the climate system.
+C1 [Chen, Yong-Jhih; Hwang, Yen-Ting] Natl Taiwan Univ, Dept Atmospher Sci, Taipei, Taiwan.
+   [Ceppi, Paulo] Imperial Coll London, Grantham Inst, Dept Phys, London, England.
+C3 National Taiwan University; Imperial College London
+RP Hwang, YT (通讯作者)，Natl Taiwan Univ, Dept Atmospher Sci, Taipei, Taiwan.
+EM ythwang@ntu.edu.tw
+RI Hwang, Yen-Ting/P-8469-2014; Ceppi, Paulo/N-2282-2016
+OI Ceppi, Paulo/0000-0002-3754-3506
+FU Ministry of Science and Technology of Taiwan [MOST 110-2628-M-002-002];
+   Imperial College Research Fellowship; NERC [NE/T006250/1, NE/T007788/1];
+   NERC [NE/T006250/1, NE/T007788/1] Funding Source: UKRI
+FX Y.-J. Chen and Y.-T. Hwang were supported by the Ministry of Science and
+   Technology of Taiwan (MOST 110-2628-M-002-002). P. Ceppi was supported
+   by an Imperial College Research Fellowship and by NERC Grants
+   NE/T006250/1 and NE/T007788/1. We thank the two anonymous reviewers for
+   their careful reading and constructive suggestions.
+NR 63
+TC 8
+Z9 10
+U1 0
+U2 7
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693, UNITED STATES
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD OCT
+PY 2021
+VL 34
+IS 19
+BP 7857
+EP 7874
+DI 10.1175/JCLI-D-20-0949.1
+PG 18
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA YV3MD
+UT WOS:000752634100006
+OA Green Submitted, Bronze
+DA 2025-05-29
+ER

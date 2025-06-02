@@ -1,0 +1,58 @@
+PT J
+AU Cao, JJ
+   Lu, D
+   Li, DW
+   Zeng, Z
+   Yao, BH
+   Lian, L
+AF Cao, Junjun
+   Lu, Di
+   Li, Daiwei
+   Zeng, Zheng
+   Yao, Baoheng
+   Lian, Lian
+TI Smartfloat: A Multimodal Underwater Vehicle Combining Float and Glider
+   Capabilities
+SO IEEE ACCESS
+LA English
+DT Article
+DE Autonomous vehicle; ocean monitoring; profiling float; multimodal
+   underwater vehicle; underwater glider
+ID PROFILING FLOATS
+AB This paper proposes a novel hybrid underwater vehicle, the Smartfloat, which integrates the concept of buoyancy-driven underwater gliders and conventional profiling floats. The vehicle is presented to address the challenges in ocean monitoring, such as the multidisciplinary observations of long-range transport of the mesoscale features with high spatial-temporal resolution. The vehicle combines the mechanisms of Argo profiling float and the underwater glider, with the application of a special designed attitude control system and the ingenious general arrangement. The vehicle can switch the operating mode between drifting mode and gliding mode. Such a multimodal vehicle would merge the benefits of making measurements in a very energy-efficient way when drifting with the currents in Argo mode, and operating as an underwater glider in glider mode when it is needed to cross the ocean eddies, ocean fronts, filaments, or some stirring regions. In this paper, a proof-of-concept platform including its concept of operations, the main components and subsystems design, and the correlative mathematical analysis is introduced in detail. Experiments in field trials are presented to characterize and illustrate each mode of operation and repeated mode transitions. The results demonstrate the feasibility and the good performance of the proposed vehicle.
+C1 [Cao, Junjun; Lu, Di; Li, Daiwei; Zeng, Zheng; Yao, Baoheng; Lian, Lian] Shanghai Jiao Tong Univ, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+C3 Shanghai Jiao Tong University
+RP Lian, L (通讯作者)，Shanghai Jiao Tong Univ, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+EM llian@sjtu.edu.cn
+RI Zeng, Zheng/C-8808-2016; Lu, Di/KBQ-7002-2024; L, D/KLZ-5963-2024; Wang,
+   Xiaofei/W-8267-2019
+OI Cao, Junjun/0000-0003-4523-6896
+FU National Natural Science Foundation of China [41527901]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grant 41527901.
+NR 31
+TC 21
+Z9 24
+U1 2
+U2 49
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2019
+VL 7
+BP 77825
+EP 77838
+DI 10.1109/ACCESS.2019.2922171
+PG 14
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA IG4JF
+UT WOS:000473769200001
+OA gold
+DA 2025-05-29
+ER

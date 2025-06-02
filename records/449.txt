@@ -1,0 +1,79 @@
+PT J
+AU Jiang, WW
+   Fang, JH
+   Du, MR
+   Gao, YP
+   Fang, JG
+   Jiang, ZJ
+AF Jiang, Weiwei
+   Fang, Jinghui
+   Du, Meirong
+   Gao, Yaping
+   Fang, Jianguang
+   Jiang, Zengjie
+TI Integrated transcriptomics and metabolomics analyses reveal
+   benzo[a] pyrene enhances the toxicity of mercury to the Manila
+   clam, Ruditapes philippinarum
+SO ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY
+LA English
+DT Article
+DE Mercury; Benzo[a]pyrene; Ruditapes philippinarum; Toxicological
+   responses; Transcriptomics; Metabolomics
+ID ARYL-HYDROCARBON RECEPTOR; POLYCYCLIC AROMATIC-HYDROCARBONS; SHRIMP
+   LITOPENAEUS-VANNAMEI; ENERGY-METABOLISM; OCEAN ACIDIFICATION;
+   CHLAMYS-FARRERI; BIOCHEMICAL RESPONSES; BIOMARKER RESPONSES;
+   CRASSOSTREA-GIGAS; BLOOD CLAM
+AB Mercury (Hg2+) and benzo[a]pyrene (BaP) are ubiquitous and persistent pollutants with multiple toxicities in bivalve molluscs. Here, the toxicological responses in the gills of Manila clams, Ruditapes philippinarum, to Hg2+ (10 mu g L-1), BaP (3 mu g L-1),and their mixture were analysed using transcriptomics and metabolomics approaches. Comparisons of the transcriptomes and metabolomes of Hg2+- and/or BaP-treated clams with control animals revealed the involvement of the detoxification metabolism, immune defence, energy-related pathways, and osmotic regulation in the stress response of R. philippinarum. Exposure to Hg2+ alone primarily enhanced the detoxification and energy metabolic pathways by significantly increasing the expression of genes associated with heat-shock proteins and oxidative phosphorylation. However, co-exposure to Hg2+ and BaP caused greater immunotoxicity and disrupted detoxification metabolism, the TCA cycle, glycolysis, and ATP generation. The expression levels of cytochrome P450 1A1 (CYP1A1), multidrug resistance-associated protein 1 (MRP1), and myosin (MYO), and the activity of electron transport system (ETS) in gills were detected, supporting the underlying toxic mechanisms of Hg2+ and BaP. We suggest that the presence of BaP enhances the toxicity of Hg2+ by 1) hampering the detoxification of Hg2+, 2) increasing the immunotoxicity of Hg2+, and 3) constraining energy availability for clams.
+C1 [Jiang, Weiwei; Fang, Jinghui; Du, Meirong; Gao, Yaping; Fang, Jianguang; Jiang, Zengjie] Chinese Acad Fishery Sci, Yellow Sea Fisheries Res Inst, Key Lab Sustainable Dev Marine Fisheries, Minist Agr, Qingdao 266071, Peoples R China.
+   [Fang, Jianguang; Jiang, Zengjie] Qingdao Pilot Natl Lab Marine Sci & Technol, Lab Marine Fisheries Sci & Food Prod Proc, Qingdao 266200, Peoples R China.
+C3 Chinese Academy of Fishery Sciences; Yellow Sea Fisheries Research
+   Institute, CAFS; Ministry of Agriculture & Rural Affairs; Laoshan
+   Laboratory
+RP Jiang, ZJ (通讯作者)，Chinese Acad Fishery Sci, Yellow Sea Fisheries Res Inst, Key Lab Sustainable Dev Marine Fisheries, Minist Agr, Qingdao 266071, Peoples R China.
+EM jiangzj@ysfri.ac.cn
+RI Fang, Jinghui/AAF-8828-2021
+FU National Key RAMP;D Program of China [2019YFE0103800]; Key Programme for
+   International Cooperation on Scientific and Technological Innovation,
+   Ministry of Science and Technology [2017YFE0118300]; Qingdao National
+   Laboratory for Marine Science and Technology [QNLM201707]; Central
+   Public-interest Scientific Institution Basal Research Fund, CAFS
+   [2020TD50]; Young Taishan Scholars Program of Shandong Province
+   [tsqn201909166]; Earmarked Fund for Modern Agro-industry Technology
+   Research System [CARS-49]
+FX The research was supported by the National Key R&D Program of China
+   (2019YFE0103800), Key Programme for International Cooperation on
+   Scientific and Technological Innovation, Ministry of Science and
+   Technology (2017YFE0118300), Director Project Financially Supported by
+   Qingdao National Laboratory for Marine Science and Technology
+   (QNLM201707), Central Public-interest Scientific Institution Basal
+   Research Fund, CAFS (2020TD50), Young Taishan Scholars Program of
+   Shandong Province (tsqn201909166) and Earmarked Fund for Modern
+   Agro-industry Technology Research System (CARS-49).
+NR 88
+TC 22
+Z9 22
+U1 3
+U2 90
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0147-6513
+EI 1090-2414
+J9 ECOTOX ENVIRON SAFE
+JI Ecotox. Environ. Safe.
+PD APR 15
+PY 2021
+VL 213
+AR 112038
+DI 10.1016/j.ecoenv.2021.112038
+EA FEB 2021
+PG 11
+WC Environmental Sciences; Toxicology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Toxicology
+GA RB8XY
+UT WOS:000632390400001
+PM 33636467
+OA gold
+DA 2025-05-29
+ER

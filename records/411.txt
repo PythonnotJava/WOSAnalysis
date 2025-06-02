@@ -1,0 +1,56 @@
+PT J
+AU Lira-Loarca, A
+   Besio, G
+AF Lira-Loarca, Andrea
+   Besio, Giovanni
+TI Future changes and seasonal variability of the directional wave spectra
+   in the Mediterranean Sea for the 21st century
+SO ENVIRONMENTAL RESEARCH LETTERS
+LA English
+DT Article
+DE directional wave spectra; Mediterranean; future changes; climate change;
+   multimodal
+ID CLIMATE-CHANGE; IMPACT; OCEAN; SURFACE; SYSTEM
+AB A state-of-the-art regional assessment of future directional wave spectra in the Mediterranean Sea and the projected changes with respect to hindcast is presented. A multi-model EURO-CORDEX regional ensemble of bias-adjusted wave climate projections in eleven locations of the Mediterranean are used for the assessment of future seasonal changes in the directional wave spectra under the high-emission scenario RCP8.5. This analysis allows us to identify climate change effects on the spectral energy of the swell and wind-sea systems and their seasonal variability which cannot be captured with the standard integrated wave parameters, such as significant wave height and mean wave direction. The results show an overall robust decrease in the predominant wave systems, resulting in a likely decrease in the significant wave height that is in agreement with previous studies. However, the results depict a robust increase in other less energetic frequencies and directions leading to a projected behavioral change from unimodal to bimodal/multimodal wave climate in many locations which has strong repercussions on the vulnerability of coastal assets and ports operability.
+C1 [Lira-Loarca, Andrea; Besio, Giovanni] Univ Genoa, Dept Civil Chem & Environm Engn, Via Montallegro 1, I-16145 Genoa, Italy.
+C3 University of Genoa
+RP Lira-Loarca, A (通讯作者)，Univ Genoa, Dept Civil Chem & Environm Engn, Via Montallegro 1, I-16145 Genoa, Italy.
+EM andrea.lira.loarca@unige.it
+RI Besio, Giovanni/B-2633-2012; Lira Loarca, Andrea/A-6712-2017
+OI Besio, Giovanni/0000-0002-0522-9635; Lira Loarca,
+   Andrea/0000-0003-2251-6684
+FU University of Genoa (UniGE); Compagnia San Paolo Foundation
+FX A.L.L has been funded by the University of Genoa (UniGE) and Compagnia
+   San Paolo Foundation under the framework of the Seal of
+   Excellenceattrazione di talenti@UniGeinitiative.The authors acknowledge
+   the CINECA ISCRA-C IsC66-WACCS, IsC78-FUWAME, IsC87-UNDERSEA and
+   IsC87FUWAMEBI projects for the computing resources to perform the
+   GCM-RCMs wave climate projections. The authors thank the developers of
+   the scientific softwares that enabled this study, namely xarray (Hoyer
+   and Hamman 2017) and wavespectra (Guedes et al 2021).
+NR 45
+TC 7
+Z9 7
+U1 0
+U2 6
+PU IOP Publishing Ltd
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1748-9326
+J9 ENVIRON RES LETT
+JI Environ. Res. Lett.
+PD OCT 1
+PY 2022
+VL 17
+IS 10
+AR 104015
+DI 10.1088/1748-9326/ac8ec4
+PG 16
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA 4W4MJ
+UT WOS:000860138600001
+OA Green Published, gold
+DA 2025-05-29
+ER

@@ -1,0 +1,93 @@
+PT J
+AU Marti, F
+   Blazquez, A
+   Meyssignac, B
+   Ablain, M
+   Barnoud, A
+   Fraudeau, R
+   Jugier, R
+   Chenal, J
+   Larnicol, G
+   Pfeffer, J
+   Restano, M
+   Benveniste, JM
+AF Marti, Florence
+   Blazquez, Alejandro
+   Meyssignac, Benoit
+   Ablain, Michael
+   Barnoud, Anne
+   Fraudeau, Robin
+   Jugier, Remi
+   Chenal, Jonathan
+   Larnicol, Gilles
+   Pfeffer, Julia
+   Restano, Marco
+   Benveniste, Jerome
+TI Monitoring the ocean heat content change and the Earth energy imbalance
+   from space altimetry and space gravimetry
+SO EARTH SYSTEM SCIENCE DATA
+LA English
+DT Article; Data Paper
+ID SEA-LEVEL RISE; SURFACE TEMPERATURE; MASS VARIABILITY; ATMOSPHERE;
+   UNCERTAINTY; MODEL; SALINITY; CLOUDS; STATE
+AB The Earth energy imbalance (EEI) at the top of the atmosphere is responsible for the accumulation of heat in the climate system. Monitoring the EEI is therefore necessary to better understand the Earth's warming climate. Measuring the EEI is challenging as it is a globally integrated variable whose variations are small (0.5-1 Wm(-2)) compared to the amount of energy entering and leaving the climate system (similar to 340 Wm(-2)). Since the ocean absorbs more than 90% of the excess energy stored by the Earth system, estimating the ocean heat content (OHC) change provides an accurate proxy of the EEI. This study provides a space geodetic estimation of the OHC changes at global and regional scales based on the combination of space altimetry and space gravimetry measurements. From this estimate, the global variations in the EEI are derived with realistic estimates of its uncertainty. The mean EEI value is estimated at +0.74 +/- 0.22 Wm(-2) (90% confidence level) between August 2002 and August 2016. Comparisons against estimates based on Argo data and on CERES measurements show good agreement within the error bars of the global mean and the time variations in EEI. Further improvements are needed to reduce uncertainties and to improve the time series, especially at interannual timescales. The space geodetic OHC-EEI product (version 2.1) is freely available at https://doi.org/10.24400/527896/a01-2020.003 (Magellium/LEGOS, 2020).
+C1 [Marti, Florence; Ablain, Michael; Barnoud, Anne; Fraudeau, Robin; Jugier, Remi; Larnicol, Gilles; Pfeffer, Julia] MAGELLIUM, F-31520 Ramonville St Agne, France.
+   [Blazquez, Alejandro; Meyssignac, Benoit; Chenal, Jonathan] Univ Toulouse, CNES, CNRS, LEGOS,UPS,IRD, F-31000 Toulouse, France.
+   [Chenal, Jonathan] Ecole Natl Ponts & Chaussees, F-77420 Marne La Vallee, France.
+   [Restano, Marco] SERCO ESRIN, Frascati 44, Italy.
+   [Benveniste, Jerome] ESA ESRIN, Frascati 44, Italy.
+C3 Universite de Toulouse; Universite Toulouse III - Paul Sabatier; Centre
+   National de la Recherche Scientifique (CNRS); Institut de Recherche pour
+   le Developpement (IRD); Laboratoire d'Etudes en Geophysique et
+   oceanographie spatiales; Institut Polytechnique de Paris; Ecole des
+   Ponts ParisTech; European Space Agency; European Space Research
+   Institute
+RP Marti, F (通讯作者)，MAGELLIUM, F-31520 Ramonville St Agne, France.
+EM florence.marti@magellium.fr
+RI Meyssignac, Benoit/O-1910-2015; Benveniste, Jérôme/JWP-2537-2024;
+   Pfeffer, Julia/HGF-3655-2022; CHENAL, JONATHAN/GPS-7237-2022; Barnoud,
+   Anne/ABC-7418-2020
+OI Marti, Florence/0000-0003-1656-6124; Chenal,
+   Jonathan/0009-0006-5565-4046; Fraudeau, Robin/0000-0002-3177-1559;
+   Pfeffer, Julia/0000-0002-3486-4793; Barnoud, Anne/0000-0002-3483-7808;
+   Ablain, Michael/0000-0002-1398-8498
+FU ESA; CNES; European Research Council (ERC) under the European Union
+   [855677]; French Ministry of Ecological Transition; European Research
+   Council (ERC) [855677] Funding Source: European Research Council (ERC)
+FX This work has been supported by the ESA in the framework of the MOHeaCAN
+   project (Monitoring Ocean Heat Content and Earth Energy ImbalANce from
+   Space): https://eo4society.esa.int/projects/moheacan/(last access: 19
+   Jan-uary 2022). This work is also supported by the CNES for the
+   dissemination of the products. Julia Pfeffer and Anne Barnoud are
+   supported by the European Research Council (ERC) under the European
+   Union's Horizon 2020 research and innovation programme (GRACEFUL Synergy
+   (grant no. 855677)). Jonathan Chenal was supported by the French
+   Ministry of Ecological Transition.
+NR 82
+TC 27
+Z9 28
+U1 0
+U2 15
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1866-3508
+EI 1866-3516
+J9 EARTH SYST SCI DATA
+JI Earth Syst. Sci. Data
+PD JAN 26
+PY 2022
+VL 14
+IS 1
+BP 229
+EP 249
+DI 10.5194/essd-14-229-2022
+PG 21
+WC Geosciences, Multidisciplinary; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology; Meteorology & Atmospheric Sciences
+GA YT2GJ
+UT WOS:000751183700001
+OA Green Submitted, gold
+DA 2025-05-29
+ER

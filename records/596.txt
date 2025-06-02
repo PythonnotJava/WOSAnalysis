@@ -1,0 +1,69 @@
+PT J
+AU Rückamp, M
+   Falk, U
+   Frieler, K
+   Lange, S
+   Humbert, A
+AF Rueckamp, Martin
+   Falk, Ulrike
+   Frieler, Katja
+   Lange, Stefan
+   Humbert, Angelika
+TI The effect of overshooting 1.5°C global warming on the mass loss of the
+   Greenland ice sheet
+SO EARTH SYSTEM DYNAMICS
+LA English
+DT Article
+ID FUTURE SEA-LEVEL; BALANCE-ELEVATION FEEDBACK; HEAT-FLUX; CLIMATE; MODEL;
+   PROJECTIONS; PARAMETERIZATION; DYNAMICS; GLACIERS; ENERGY
+AB Sea-level rise associated with changing climate is expected to pose a major challenge for societies. Based on the efforts of COP21 to limit global warming to 2.0 degrees C or even 1.5 degrees C by the end of the 21st century (Paris Agreement), we simulate the future contribution of the Greenland ice sheet (GrIS) to sea-level change under the low emission Representative Concentration Pathway (RCP) 2.6 scenario. The Ice Sheet System Model (ISSM) with higher-order approximation is used and initialized with a hybrid approach of spin-up and data assimilation. For three general circulation models (GCMs: HadGEM2-ES, IPSL-CM5A-LR, MIROC5) the projections are conducted up to 2300 with forcing fields for surface mass balance (SMB) and ice surface temperature (T-s) computed by the surface energy balance model of intermediate complexity (SEMIC). The projected sea-level rise ranges between 21-38 mm by 2100 and 36-85 mm by 2300. According to the three GCMs used, global warming will exceed 1.5 degrees C early in the 21st century. The RCP2.6 peak and decline scenario is therefore manually adjusted in another set of experiments to suppress the 1.5 degrees C overshooting effect. These scenarios show a sea-level contribution that is on average about 38% and 31% less by 2100 and 2300, respectively. For some experiments, the rate of mass loss in the 23rd century does not exclude a stable ice sheet in the future. This is due to a spatially integrated SMB that remains positive and reaches values similar to the present day in the latter half of the simulation period. Although the mean SMB is reduced in the warmer climate, a future steady-state ice sheet with lower surface elevation and hence volume might be possible. Our results indicate that uncertainties in the projections stem from the underlying GCM climate data used to calculate the surface mass balance. However, the RCP2.6 scenario will lead to significant changes in the GrIS, including elevation changes of up to 100 m. The sea-level contribution estimated in this study may serve as a lower bound for the RCP2.6 scenario, as the currently observed sea-level rise is not reached in any of the experiments; this is attributed to processes (e.g. ocean forcing) not yet represented by the model, but proven to play a major role in GrIS mass loss.
+C1 [Rueckamp, Martin; Falk, Ulrike; Humbert, Angelika] Helmholtz Ctr Polar & Marine Res, Alfred Wegener Inst, Bremerhaven, Germany.
+   [Frieler, Katja; Lange, Stefan] Potsdam Inst Climate Impact Res, Potsdam, Germany.
+   [Humbert, Angelika] Univ Bremen, Dept Geosci, Bremen, Germany.
+C3 Helmholtz Association; Alfred Wegener Institute, Helmholtz Centre for
+   Polar & Marine Research; Potsdam Institut fur Klimafolgenforschung;
+   University of Bremen
+RP Rückamp, M (通讯作者)，Helmholtz Ctr Polar & Marine Res, Alfred Wegener Inst, Bremerhaven, Germany.
+EM martin.rueckamp@awi.de
+OI Humbert, Angelika/0000-0002-0244-8760; Falk, Ulrike/0000-0003-1586-1295;
+   Ruckamp, Martin/0000-0003-2512-7238
+FU BMBF under grant EP-GrIS [01LS1603A]; Helmholtz Alliance Climate
+   Initiative (REKLIM)
+FX This work was funded by BMBF under grant EP-GrIS (01LS1603A) and the
+   Helmholtz Alliance Climate Initiative (REKLIM). We would like to thank
+   an anonymous reviewer and Clemens Schannwell for the detailed review
+   containing many helpful remarks and constructive criticism that helped
+   to improve the paper. We acknowledge the technical support given by
+   Mario Krapp (PIK) with SEMIC. We are grateful for the NetCDF interface
+   to SEMIC provided by Paul Gierz (AWI). We would like to thank Vadym
+   Aizinger, Natalja Rakowsky, and Malte Thoma for maintaining excellent
+   computing facilities at AWI. We also enthusiastically acknowledge the
+   general support of the ISSM team.
+NR 58
+TC 13
+Z9 13
+U1 1
+U2 15
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 2190-4979
+EI 2190-4987
+J9 EARTH SYST DYNAM
+JI Earth Syst. Dynam.
+PD OCT 9
+PY 2018
+VL 9
+IS 4
+BP 1169
+EP 1189
+DI 10.5194/esd-9-1169-2018
+PG 21
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA GW4QL
+UT WOS:000446902500001
+OA gold, Green Submitted
+DA 2025-05-29
+ER

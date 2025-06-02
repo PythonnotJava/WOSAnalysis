@@ -1,0 +1,64 @@
+PT J
+AU Fung, S
+   Tang, YF
+   Nichols, C
+   VanZwieten, J
+   Mokari, H
+   Alsenas, G
+AF Fung, Sasha
+   Tang, Yufei
+   Nichols, Carter
+   VanZwieten, James
+   Mokari, Hassan
+   Alsenas, Gabriel
+TI Design and testing of a Hardware-in-the-Loop system for a grid
+   integrated Ocean Current Turbine
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Marine energy; Blue economy; Ocean current energy; Real-time simulation;
+   Hardware-in-the-Loop
+ID VARIABLE-SPEED; PITCH CONTROLLER; WIND TURBINE; BLADE PITCH;
+   IMPLEMENTATION; EXTRACTION; SIMULATION
+AB Renewable energy is an increasingly vital field that continues to evolve with growing demands for innovative electricity production methods. Among these, Ocean Current Turbines (OCTs) have emerged as a promising technology that targets the vast energy potential of ocean currents. Building on established Hardware-in- the-Loop (HIL) methodologies primarily used in wind turbine testing, this research adapts and extends these techniques to develop a HIL testbed for OCTs. This research involves the development of a robust simulation model, designed to replicate the dynamic ocean current conditions impacting an OCT. The simulation is built with Simulink and is executed within Opal-RT's real-time simulation environment. The simulation model consists of an OCT rotor model outputting desired shaft torque values to a dynamometer which uses measured torque and speed feedback to integrate with a micro-grid setup. This model aims to operate in both Region 2 and Region 3 of power generation, as well as the transitional Region 2.5. A variable-speed controller is developed to maximize the power capture in Region 2 and is evaluated on the HIL testbed, a blade- pitch controller is employed to prevent over-generation in Region 3 and is simulated inside the real-time environment, and both of these controllers are evaluated simultaneously while operating in region 2.5 on the HIL testbed. This study demonstrates a simple yet effective approach to HIL simulation for marine energy systems. The findings reinforce the feasibility of HIL testing for OCTs and contribute valuable insights into the broader context of marine renewable energy technology development.
+C1 [Fung, Sasha; Tang, Yufei; Nichols, Carter; VanZwieten, James; Mokari, Hassan; Alsenas, Gabriel] Florida Atlantic Univ, 777 Glades Rd, Boca Raton, FL 33431 USA.
+   [Fung, Sasha; Tang, Yufei; Nichols, Carter; Mokari, Hassan] Florida Atlantic Univ, Dept Elect Engn & Comp Sci, Boca Raton, FL 33431 USA.
+   [VanZwieten, James] Florida Atlantic Univ, Dept Ocean & Mech Engn, Boca Raton, FL 33431 USA.
+   [Alsenas, Gabriel] Florida Atlantic Univ, Southeast Natl Marine Renewable Energy Ctr, Ft Pierce, FL 34946 USA.
+C3 State University System of Florida; Florida Atlantic University; State
+   University System of Florida; Florida Atlantic University; State
+   University System of Florida; Florida Atlantic University; State
+   University System of Florida; Florida Atlantic University
+RP Tang, YF (通讯作者)，Florida Atlantic Univ, Dept Elect Engn & Comp Sci, Boca Raton, FL 33431 USA.
+EM sfung2017@fau.edu; tangy@fau.edu; cnichols2020@fau.edu; jvanzwi@fau.edu;
+   hmokari2022@fau.edu; galsenas@fau.edu
+RI Mokari, Hassan/KAM-5227-2024; tang, yufei/IST-8760-2023
+OI VanZwieten, James/0000-0003-1499-2365; Tang, Yufei/0000-0002-6915-4468;
+   Mokari, Hassan/0009-0007-9988-1168
+NR 52
+TC 0
+Z9 0
+U1 1
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+EI 1879-0682
+J9 RENEW ENERG
+JI Renew. Energy
+PD DEC
+PY 2024
+VL 237
+AR 121689
+DI 10.1016/j.renene.2024.121689
+EA NOV 2024
+PN C
+PG 16
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA L9D4P
+UT WOS:001353652400001
+DA 2025-05-29
+ER

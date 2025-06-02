@@ -1,0 +1,77 @@
+PT J
+AU Zhang, W
+   He, WC
+   Dai, SG
+   Ma, FX
+   Lin, P
+   Sun, JL
+   Dong, L
+   Hu, CG
+AF Zhang, Wang
+   He, Wencong
+   Dai, Shuge
+   Ma, Fuxue
+   Lin, Pei
+   Sun, Junlu
+   Dong, Lin
+   Hu, Chenguo
+TI Wave energy harvesting based on multilayer beads integrated spherical
+   TENG with switch triggered instant discharging for self-powered hydrogen
+   generation
+SO NANO ENERGY
+LA English
+DT Article
+DE Instant discharging; Triboelectric nanogenerator; Wave energy
+   harvesting; Self-powered water splitting; Hydrogen energy
+ID TRIBOELECTRIC NANOGENERATOR; WATER-WAVE
+AB Effective strategies to gain hydrogen energy from harvesting and conversion from ocean energy attract extensive attention in the new energy source field. Remarkably, triboelectric nanogenerator (TENG) presents potential applications for harvesting large-scale blue energy from the ocean. Herein, we propose a self-powered hydrogen generation system by multilayer beads integrated spherical TENG with the power management system (PMS). The triggered switch used in the spherical TENG overcomes the limitation of working frequency through instantaneous driving, significantly improving the output performance and greatly expanding its application range. The six-layer beads integrated TENG presents a significant improvement in converting water wave energy into electric energy, and its power density reaches 21.3 W m- 3 at 2 Hz. The integrated TENG charges 470 mu F capacitor to 5 V in 200 s, and the hydrogen production rate is about 64.5 mu L min-1 under the water wave condition, which overcomes the limitation of external power demands for conventional water electrolysis. Compared with the electrochemical cells driven by solar, our integrated system can operate in all weather conditions without an external power source. This work demonstrates the feasibility of the electrochemical conversion of low-frequency water wave energy into green energy.
+C1 [Zhang, Wang; Dai, Shuge; Ma, Fuxue; Lin, Pei; Sun, Junlu; Dong, Lin] Zhengzhou Univ, Sch Phys & Microelect, Key Lab Mat Phys, Minist Educ, Zhengzhou 450052, Peoples R China.
+   [He, Wencong; Hu, Chenguo] Chongqing Univ, Dept Appl Phys, Chongqing 400044, Peoples R China.
+C3 Zhengzhou University; Ministry of Education - China; Chongqing
+   University
+RP Dai, SG; Lin, P (通讯作者)，Zhengzhou Univ, Sch Phys & Microelect, Key Lab Mat Phys, Minist Educ, Zhengzhou 450052, Peoples R China.; Hu, CG (通讯作者)，Chongqing Univ, Dept Appl Phys, Chongqing 400044, Peoples R China.
+EM shugedai@zzu.edu.cn; linpei@zzu.edu.cn; hucg@cqu.edu.cn
+RI Hu, Chenguo/C-4658-2016; Sun, Junlu/JDC-4027-2023; He,
+   Wencong/HLV-7850-2023; Dong, Lin/A-1499-2012; LIN, PEI/M-4641-2015
+OI Dong, Lin/0000-0002-4126-6812; LIN, PEI/0000-0002-3300-5241; Dai,
+   shuge/0000-0003-0718-2559; Hu, Chenguo/0000-0002-3019-493X; He,
+   Wencong/0000-0002-5868-8720
+FU National Natural Science Foundation of China [21805247]; China
+   Postdoctoral Science Foundation [2021T140612]; Henan Provincial Key
+   Science and Technology Research Projects [212102210131]; Open Fund of
+   National Joint Engineering Research Center for Abrasion Control and
+   Molding of Metal Materials
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant No. 21805247) , the China Postdoctoral Science Foundation
+   (Grant No. 2021T140612) . Pei Lin acknowledge the support from the Henan
+   Provincial Key Science and Technology Research Projects (Grant Number
+   212102210131) and the Open Fund of National Joint Engineering Research
+   Center for Abrasion Control and Molding of Metal Materials.
+NR 44
+TC 46
+Z9 49
+U1 28
+U2 190
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD JUN 15
+PY 2023
+VL 111
+AR 108432
+DI 10.1016/j.nanoen.2023.108432
+EA APR 2023
+PG 9
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA F8CB1
+UT WOS:000984560700001
+DA 2025-05-29
+ER

@@ -1,0 +1,96 @@
+PT J
+AU McCusker, GY
+   Vüllers, J
+   Achtert, P
+   Field, P
+   Day, JJ
+   Forbes, R
+   Price, R
+   O'Connor, E
+   Tjernström, M
+   Prytherch, J
+   Neely, R III
+   Brooks, IM
+AF McCusker, Gillian Young
+   Vullers, Jutta
+   Achtert, Peggy
+   Field, Paul
+   Day, Jonathan J.
+   Forbes, Richard
+   Price, Ruth
+   O'Connor, Ewan
+   Tjernstrom, Michael
+   Prytherch, John
+   Neely III, Ryan
+   Brooks, Ian M.
+TI Evaluating Arctic clouds modelled with the Unified Model and Integrated
+   Forecasting System
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+LA English
+DT Article
+ID CLIMATE-COMPOSITION MODEL; MIXED-PHASE CLOUDS; PRIMARY ICE; PART 1;
+   PARAMETERIZATION; ATMOSPHERE; SCHEME; ASCOS; OCEAN; STRATOCUMULUS
+AB By synthesising remote-sensing measurements made in the central Arctic into a model-gridded Cloudnet cloud product, we evaluate how well the Met Office Unified Model (UM) and the European Centre for Medium-Range Weather Forecasting (ECMWF) Integrated Forecasting System (IFS) capture Arctic clouds and their associated interactions with the surface energy balance and the thermodynamic structure of the lower troposphere. This evaluation was conducted using a 4-week observation period from the Arctic Ocean 2018 expedition, where the transition from sea ice melting to freezing conditions was measured. Three different cloud schemes were tested within a nested limited-area model (LAM) configuration of the UM - two regionally operational single-moment schemes (UM_RA2M and UM_RA2T) and one novel double-moment scheme (UM_CASIM-100) - while one global simulation was conducted with the IFS, utilising its default cloud scheme (ECMWF_IFS). Consistent weaknesses were identified across both models, with both the UM and IFS overestimating cloud occurrence below 3 km. This overestimation was also consistent across the three cloud configurations used within the UM framework, with >90% mean cloud occurrence simulated between 0.15 and 1 km in all the model simulations. However, the cloud microphysical structure, on average, was modelled reasonably well in each simulation, with the cloud liquid water content (LWC) and ice water content (IWC) comparing well with observations over much of the vertical profile. The key microphysical discrepancy between the models and observations was in the LWC between 1 and 3 km, where most simulations (all except UM_RA2T) overestimated the observed LWC. Despite this reasonable performance in cloud physical structure, both models failed to adequately capture cloud-free episodes: this consistency in cloud cover likely contributes to the ever-present near-surface temperature bias in every simulation. Both models also consistently exhibited temperature and moisture biases below 3 km, with particularly strong cold biases coinciding with the overabundant modelled cloud layers. These biases are likely due to too much cloud-top radiative cooling from these persistent modelled cloud layers and wereconsistent across the three UM configurations tested, despite differences in their parameterisations of cloud on a sub-grid scale. Alarmingly, our findings suggest that these biases in the regional model were inherited from the global model, driving a cause-effect relationship between the excessive low-altitude cloudiness and the coincident cold bias. Using representative cloud condensation nuclei concentrations in our double-moment UM configuration while improving cloud microphysical structure does little to alleviate these biases; therefore, no matter how comprehensive we make the cloud physics in the nested LAM configuration used here, its cloud and thermodynamic structure will continue to be overwhelmingly biased by the meteorological conditions of its driving model.
+C1 [McCusker, Gillian Young; Vullers, Jutta; Field, Paul; Price, Ruth; Neely III, Ryan; Brooks, Ian M.] Univ Leeds, Sch Earth & Environm, Inst Climate & Atmospher Sci, Leeds, W Yorkshire, England.
+   [Achtert, Peggy] German Weather Serv, Meteorol Observ, Hohenpeissenberg, Germany.
+   [Field, Paul] Met Off, Exeter, Devon, England.
+   [Day, Jonathan J.; Forbes, Richard] European Ctr Medium Range Weather Forecasts, Reading, Berks, England.
+   [O'Connor, Ewan] Finnish Meteorol Inst, Helsinki, Finland.
+   [Tjernstrom, Michael; Prytherch, John] Stockholm Univ, Dept Meteorol, Stockholm, Sweden.
+   [Neely III, Ryan] Univ Leeds, Sch Earth & Environm, Natl Ctr Atmospher Sci, Leeds, W Yorkshire, England.
+   [Vullers, Jutta] Karlsruhe Inst Technol, Inst Meteorol & Climate Res, Karlsruhe, Germany.
+   [Vullers, Jutta] Karlsruhe Inst Technol, Inst Photogrammetry & Remote Sensing, Karlsruhe, Germany.
+C3 University of Leeds; Deutscher Wetterdienst; Met Office - UK; European
+   Centre for Medium-Range Weather Forecasts (ECMWF); Finnish
+   Meteorological Institute; Stockholm University; UK Research & Innovation
+   (UKRI); Natural Environment Research Council (NERC); NERC National
+   Centre for Atmospheric Science; University of Leeds; Helmholtz
+   Association; Karlsruhe Institute of Technology; Helmholtz Association;
+   Karlsruhe Institute of Technology
+RP McCusker, GY; Brooks, IM (通讯作者)，Univ Leeds, Sch Earth & Environm, Inst Climate & Atmospher Sci, Leeds, W Yorkshire, England.
+EM g.y.mccusker@leeds.ac.uk; i.m.brooks@leeds.ac.uk
+RI Price, Ruth/KUF-1940-2024; Field, Paul/B-1692-2009; Vüllers,
+   Jutta/HJZ-3099-2023; Prytherch, John/AFQ-5503-2022; Brooks,
+   Ian/E-1378-2012; Tjernström, Michael/AAF-3481-2020; Day,
+   Jonathan/B-9757-2013; Neely III, Ryan R./F-8702-2010
+OI Forbes, Richard/0000-0002-3596-8287; McCusker, Gillian
+   Young/0000-0002-8464-7332; Achtert, Peggy/0000-0003-0156-5276; O'Connor,
+   Ewan/0000-0001-9834-5100; Neely III, Ryan R./0000-0003-4560-4812; Price,
+   Ruth/0000-0003-1981-9860; Tjernstrom, Michael/0000-0002-6908-7410; Day,
+   Jonathan/0000-0002-3750-649X
+FU Natural Environment Research Council [NE/R009686/1]; Knut and Alice
+   Wallenberg Foundation [2016-0024]; European Union project INTERACT 3
+   [871120]; NERC [NE/R009686/1, ncas10016, NE/V003925/1] Funding Source:
+   UKRI
+FX This research has been supported by the Natural Environment Research
+   Council (grant no. NE/R009686/1), the Knut and Alice Wallenberg
+   Foundation (grant no. 2016-0024), and the European Union project
+   INTERACT 3 (grant no. 871120
+NR 74
+TC 10
+Z9 10
+U1 0
+U2 2
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1680-7316
+EI 1680-7324
+J9 ATMOS CHEM PHYS
+JI Atmos. Chem. Phys.
+PD APR 24
+PY 2023
+VL 23
+IS 8
+BP 4819
+EP 4847
+DI 10.5194/acp-23-4819-2023
+PG 29
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA E6SA7
+UT WOS:000976806200001
+OA Green Submitted, gold
+DA 2025-05-29
+ER

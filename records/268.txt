@@ -1,0 +1,77 @@
+PT J
+AU DeMott, CA
+   Stan, C
+   Randall, DA
+   Branson, MD
+AF DeMott, Charlotte A.
+   Stan, Cristiana
+   Randall, David A.
+   Branson, Mark D.
+TI Intraseasonal Variability in Coupled GCMs: The Roles of Ocean Feedbacks
+   and Model Physics
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+ID MADDEN-JULIAN OSCILLATION; SEA-SURFACE TEMPERATURE; ASIAN SUMMER
+   MONSOON; COMMUNITY ATMOSPHERE MODEL; CLIMATE FORECAST SYSTEM; MOIST
+   STATIC ENERGY; NORTHWARD PROPAGATION; EASTWARD PROPAGATION; MJO
+   SIMULATION; INDIAN-OCEAN
+AB The interaction of ocean coupling and model physics in the simulation of the intraseasonal oscillation (ISO) is explored with three general circulation models: the Community Atmospheric Model, versions 3 and 4 (CAM3 and CAM4), and the superparameterized CAM3 (SPCAM3). Each is integrated coupled to an ocean model, and as an atmosphere-only model using sea surface temperatures (SSTs) from the coupled SPCAM3, which simulates a realistic ISO. For each model, the ISO is best simulated with coupling. For each SST boundary condition, the ISO is best simulated in SPCAM3.
+   Near-surface vertical gradients of specific humidity, Delta q (temperature, Delta T), explain similar to 20% (50%) of tropical Indian Ocean latent (sensible) heat flux variance, and somewhat less of west Pacific variance. In turn, local SST anomalies explain similar to 5% (25%) of Delta q (Delta T) variance in coupled simulations, and less in uncoupled simulations. Ergo, latent and sensible heat fluxes are strongly controlled by wind speed fluctuations, which are largest in the coupled simulations, and represent a remote response to coupling. The moisture budget reveals that wind variability in coupled simulations increases east-of-convection midtropospheric moistening via horizontal moisture advection, which influences the direction and duration of ISO propagation.
+   These results motivate a new conceptual model for the role of ocean feedbacks on the ISO. Indian Ocean surface fluxes help developing convection attain a magnitude capable of inducing the circulation anomalies necessary for downstream moistening and propagation. The "processing" of surface fluxes by model physics strongly influences the moistening details, leading to model-dependent responses to coupling.
+C1 [DeMott, Charlotte A.; Randall, David A.; Branson, Mark D.] Colorado State Univ, Dept Atmospher Sci, Ft Collins, CO 80523 USA.
+   [Stan, Cristiana] George Mason Univ, Dept Atmospher Ocean & Earth Sci, Fairfax, VA 22030 USA.
+   [Stan, Cristiana] Ctr Ocean Land Atmosphere Studies, Fairfax, VA USA.
+C3 Colorado State University System; Colorado State University Fort
+   Collins; George Mason University; Center for Ocean Land Atmosphere
+   Studies
+RP DeMott, CA (通讯作者)，Colorado State Univ, Dept Atmospher Sci, 1371 Campus Delivery, Ft Collins, CO 80523 USA.
+EM demott@atmos.colostate.edu
+RI Randall, David/E-6113-2011; Stan, Cristiana/B-4376-2009; DeMott,
+   Charlotte/L-7414-2015
+OI Stan, Cristiana/0000-0002-0076-0574; DeMott,
+   Charlotte/0000-0002-3975-1288
+FU NSF [AGS-111999, AGS-1211848]; National Science Foundation Science and
+   Technology Center for Multi-Scale Modeling of Atmospheric Processes
+   [ATM-0425247]; NASA Earth Science MEaSUREs DISCOVER Project; Div
+   Atmospheric & Geospace Sciences; Directorate For Geosciences [1211848,
+   1119999] Funding Source: National Science Foundation
+FX This work was support by NSF Grants AGS-111999, AGS-1211848, and the
+   National Science Foundation Science and Technology Center for
+   Multi-Scale Modeling of Atmospheric Processes, managed by Colorado State
+   University under cooperative agreement ATM-0425247. We acknowledge the
+   support of the Computational and Information Systems Laboratory at NCAR
+   for computer resources and the European Center for Medium-Range
+   Forecasts for the ERA-Interim reanalysis data. TMI data are produced by
+   Remote Sensing Systems and sponsored by the NASA Earth Science MEaSUREs
+   DISCOVER Project. Data are available at www.remss.com. We thank N.
+   Klingaman, K.-H. Seo, and E. Maloney for their insightful comments and
+   suggestions on this paper.
+NR 94
+TC 71
+Z9 79
+U1 0
+U2 28
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD JUL 1
+PY 2014
+VL 27
+IS 13
+BP 4970
+EP 4995
+DI 10.1175/JCLI-D-13-00760.1
+PG 26
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA AJ8WG
+UT WOS:000337988200013
+OA hybrid
+DA 2025-05-29
+ER

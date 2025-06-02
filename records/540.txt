@@ -1,0 +1,64 @@
+PT J
+AU Zhu, CB
+   Zhai, XQ
+   Wang, JH
+   Han, DS
+   Li, YH
+   Xi, YM
+   Tang, YJ
+   Chi, ZY
+AF Zhu, Chenba
+   Zhai, Xiaoqian
+   Wang, Jinghan
+   Han, Desen
+   Li, Yonghai
+   Xi, Yimei
+   Tang, Yajie
+   Chi, Zhanyou
+TI Large-scale cultivation of Spirulina in a floating horizontal
+   photobioreactor without aeration or an agitation device
+SO APPLIED MICROBIOLOGY AND BIOTECHNOLOGY
+LA English
+DT Article
+DE Bicarbonate; Spirulina platensis; Floating PBR; Scale up; Wave energy
+ID INTEGRATED CARBON CAPTURE; HETEROTROPHIC MICROALGAE;
+   NEOCHLORIS-OLEOABUNDANS; DUNALIELLA-SALINA; PRODUCTION SYSTEM;
+   MASS-TRANSFER; CULTURE; GROWTH; WATER; BIOMASS
+AB A low-cost floating photobioreactor (PBR) without the use of aeration and/or an agitation device, in which carbon was supplied in the form of bicarbonate and only wave energy was utilized for mixing, was developed in our previous study. Scaling up is a common challenge in the practical application of PBRs and has not yet been demonstrated for this new design. To fill this gap, cultivation of Spirulina platensis was conducted in this study. The results demonstrated that S. platensis had the highest productivity at 0.3molL(-1) sodium bicarbonate, but the highest carbon utilization (104 +/- 2.6%) was obtained at 0.1molL(-1). Culture of Spirulina aerated with pure oxygen resulted in only minor inhibition of growth, indicating that its productivity will not be significantly reduced even if dissolved oxygen is accumulated to a high level due to intermittent mixing resulting from the use of wave energy. In cultivation using a floating horizontal photobioreactor at the 1.0m(2) scale, the highest biomass concentration of 2.24 +/- 0.05gL(-1) was obtained with a culture depth of 5.0cm and the highest biomass productivity of 18.9gm(-2)day(-1) was obtained with a depth of 10.0cm. This PBR was scaled up to 10m(2) (1000L) with few challenges; biomass concentration and productivity during ocean testing were little different than those at the 1.0m(2) (100L) scale. However, the larger PBR had an apparent carbon utilization efficiency of 45.0 +/- 2.8%, significantly higher than the 39.4 +/- 0.9% obtained at the 1m(2) scale. These results verified the ease of scaling up floating horizontal photobioreactors and showed their great potential in commercial applications.
+C1 [Zhu, Chenba; Zhai, Xiaoqian; Wang, Jinghan; Han, Desen; Li, Yonghai; Xi, Yimei; Chi, Zhanyou] Dalian Univ Technol, Sch Life Sci & Biotechnol, Dalian 116024, Peoples R China.
+   [Tang, Yajie] Hubei Univ Technol, Key Lab Fermentat Engn, Hubei Prov Cooperat Innovat Ctr Ind Fermentat, Minist Educ,Hubei Key Lab Ind Microbiol, Wuhan 430068, Hubei, Peoples R China.
+C3 Dalian University of Technology; Hubei University of Technology;
+   Ministry of Education - China
+RP Chi, ZY (通讯作者)，Dalian Univ Technol, Sch Life Sci & Biotechnol, Dalian 116024, Peoples R China.
+EM chizhy@dlut.edu.cn
+RI Tang, Ya-Jie/M-2538-2016
+OI Chi, Zhanyou/0000-0002-9374-0328
+FU Dalian University of Technology [DUT14RC(3)065] Funding Source: Medline
+NR 46
+TC 41
+Z9 41
+U1 4
+U2 203
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0175-7598
+EI 1432-0614
+J9 APPL MICROBIOL BIOT
+JI Appl. Microbiol. Biotechnol.
+PD OCT
+PY 2018
+VL 102
+IS 20
+BP 8979
+EP 8987
+DI 10.1007/s00253-018-9258-0
+PG 9
+WC Biotechnology & Applied Microbiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biotechnology & Applied Microbiology
+GA GU8QD
+UT WOS:000445604600031
+PM 30056515
+DA 2025-05-29
+ER

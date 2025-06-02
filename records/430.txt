@@ -1,0 +1,77 @@
+PT J
+AU Ren, RZ
+   Zhang, LC
+   Pan, G
+   Zhang, XM
+   Liu, L
+   Han, GY
+AF Ren, Ranzhen
+   Zhang, Lichuan
+   Pan, Guang
+   Zhang, Xiaomeng
+   Liu, Lu
+   Han, Guangyao
+TI Multi-Buoy Deployment Method Based on an Improved Tuna Swarm Optimizer
+   Enhanced with Fractional-Order Calculus Method for Marine Observation
+SO FRACTAL AND FRACTIONAL
+LA English
+DT Article
+DE optimized deployment; multi-buoy system; improved tuna swarm optimizer;
+   fractional-order calculus
+ID ALGORITHMS
+AB Ocean buoys play a critical role in marine hydrological, water quality, and meteorological monitoring, with applications in navigation, environmental observation, and communication. However, accurately modeling and deploying a multi-buoy system in the complex marine environment presents significant challenges. To address these challenges, this study proposes an enhanced deployment strategy using the tuna swarm optimizer enhanced with the fractional-order calculus method for marine observation. The proposed method first introduces a detailed observation model that precisely captures the performance of buoys in terms of coverage and communication efficiency. By integrating the observation coverage ratio and communication energy consumption, we establish an optimal multi-buoy deployment model. The proposed method leverages tent chaotic mapping to improve the diversity of initial solution generation and incorporates fractional-order calculus to strengthen its search capabilities. Simulation experiments and statistical analysis verify the effectiveness of the proposed deployment model, with the proposed method achieving the best performance in deploying the multi-buoy system, reaching a final fitness value of 0.190052 at iteration 449, outperforming TSA, PSO, GWO, and WOA. These results highlight the potential of the proposed method in optimizing multi-buoy system deployment in marine observation.
+C1 [Ren, Ranzhen; Zhang, Lichuan; Pan, Guang; Zhang, Xiaomeng; Liu, Lu; Han, Guangyao] Northwestern Polytech Univ, Sch Marine Sci & Technol, Xian 710072, Peoples R China.
+   [Zhang, Lichuan; Liu, Lu] Northwestern Polytech Univ, Res & Dev Inst, Shenzhen 518057, Peoples R China.
+C3 Northwestern Polytechnical University; Northwestern Polytechnical
+   University
+RP Zhang, LC (通讯作者)，Northwestern Polytech Univ, Sch Marine Sci & Technol, Xian 710072, Peoples R China.; Zhang, LC (通讯作者)，Northwestern Polytech Univ, Res & Dev Inst, Shenzhen 518057, Peoples R China.
+EM rrz@mail.nwpu.edu.cn; zlc@nwpu.edu.cn; panguang@nwpu.edu.cn;
+   zhangxiaomeng@mail.nwpu.edu.cn; liulu12201220@nwpu.edu.cn;
+   han_guangyao@nwpu.edu.cn
+RI Han, Guangyao/GLT-0819-2022
+OI LIU, LU/0000-0003-3179-1004; ZHANG, Lichuan/0000-0001-8818-5721
+FU Local Science and Technology Special foundation under the Guidance of
+   the Central Government of Shenzhen; National Research and Development
+   Project [Grant2021YFC2803000, 2020YFB1313200]; National Natural Science
+   Foundation of China [52371339, 12172283]; Research Project of the Key
+   Laboratory of Underwater Acoustic Adversarial Technology
+   [JCKY2023207CH02]; Innovation Foundation for Doctor Dissertation of
+   Northwestern Polytechnical University;  [JCYJ20210324122406019]; 
+   [JCYJ20210324122010027]
+FX This research was funded by the Local Science and Technology Special
+   Foundation under the guidance of the Central Government of Shenzhen
+   under Grant No. 202103243003499, the National Research and Development
+   Project under Grant2021YFC2803000 and 2020YFB1313200, the Local Science
+   and Technology Special Foundation under the guidance of the Central
+   Government of Shenzhen under Grant Nos. JCYJ20210324122406019 and
+   JCYJ20210324122010027, the National Natural Science Foundation of China
+   (Grant Nos. 52371339 and 12172283), and the Research Project of the Key
+   Laboratory of Underwater Acoustic Adversarial Technology (Grant No.
+   JCKY2023207CH02). This study was sponsored by the Innovation Foundation
+   for Doctor Dissertation of Northwestern Polytechnical University.
+NR 44
+TC 0
+Z9 0
+U1 9
+U2 9
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2504-3110
+J9 FRACTAL FRACT
+JI Fractal Fract.
+PD NOV
+PY 2024
+VL 8
+IS 11
+AR 625
+DI 10.3390/fractalfract8110625
+PG 20
+WC Mathematics, Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics
+GA N5U6G
+UT WOS:001364990100001
+OA gold
+DA 2025-05-29
+ER

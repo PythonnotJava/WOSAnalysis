@@ -1,0 +1,77 @@
+PT J
+AU Wang, H
+   Fan, ZQ
+   Zhao, TC
+   Dong, JL
+   Wang, SY
+   Wang, Y
+   Xiao, X
+   Liu, CX
+   Pan, XX
+   Zhao, YP
+   Xu, MY
+AF Wang, Hao
+   Fan, Zhongqi
+   Zhao, Tiancong
+   Dong, Jiale
+   Wang, Siyuan
+   Wang, Yan
+   Xiao, Xiu
+   Liu, Changxin
+   Pan, Xinxiang
+   Zhao, Yunpeng
+   Xu, Minyi
+TI Sandwich-like triboelectric nanogenerators integrated self-powered buoy
+   for navigation safety
+SO NANO ENERGY
+LA English
+DT Article
+DE Triboelectric nanogenerator; Blue energy; Self-powered; Ocean buoy
+ID WATER-WAVE ENERGY; BLUE ENERGY; PERFORMANCE; NETWORKS; SYSTEMS
+AB Powering marine distributed buoys sustainably and cost-efficiently has always been challenging in the ocean environment. Triboelectric nanogenerators (TENG), thanks to their robustness, high efficiency and low cost in energy harvesting, has provided a novel solution to the long-term electrical power supply for a series of distributed systems (including buoys). In this study, a wave energy harvesting sandwich-like TENG (S-TENG) has been proposed. In the on-land forced motion experiments, the S-TENG yields much superior performances compared to previous tower-like TENG in terms of the power density. The studies also reveal that the electrical output increases linearly even with larger number of parallel connected S-TENG layers. Consequently, a buoy integrated with 7 parallel connected S-TENGs is studied through systematic wave basin experiments and the relevance of most hydrodynamic parameters (including wave height, frequency, direction as well as mooring system) have been revealed. The presented wave basin experiments are original in wave energy harvesting TENG research practice and prove to be very helpful in that they simulate the most close-to-real ocean environments in the lab. The studies are concluded with a 12 W high-brightness LED lit up on a navigation supporting buoy. This study has set a benchmark of achieving self-powered buoy with TENG, which can be extended to other marine distributed systems such as sensors and small robotics.
+C1 [Wang, Hao; Dong, Jiale; Wang, Siyuan; Wang, Yan; Xiao, Xiu; Liu, Changxin; Pan, Xinxiang; Xu, Minyi] Dalian Maritime Univ, Marine Engn Coll, Dalian 116026, Peoples R China.
+   [Fan, Zhongqi; Zhao, Yunpeng] Dalian Univ Technol, State Key Lab Coastal & Offshore Engn, Dalian 116204, Peoples R China.
+   [Zhao, Tiancong] Sun Yat Sen Univ, Sch Marine Engn & Technol, Guangzhou 510275, Peoples R China.
+C3 Dalian Maritime University; Dalian University of Technology; Sun Yat Sen
+   University
+RP Xu, MY (通讯作者)，Dalian Maritime Univ, Marine Engn Coll, Dalian 116026, Peoples R China.; Zhao, YP (通讯作者)，Dalian Univ Technol, State Key Lab Coastal & Offshore Engn, Dalian 116204, Peoples R China.
+EM ypzhao@dlut.edu.cn; xuminyi@dlmu.edu.cn
+RI Liu, Changxin/T-3651-2019; Xu, Minyi/AAY-7624-2020; Wang,
+   Yan/JOK-2636-2023
+OI Wang, Siyuan/0000-0001-7174-9754; zhao, tiancong/0000-0002-4898-4905;
+   Xu, Minyi/0000-0002-3772-8340; Wang, Yan/0000-0002-8462-8764
+FU National Natural Science Foundation of China [51879022, 51822901,
+   51979045, 51906029]; Fundamental Research Funds for the Central
+   Universities, China [3132019330]
+FX The authors are grateful for the joint support from the National Natural
+   Science Foundation of China (Grant Nos. 51879022, 51822901, 51979045,
+   51906029), the Fundamental Research Funds for the Central Universities,
+   China (Grant No. 3132019330).
+NR 53
+TC 85
+Z9 87
+U1 14
+U2 216
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD JUN
+PY 2021
+VL 84
+AR 105920
+DI 10.1016/j.nanoen.2021.105920
+EA MAR 2021
+PG 10
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA SB0JP
+UT WOS:000649689500003
+DA 2025-05-29
+ER

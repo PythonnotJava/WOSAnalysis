@@ -1,0 +1,87 @@
+PT J
+AU Kumar, N
+   Feddersen, F
+   Suanda, S
+   Uchiyama, Y
+   McWilliams, J
+AF Kumar, Nirnimesh
+   Feddersen, Falk
+   Suanda, Sutara
+   Uchiyama, Yusuke
+   McWilliams, James
+TI Mid- to Inner-Shelf Coupled ROMS-SWAN Model-Data Comparison of Currents
+   and Temperature: Diurnal and Semidiurnal Variability
+SO JOURNAL OF PHYSICAL OCEANOGRAPHY
+LA English
+DT Article
+DE In situ oceanic observations; Observational techniques and algorithms;
+   Geographic location/entity; Models and modeling; Circulation/ Dynamics;
+   Internal waves; Ocean models; Empirical orthogonal functions; Pacific
+   Ocean; Time series; Mathematical and statistical techniques
+ID SOUTHERN CALIFORNIA BIGHT; INTERNAL-WAVE PROPAGATION; CONTINENTAL-SHELF;
+   SEA-BREEZE; SURF ZONE; CRITICAL LATITUDE; GLOBAL PATTERNS; TIDAL
+   CURRENTS; SHALLOW-WATER; OCEAN
+AB Accurately representing diurnal and semidiurnal internal variability is necessary to investigate inner-shelf to midshelf exchange processes. Here, a coupled Regional Ocean Model System (ROMS)-Simulating Waves Nearshore (SWAN) model is compared to observed diurnal and semidiurnal internal tidal variability on the mid and inner shelf (26-8 m water depth) near San Pedro Bay, California. Modeled mean stratification is about one-half of that observed. Modeled and observed baroclinic velocity rotary spectra are similar in the diurnal and semidiurnal band. Modeled and observed temperature spectra have similar diurnal and semidiurnal band structure, although the modeled is weaker. The observed and modeled diurnal and semidiurnal baroclinic velocity- and temperature-dominant vertical structures are similar and consistent with mode-one internal motions. Both observed and modeled diurnal baroclinic kinetic energy are strongly correlated to diurnal wind forcing and enhanced by subtidal vorticity-induced reduction in the inertial frequency. The mid- and inner-shelf modeled diurnal depth-integrated heat budget is a balance between advective heat flux divergence and temperature time derivative. Temperature-velocity phase indicates progressive semidiurnal internal tide on the midshelf and largely standing internal tide on the inner shelf in both observed and modeled. The ratio of observed to modeled inferred phase speed is consistent with the observed to modeled stratification. The San Pedro Bay modeled semidiurnal internal tide has significant spatial variability, variable incident wave angles, and multiple local generation sites. Overall, the coupled ROMS-SWAN model represents well the complex diurnal and semidiurnal internal variability from the mid to the inner shelf.
+C1 [Kumar, Nirnimesh; Feddersen, Falk; Suanda, Sutara] Univ Calif San Diego, Scripps Inst Oceanog, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+   [Uchiyama, Yusuke] Kobe Univ, Dept Civil Engn, Kobe, Hyogo 657, Japan.
+   [McWilliams, James] Univ Calif Los Angeles, Inst Geophys & Planetary Phys, Los Angeles, CA 90024 USA.
+C3 University of California System; University of California San Diego;
+   Scripps Institution of Oceanography; Kobe University; University of
+   California System; University of California Los Angeles
+RP Kumar, N (通讯作者)，Univ Calif San Diego, Scripps Inst Oceanog, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+EM n2kumar@ucsd.edu
+RI Suanda, Ata/AFL-4245-2022; Feddersen, Falk/HPE-1148-2023; Uchiyama,
+   Yusuke/M-4395-2016
+OI Uchiyama, Yusuke/0000-0002-2234-3608; Suanda,
+   Sutara/0000-0002-9158-4077; Kumar, Nirnimesh/0000-0002-7972-2756
+FU Office of Naval Research (ONR) [N000141410626]; National Science
+   Foundation [C24560622]; Directorate For Geosciences; Division Of Ocean
+   Sciences [1521653] Funding Source: National Science Foundation; Division
+   Of Ocean Sciences; Directorate For Geosciences [1355970] Funding Source:
+   National Science Foundation; Grants-in-Aid for Scientific Research
+   [15H00977, 15H04049] Funding Source: KAKEN
+FX Support for N. Kumar and F. Feddersen was provided by the Office of
+   Naval Research (ONR). J. McWilliams was supported by ONR Grant
+   N000141410626 and National Science Foundation Grant OCE-1355970. Y.
+   Uchiyama acknowledges grant-in-aid for scientific research C24560622.
+   Data for the HB06 experiment were obtained within the framework of the
+   Southern California Coastal Ocean Observing System (SCCOOS), National
+   Oceanic and Atmospheric Administration (NOAA), Orange County Sanitation
+   District (OCSD), and United States Geological Survey (USGS) programs at
+   Huntington Beach. Thank you to George Robertson and Marlene Noble for
+   the moored instrument data, and to CDIP and CA State Parks Division of
+   Boating and Waterways for the wave data. B. Woodward, B. Boyd, K. Smith,
+   D. Darnell, I. Nagy, D. Clark, M. Omand, M. Rippy, M. McKenna, M. Yates,
+   R.T. Guza, and D. Michrowski provided field support. W. O'Reilly, Corey
+   Olfe, Daniel Dauhajre, and Florian Lemarie prepared the boundary
+   condition information required for model simulations. Computational
+   support was provided by the COMPAS/ATLAS cluster maintained by Caroline
+   Papadopoulos and Bruce Cornuelle. M. S. Spydell and Bruce Cornuelle
+   provided useful feedback.
+NR 72
+TC 25
+Z9 27
+U1 0
+U2 21
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0022-3670
+EI 1520-0485
+J9 J PHYS OCEANOGR
+JI J. Phys. Oceanogr.
+PD MAR
+PY 2016
+VL 46
+IS 3
+BP 841
+EP 862
+DI 10.1175/JPO-D-15-0103.1
+PG 22
+WC Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oceanography
+GA DF6PA
+UT WOS:000371476500003
+DA 2025-05-29
+ER

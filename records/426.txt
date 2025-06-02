@@ -1,0 +1,72 @@
+PT J
+AU Hunt, JD
+   Weber, NDB
+   Zakeri, B
+   Diaby, AT
+   Byrne, P
+   Leal, W
+   Schneider, PS
+AF Hunt, Julian David
+   Weber, Natalia de Assis Brasil
+   Zakeri, Behnam
+   Diaby, Ahmadou Tidiane
+   Byrne, Paul
+   Filho, Walter Leal
+   Schneider, Paulo Smith
+TI Deep seawater cooling and desalination: Combining seawater air
+   conditioning and desalination
+SO SUSTAINABLE CITIES AND SOCIETY
+LA English
+DT Article
+DE Building cooling; Industrial cooling; Energy efficiency; Seawater air
+   conditioning; Low temperature thermal desalination; Vertical farming
+ID OCEAN THERMAL-ENERGY; WATER; CONVERSION; TECHNOLOGY; EFFICIENCY;
+   CLIMATE; SYSTEMS; FUTURE; MODEL; CYCLE
+AB In tropical climates, the energy consumed by heating, ventilation and air conditioning can exceed 50% of the total energy consumption of a building. The demand for cooling is rising steadily, driven by global warming and rapidly increasing living standards in developing economies. In addition, there is a rise in water demand due to population increase, life quality, and global warming. Coastal areas with narrow continental shelves are the perfect site for implementing Seawater Air Conditioning (SWAC), a renewable and low CO2 emission cooling process. This article proposes the combination of SWAC6 and reverse osmosis (RO) desalination with the objective of providing desalinated cold water for integrated water supply and cooling services. This combination was named Deep Seawater Cooling and Desalination (DSCD). It was found that DSCD can supply 49 MWt of cooling and 1 m(3)/s of water simultaneously with an electricity consumption of 12 MWe. DSCD has several benefits compared to SWAC and RO individually, such as in how the cooling service and water supply are delivered together, reducing distribution costs. A case study was performed in Male acute accent , Maldives. It shows that the technology has substantial potential to contribute to the sustainable development of tropical islands.
+C1 [Hunt, Julian David; Zakeri, Behnam] Int Inst Appl Syst Anal IIASA, Energy Climate & Environm, Laxenburg, Austria.
+   [Hunt, Julian David; Weber, Natalia de Assis Brasil; Schneider, Paulo Smith] Univ Fed Rio Grande do Sul, Mech Engn Grad Program, Porto Alegre, RS, Brazil.
+   [Zakeri, Behnam] Aalborg Univ, Sustainable Energy Planning Res Grp, Copenhagen, Denmark.
+   [Diaby, Ahmadou Tidiane; Byrne, Paul] Univ Rennes, Lab Genie Civil & Genie Mecan, Rennes, France.
+   [Filho, Walter Leal] Hamburg Univ Appl Sci, Hamburg, Germany.
+C3 International Institute for Applied Systems Analysis (IIASA);
+   Universidade Federal do Rio Grande do Sul; Aalborg University;
+   Universite de Rennes; Hochschule Angewandte Wissenschaft Hamburg
+RP Hunt, JD (通讯作者)，Int Inst Appl Syst Anal IIASA, Energy Climate & Environm, Laxenburg, Austria.; Hunt, JD (通讯作者)，Univ Fed Rio Grande do Sul, Mech Engn Grad Program, Porto Alegre, RS, Brazil.
+EM hunt@iiasa.ac.at
+RI de Assis Brasil Weber, Natália/AAE-2351-2019; Zakeri,
+   Behnam/HHC-7747-2022; Leal, Walter/ACX-9082-2022; Schneider,
+   Paulo/J-3981-2019
+OI Weber, Natalia de A. B./0000-0002-3285-8824; Leal Filho,
+   Walter/0000-0002-1241-5225
+FU CAPES/BRAZIL
+FX We would like to thank the PRINT/UFRGS, CAPES/BRAZIL for the visiting
+   professor research grant. The contribution from BZ is funded by IIASA.
+NR 93
+TC 40
+Z9 42
+U1 4
+U2 37
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2210-6707
+EI 2210-6715
+J9 SUSTAIN CITIES SOC
+JI Sust. Cities Soc.
+PD NOV
+PY 2021
+VL 74
+AR 103257
+DI 10.1016/j.scs.2021.103257
+EA AUG 2021
+PG 16
+WC Construction & Building Technology; Green & Sustainable Science &
+   Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Construction & Building Technology; Science & Technology - Other Topics;
+   Energy & Fuels
+GA WD4YY
+UT WOS:000704949300003
+OA Green Published, Green Accepted, hybrid
+DA 2025-05-29
+ER

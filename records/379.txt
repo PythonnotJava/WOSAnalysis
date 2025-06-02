@@ -1,0 +1,253 @@
+PT J
+AU Hoteit, I
+   Abualnaja, Y
+   Afzal, S
+   Ait-El-Fquih, B
+   Akylas, T
+   Antony, C
+   Dawson, C
+   Asfahani, K
+   Brewin, RJ
+   Cavaleri, L
+   Cerovecki, I
+   Cornuelle, B
+   Desamsetti, S
+   Attada, R
+   Dasari, H
+   Sanchez-Garrido, J
+   Genevier, L
+   El Gharamti, M
+   Gittings, JA
+   Gokul, E
+   Gopalakrishnan, G
+   Guo, DQ
+   Hadri, B
+   Hadwiger, M
+   Hammoud, MA
+   Hendershott, M
+   Hittawe, M
+   Karumuri, A
+   Knio, O
+   Köhl, A
+   Kortas, S
+   Krokos, G
+   Kunchala, R
+   Issa, L
+   Lakkis, I
+   Langodan, S
+   Lermusiaux, P
+   Luong, T
+   Ma, JY
+   Le Maitre, O
+   Mazloff, M
+   El Mohtar, S
+   Papadopoulos, VP
+   Platt, T
+   Pratt, L
+   Raboudi, N
+   Racault, MF
+   Raitsos, DE
+   Razak, S
+   Sanikommu, S
+   Sathyendranath, S
+   Sofianos, S
+   Subramanian, A
+   Sun, R
+   Titi, E
+   Toye, H
+   Triantafyllou, G
+   Tsiaras, K
+   Vasou, P
+   Viswanadhapalli, Y
+   Wang, YX
+   Yao, FC
+   Zhan, P
+   Zodiatis, G
+AF Hoteit, Ibrahim
+   Abualnaja, Yasser
+   Afzal, Shehzad
+   Ait-El-Fquih, Boujemaa
+   Akylas, Triantaphyllos
+   Antony, Charls
+   Dawson, Clint
+   Asfahani, Khaled
+   Brewin, Robert J.
+   Cavaleri, Luigi
+   Cerovecki, Ivana
+   Cornuelle, Bruce
+   Desamsetti, Srinivas
+   Attada, Raju
+   Dasari, Hari
+   Sanchez-Garrido, Jose
+   Genevier, Lily
+   El Gharamti, Mohamad
+   Gittings, John A.
+   Gokul, Elamurugu
+   Gopalakrishnan, Ganesh
+   Guo, Daquan
+   Hadri, Bilel
+   Hadwiger, Markus
+   Hammoud, Mohammed Abed
+   Hendershott, Myrl
+   Hittawe, Mohamad
+   Karumuri, Ashok
+   Knio, Omar
+   Koehl, Armin
+   Kortas, Samuel
+   Krokos, George
+   Kunchala, Ravi
+   Issa, Leila
+   Lakkis, Issam
+   Langodan, Sabique
+   Lermusiaux, Pierre
+   Luong, Thang
+   Ma, Jingyi
+   Le Maitre, Olivier
+   Mazloff, Matthew
+   El Mohtar, Samah
+   Papadopoulos, Vassilis P.
+   Platt, Trevor
+   Pratt, Larry
+   Raboudi, Naila
+   Racault, Marie-Fanny
+   Raitsos, Dionysios E.
+   Razak, Shanas
+   Sanikommu, Sivareddy
+   Sathyendranath, Shubha
+   Sofianos, Sarantis
+   Subramanian, Aneesh
+   Sun, Rui
+   Titi, Edriss
+   Toye, Habib
+   Triantafyllou, George
+   Tsiaras, Kostas
+   Vasou, Panagiotis
+   Viswanadhapalli, Yesubabu
+   Wang, Yixin
+   Yao, Fengchao
+   Zhan, Peng
+   Zodiatis, George
+TI Towards an End-to-End Analysis and Prediction System for Weather,
+   Climate, and Marine Applications in the Red Sea
+SO BULLETIN OF THE AMERICAN METEOROLOGICAL SOCIETY
+LA English
+DT Article
+ID SEASONAL OVERTURNING CIRCULATION; ENSEMBLE DATA ASSIMILATION;
+   HIGH-RESOLUTION ASSESSMENT; OIL-SPILL MODEL; VISUAL ANALYSIS;
+   SAUDI-ARABIA; MEDSLIK-II; PART 2; OCEAN; WIND
+AB The Red Sea, home to the second-longest coral reef system in the world, is a vital resource for the Kingdom of Saudi Arabia. The Red Sea provides 90% of the Kingdom's potable water by desalinization, supporting tourism, shipping, aquaculture, and fishing industries, which together contribute about 10%-20% of the country's GDP. All these activities, and those elsewhere in the Red Sea region, critically depend on oceanic and atmospheric conditions. At a time of mega-development projects along the Red Sea coast, and global warming, authorities are working on optimizing the harnessing of environmental resources, including renewable energy and rainwater harvesting. All these require high-resolution weather and climate information. Toward this end, we have undertaken a multipronged research and development activity in which we are developing an integrated data-driven regional coupled modeling system. The telescopically nested components include 5-km- to 600-m-resolution atmospheric models to address weather and climate challenges, 4-km- to 50-m-resolution ocean models with regional and coastal configurations to simulate and predict the general and mesoscale circulation, 4-km- to 100-m-resolution ecosystem models to simulate the biogeochemistry, and 1-km- to 50-m-resolution wave models. In addition, a complementary probabilistic transport modeling system predicts dispersion of contaminant plumes, oil spill, and marine ecosystem connectivity. Advanced ensemble data assimilation capabilities have also been implemented for accurate forecasting. Resulting achievements include significant advancement in our understanding of the regional circulation and its connection to the global climate, development, and validation of long-term Red Sea regional atmospheric-oceanic-wave reanalyses and forecasting capacities. These products are being extensively used by academia, government, and industry in various weather and marine studies and operations, environmental policies, renewable energy applications, impact assessment, flood forecasting, and more.
+C1 [Hoteit, Ibrahim; Abualnaja, Yasser; Afzal, Shehzad; Ait-El-Fquih, Boujemaa; Antony, Charls; Attada, Raju; Dasari, Hari; Genevier, Lily; Gittings, John A.; Gokul, Elamurugu; Guo, Daquan; Hadri, Bilel; Hadwiger, Markus; Hammoud, Mohammed Abed; Hittawe, Mohamad; Knio, Omar; Kortas, Samuel; Krokos, George; Langodan, Sabique; Luong, Thang; Ma, Jingyi; El Mohtar, Samah; Raboudi, Naila; Razak, Shanas; Sanikommu, Sivareddy; Toye, Habib; Vasou, Panagiotis; Wang, Yixin; Yao, Fengchao; Zhan, Peng] Abdullah Univ Sci & Technol, Thuwal, Saudi Arabia.
+   [Akylas, Triantaphyllos; Lermusiaux, Pierre] MIT, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Dawson, Clint] Univ Texas Austin, Austin, TX 78712 USA.
+   [Asfahani, Khaled] Saudi Aramco, Damam, Saudi Arabia.
+   [Brewin, Robert J.] Univ Exeter, Penryn, Cornwall, England.
+   [Cavaleri, Luigi] Inst Marine Sci, Venice, Italy.
+   [Cerovecki, Ivana; Cornuelle, Bruce; Gopalakrishnan, Ganesh; Hendershott, Myrl; Mazloff, Matthew; Sun, Rui] Scripps Inst Oceanog, La Jolla, CA USA.
+   [Desamsetti, Srinivas] Natl Ctr Medium Range Weather Forecasting, Noida, India.
+   [Sanchez-Garrido, Jose] Univ Malaga, Malaga, Spain.
+   [El Gharamti, Mohamad] Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA.
+   [Karumuri, Ashok] Univ Hyderabad, Hyderabad, India.
+   [Koehl, Armin] Univ Hamburg, Hamburg, Germany.
+   [Kunchala, Ravi] Indian Inst Technol, Delhi, India.
+   [Issa, Leila] Lebanese Amer Univ, Beirut, Lebanon.
+   [Lakkis, Issam] Amer Univ Beirut, Beirut, Lebanon.
+   [Le Maitre, Olivier] Ecole Polytech, Palaiseau, France.
+   [Papadopoulos, Vassilis P.; Triantafyllou, George; Tsiaras, Kostas] Hellen Ctr Marine Res, Anavissos, Greece.
+   [Platt, Trevor; Racault, Marie-Fanny; Sathyendranath, Shubha] Plymouth Marine Lab, Plymouth, Devon, England.
+   [Pratt, Larry] Woods Hole Oceanog Inst, Woods Hole, MA 02543 USA.
+   [Raitsos, Dionysios E.; Sofianos, Sarantis] Natl & Kapodistrian Univ Athens, Athens, Greece.
+   [Subramanian, Aneesh] Univ Colorado, Boulder, CO 80309 USA.
+   [Titi, Edriss] Univ Cambridge, Cambridge, England.
+   [Titi, Edriss] Texas A&M Univ, College Stn, TX USA.
+   [Viswanadhapalli, Yesubabu] Natl Atmospher Res Labs, Gadanki, India.
+   [Zodiatis, George] Coastal & Marine Res Lab, Iraklion, NE, Greece.
+C3 Massachusetts Institute of Technology (MIT); University of Texas System;
+   University of Texas Austin; University of Exeter; Consiglio Nazionale
+   delle Ricerche (CNR); Istituto di Scienze Marine (ISMAR-CNR); University
+   of California System; University of California San Diego; Scripps
+   Institution of Oceanography; Ministry of Earth Sciences (MoES) - India;
+   National Centre for Medium Range Weather Forecasting (NCMRWF);
+   Universidad de Malaga; National Center Atmospheric Research (NCAR) -
+   USA; University of Hyderabad; University of Hamburg; Indian Institute of
+   Technology System (IIT System); Indian Institute of Technology (IIT) -
+   Delhi; Lebanese American University; American University of Beirut;
+   Institut Polytechnique de Paris; Ecole Polytechnique; Hellenic Centre
+   for Marine Research; Plymouth Marine Laboratory; Woods Hole
+   Oceanographic Institution; National & Kapodistrian University of Athens;
+   University of Colorado System; University of Colorado Boulder;
+   University of Cambridge; Texas A&M University System; Texas A&M
+   University College Station
+RP Hoteit, I (通讯作者)，Abdullah Univ Sci & Technol, Thuwal, Saudi Arabia.
+EM ibrahim.hoteit@kaust.edu.sa
+RI Gokul, Elamurugu/HDM-5550-2022; Lermusiaux, Pierre/H-6003-2011; Tsiaras,
+   Kostas/A-9973-2013; Triantafyllou, George/C-4104-2011; Afzal,
+   Shehzad/AAI-5276-2021; Attada, Raju/AET-0528-2022; Krokos,
+   George/AAK-5612-2020; Mazloff, Matthew/AAG-6463-2019; Guo,
+   Daquan/GQZ-6457-2022; Sun, Rui/AAL-1005-2021; Raitsos,
+   Dionysios/AAA-3031-2021; HITTAWE, mazen/IQR-5546-2023; Subramanian,
+   Aneesh/AFP-8577-2022; Gittings, John/KHT-7027-2024; Cornuelle,
+   Bruce/MXM-1113-2025; dasari, hari prasad/Q-2038-2016; Racault,
+   Marie-Fanny/D-7190-2016; Dawson, Clint/AAH-3213-2021; Issa,
+   Leila/AAH-3467-2019; Le Maitre, Olivier/D-8570-2011; Viswanadhapalli,
+   Yesubabu/M-2505-2016; Koehl, Armin/I-9378-2014; Subramanian,
+   Aneesh/D-9484-2017; sanikommu, sivareddy/O-3350-2018; Luong, Thang
+   M/F-4266-2019
+OI zhan, peng/0000-0002-3996-7011; Triantafyllou,
+   George/0000-0002-2353-8693; El Mohtar, Samah/0009-0003-6584-0342; Le
+   Maitre, Olivier/0000-0002-3811-7787; Viswanadhapalli,
+   Yesubabu/0000-0002-1804-4541; Sun, Rui/0000-0001-8357-4904; Koehl,
+   Armin/0000-0002-9777-674X; Racault, Marie-Fanny/0000-0002-7584-2515;
+   Hoteit, Ibrahim/0000-0002-3751-4393; antony, charls/0000-0002-5840-4150;
+   Langodan, Sabique/0000-0003-0513-1790; Sanchez Garrido, Jose
+   C./0000-0003-1524-7391; Raboudi, Naila/0000-0002-2403-100X; Subramanian,
+   Aneesh/0000-0001-7805-0102; TOYE, Habib/0000-0002-1186-837X; Hammoud,
+   Mohamad Abed ElRahman/0000-0003-1896-4927; Genevier,
+   Lily/0000-0002-2081-7929; sanikommu, sivareddy/0000-0001-8047-481X; Yao,
+   Fengchao/0000-0002-8218-0150; Afzal, Shehzad/0000-0002-9712-3618; Wang,
+   Yixin/0000-0001-6955-3787; Gittings, John/0000-0003-4183-3482; Raitsos,
+   Dionysios/0000-0002-6714-2180; Krokos, George/0000-0001-7428-0066;
+   Hadwiger, Markus/0000-0003-1239-4871; HITTAWE, Mohamad
+   Mazen/0000-0001-5266-5563; Cornuelle, Bruce/0000-0003-2110-3319; Vasou,
+   Panagiotis/0000-0002-5788-9686; Luong, Thang M/0000-0003-2279-7164;
+   Dawson, Clint/0000-0001-7273-0684
+FU Virtual Red Sea Initiative; Competitive Research Grants (CRG) program
+   from the Office of Sponsored Research at KAUST; Saudi Aramco Company
+   through the Saudi ARAMCO Marine Environmental Center at KAUST; KAEC;
+   NEOM; RSP through Beacon Development Company at KAUST; NERC [pml010008,
+   nceo020006, NE/R016518/1] Funding Source: UKRI
+FX Dedicated to the bright memory of Professor Trevor Platt, a pioneer in
+   biological oceanography and a key contributor to Red Sea research. The
+   development of the Red Sea modeling system is being supported by the
+   Virtual Red Sea Initiative and the Competitive Research Grants (CRG)
+   program from the Office of Sponsored Research at KAUST, Saudi Aramco
+   Company through the Saudi ARAMCO Marine Environmental Center at KAUST,
+   and by funds from KAEC, NEOM, and RSP through Beacon Development Company
+   at KAUST.
+NR 117
+TC 47
+Z9 48
+U1 0
+U2 27
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0003-0007
+EI 1520-0477
+J9 B AM METEOROL SOC
+JI Bull. Amer. Meteorol. Soc.
+PD JAN
+PY 2021
+VL 102
+IS 1
+BP E99
+EP E122
+DI 10.1175/BAMS-D-19-0005.1
+PG 24
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA RW9FY
+UT WOS:000646825900007
+OA Green Submitted, Green Published, Bronze
+DA 2025-05-29
+ER

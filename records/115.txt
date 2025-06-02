@@ -1,0 +1,68 @@
+PT J
+AU Zhang, YY
+   Fan, W
+   Zou, ZY
+   Zhang, JJ
+   Zhao, YG
+   Wang, WR
+   Hu, SC
+   Wen, CN
+AF Zhang, Yiyuan
+   Fan, Wei
+   Zou, Zhiyu
+   Zhang, Junjie
+   Zhao, Yonggang
+   Wang, Wenrui
+   Hu, Shicheng
+   Wen, Caining
+TI Deep reinforcement learning for artificial upwelling energy management
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Artificial upwelling; Energy management; Deep reinforcement learning;
+   Carbon sequestration
+AB The potential of artificial upwelling in stimulating seaweed growth, consequently enhancing ocean carbon sequestration has been gaining increasing attention in recent years. This has led to the development of the first solar -powered and air -lifted artificial upwelling system (AUS) in China. However, effective scheduling of the air injection system and energy storage system in dynamic marine environments remains a crucial challenge in the operation of the AUS, as it holds the potential to significantly improve system performance. To tackle this challenge, we propose a novel energy management approach that utilizes the deep reinforcement learning (DRL) algorithm to determine the optimal operational parameters of the AUS at each time interval. Specifically, we formulate the energy optimization problem as a Markov decision process and integrate the quantile network in distributional reinforcement learning with the deep dueling network to solve the problem. Through extensive simulations, we evaluate the performance of our algorithm and demonstrate its superior effectiveness over traditional rule -based approaches and other DRL algorithms in enhancing energy utilization while ensuring the secure and reliable operation of the AUS. Our findings suggest that a DRL-based approach offers a promising way to provide valuable guides for the operation of the AUS and enhance the sustainability of seaweed cultivation and carbon sequestration in the ocean.
+C1 [Zhang, Yiyuan; Fan, Wei; Wang, Wenrui; Hu, Shicheng; Wen, Caining] Zhejiang Univ, Hainan Inst, Sanya 572000, Peoples R China.
+   [Zhang, Yiyuan; Fan, Wei; Zou, Zhiyu; Zhang, Junjie; Zhao, Yonggang; Hu, Shicheng; Wen, Caining] Zhejiang Univ, Ocean Coll, Zhoushan 316000, Peoples R China.
+C3 Zhejiang University; Zhejiang University
+RP Fan, W (通讯作者)，Zhejiang Univ, Hainan Inst, Sanya 572000, Peoples R China.
+EM 22134083@zju.edu.cn; wayfan@zju.edu.cn
+RI fan, wei/LNP-4958-2024
+OI Zhang, Yiyuan/0009-0004-9206-2061
+FU Natural Science Fund Project in Hainan Province [520MS070]; Project of
+   Sanya Yaz-hou Bay Science and Technology City [SCKJ-JYRC-2022-42]; Key
+   Research and Development Project in Hainan Province, China
+   [ZDYF2023SHFZ173]
+FX This research was financially founded by the Natural Science Fund
+   Project in Hainan Province (No. 520MS070) , the Project of Sanya Yaz-hou
+   Bay Science and Technology City (No. SCKJ-JYRC-2022-42) , and the Key
+   Research and Development Project in Hainan Province, China
+   (ZDYF2023SHFZ173) .
+NR 45
+TC 2
+Z9 2
+U1 8
+U2 13
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD AUG 15
+PY 2024
+VL 306
+AR 117980
+DI 10.1016/j.oceaneng.2024.117980
+EA MAY 2024
+PG 15
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA TF4W0
+UT WOS:001239843400001
+OA Green Submitted
+DA 2025-05-29
+ER

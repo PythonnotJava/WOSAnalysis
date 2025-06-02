@@ -1,0 +1,64 @@
+PT J
+AU Tang, ZH
+   Wang, LY
+   Guo, SS
+   Liang, GP
+   Zhang, WJ
+   Zhang, LD
+   Rui, M
+   Guan, G
+   Wang, YL
+AF Tang, Zhihong
+   Wang, Liyuan
+   Guo, Shusheng
+   Liang, Guopeng
+   Zhang, Wenjun
+   Zhang, Lide
+   Rui, Min
+   Guan, Guan
+   Wang, Yunlong
+TI Study on modular design methodology of marine SMR system based on fuzzy
+   hierarchical clustering and improved genetic algorithm
+SO PROGRESS IN NUCLEAR ENERGY
+LA English
+DT Article
+DE MSMR; Modular design; Hierarchical clustering; Genetic algorithm
+ID TECHNOLOGY
+AB Marine Small Modular Reactors (MSMR) integrate SMR technology with ship technology, offering unique value in meeting the energy demands of the open ocean and remote islands. However, the design and construction of MSMR face challenges such as space constraints, complex system integration, and the need to adapt to advanced ship modular construction technologies. Therefore, efficient modular partitioning methods are required to enhance overall efficiency and reliability. The module partitioning of MSMR systems takes into account multiple factors and is a combinatorial optimization problem with performance constraints. This study aims to reflect the internal structure of the system hierarchical tree, provide clear guidance for module partitioning, and improve the computational efficiency of solving combinatorial problems. This paper propose a module division and optimization method for MSMR systems based on fuzzy hierarchical clustering and a genetic algorithm. Initially, the components of the small modular reactor power plant system are clustered into modules of different levels using fuzzy hierarchical clustering. Subsequently, a genetic algorithm is employed to solve the combinatorial optimization problem of the module division scheme, resulting in the optimal division scheme. The feasibility and effectiveness of the method are verified through the modular case of the Radioactive Waste Gas System (WGS). This method can provide guidance for the modularization design of the entire ocean modular reactor system. The method provided in this article can provide a research foundation for future modular design of MSMR and improve design efficiency.
+C1 [Tang, Zhihong; Wang, Liyuan; Guo, Shusheng; Zhang, Wenjun; Zhang, Lide; Rui, Min] China Nucl Power Technol Res Inst Co Ltd, Shenzhen 5128026, Peoples R China.
+   [Liang, Guopeng; Guan, Guan; Wang, Yunlong] Dalian Univ Technol, Sch Naval Architecture, Dalian 116024, Peoples R China.
+   [Wang, Yunlong] Dalian Univ Technol, State Key Lab Struct Anal Ind Equipment, Dalian 116024, Peoples R China.
+C3 Dalian University of Technology; Dalian University of Technology
+RP Tang, ZH (通讯作者)，China Nucl Power Technol Res Inst Co Ltd, Shenzhen 5128026, Peoples R China.
+EM tangzhh7@mail2.sysu.edu.cn
+FU Natural Science Foundation of Guangdong Province [2023A1515012757];
+   China Postdoctoral Science Foundation [2023M73323]
+FX This research was funded by the Natural Science Foundation of Guangdong
+   Province (Grant No.2023A1515012757) and the China Postdoctoral Science
+   Foundation (Grant No. 2023M73323) .
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0149-1970
+EI 1878-4224
+J9 PROG NUCL ENERG
+JI Prog. Nucl. Energy
+PD JUL
+PY 2025
+VL 185
+AR 105739
+DI 10.1016/j.pnucene.2025.105739
+EA MAR 2025
+PG 17
+WC Nuclear Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Nuclear Science & Technology
+GA 0OT3J
+UT WOS:001452421600001
+DA 2025-05-29
+ER

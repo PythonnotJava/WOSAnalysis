@@ -1,0 +1,108 @@
+PT J
+AU Chassignet, EP
+   Yeager, SG
+   Fox-Kemper, B
+   Bozec, A
+   Castruccio, F
+   Danabasoglu, G
+   Horvat, C
+   Kim, WM
+   Koldunov, N
+   Li, YW
+   Lin, PF
+   Liu, HL
+   Sein, DV
+   Sidorenko, D
+   Wang, Q
+   Xu, XB
+AF Chassignet, Eric P.
+   Yeager, Stephen G.
+   Fox-Kemper, Baylor
+   Bozec, Alexandra
+   Castruccio, Frederic
+   Danabasoglu, Gokhan
+   Horvat, Christopher
+   Kim, Who M.
+   Koldunov, Nikolay
+   Li, Yiwen
+   Lin, Pengfei
+   Liu, Hailong
+   Sein, Dmitry, V
+   Sidorenko, Dmitry
+   Wang, Qiang
+   Xu, Xiaobiao
+TI Impact of horizontal resolution on global ocean-sea ice model
+   simulations based on the experimental protocols of the Ocean Model
+   Intercomparison Project phase 2 (OMIP-2)
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID MERIDIONAL OVERTURNING CIRCULATION; ANTARCTIC CIRCUMPOLAR CURRENT;
+   NORTH-ATLANTIC SIMULATIONS; FLOE SIZE DISTRIBUTION; LAND SYSTEM MODEL;
+   GENERAL-CIRCULATION; PART I; HEAT-TRANSPORT; ARCTIC-OCEAN; TEMPORAL
+   VARIABILITY
+AB This paper presents global comparisons of fundamental global climate variables from a suite of four pairs of matched low- and high-resolution ocean and sea ice simulations that are obtained following the OMIP-2 protocol (Griffies et al., 2016) and integrated for one cycle (1958-2018) of the JRA55-do atmospheric state and runoff dataset (Tsujino et al., 2018). Our goal is to assess the robustness of climate-relevant improvements in ocean simulations (mean and variability) associated with moving from coarse (similar to 1 degrees) to eddy-resolving (similar to 0.1 degrees) horizontal resolutions. The models are diverse in their numerics and parameterizations, but each low-resolution and high-resolution pair of models is matched so as to isolate, to the extent possible, the effects of horizontal resolution. A variety of observational datasets are used to assess the fidelity of simulated temperature and salinity, sea surface height, kinetic energy, heat and volume transports, and sea ice distribution. This paper provides a crucial benchmark for future studies comparing and improving different schemes in any of the models used in this study or similar ones. The biases in the low-resolution simulations are familiar, and their gross features - position, strength, and variability of western boundary currents, equatorial currents, and the Antarctic Circumpolar Current - are significantly improved in the high-resolution models. However, despite the fact that the high-resolution models "resolve" most of these features, the improvements in temperature and salinity are inconsistent among the different model families, and some regions show increased bias over their low-resolution counterparts. Greatly enhanced horizontal resolution does not deliver unambiguous bias improvement in all regions for all models.
+C1 [Chassignet, Eric P.; Bozec, Alexandra; Xu, Xiaobiao] Florida State Univ, Ctr Ocean Atmospher Predict Studies, Tallahassee, FL 32306 USA.
+   [Yeager, Stephen G.; Castruccio, Frederic; Danabasoglu, Gokhan; Kim, Who M.] Natl Ctr Atmospher Res, POB 3000, Boulder, CO 80307 USA.
+   [Fox-Kemper, Baylor; Horvat, Christopher] Brown Univ, Providence, RI 02912 USA.
+   [Koldunov, Nikolay; Sein, Dmitry, V; Sidorenko, Dmitry; Wang, Qiang] Alfred Wegener Inst, Helmholtz Zentrum Polar & Meeresforsch AWI, Bremerhaven, Germany.
+   [Li, Yiwen; Lin, Pengfei; Liu, Hailong] Chinese Acad Sci, Inst Atmospher Phys, State Key Lab Numer Modeling Atmospher Sci & Geop, Beijing, Peoples R China.
+   [Sein, Dmitry, V] Russian Acad Sci, Shirshov Inst Oceanol, Moscow, Russia.
+C3 State University System of Florida; Florida State University; National
+   Center Atmospheric Research (NCAR) - USA; Brown University; Helmholtz
+   Association; Alfred Wegener Institute, Helmholtz Centre for Polar &
+   Marine Research; Chinese Academy of Sciences; Institute of Atmospheric
+   Physics, CAS; Russian Academy of Sciences; Shirshov Institute of
+   Oceanology
+RP Chassignet, EP (通讯作者)，Florida State Univ, Ctr Ocean Atmospher Predict Studies, Tallahassee, FL 32306 USA.
+EM echassignet@fsu.edu
+RI Yeager, Stephen/MIP-5055-2025; Lin, Pengfei/AAJ-5379-2020; Liu,
+   Hailong/C-9566-2013; li, yiwen/ISB-4836-2023; Fox-Kemper,
+   Baylor/A-1159-2007; Sein, Dmitry/P-6419-2018; Kim, Who/F-5348-2018;
+   Koldunov, Nikolay V./A-5439-2011
+OI Fox-Kemper, Baylor/0000-0002-2871-2048; Li, Yiwen/0000-0003-2873-4287;
+   Sein, Dmitry/0000-0002-1190-3622; Kim, Who/0000-0001-5754-9852;
+   Koldunov, Nikolay V./0000-0002-3365-8146
+FU NOAA [NA15OAR4320064, 5NA15OAR4310088, NA19OAR4310366]; NSF [1350795,
+   1537136, 1852977]; ONR [N00014-17-1-2393]; Deutsche
+   Forschungsgemeinschaft [274762653]; European Union Horizon 2020 [727862
+   APPLICATE]; Ministry of Science and Higher Education of Russia
+   [0149-20190015]; National Natural Science Foundation of China [41931183,
+   41976026]; Directorate For Geosciences; Division Of Ocean Sciences
+   [1537136] Funding Source: National Science Foundation
+FX This research has been supported by NOAA (award nos. NA15OAR4320064,
+   5NA15OAR4310088, and NA19OAR4310366), the NSF (award nos. 1350795,
+   1537136, and 1852977), the ONR (grant no. N00014-17-1-2393), the
+   Deutsche Forschungsgemeinschaft (grant no. 274762653), European Union
+   Horizon 2020 (grant no. 727862 APPLICATE), the the Ministry of Science
+   and Higher Education of Russia (theme no. 0149-20190015), and the
+   National Natural Science Foundation of China (grant nos. 41931183 and
+   41976026).
+NR 175
+TC 98
+Z9 108
+U1 1
+U2 28
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD SEP 29
+PY 2020
+VL 13
+IS 9
+BP 4595
+EP 4637
+DI 10.5194/gmd-13-4595-2020
+PG 43
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA NY8XP
+UT WOS:000576667800001
+OA Green Submitted, gold
+DA 2025-05-29
+ER

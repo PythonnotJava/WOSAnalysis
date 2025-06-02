@@ -1,0 +1,44 @@
+PT J
+AU Lal, R
+AF Lal, Rattan
+TI Accelerated Soil erosion as a source of atmospheric CO2
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE 4 per Thousand; Global warming; Gaseous emissions; Soil erosion
+ID LAND-USE CHANGE; ORGANIC-CARBON; WESTERN NIGERIA; CLIMATE-CHANGE; WIND
+   EROSION; TRANSPORT; LOSSES; SEQUESTRATION; ALFISOLS; TERRESTRIAL
+AB Soil erosion, physical transport of soil over the landscape by alluvial and aeolian processes as source of energy, has a strong impact on the global carbon cycle (GCC). Being a light fraction (bulk density of 0.6-0.8 Mg/m(3)) and concentrated in vicinity of soil surface, soil organic carbon (SOC) is preferentially removed by water and wind erosion. The process of erosion and the attendant transport of SOC are accelerated by conversion of natural to agroecosystems. Whereas the human-induced acceleration of soil erosion has depleted the SOC stock of agroecosystems, the fate of SOC transported over the landscape and that deposited in depressional sites is not understood. While a fraction of SOC transported to and buried under aquatic ecosystems (e.g., flood plains, lakes, ocean) may be protected because of limited microbial activity, labile fractions of SOC being transported over the landscape enroute to the depositional site are vulnerable to decomposition. Depending on the site-specific conditions with regards to the hydrothermal regimes and the degree of aeration, the decomposition may lead to emission of CO2 under aerobic environments, CH4 under anaerobic conditions, and N2O under both situations. The process of soil erosion, especially that by water, is a 4-stage process: (i) detachment, (ii) splash, (iii) transport and redistribution, and (iv) deposition. Breakdown of aggregates, during the first three stages, exposes the hitherto encapsulated SOC to microbial processes and exacerbates its vulnerability to decomposition. Thus, the fate of SOC subject to erosion must be assessed for all landscape positions and integrated over the watershed. Lack of credible data regarding the fate of SOC at different erosional stages is a major cause of uncertainties. Thus, well-planned research at a watershed-level is needed to assess the impacts of erosional processes on decomposition of SOC, gaseous emission, and the soil/ecosystem C budget for diverse soils and management systems in global biomes/ecoregions. The data on global C budget is incomplete without consideration of the impact of erosion on SOC and the attendant gaseous emissions.
+C1 [Lal, Rattan] Ohio State Univ, Carbon Management & Sequestrat Ctr, Columbus, OH 43210 USA.
+C3 University System of Ohio; Ohio State University
+RP Lal, R (通讯作者)，Ohio State Univ, Carbon Management & Sequestrat Ctr, Columbus, OH 43210 USA.
+RI Lal, Rattan/D-2505-2013
+NR 51
+TC 163
+Z9 179
+U1 26
+U2 440
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD MAY
+PY 2019
+VL 188
+SI SI
+BP 35
+EP 40
+DI 10.1016/j.still.2018.02.001
+PG 6
+WC Soil Science
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA HM5MV
+UT WOS:000459520700005
+HC Y
+HP N
+DA 2025-05-29
+ER

@@ -1,0 +1,70 @@
+PT J
+AU Yang, MZ
+   Shi, X
+   Yuan, CX
+   Lu, XY
+   Liu, JC
+AF Yang, Mengzhou
+   Shi, Xia
+   Yuan, Chaoxia
+   Lu, Xinyu
+   Liu, Jingchan
+TI Summer Extreme Precipitation in Southern China from the Perspective of
+   Moisture Static Energy
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+DE Extreme events; Precipitation; Air-sea interaction; Energy budget;
+   balance
+ID WESTERN NORTH PACIFIC; INTRASEASONAL OSCILLATION; RAINFALL EXTREMES;
+   OCEAN CAPACITOR; RAINY SEASONS; IMPACTS; CLIMATE; ENSO; ANOMALIES;
+   INCREASE
+AB The extreme precipitation (EP) in the early and late rainy seasons in Southern China is investigated from the perspective of moist static energy (MSE). At the synoptic time scale, the EP is accompanied by the charge-discharge paradigm of the vertically integrated MSE ((MSE)); the positive (MSE) anomaly reaches the peak one day before EP and decreases quickly during the event. The charge-discharge paradigm of (MSE) is dominated by the horizontal and vertical advection, respectively. However, synoptic systems responsible for the (MSE) charge in the early and late rainy seasons are different due to the different horizontal distributions of climatological MSE in the lower troposphere caused by the northward migration of solar radiation and the monsoon system. At the interannual time scale, more EP in the early (late) rainy season is associated with the higher seasonal-mean (MSE) that can be caused by the anomalous anticyclone (cyclone) in the western North Pacific induced by the SST anomalies in the tropical Indian Ocean and central North Pacific (the trop-ical Pacific). The multimodel ensemble mean of CMIP6 models reproduces well the observed (MSE)-EP relationship in both the historical and Shared Socioeconomic Pathway 5-8.5 (SSP5-8.5) runs. Moreover, the mean state of (MSE) increases in the SSP5-8.5 compared to historical runs along with more frequent occurrence of EP events. Hence, (MSE) can serve as a useful metric for studying EP in Southern China at various time scales.
+C1 [Yang, Mengzhou; Shi, Xia; Yuan, Chaoxia; Lu, Xinyu; Liu, Jingchan] Nanjing Univ Informat Sci & Technol, Inst Climate & Applicat Res, Collaborat Innovat Ctr Forecast & Evaluat Meteorol, Key Lab Meteorol Disaster,Minist Educ, Nanjing, Peoples R China.
+   [Shi, Xia] Lanzhou Cent Meteorol Observ, Lanzhou, Peoples R China.
+   [Yuan, Chaoxia] Japan Agcy Marine Earth Sci & Technol, Applicat Lab, Yokohama, Japan.
+C3 Ministry of Education - China; Nanjing University of Information Science
+   & Technology; Japan Agency for Marine-Earth Science & Technology
+   (JAMSTEC)
+RP Yuan, CX (通讯作者)，Nanjing Univ Informat Sci & Technol, Inst Climate & Applicat Res, Collaborat Innovat Ctr Forecast & Evaluat Meteorol, Key Lab Meteorol Disaster,Minist Educ, Nanjing, Peoples R China.
+EM chaoxia.yuan@nuist.edu.cn
+RI Lu, Xinyu/AAF-3881-2020
+FU National Natural Science Foundation of China [41875099, 42088101]; High
+   Performance Computing Center of Nanjing University of Information
+   Science and Technol- ogy; China Scholarship Council
+FX We are very thankful to the three anonymous reviewers for their
+   constructive comments to help improve the paper substantially. This
+   study is financially supported by the National Natural Science
+   Foundation of China 41875099 and 42088101). All figures were drawn by
+   the NCL. The analyses were conducted in the supercomputer in the High
+   Performance Computing Center of Nanjing University of Information
+   Science and Technology. Yang is financially supported by the China
+   Scholarship Council.
+NR 50
+TC 7
+Z9 8
+U1 4
+U2 27
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693, UNITED STATES
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD AUG
+PY 2023
+VL 36
+IS 15
+BP 4967
+EP 4986
+DI 10.1175/JCLI-D-22-0627.1
+PG 20
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA L8FY4
+UT WOS:001025575700001
+OA hybrid
+DA 2025-05-29
+ER

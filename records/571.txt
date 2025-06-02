@@ -1,0 +1,86 @@
+PT J
+AU Whelan, ME
+   Anderegg, LDL
+   Badgley, G
+   Campbell, JE
+   Commane, R
+   Frankenberg, C
+   Hilton, TW
+   Le Kuai
+   Parazoo, N
+   Shiga, Y
+   Wang, YT
+   Worden, J
+AF Whelan, Mary E.
+   Anderegg, Leander D. L.
+   Badgley, Grayson
+   Campbell, J. Elliott
+   Commane, Roisin
+   Frankenberg, Christian
+   Hilton, Timothy W.
+   Le Kuai
+   Parazoo, Nicholas
+   Shiga, Yoichi
+   Wang, Yuting
+   Worden, John
+TI Scientific Communities Striving for a Common Cause Innovations in Carbon
+   Cycle Science
+SO BULLETIN OF THE AMERICAN METEOROLOGICAL SOCIETY
+LA English
+DT Article
+ID SULFIDE; RETRIEVALS
+AB Where does the carbon released by burning fossil fuels go? Currently, ocean and land systems remove about half of the CO2 emitted by human activities; the remainder stays in the atmosphere. These removal processes are sensitive to feedbacks in the energy, carbon, and water cycles that will change in the future. Observing how much carbon is taken up on land through photosynthesis is complicated because carbon is simultaneously respired by plants, animals, and microbes. Global observations from satellites and air samples suggest that natural ecosystems take up about as much CO2 as they emit. To match the data, our land models generate imaginary Earths where carbon uptake and respiration are roughly balanced, but the absolute quantities of carbon being exchanged vary widely. Getting the magnitude of the flux is essential to make sure our models are capturing the right pattern for the right reasons. Combining two cutting-edge tools, carbonyl sulfide (OCS) and solar-induced fluorescence (SIF), will help develop an independent answer of how much carbon is being taken up by global ecosystems. Photosynthesis requires CO2, light, and water. OCS provides a spatially and temporally integrated picture of the "front door" of photosynthesis, proportional to CO2 uptake and water loss through plant stomata. SIF provides a high-resolution snapshot of the "side door," scaling with the light captured by leaves. These two independent pieces of information help us understand plant water and carbon exchange. A coordinated effort to generate SIF and OCS data through satellite, airborne, and ground observations will improve our process-based models to predict how these cycles will change in the future.
+C1 [Whelan, Mary E.] Rutgers State Univ, Dept Environm Sci, New Brunswick, NJ 08854 USA.
+   [Anderegg, Leander D. L.] Carnegie Inst Sci, Dept Global Ecol, Stanford, CA USA.
+   [Badgley, Grayson] Univ Utah, Sch Biol Sci, Salt Lake City, UT USA.
+   [Campbell, J. Elliott; Hilton, Timothy W.] Univ Calif Santa Cruz, Dept Environm Studies, Santa Cruz, CA 95064 USA.
+   [Commane, Roisin] Columbia Univ, Dept Earth & Environm Sci, New York, NY USA.
+   [Frankenberg, Christian] CALTECH, Jet Prop Lab, Dept Environm Sci & Engn, Pasadena, CA USA.
+   [Le Kuai; Parazoo, Nicholas; Worden, John] Jet Prop Lab, Pasadena, CA USA.
+   [Shiga, Yoichi] Univ Space Res Assoc, Mountain View, CA USA.
+   [Wang, Yuting] Hong Kong Polytech Univ, Hong Kong, Peoples R China.
+   [Badgley, Grayson] Black Rock Forest Consortium, Cornwall, NY USA.
+C3 Rutgers University System; Rutgers University New Brunswick; Carnegie
+   Institution for Science; Utah System of Higher Education; University of
+   Utah; University of California System; University of California Santa
+   Cruz; Columbia University; National Aeronautics & Space Administration
+   (NASA); NASA Jet Propulsion Laboratory (JPL); California Institute of
+   Technology; National Aeronautics & Space Administration (NASA); NASA Jet
+   Propulsion Laboratory (JPL); Universities Space Research Association
+   (USRA); Hong Kong Polytechnic University
+RP Whelan, ME (通讯作者)，Rutgers State Univ, Dept Environm Sci, New Brunswick, NJ 08854 USA.
+EM mary.whelan@rutgers.edu
+RI Worden, John R/AAY-1002-2021; Wang, Yuting/KIL-2232-2024; Frankenberg,
+   Christian/A-2944-2013; Badgley, Grayson/J-8910-2018; Parazoo,
+   Nicholas/R-7139-2017; Commane, Roisin/O-3497-2019; Commane,
+   Roisin/E-4835-2016
+OI Hilton, Timothy/0000-0001-9575-9850; Commane,
+   Roisin/0000-0003-1373-1550; Shiga, Yoichi/0000-0001-8569-6841
+NR 13
+TC 6
+Z9 6
+U1 0
+U2 11
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0003-0007
+EI 1520-0477
+J9 B AM METEOROL SOC
+JI Bull. Amer. Meteorol. Soc.
+PD SEP
+PY 2020
+VL 101
+IS 9
+BP E1537
+EP E1543
+DI 10.1175/BAMS-D-19-0306.1
+PG 7
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA OP9DR
+UT WOS:000588390900006
+OA Green Accepted, Bronze
+DA 2025-05-29
+ER

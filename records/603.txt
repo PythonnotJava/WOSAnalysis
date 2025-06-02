@@ -1,0 +1,80 @@
+PT J
+AU Heyblom, KB
+   Singh, HA
+   Rasch, PJ
+   DeRepentigny, P
+AF Heyblom, Kyle B.
+   Singh, Hansi A.
+   Rasch, Philip J.
+   DeRepentigny, Patricia
+TI Increased Variability of Biomass Burning Emissions in CMIP6 Amplifies
+   Hydrologic Cycle in the ESM2 Large Ensemble
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+ID MODEL INTERCOMPARISON PROJECT; EXPERIMENTAL-DESIGN; REACTIVE GASES;
+   CLIMATE; AEROSOLS; ATMOSPHERE; RESPONSES; VERSION; PDRMIP
+AB Historical simulations performed for the Coupled Model Intercomparison Project Phase 6 used biomass burning emissions between 1997 and 2014 containing higher spatial and temporal variability compared to emission inventories specified for earlier years, and compared to emissions used in previous (e.g., CMIP5) simulation intercomparisons. Using the Community Earth System Model version 2 Large Ensemble, we show this increased biomass burning emissions variability leads to amplification of the hydrologic cycle poleward of 40 degrees N. Notably, the high variability of biomass burning emissions leads to increased latent heat fluxes, column-integrated precipitable water, and precipitation. Greater ocean heat uptake, weaker meridional energy transport from the tropics, greater atmospheric shortwave and longwave absorption, and lower relative humidity act to moderate this hydrologic cycle amplification. Our results suggest it is not only the secular changes (on multidecadal timescales) in biomass burning emissions that impact the hydrologic cycle, but also the shorter timescale variability in emissions.
+   Plain Language Summary Global climate models use different inputs to simulate the past climate as accurately as possible. One of these inputs is an estimate of emissions from the burning of biomass (e.g., from forests and cropland). In the sixth phase of the Climate Model Intercomparison Project Phase 6, the estimated biomass burning emissions were derived using two very different methods. Prior to 1997, emission estimates relied on a combination of indirect measurements and best-guess fire modeling resulting in emissions having relatively modest temporal and spatial variability. During later periods (i.e., 1997-2014) satellite based estimates of fire occurrence and intensity were used in combination with biogeochemical models to produce emission estimates containing much larger spatial and temporal variability. This study demonstrates that the differing variability in biomass burning has an impact on the model's water cycle. During years of strong burning episodes, clouds thin and more sunlight reaches the surface, which results in more surface evaporation, and higher atmospheric humidity and precipitation. Additionally, the high variation in emissions increases rainfall, decreases snowfall, and increases the intensity of extreme precipitation events. Our results show that the timing of biomass burning emissions, not just the amount emitted, is an important moderator of the atmospheric water cycle.
+C1 [Heyblom, Kyle B.; Singh, Hansi A.] Univ Victoria, Sch Earth & Ocean Sci, Victoria, BC, Canada.
+   [Rasch, Philip J.] US DOE, Pacific Northwest Natl Lab, Atmospher Sci & Global Change Div, Off Sci, Richland, WA USA.
+   [Rasch, Philip J.] Univ Washington, Dept Atmospher Sci, Seattle, WA 98195 USA.
+   [DeRepentigny, Patricia] Natl Ctr Atmospher Res, Climate & Global Dynam Lab, POB 3000, Boulder, CO 80307 USA.
+C3 University of Victoria; United States Department of Energy (DOE);
+   Pacific Northwest National Laboratory; University of Washington;
+   University of Washington Seattle; National Center Atmospheric Research
+   (NCAR) - USA
+RP Heyblom, KB (通讯作者)，Univ Victoria, Sch Earth & Ocean Sci, Victoria, BC, Canada.
+EM kheyblom@uvic.ca
+RI Singh, Hansi/P-9354-2019; Rasch, Philip/F-7978-2018; DeRepentigny,
+   Patricia/Q-2246-2017
+OI Singh, Hansi/0000-0002-8651-9094; DeRepentigny,
+   Patricia/0000-0002-0854-3793; Heyblom, Kyle/0000-0002-8591-6207
+FU Natural Sciences and Engineering Council of Canada (NSERC); Province of
+   British Columbia; University of Victoria; DOE by the Battelle Memorial
+   Institute [DE-AC05-76RL01830]; Advanced Study Program of the National
+   Center for Atmospheric Research (NCAR) - National Science Foundation
+   (NSF) [1852977]; National Center for Atmospheric Research (NCAR) - NSF
+   [1852977]
+FX K. B. Heyblom was supported by the Natural Sciences and Engineering
+   Council of Canada (NSERC), the Province of British Columbia, and the
+   University of Victoria. H. A. Singh was supported by base research
+   support through the University of Victoria. P. J. Rasch was supported by
+   the Pacific Northwest National Laboratory (PNNL) which is operated for
+   DOE by the Battelle Memorial Institute under contract DE-AC05-76RL01830.
+   P. DeRepentigny was supported by the Advanced Study Program of the
+   National Center for Atmospheric Research (NCAR), which is a major
+   facility sponsored by the National Science Foundation (NSF) under
+   Cooperative Agreement No. 1852977. All authors would like to acknowledge
+   the CESM2 Large Ensemble Community Project and supercomputing resources
+   provided by the IBS Center for Climate Physics in South Korea. The CESM
+   project was supported by the National Center for Atmospheric Research
+   (NCAR), which is a major facility sponsored by the NSF under Cooperative
+   Agreement No. 1852977.
+NR 50
+TC 13
+Z9 13
+U1 0
+U2 8
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD MAR 16
+PY 2022
+VL 49
+IS 5
+AR e2021GL096868
+DI 10.1029/2021GL096868
+PG 10
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA ZZ6XL
+UT WOS:000773409300003
+OA Green Submitted, hybrid
+DA 2025-05-29
+ER

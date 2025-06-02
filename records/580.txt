@@ -1,0 +1,77 @@
+PT J
+AU Dijkstra, N
+   Hagens, M
+   Egger, M
+   Slomp, CP
+AF Dijkstra, Nikki
+   Hagens, Mathilde
+   Egger, Matthias
+   Slomp, Caroline P.
+TI Post-depositional formation of vivianite-type minerals alters sediment
+   phosphorus records
+SO BIOGEOSCIENCES
+LA English
+DT Article
+ID AUTHIGENIC APATITE FORMATION; WATER-COLUMN ANOXIA; BALTIC SEA;
+   ORGANIC-MATTER; REACTIVE TRANSPORT; MARINE-SEDIMENTS;
+   ENVIRONMENTAL-CHANGE; ANAEROBIC OXIDATION; HYDROGEN-SULFIDE; EARLY
+   DIAGENESIS
+AB Phosphorus (P) concentrations in sediments are frequently used to reconstruct past environmental conditions in freshwater and marine systems, with high values thought to be indicative of a high biological productivity. Recent studies suggest that the post-depositional formation of vivianite, an iron(II)-phosphate mineral, might significantly alter trends in P with sediment depth. To assess its importance, we investigate a sediment record from the Bornholm Basin that was retrieved during the Integrated Ocean Drilling Program (IODP) Baltic Sea Paleoenvironment Expedition 347 in 2013, consisting of lake sediments overlain by brackish-marine deposits. Combining bulk sediment geochemistry with microanalysis using scanning electron microscope energy dispersive spectroscopy (SEM-EDS) and synchrotron-based X-ray absorption spectroscopy (XAS), we demonstrate that vivianite-type minerals rich in manganese and magnesium are present in the lake deposits just below the transition to the brackish-marine sediments (at 11.5 to 12 m sediment depth). In this depth interval, phosphate that diffuses down from the organic-rich, brackish-marine sediments meets porewaters rich in dissolved iron in the lake sediments, resulting in the precipitation of iron(II) phosphate. Results from a reactive transport model suggest that the peak in iron(II) phosphate originally occurred at the lake-marine transition (9 to 10 m) and moved downwards due to changes in the depth of a sulfidization front. However, its current position relative to the lake-marine transition is stable as the vivianite-type minerals and active sulfidization fronts have been spatially separated over time. Experiments in which vivianite was subjected to sulfidic conditions demonstrate that incorporation of manganese or magnesium in vivianite does not affect its susceptibility to sulfide-induced dissolution. Our work highlights that post-depositional formation of iron(II) phosphates such as vivianite has the potential to strongly alter sedimentary P records particularly in systems that are subject to environmental perturbation, such as a change in primary productivity, which can be associated with a lake-marine transition.
+C1 [Dijkstra, Nikki; Hagens, Mathilde; Egger, Matthias; Slomp, Caroline P.] Univ Utrecht, Fac Geosci, Dept Earth Sci Geochem, POB 80021, NL-3508 TA Utrecht, Netherlands.
+   [Dijkstra, Nikki] Hoogheemraadschap Stichtse Rijnlanden, Poldermolen 2, NL-3994 DD Houten, Netherlands.
+   [Hagens, Mathilde] Wageningen Univ, Soil Chem & Chem Soil Qual, POB 47, NL-6700 AA Wageningen, Netherlands.
+   [Egger, Matthias] Ocean Cleanup Fdn, Martinus Nijhofflaan 2, NL-2624 ES Delft, Netherlands.
+C3 Utrecht University; Wageningen University & Research
+RP Slomp, CP (通讯作者)，Univ Utrecht, Fac Geosci, Dept Earth Sci Geochem, POB 80021, NL-3508 TA Utrecht, Netherlands.
+EM c.p.slomp@uu.nl
+RI Slomp, Caroline/A-9406-2012; Fatti, Geoffrey/AAA-9217-2019; Hagens,
+   Mathilde/G-9756-2015
+OI Slomp, Caroline/0000-0002-7272-0109; Hagens,
+   Mathilde/0000-0003-3980-1043; Egger, Matthias/0000-0002-1791-1842
+FU European Research Council under the European Community's Seventh
+   Framework Programme/ERC [278364]; Netherlands Organisation for
+   Scientific Research (NWO Vici grant) [865.13.005]
+FX This research was funded by the European Research Council under the
+   European Community's Seventh Framework Programme (FP7/2007-2013)/ERC
+   Starting Grant 278364 and the Netherlands Organisation for Scientific
+   Research (NWO Vici grant 865.13.005). This research used samples and/or
+   data provided by the Integrated Ocean Drilling Program (IODP). We thank
+   the captain, crew and scientists of the IODP Expedition 347 aboard the
+   Greatship Manisha from 12 September until 1 November 2013 and the
+   scientists that were part of the onshore IODP 347 science party from 22
+   January to 20 February 2014. Also the captain, crew and scientists
+   aboard R/V Pelagia from 28 May to 15 June 2016 (cruise 64PE411) are
+   thanked. We also acknowledge the European Synchrotron Facility for
+   providing beamtime at ID21. The reviewers are thanked for their
+   constructive feedback. We further thank Camille Rivard for her
+   assistance at the beamlines and Erik Smedberg for providing us with the
+   Baltic Sea bathymetric map. We also thank Fieke Mulders for her
+   assistance with the sulfidization experiment and SEDEX.
+NR 98
+TC 42
+Z9 43
+U1 4
+U2 55
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1726-4170
+EI 1726-4189
+J9 BIOGEOSCIENCES
+JI Biogeosciences
+PD FEB 12
+PY 2018
+VL 15
+IS 3
+BP 861
+EP 883
+DI 10.5194/bg-15-861-2018
+PG 23
+WC Ecology; Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Geology
+GA FW0BB
+UT WOS:000424954900001
+OA Green Submitted, gold
+DA 2025-05-29
+ER

@@ -1,0 +1,169 @@
+PT J
+AU Daher, H
+   Arbic, BK
+   Williams, JG
+   Ansong, JK
+   Boggs, DH
+   Müller, M
+   Schindelegger, M
+   Austermann, J
+   Cornuelle, BD
+   Crawford, EB
+   Fringer, OB
+   Lau, HCP
+   Lock, SJ
+   Maloof, AC
+   Menemenlis, D
+   Mitrovica, JX
+   Green, JAM
+   Huber, M
+AF Daher, Houraa
+   Arbic, Brian K.
+   Williams, James G.
+   Ansong, Joseph K.
+   Boggs, Dale H.
+   Mueller, Malte
+   Schindelegger, Michael
+   Austermann, Jacqueline
+   Cornuelle, Bruce D.
+   Crawford, Eliana B.
+   Fringer, Oliver B.
+   Lau, Harriet C. P.
+   Lock, Simon J.
+   Maloof, Adam C.
+   Menemenlis, Dimitris
+   Mitrovica, Jerry X.
+   Green, J. A. Mattias
+   Huber, Matthew
+TI Long-Term Earth-Moon Evolution With High-Level Orbit and Ocean Tide
+   Models
+SO JOURNAL OF GEOPHYSICAL RESEARCH-PLANETS
+LA English
+DT Article
+DE ocean tides; lunar orbit; Earth-Moon history; Earth rotation; plate
+   tectonics
+ID SEA-LEVEL; GLOBAL OCEAN; GEOLOGICAL CONSTRAINTS; ENERGY-DISSIPATION;
+   FORMATION AGE; LUNAR ORBIT; BODY TIDES; IMPACT; ORIGIN; RESONANCE
+AB Tides and Earth-Moon system evolution are coupled over geological time. Tidal energy dissipation on Earth slows Earth ' s rotation rate, increases obliquity, lunar orbit semi-major axis and eccentricity, and decreases lunar inclination. Tidal and core-mantle boundary dissipation within the Moon decrease inclination, eccentricity and semi-major axis. Here we integrate the Earth-Moon system backwards for 4.5 Ga with orbital dynamics and explicit ocean tide models that are "high-level" (i.e., not idealized). To account for uncertain plate tectonic histories, we employ Monte Carlo simulations, with tidal energy dissipation rates (normalized relative to astronomical forcing parameters) randomly selected from ocean tide simulations with modern ocean basin geometry and with 55, 116, and 252 Ma reconstructed basin paleogeometries. The normalized dissipation rates depend upon basin geometry and Earth ' s rotation rate. Faster Earth rotation generally yields lower normalized dissipation rates. The Monte Carlo results provide a spread of possible early values for the Earth-Moon system parameters. Of consequence for ocean circulation and climate, absolute (un-normalized) ocean tidal energy dissipation rates on the early Earth may have exceeded today ' s rate due to a closer Moon. Prior to similar to 3 Ga, evolution of inclination and eccentricity is dominated by tidal and core-mantle boundary dissipation within the Moon, which yield high lunar orbit inclinations in the early Earth-Moon system. A drawback for our results is that the semi-major axis does not collapse to near-zero values at 4.5 Ga, as indicated by most lunar formation models. Additional processes, missing from our current efforts, are discussed as topics for future investigation.
+C1 [Daher, Houraa] Univ Michigan, Dept Climate & Space Sci & Engn, Ann Arbor, MI 48109 USA.
+   [Daher, Houraa] Univ Miami, Rosenstiel Sch Marine & Atmospher Sci, 4600 Rickenbacker Causeway, Miami, FL 33149 USA.
+   [Arbic, Brian K.; Ansong, Joseph K.; Crawford, Eliana B.] Univ Michigan, Dept Earth & Environm Sci, Ann Arbor, MI 48109 USA.
+   [Arbic, Brian K.] Inst Geosci Environm IGE, Grenoble, France.
+   [Arbic, Brian K.] Lab Etud Geophys & Oceanog Spatiale LEGOS, Toulouse, France.
+   [Williams, James G.; Boggs, Dale H.; Menemenlis, Dimitris] CALTECH, Jet Prop Lab, Pasadena, CA USA.
+   [Ansong, Joseph K.] Univ Ghana, Dept Math, Accra, Ghana.
+   [Mueller, Malte] Norwegian Meteorol Inst, Oslo, Norway.
+   [Schindelegger, Michael] Univ Bonn, Inst Geodesy & Geoinformat, Bonn, Germany.
+   [Austermann, Jacqueline] Columbia Univ, Dept Earth & Environm Sci, New York, NY USA.
+   [Cornuelle, Bruce D.] Univ Calif La Jolla, Scripps Inst Oceanog, La Jolla, CA USA.
+   [Crawford, Eliana B.] Swift Nav, San Francisco, CA USA.
+   [Crawford, Eliana B.] Kenyon Coll, Dept Phys, Gambier, OH 43022 USA.
+   [Fringer, Oliver B.] Stanford Univ, Dept Civil & Environm Engn, Stanford, CA 94305 USA.
+   [Lau, Harriet C. P.] Univ Calif Berkeley, Dept Earth & Planetary Sci, Berkeley, CA 94720 USA.
+   [Lau, Harriet C. P.; Mitrovica, Jerry X.] Harvard Univ, Dept Earth & Planetary Sci, 20 Oxford St, Cambridge, MA 02138 USA.
+   [Lock, Simon J.] CALTECH, Div Geol & Planetary Sci, Pasadena, CA 91125 USA.
+   [Maloof, Adam C.] Princeton Univ, Dept Geosci, Princeton, NJ USA.
+   [Green, J. A. Mattias] Bangor Univ, Sch Ocean Sci, Menai Bridge, Gwynedd, Wales.
+   [Huber, Matthew] Purdue Univ, Dept Earth Atmospher & Planetary Sci, W Lafayette, IN USA.
+C3 University of Michigan System; University of Michigan; University of
+   Miami; University of Michigan System; University of Michigan; Universite
+   de Toulouse; Universite Toulouse III - Paul Sabatier; California
+   Institute of Technology; National Aeronautics & Space Administration
+   (NASA); NASA Jet Propulsion Laboratory (JPL); University of Ghana;
+   Norwegian Meteorological Institute; University of Bonn; Columbia
+   University; University of California System; University of California
+   San Diego; Scripps Institution of Oceanography; University System of
+   Ohio; Kenyon College; Stanford University; University of California
+   System; University of California Berkeley; Harvard University;
+   California Institute of Technology; Princeton University; Bangor
+   University; Purdue University System; Purdue University
+RP Arbic, BK (通讯作者)，Univ Michigan, Dept Earth & Environm Sci, Ann Arbor, MI 48109 USA.; Arbic, BK (通讯作者)，Inst Geosci Environm IGE, Grenoble, France.; Arbic, BK (通讯作者)，Lab Etud Geophys & Oceanog Spatiale LEGOS, Toulouse, France.
+EM arbic@umich.edu
+RI Fringer, Oliver/GZL-2507-2022; Cornuelle, Bruce/MXM-1113-2025;
+   Menemenlis, Dimitris/G-8091-2017; Ansong, Joseph/AAR-4450-2020; Huber,
+   Matthew/A-7677-2008; Muller, Malte/AAD-7692-2022; Schindelegger,
+   Michael/C-7166-2016
+OI Huber, Matthew/0000-0002-2771-9977; Ansong, Joseph
+   Kojo/0000-0002-2214-377X; Fringer, Oliver/0000-0003-3176-6925;
+   Austermann, Jacqueline/0000-0003-3754-5082; Menemenlis,
+   Dimitris/0000-0001-9940-8409; Boggs, Dale/0000-0002-1568-3428; Muller,
+   Malte/0000-0003-2871-8359; Lock, Simon/0000-0001-5365-9616; Arbic, Brian
+   K/0000-0002-7969-2294; Daher, Houraa/0000-0002-0017-7346; Schindelegger,
+   Michael/0000-0001-6250-7921
+FU University of Michigan Associate Professor Support Fund - Margaret and
+   Herman Sokol Faculty Awards; National Science Foundation (NSF)
+   [OCE0968783, OCE-1351837]; NASA [NNX17AE42G, NNX17AH55G, 80NSSC20K1135,
+   NNX16AH79G]; Austrian Science Fund (FWF) [P30097-N29]; NSF
+   [EAR-1947614]; Harvard University; UK's Natural Environment Research
+   Council [NE/S009566/1]; National Aeronautics and Space Administration
+   [80NM0018D0004]; Austrian Science Fund (FWF) [P30097] Funding Source:
+   Austrian Science Fund (FWF); NASA [NNX17AE42G, 904102, NNX16AH79G,
+   1002473] Funding Source: Federal RePORTER; NERC [NE/S009566/1] Funding
+   Source: UKRI
+FX We thank Mathieu Dumberry (who pointed out the time variable nature of
+   K<INF>Moon</INF>/C<INF>Moon</INF>/, Luc Lourens (who pointed out the
+   need to discuss ice caps more thoroughly), an anonymous reviewer (who
+   helped trim manuscript length), and the editor (Laurent Montesi) for
+   helpful comments. B. K. Arbic thanks Robert Krasny for early discussions
+   about orbital model time-stepping, Richard Ray for information on small
+   tidal constituents, Chris Garrett for comments on tidal resonance,
+   Dudley Chelton for useful comments on writing, and Stephen Meyers for
+   discussions on precession rates in Meyers and Malinverno (2018, their
+   Table 2). B. K. Arbic and M. Schindelegger thank Robert Hallberg for
+   discussions on energy dissipation rates due to bed friction in ocean
+   models. Much of B. K. Arbic's contributions to this study took place
+   while he was on sabbatical in France. B. K. Arbic thanks many French
+   colleagues, especially Thierry Penduff, Rosemary Morrow, Nadia Ayoub,
+   and Florent Lyard, for their help in procuring this sabbatical year. J.
+   K. Ansong and B. K. Arbic thank Alistair Adcroft for help in setting up
+   MOM6, and funding from the University of Michigan Associate Professor
+   Support Fund, supported by the Margaret and Herman Sokol Faculty Awards.
+   J. K. Ansong, H. Daher, E. B. Crawford, and B. K. Arbic acknowledge
+   National Science Foundation (NSF) grants OCE0968783 and OCE-1351837,
+   including Research Experience for Undergraduates (REU) supplements for
+   H. Daher and E. B. Crawford. B. K. Arbic additionally acknowledges NASA
+   grants NNX16AH79G, NNX17AH55G, and 80NSSC20K1135. M. Schindelegger
+   acknowledges Austrian Science Fund (FWF) for grant P30097-N29. S. J.
+   Lock acknowledges NSF grant EAR-1947614. J. X. Mitrovica was supported
+   by Harvard University and NASA grant NNX17AE42G. J. A. M. Green
+   acknowledges the UK's Natural Environment Research Council, grant
+   NE/S009566/1 (MATCH). A portion of the research described in this study
+   was carried out at the Jet Propulsion Laboratory of the California
+   Institute of Technology, under a contract with the National Aeronautics
+   and Space Administration (80NM0018D0004). Government sponsorship is
+   acknowledged. B. K. Arbic dedicates his contributions to the work
+   presented here to his beloved brother Joel Bernard Arbic, who passed
+   away on December 2, 2017. Joel was passionate about a great many things,
+   especially travel, adventure, family, and friends, and tremendously
+   gifted in ways his older brother Brian was not, especially in endeavors
+   mechanical, athletic, and artistic. Joel will forever be missed by his
+   wife, two sons, parents, two brothers, in-laws, two nieces, other
+   relatives, and numerous friends around the world.
+NR 174
+TC 39
+Z9 40
+U1 3
+U2 31
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-9097
+EI 2169-9100
+J9 J GEOPHYS RES-PLANET
+JI J. Geophys. Res.-Planets
+PD DEC
+PY 2021
+VL 126
+IS 12
+AR e2021JE006875
+DI 10.1029/2021JE006875
+PG 39
+WC Geochemistry & Geophysics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geochemistry & Geophysics
+GA XW8UE
+UT WOS:000735886200023
+PM 35846556
+OA hybrid, Green Published, Green Accepted
+DA 2025-05-29
+ER

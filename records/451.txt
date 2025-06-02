@@ -1,0 +1,51 @@
+PT J
+AU Pantua, CAJ
+   Calautit, JK
+   Wu, YP
+AF Pantua, Conrad Allan Jay
+   Calautit, John Kaiser
+   Wu, Yupeng
+TI Sustainability and structural resilience of building integrated
+   photovoltaics subjected to typhoon strength winds
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Computational fluid dynamics; Fluid-structure interaction; Solar panels;
+   Buildings; Typhoon
+ID WOOD-FRAME; SOLAR PANELS; GABLE-ROOF; LOADS; SYSTEMS
+AB The Western Pacific sees more tropical typhoons and storms annually as compared to other ocean basins. The destructive typhoons caused economic and infrastructure damage and have left many devastated communities. The use of solar photovoltaic power is also increasing, and in the event of extended power cuts, it can provide power to the affected communities, particularly during the response and recovery periods. However, solar installations are also vulnerable to typhoon-force winds and can suffer extensive damages. Currently, limited work has been conducted on approaches that optimise solar panels installation in low-rise residential buildings in terms of structural and energy performance. A solution that can reduce solar installation damage and frequency is necessary, especially for developing countries. A framework based on fluid-structure interaction (FSI) modelling and building energy simulation (BES) was proposed to evaluate roof-mounted solar panels' structural and energy performance. The FSI simulation was carried out for a typical low-rise building design with solar panels subjected to typhoon-strength approach winds. Different configurations were simulated in BES to predict the building energy demand and optimise the solar photovoltaic energy generation. Based on the evaluated configurations and conditions, it was observed that the panels failed on the roof's leeward side, and maximum destruction occurs at 45 degrees wind direction. A balance between structural resilience and energy generation was observed for the building with a roof pitch of 37 degrees, sustaining the occupant's energy requirements even in the face of typhoons and other extreme storms. The framework proposed in this study can support decision-makers and stakeholders in planning and designing typhoon resilient solar PV rooftop installations.
+C1 [Pantua, Conrad Allan Jay; Calautit, John Kaiser; Wu, Yupeng] Univ Nottingham, Dept Architecture & Built Environm, Nottingham NG7 2RD, England.
+   [Pantua, Conrad Allan Jay] De La Salle Univ, Mech Engn Dept, 2401 Taft Ave, Manila 0922, Philippines.
+C3 University of Nottingham; De La Salle University
+RP Pantua, CAJ (通讯作者)，Univ Nottingham, Dept Architecture & Built Environm, Nottingham NG7 2RD, England.
+EM conrad.pantua@nottingham.ac.uk
+RI Calautit, John/M-6994-2019; Wu, Yupeng/T-2620-2018
+FU Philippines Department of Science and Technology (DOST)
+FX The authors acknowledge the support and scholarship provided by the
+   Philippines Department of Science and Technology (DOST) .
+NR 30
+TC 10
+Z9 11
+U1 3
+U2 27
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD NOV 1
+PY 2021
+VL 301
+AR 117437
+DI 10.1016/j.apenergy.2021.117437
+EA AUG 2021
+PG 14
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA UL3BG
+UT WOS:000692530100015
+DA 2025-05-29
+ER

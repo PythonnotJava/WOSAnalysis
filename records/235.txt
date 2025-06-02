@@ -1,0 +1,50 @@
+PT J
+AU Turgut, HSA
+   Dincer, I
+AF Turgut, Hilal Sayhan Akci
+   Dincer, Ibrahim
+TI An innovative electrolytic cation exchange reactor system for cleaner
+   generation of hydrogen gas using ocean water
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Renewable energy; Hydrogen; Cation exchange; Electrolysis; Hydrogen
+   reactor; Energy; Exergy; Efficiency
+ID LIFE-CYCLE ASSESSMENT; ENERGY; SUSTAINABILITY; EFFICIENT
+AB The study presents a novel integrated three-compartment electrochemical continuous electrodeionization reactor that was constructed in a laboratory environment. In order to extract large amounts of carbon dioxide from naturally occurring oceanwater in the form of bicarbonate and carbonate, it develops a innovative electrolytic cation exchange process. At the same time, it produces hydrogen gas for possible hydrocarbon synthesis. The study employs the Box-Behnken experimental design approach implemented through the Design Expert software to investigate and optimize the performance of electrochemical hydrogen extraction from Ocean water from an integrated reactor. The integrated electrochemical continuous-type electrodeionization reactor comprises two cation-permeable membranes that operate as boundaries between three compartments: a central compartment and electrode compartments that house the cathode and anode, each of which may reverse polarity. These membranes are made of gel polystyrene cross-linked with divinylbenzene, which has acidic properties that allow cation transport while inhibiting anions. The integrated reactor's electrode chambers are enclosed in plexiglass end plates and contain distinct Plexiglass electrode compartments. These compartments have mesh and solid steel anode and cathode electrodes, with an electrode active area of 176.71 cm2. The influence of various factors, such as voltage and electrolyte amount, on the production of hydrogen synthesis is examined. The study results demonstrate a maximum hydrogen production rate of 2.2 mg/min and a hydrogen production efficiency of 7.82%. The lab testing was carried out using experimental equipment to determine viability. The tests included 35-min runs that measured hydrogen generation under various parameters, such as applied voltage, electrolyte concentration, and pH levels. The ocean salt solutions of 0.5M, 1M, and 2M were initially prepared and evaluated for hydrogen generation. Each concentration is assessed at a voltage range of 4-15V, with matching solution pH values ranging from 2 to 7. Optimization studies were conducted to enhance the hydrogen production rate. The results indicate that hydrogen production rises proportionally with applied voltage and electrolyte concentration but falls with pH growth. Within the Design Expert software, the statistical methods for response surface analysis and optimization are utilized accordingly.
+C1 [Turgut, Hilal Sayhan Akci; Dincer, Ibrahim] Ontario Tech Univ, Clean Energy Res Lab CERL FEAS, 2000 Simcoe St North, Oshawa, ON L1H 7K4, Canada.
+RP Turgut, HSA (通讯作者)，Ontario Tech Univ, Clean Energy Res Lab CERL FEAS, 2000 Simcoe St North, Oshawa, ON L1H 7K4, Canada.
+EM Hilal.Akci@ontariotechu.ca; Ibrahim.Dincer@ontariotechu.ca
+RI Dincer, Ibrahim/ITU-6448-2023
+FX The authors declare that they have no known competing financial
+   interests or personal relationships that could have appeared to
+   influence the work reported in this paper.
+NR 61
+TC 1
+Z9 1
+U1 2
+U2 9
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD AUG 25
+PY 2024
+VL 468
+AR 143003
+DI 10.1016/j.jclepro.2024.143003
+EA JUL 2024
+PG 15
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA YD2M4
+UT WOS:001266483700001
+OA hybrid
+DA 2025-05-29
+ER

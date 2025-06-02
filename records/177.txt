@@ -1,0 +1,61 @@
+PT J
+AU Dang, Q
+   Chen, WQ
+   Li, YR
+   Tang, L
+AF Dang, Qi
+   Chen, Wenqian
+   Li, Yirui
+   Tang, Liang
+TI Sustainable Underwater Solar Conversion Systems with Enhanced Electrode
+   Environmental Compatibility
+SO ACS SUSTAINABLE CHEMISTRY & ENGINEERING
+LA English
+DT Article
+DE ocean solar energy; polydopamine; Prussian blue; N-doped carbon felt;
+   underwater day-night energy supply
+ID OXYGEN REDUCTION; CARBON-FIBER; LITHIUM-ION; POLYDOPAMINE; CATHODE;
+   NITROGEN; PERFORMANCE; EFFICIENCY; MEMBRANE; FENTON
+AB The exploitation and utilization of marine renewable resources is a significant component of marine environmental protection. Hence, a sustainable underwater energy supply system is required for related underwater devices such as environmental monitoring devices. Herein, we present an algae-inspired system that harnesses intermittent ocean solar energy to drive insertion/extraction processes of sodium ions from seawater to electrode materials for sustainable day-night energy supply. For this, we develop a combination of two optimization strategies for enhancing the environmental benignity of electrodes. The strategies include a polydopamine-assisted anchor technique to modify the Prussian blue (PB) electrode to prevent cyanide leakage. Also, a modified polyacrylonitrile-carbon felt (PAN-CF) was applied as a substitute for the MnO2 electrode to eliminate the presence of Mn metal in the water environment. After two modification strategies, the polydopamine coating technique can ensure almost no leakage of PB in the seawater. No dissolution of both the modified PB and Na-intercalated PB electrodes after being immersed can be found in authentic seawater for 4 months. Furthermore, the modified PB electrode and the PAN-CF electrode still show good electrochemical performance in day-night modes. Even after being used for 50 day-night cycles, the system still performed stably. These regulation strategies provide ideas for optimizing the environmental compatibility of electrode materials for other underwater battery systems. This is modified underwater solar conversion systems also showed other merits, such as the restoration of contaminated seawater, which promises their use as integrated devices for underwater energy supply and environmental restoration.
+C1 [Dang, Qi; Chen, Wenqian; Li, Yirui; Tang, Liang] Shanghai Univ, Sch Environm & Chem Engn, Key Lab Organ Compound Pollut Control Engn MOE, Shanghai 200444, Peoples R China.
+C3 Shanghai University
+RP Tang, L (通讯作者)，Shanghai Univ, Sch Environm & Chem Engn, Key Lab Organ Compound Pollut Control Engn MOE, Shanghai 200444, Peoples R China.
+EM tanglliang@shu.edu.cn
+RI Li, Yirui/MDS-8744-2025; chen, wenqian/GRS-6775-2022; Tang,
+   Liang/Y-3627-2019
+OI chen, wenqian/0000-0001-7946-8957
+FU National Natural Science Foundation of China [42107226, 12104286];
+   program for Professor of Special Appointment (Eastern Scholar) at
+   Shanghai Institutions of Higher Learning [QD2019005]
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant Nos. 42107226, 12104286) and the program for Professor of
+   Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher
+   Learning (Grant No. QD2019005).
+NR 58
+TC 2
+Z9 2
+U1 6
+U2 75
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 2168-0485
+J9 ACS SUSTAIN CHEM ENG
+JI ACS Sustain. Chem. Eng.
+PD JAN 17
+PY 2022
+VL 10
+IS 2
+BP 935
+EP 945
+DI 10.1021/acssuschemeng.1c06871
+EA JAN 2022
+PG 11
+WC Chemistry, Multidisciplinary; Green & Sustainable Science & Technology;
+   Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Engineering
+GA ZP2OA
+UT WOS:000740446500001
+DA 2025-05-29
+ER

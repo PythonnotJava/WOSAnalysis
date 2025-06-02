@@ -1,0 +1,77 @@
+PT J
+AU Qu, Y
+   Hooper, T
+   Austen, MC
+   Papathanasopoulou, E
+   Huang, JL
+   Yan, XY
+AF Qu, Yang
+   Hooper, Tara
+   Austen, Melanie C.
+   Papathanasopoulou, Eleni
+   Huang, Junling
+   Yan, Xiaoyu
+TI Development of a computable general equilibrium model based on
+   integrated macroeconomic framework for ocean multi-use between offshore
+   wind farms and fishing activities in Scotland
+SO APPLIED ENERGY
+LA English
+DT Article
+DE Natural capital; Ecosystem services; CGE model; Multi -use; Offshore
+   wind energy
+ID MARINE PROTECTED AREAS; ECOSYSTEM SERVICES; RENEWABLE ENERGY; NORTH-SEA;
+   ARTIFICIAL REEFS; CO-LOCATION; FISHERIES; IMPACTS; POTENTIALS; PLATFORMS
+AB The rapid development of offshore wind farms (OWFs) has raised concerns about the increasing conflicts and synergies with existing marine activities, especially the traditional fishery industry, from socioeconomic and environmental perspectives. Quantifying the conflicts and synergies require frameworks that can consider environment and economic systems simultaneously. This study builds on and extends a well-established computable general equilibrium (CGE) model to incorporate a natural capital and ecosystem service into the modelling framework, enabling a comprehensive analysis of the two-way interactions between the economy and natural environment. Our results suggest that expansion of OWFs has significant negative impacts on the seafood sectors, whereas fish stocks benefit slightly as fewer fish are harvested. Moreover, the increase in fish stocks due to the closed areas and artificial reef effect could bring benefits to the fishing sector, and pass onto the wider economy. The combined impacts of expansion of OWFs and increased fish stock demonstrate the potential benefits of multi-use of marine spaces by the OWFs and fishing activities. This modelling approach provides an illustration of the potential and importance of incorporating natural capital into CGE models in practice, which could be used for policy making regarding marine renewable energy and sustainable development planning in the marine environment.
+C1 [Qu, Yang] Tsinghua Univ, Inst Energy Environm & Econ, Beijing 100084, Peoples R China.
+   [Qu, Yang; Hooper, Tara; Austen, Melanie C.] Plymouth Marine Lab, Prospect Pl, Plymouth, England.
+   [Qu, Yang; Yan, Xiaoyu] Univ Exeter, Environm & Sustainabil Inst, Penryn, England.
+   [Hooper, Tara] Monkstone House, Joint Nat Conservat Comm, City Rd, Peterborough PE1 1JY, England.
+   [Austen, Melanie C.] Univ Plymouth, Marine Inst, Drake Circus, Plymouth PL4 8AA, England.
+   [Papathanasopoulou, Eleni] Univ West England, Coldharbour Lane, Bristol, England.
+   [Huang, Junling] Tsinghua Univ, China Three Gorges Corp Joint Res Ctr Climate Gove, Beijing, Peoples R China.
+C3 Tsinghua University; Plymouth Marine Laboratory; University of Exeter;
+   University of Plymouth; Tsinghua University
+RP Qu, Y (通讯作者)，Tsinghua Univ, Inst Energy Environm & Econ, Beijing 100084, Peoples R China.; Qu, Y (通讯作者)，Plymouth Marine Lab, Prospect Pl, Plymouth, England.; Qu, Y (通讯作者)，Univ Exeter, Environm & Sustainabil Inst, Penryn, England.
+EM quyang0317@mail.tsinghua.edu.cn
+RI Papathanasopoulou, Eleni/JZE-0974-2024; Yan, Xiaoyu/ABA-7470-2020;
+   Austen, Melanie/GLU-1418-2022
+OI Austen, Melanie/0000-0001-8133-0498; Papathanasopoulou,
+   Eleni/0009-0006-1963-8313
+FU National Natural Science Foundation of China [71974109, 72140005];
+   Sino-German mobility programme [M-0708]; Tsinghua University-China Three
+   Gorges Corporation Joint Research Center for Climate Governance
+   Mechanism and Green Low-carbon Transformation Strategy; Tsinghua-Toyota
+   Joint Research Institute Cross-discipline Program
+FX The authors acknowledge fundings from the National Natural Science
+   Foundation of China (71974109 and 72140005), Sino-German mobility
+   programme (M-0708), Tsinghua University-China Three Gorges Corporation
+   Joint Research Center for Climate Governance Mechanism and Green
+   Low-carbon Transformation Strategy, and Tsinghua-Toyota Joint Research
+   Institute Cross-discipline Program.
+NR 104
+TC 6
+Z9 7
+U1 10
+U2 41
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0306-2619
+EI 1872-9118
+J9 APPL ENERG
+JI Appl. Energy
+PD FEB 15
+PY 2023
+VL 332
+AR 120529
+DI 10.1016/j.apenergy.2022.120529
+EA DEC 2022
+PG 13
+WC Energy & Fuels; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels; Engineering
+GA 7S7TA
+UT WOS:000910953200001
+OA Green Accepted, Green Submitted
+DA 2025-05-29
+ER

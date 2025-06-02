@@ -1,0 +1,71 @@
+PT J
+AU Johnson, RH
+   Ciesielski, PE
+   Ruppert, JH
+   Katsumata, M
+AF Johnson, Richard H.
+   Ciesielski, Paul E.
+   Ruppert, James H., Jr.
+   Katsumata, Masaki
+TI Sounding-Based Thermodynamic Budgets for DYNAMO
+SO JOURNAL OF THE ATMOSPHERIC SCIENCES
+LA English
+DT Article
+ID MADDEN-JULIAN OSCILLATION; GENERAL-CIRCULATION MODEL; PACIFIC WARM POOL;
+   ATMOSPHERE RESPONSE EXPERIMENT; TROPICAL CLOUD CLUSTERS; STATIC ENERGY
+   BUDGET; LARGE-SCALE DYNAMICS; SOUTH CHINA SEA; TOGA-COARE IOP;
+   INTRASEASONAL OSCILLATION
+AB The Dynamics of the Madden-Julian Oscillation (DYNAMO) field campaign, conducted over the Indian Ocean from October 2011 to March 2012, was designed to study the initiation of the Madden Julian oscillation (WO). Two prominent MJOs occurred in the experimental domain during the special observing period in October and November. Data from a northern and a southern sounding array (NSA and SSA, respectively) have been used to investigate the apparent heat sources and sinks (Q(1) and Q(2)) and radiative heating rates Q(R) throughout the life cycles of the two MJO events. The MJO signal was far stronger in the NSA than the SSA. Time series of Q(1), Q(2), and the vertical eddy flux of moist static energy reveal an evolution of cloud systems for both MJOs consistent with prior studies: shallow, nonprecipitating cumulus during the suppressed phase, followed by cumulus congestus, then deep convection during the active phase, and finally stratiform precipitation. However, the duration of these phases was shorter for the November MJO than for the October event. The profiles of Q(1) and Q(2) for the two arrays indicate a greater stratiform rain fraction for the NSA than the SSA a finding supported by TRMM measurements. Surface rainfall rates and net tropospheric QR determined as residuals from the budgets show good agreement with satellite-based estimates. The cloud radiative forcing was approximately 20% of the column-integrated convective heating and of the same amplitude as the normalized gross moist stability, leaving open the possibility of radiative convective instability for the two MJOs.
+C1 [Johnson, Richard H.; Ciesielski, Paul E.; Ruppert, James H., Jr.] Colorado State Univ, Ft Collins, CO 80523 USA.
+   [Katsumata, Masaki] Japan Agcy Marine Earth Sci & Technol, Yokosuka, Kanagawa 2370061, Japan.
+C3 Colorado State University System; Colorado State University Fort
+   Collins; Japan Agency for Marine-Earth Science & Technology (JAMSTEC)
+RP Johnson, RH (通讯作者)，Colorado State Univ, Dept Atmospher Sci, 1371 Campus Delivery, Ft Collins, CO 80523 USA.
+EM johnson@atmos.colostate.edu
+RI Ruppert, James/AAD-1003-2020; Johnson, Richard/E-5987-2011
+OI Ruppert, James/0000-0001-5235-9718
+FU National Science Foundation [AGS-1059899, AGS-1138353, AGS-1360237];
+   National Aeronautics and Space Administration [NNX13AF74G]; Department
+   of Energy [DE-SC0008582]; U.S. Department of Energy (DOE) [DE-SC0008582]
+   Funding Source: U.S. Department of Energy (DOE); Directorate For
+   Geosciences; Div Atmospheric & Geospace Sciences [1059899] Funding
+   Source: National Science Foundation; Directorate For Geosciences; Div
+   Atmospheric & Geospace Sciences [1360237] Funding Source: National
+   Science Foundation
+FX This research has been supported by the National Science Foundation
+   under Grants AGS-1059899, AGS-1138353, and AGS-1360237, the National
+   Aeronautics and Space Administration under Grant NNX13AF74G, and
+   Department of Energy Grant DE-SC0008582. Comments by Adam Sobel and two
+   anonymous reviewers have led to considerable improvements in the
+   manuscript. We thank Zhe Feng of PNNL for generously providing the
+   radiative heating rates for Gan Island, ECMWF for making available its
+   operational analyses, Thomas Birner and Wayne Schubert for helpful
+   discussions, and Rick Taft for assistance with preparation of figures.
+NR 92
+TC 91
+Z9 101
+U1 0
+U2 30
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0022-4928
+EI 1520-0469
+J9 J ATMOS SCI
+JI J. Atmos. Sci.
+PD FEB
+PY 2015
+VL 72
+IS 2
+BP 598
+EP 622
+DI 10.1175/JAS-D-14-0202.1
+PG 25
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA CA5NU
+UT WOS:000348955900006
+OA Bronze
+DA 2025-05-29
+ER

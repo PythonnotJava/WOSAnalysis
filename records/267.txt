@@ -1,0 +1,74 @@
+PT J
+AU Bai, GQ
+   Chen, YL
+   Hu, XY
+   Shi, Y
+   Jiang, WW
+   Zhang, XQ
+AF Bai, Guiqiang
+   Chen, Yanli
+   Hu, Xinyu
+   Shi, Yu
+   Jiang, Wenwen
+   Zhang, Xueqing
+TI Multi-AUV dynamic trajectory optimization and collaborative search
+   combined with task urgency and energy consumption scheduling in 3-D
+   underwater environment with random ocean currents and uncertain
+   obstacles
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Multiple autonomous underwater; vehicle(multi-AUV); Collaborative target
+   search; Neural network; Real-time task planning; The double layer
+   bio-inspired self-organizing
+ID SELF-ORGANIZING MAP; NEURAL-NETWORK; ASSIGNMENT; SYSTEM; ALLOCATION;
+   ALGORITHM; ROBOT; SEGMENTATION; NAVIGATION; SURFACE
+AB A double layer bio-inspired self-organizing map (DLBSOM) algorithm for multiple autonomous underwater vehicle (multi-AUV) dynamic task planning to search for multi-targets in the 3-D underwater environments affected by random ocean currents and dynamic uncertainty obstacles is proposed. Combined with a task urgency bio-inspired neural network (TUBNN) model that is applied to construct the neuron activity network to complete initial task assignment and path planning with the constraint of energy consumption. The decoupling of the task assignment and path planning in the initial task planning is solved through the corrected redistribution mechanism and end-to-end trajectory optimization method. The unknown obstacles information is fused with the diamond-shaped local neuronal network constructed by the diamond closed curve function. Through the function curve, the local neuronal network can be precisely adjusted according to AUV operation information and equipment performance to achieve the saving of computing resources and quick processing speed. Subsequently, the distance-speed comprehensive evaluation (DSCE) strategy is used to complete dynamic avoidance decision. By the General Bathymetric Chart of the Oceans (GBCO) and the Integrated Ocean Observing System (IOOS), the environment is generated to complete multiple sets of simulations that demonstrate the efficiency and adaptability of the DLBSOM algorithm in multi-AUV collaborative search.
+C1 [Bai, Guiqiang; Chen, Yanli; Hu, Xinyu; Shi, Yu; Jiang, Wenwen; Zhang, Xueqing] Jilin Univ, Sch Mech & Aerosp Engn, Minist Educ, Key Lab CNC Equipment Reliabil, Changchun 130022, Peoples R China.
+C3 Jilin University; Ministry of Education - China
+RP Chen, YL (通讯作者)，Jilin Univ, Sch Mech & Aerosp Engn, Minist Educ, Key Lab CNC Equipment Reliabil, Changchun 130022, Peoples R China.
+EM baigq19@mails.jlu.edu; chenyanli@jlu.edu.cn
+RI ; Hu, Xinyu/JMQ-6552-2023
+OI Bai, Guiqiang/0000-0002-3917-5700; Jiang, wenwen/0000-0001-9830-8393;
+   Hu, Xinyu/0000-0002-9739-5613
+FU Jilin Province Key Science and Technology RD, China [20210203175SF];
+   Foundation of Educa-tion Bureau of Jilin Province, China
+   [JJKH20220988KJ]; Aeronautical Science Foundation of China
+   [2019ZA0R4001]; National Natural Science Foundation of China [51505174];
+   Interdisciplinary integration innovation and cultivation project of
+   Jilin university, China [JLUXKJC2020105]
+FX The authors would like to express appreciation for the financial support
+   provided by Jilin Province Key Science and Technology R & D, China
+   project under Grant, No: 20210203175SF; Foundation of Education Bureau
+   of Jilin Province, China under Grant, No: JJKH20220988KJ; Aeronautical
+   Science Foundation of China under Grant, No: 2019ZA0R4001; National
+   Natural Science Foundation of China under Grant, No: 51505174;
+   Interdisciplinary integration innovation and cultivation project of
+   Jilin university, China under Grant, No: JLUXKJC2020105.
+NR 59
+TC 16
+Z9 16
+U1 15
+U2 107
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD MAY 1
+PY 2023
+VL 275
+AR 113841
+DI 10.1016/j.oceaneng.2023.113841
+EA MAR 2023
+PG 12
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA E0QH8
+UT WOS:000972680400001
+DA 2025-05-29
+ER

@@ -1,0 +1,74 @@
+PT J
+AU Ma, QF
+   Feng, X
+   Li, JR
+   Wu, ZY
+   Lu, H
+   Luo, HF
+   Wang, CP
+   Wang, SH
+   Huang, J
+   Mahian, O
+AF Ma, Qingfen
+   Feng, Xin
+   Li, Jingru
+   Wu, Zhongye
+   Lu, Hui
+   Luo, Hongfeng
+   Wang, Chengpeng
+   Wang, Shenghui
+   Huang, Jie
+   Mahian, Omid
+TI An innovative ocean thermal energy conversion system with zeotropic
+   Rankine cycle and direct contact membrane distillation for enhanced
+   efficiency and sustainability
+SO ENERGY
+LA English
+DT Article
+DE Ocean thermal energy conversion; Zeotropic Rankine cycle; Direct contact
+   membrane distillation; Water and power cogeneration
+ID ECONOMIC-ANALYSIS; WORKING FLUIDS; MULTIGENERATION SYSTEM; OPTIMIZATION;
+   POWER; EXERGY; DESALINATION; PERFORMANCE; PRESSURE; DESIGN
+AB This research introduces an integrated ocean thermal energy conversion water and power cogeneration system (OTEC-WPCS), combining a Zeotropic Rankine Cycle (ZRC) with Direct Contact Membrane Distillation (DCMD) for efficient power and water production. The hydrofluoroolefins (HFOs), chosen for their zero ozone depletion potential (ODP) and extremely low global warming potential (GWP), are used as working fluid components in the ZRC. Additionally, DCMD is implemented for freshwater generation. A mathematical model is established, incorporating both thermodynamic and CFD simulations. The goal is to identify optimal operating conditions that maximize the output of the system. By coupling DCMD and ZRC in series, the system's efficiency reaches 8.92 %, an improvement of 5.71 % compared to a standalone ZRC system. This configuration allows for more efficient use of surface seawater heat compared to an ammonia-based Organic Rankine Cycle (ORC)-DCMD system. The enhancements include an increase in power and water production per unit mass flow of surface seawater by 0.55 kW/(kg & sdot;s) and 30 %, respectively. Over 60 % of the system's exergy destruction occurs in the DCMD modules and evaporator, while nearly 80 % of the capital cost is associated with the evaporator, condenser, and DCMD heat exchanger. Enhancing the DCMD module structure and heat exchanger can improve both energy and exergy efficiency, and economic feasibility.
+C1 [Ma, Qingfen; Feng, Xin; Li, Jingru; Wu, Zhongye; Luo, Hongfeng; Wang, Shenghui; Huang, Jie] Hainan Univ, Coll Mech & Elect Engn, Haikou 570228, Hainan, Peoples R China.
+   [Lu, Hui] Chinese Acad Trop Agr Sci, Inst Environm & Plant Protect, Haikou 571101, Hainan, Peoples R China.
+   [Wang, Chengpeng; Wang, Shenghui] MNR, Inst Seawater Desalinat & Multipurpose Utilizat, 55 Hanghai RD, Tianjin 300192, Peoples R China.
+   [Mahian, Omid] Ningbo Univ, Fac Mech Engn & Mech, Zhejiang Prov Engn Res Ctr Safety Pressure Vessel, Ningbo 315211, Peoples R China.
+C3 Hainan University; Chinese Academy of Tropical Agricultural Sciences;
+   Ningbo University
+RP Ma, QF (通讯作者)，Hainan Univ, Coll Mech & Elect Engn, Haikou 570228, Hainan, Peoples R China.; Mahian, O (通讯作者)，Ningbo Univ, Fac Mech Engn & Mech, Zhejiang Prov Engn Res Ctr Safety Pressure Vessel, Ningbo 315211, Peoples R China.
+EM mqf0920@hainanu.edu.cn; omid.mahian@gmail.com
+RI 卢, 辉/HIZ-6185-2022; Mahian, Omid/AAA-4550-2019
+FU Hainan Provincial Natural Science Foundation of China [422CXTD509];
+   Hainan Province Science and Technology Special Fund [ZDYF2021GXJS021];
+   National Natu- ral Science Foundations of China [51769006]
+FX The financial supports by the Hainan Provincial Natural Science
+   Foundation of China (422CXTD509) , the Hainan Province Science and
+   Technology Special Fund (ZDYF2021GXJS021) and the National Natu- ral
+   Science Foundations of China (51769006) are gratefully acknowledged.
+NR 60
+TC 2
+Z9 2
+U1 3
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD MAR 15
+PY 2024
+VL 291
+AR 130349
+DI 10.1016/j.energy.2024.130349
+EA JAN 2024
+PG 20
+WC Thermodynamics; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels
+GA JC5Y4
+UT WOS:001170982500001
+DA 2025-05-29
+ER

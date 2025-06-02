@@ -1,0 +1,77 @@
+PT J
+AU Iovino, D
+   Masina, S
+   Storto, A
+   Cipollone, A
+   Stepanov, VN
+AF Iovino, Doroteaciro
+   Masina, Simona
+   Storto, Andrea
+   Cipollone, Andrea
+   Stepanov, Vladimir N.
+TI A 1/16° eddying simulation of the global NEMO sea-ice-ocean system
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID MERIDIONAL OVERTURNING CIRCULATION; ANTARCTIC CIRCUMPOLAR CURRENT;
+   FRESH-WATER DISCHARGE; CORE-II SIMULATIONS; SOUTHERN-OCEAN;
+   ATLANTIC-OCEAN; SALINITY PROFILES; ROSSBY RADIUS; MODEL; VARIABILITY
+AB Analysis of a global eddy-resolving simulation using the NEMO general circulation model is presented. The model has 1/16 degrees horizontal spacing at the Equator, employs two displaced poles in the Northern Hemisphere, and uses 98 vertical levels. The simulation was spun up from rest and integrated for 11 model years, using ERA-Interim reanalysis as surface forcing. Primary intent of this hindcast is to test how the model represents upper ocean characteristics and sea ice properties.
+   Analysis of the zonal averaged temperature and salinity, and the mixed layer depth indicate that the model average state is in good agreement with observed fields and that the model successfully represents the variability in the upper ocean and at intermediate depths. Comparisons against observational estimates of mass transports through key straits indicate that most aspects of the model circulation are realistic. As expected, the simulation exhibits turbulent behaviour and the spatial distribution of the sea surface height (SSH) variability from the model is close to the observed pattern. The distribution and volume of the sea ice are, to a large extent, comparable to observed values.
+   Compared with a corresponding eddy-permitting configuration, the performance of the model is significantly improved: reduced temperature and salinity biases, in particular at intermediate depths, improved mass and heat transports, better representation of fluxes through narrow and shallow straits, and increased global-mean eddy kinetic energy (by similar to 40 %). However, relatively minor weaknesses still exist such as a lower than observed magnitude of the SSH variability. We conclude that the model output is suitable for broader analysis to better understand upper ocean dynamics and ocean variability at global scales. This simulation represents a major step forward in the global ocean modelling at the Euro-Mediterranean Centre on Climate Change and constitutes the groundwork for future applications to short-range ocean forecasting.
+C1 [Iovino, Doroteaciro; Masina, Simona; Storto, Andrea; Cipollone, Andrea; Stepanov, Vladimir N.] Fdn Ctr Euromediterraneo Cambiamenti Climat CMCC, Bologna, Italy.
+   [Masina, Simona] INGV, Bologna, Italy.
+C3 Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC); Istituto
+   Nazionale Geofisica e Vulcanologia (INGV)
+RP Iovino, D (通讯作者)，Fdn Ctr Euromediterraneo Cambiamenti Climat CMCC, Bologna, Italy.
+EM dorotea.iovino@cmcc.it
+RI Masina, Simona/B-4974-2012; Storto, Andrea/AAH-3823-2019; Iovino,
+   Doroteaciro/JCE-4608-2023; Stepanov, Vladimir/P-8371-2019
+OI MASINA, Simona/0000-0001-6273-7065; Storto, Andrea/0000-0003-3856-8905;
+   IOVINO, Doroteaciro/0000-0001-5132-7255; Cipollone,
+   Andrea/0000-0001-9590-0922
+FU Italian Ministry of Education, University and Research; Ministry for
+   Environment, Land and Sea through the project GEMINA; CNES; PRACE
+FX We thank the two anonymous reviewers for their thorough reading and
+   constructive comments, which helped improving the manuscript. The
+   financial support of the Italian Ministry of Education, University and
+   Research, and Ministry for Environment, Land and Sea through the project
+   GEMINA is gratefully acknowledged. We also acknowledge PRACE for
+   awarding us the project ENSemble-based approach for global OCEAN
+   forecasting (ENS4OCEAN) and providing access to resource on MareNostrum
+   based at the Barcelona Supercomputing Center (Spain). The RAPID data
+   have been loaded from the following web pages:
+   http://www.rapid.ac.uk/rapidmoc and
+   http://www.rsmas.miami.edu/users/mocha. The EN3 subsurface ocean
+   temperature and salinity data were collected, quality controlled, and
+   distributed by the UK Met Office Hadley Centre. The AVISO altimeter
+   products were produced by Ssalto/Duacs and distributed by AVISO, with
+   support from CNES.
+NR 84
+TC 24
+Z9 25
+U1 1
+U2 4
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD AUG 12
+PY 2016
+VL 9
+IS 8
+BP 2665
+EP 2684
+DI 10.5194/gmd-9-2665-2016
+PG 20
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA DV8QW
+UT WOS:000383202600001
+OA gold, Green Submitted
+DA 2025-05-29
+ER

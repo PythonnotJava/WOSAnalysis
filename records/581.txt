@@ -1,0 +1,52 @@
+PT J
+AU Ukkonen, P
+   Hogan, RJ
+AF Ukkonen, Peter
+   Hogan, Robin J.
+TI Implementation of a machine-learned gas optics parameterization in the
+   ECMWF Integrated Forecasting System: RRTMGP-NN 2.0
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID CLIMATE SIMULATIONS; RADIATION CALCULATIONS; MODEL; LONGWAVE; ACCURATE;
+   SCHEMES
+AB Radiation schemes are physically important but computationally expensive components of weather and climate models. This has spurred efforts to replace them with a cheap emulator based on neural networks (NNs), obtaining large speed-ups, but at the expense of accuracy, energy conservation and generalization. An alternative approach, which is slower but more robust than full emulation, is to use NNs to predict optical properties but keep the radiative transfer equations. Recently, NNs were developed to replace the RRTMGP (Rapid Radiative Transfer Model for General circulation model applications-Parallel) gas optics scheme and shown to be accurate while improving speed. However, the evaluations were based solely on offline radiation computations.In this paper, we describe the implementation and prognostic evaluation of RRTMGP-NN in the Integrated Forecasting System (IFS) of the European Centre for Medium-Range Weather Forecasts (ECMWF). The new gas optics scheme was incorporated into ecRad, the modular ECMWF radiation scheme. Using two new methods to improve accuracy - a hybrid loss function designed to reduce radiative forcing errors and an early stopping method based on monitoring fluxes and heating rates with respect to a line-by-line benchmark - we train NN models on RRTMGP k distributions with reduced spectral resolutions. Offline evaluation of the new NN gas optics, RRTMGP-NN 2.0, shows a very high level of accuracy for clear-sky fluxes and heating rates. For instance, the RMSE in the shortwave surface downwelling flux is 0.78 W m-2 for RRTMGP and 0.80 W m-2 for RRTMGP-NN in a present-day scenario, while upwelling flux errors are actually smaller for the NN. Because our approach does not affect the treatment of clouds, no additional errors will be introduced for cloudy profiles. RRTMGP-NN closely reproduces radiative forcings for five important greenhouse gases across a wide range of concentrations such as 8xCO(2).To assess the impact of different gas optics schemes in the IFS, four 1-year coupled ocean-atmosphere simulations were performed for each configuration. The results show that RRTMGP-NN and RRTMGP produce very similar model climates, with the differences being smaller than those between existing schemes and statistically insignificant for zonal means of single-level quantities such as surface temperature. The use of RRTMGP-NN speeds up ecRad by a factor of 1.5 compared to RRTMGP (the gas optics being almost 3 times faster) and is also faster than the older and less accurate RRTMG, which is used in the current operational cycle of the IFS.
+C1 [Ukkonen, Peter] Danish Meteorol Inst, Weather Res, Copenhagen, Denmark.
+   [Hogan, Robin J.] European Ctr Medium Range Weather Forecasts, Res Dept, Reading, England.
+   [Hogan, Robin J.] Univ Reading, Dept Meteorol, Reading, England.
+C3 Danish Meteorological Institute DMI; European Centre for Medium-Range
+   Weather Forecasts (ECMWF); University of Reading
+RP Ukkonen, P (通讯作者)，Danish Meteorol Inst, Weather Res, Copenhagen, Denmark.
+EM puk@dmi.dk
+RI ; Hogan, Robin/M-6549-2016
+OI Ukkonen, Peter/0000-0001-8565-8079; Hogan, Robin/0000-0002-3180-5157
+FU Horizon 2020
+FX This research has been supported by the Horizon 2020.
+NR 38
+TC 6
+Z9 6
+U1 0
+U2 3
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD JUN 9
+PY 2023
+VL 16
+IS 11
+BP 3241
+EP 3261
+DI 10.5194/gmd-16-3241-2023
+PG 21
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA I7QX3
+UT WOS:001004706800001
+OA gold
+DA 2025-05-29
+ER

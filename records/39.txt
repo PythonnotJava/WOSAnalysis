@@ -1,0 +1,73 @@
+PT J
+AU Zhai, LX
+   Wen, HG
+   Liu, H
+   Guo, DX
+   Liu, GL
+   Qu, H
+   Wan, LY
+   Yao, HL
+   Zhai, JY
+AF Zhai, Lixia
+   Wen, Honggui
+   Liu, Heng
+   Guo, Dongxin
+   Liu, Guanlin
+   Qu, Hang
+   Wan, Lingyu
+   Yao, Huilu
+   Zhai, Junyi
+TI High-sensitivity blue-energy-shuttle and in-situ electrical behaviors in
+   ocean
+SO NANO ENERGY
+LA English
+DT Article
+DE Blue-energy harvesting; Hybrid nanogenerator; High sensitivity;
+   Integration
+ID TRIBOELECTRIC NANOGENERATOR; WAVE ENERGY
+AB Although various triboelectric nanogenerators (TENGs) and hybrid ocean kinetic energy harvesters (OKEHs) have been devised for blue energy harvesting, the lack of studies in the real ocean has hindered their progress. Here, a high-sensitivity modular shuttle-like hybrid nanogenerator (MSHG) is prepared, comprising contactseparation TENG, piezoelectric nanogenerator (PENG), and electromagnetic generator (EMG) components. Its acceleration feature and electrical performance were systematically investigated under various conditions, from laboratory setups to real ocean waves. The MSHG responds sensitively to low-level excitations and exhibits robust energy harvesting capability in the ocean. Statistical analysis shows that its most probable output frequency reaches 0.83 Hz, which is about four times higher than the main frequency of the ocean wave (0.1 -0.2 Hz). A 12-integrated MSHG system effectively harvests ocean wave energy to power a water-quality detector, while its most probable acceleration amplitude is approximately 24% of the maximum in a simulated linear motor motion and 57% of the mean value under simulated water wave. The findings provide valuable insights for advancing nanogenerator applications in real oceans.
+C1 [Zhai, Lixia; Wen, Honggui; Liu, Heng; Guo, Dongxin; Liu, Guanlin; Qu, Hang; Wan, Lingyu; Yao, Huilu] Guangxi Univ, Sch Phys Sci & Technol, Nanning 530004, Peoples R China.
+   [Yao, Huilu] Guangxi Univ, Sch Elect Engn, Nanning 530004, Peoples R China.
+   [Zhai, Junyi] Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, Beijing 100083, Peoples R China.
+   [Zhai, Lixia; Wen, Honggui; Liu, Heng; Guo, Dongxin; Liu, Guanlin; Qu, Hang; Wan, Lingyu; Yao, Huilu] Guangxi Univ, Educ Dept Guangxi Zhuang Autonomous Reg, Key Lab Blue Energy & Syst Integrat, Nanning 530004, Peoples R China.
+   [Zhai, Lixia; Wen, Honggui; Liu, Heng; Guo, Dongxin; Liu, Guanlin; Qu, Hang; Wan, Lingyu; Yao, Huilu] State Key Lab Featured Met Mat & Life cycle Safety, Nanning 530004, Peoples R China.
+C3 Guangxi University; Guangxi University; Chinese Academy of Sciences;
+   Beijing Institute of Nanoenergy & Nanosystems, CAS; Guangxi University
+RP Wan, LY; Yao, HL (通讯作者)，Guangxi Univ, Sch Phys Sci & Technol, Nanning 530004, Peoples R China.; Yao, HL (通讯作者)，Guangxi Univ, Sch Elect Engn, Nanning 530004, Peoples R China.; Zhai, JY (通讯作者)，Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, Beijing 100083, Peoples R China.
+EM lyw2017@gxu.edu.cn; yhl@gxu.edu.cn; jyzhai@binn.cas.cn
+RI Wan, Lingyu/X-9863-2019; Liu, Guanlin/GYV-3023-2022
+OI Liu, Guanlin/0000-0003-1721-2678
+FU Science Foundation of Guangxi Province [2021GXNSFAA075009]; Innovation
+   Project of Guangxi Graduate Education [YCBZ2023038]
+FX The research was supported by the National Key R & D Project from
+   Ministry of Science and Technology (2021YFA1201603) , Naturalr Science
+   Foundation of Guangxi Province (Grant No. 2021GXNSFAA075009) and
+   Innovation Project of Guangxi Graduate Education (YCBZ2023038) .
+NR 43
+TC 10
+Z9 10
+U1 25
+U2 80
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD JUN 15
+PY 2024
+VL 125
+AR 109546
+DI 10.1016/j.nanoen.2024.109546
+EA APR 2024
+PG 10
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA QT6F0
+UT WOS:001223152600001
+DA 2025-05-29
+ER

@@ -1,0 +1,54 @@
+PT J
+AU Chen, SY
+   Duan, FJ
+   Tabeta, S
+AF Chen, Shanyu
+   Duan, Fengjun
+   Tabeta, Shigeru
+TI Sustainability assessment of a conceptual multipurpose offshore platform
+   in the South China Sea
+SO ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY
+LA English
+DT Article
+DE Floating structure; Ocean thermal energy conversion; Microalgae
+   cultivation; Tuna aquaculture; Triple-I
+ID STRATEGIES; FUEL
+AB An offshore multipurpose floating platform (MPFP) combines different marine technologies to serve industry needs using one infrastructure; the aim of an MPFP is enlarging the synthesis benefits and reducing the negative impacts. Ocean thermal energy conversion (OTEC) in particular has attracted significant attention for its great potential and low environmental risk. This research demonstrates the system design of a conceptual MPFP in the South China Sea, evaluating its economic and environmental sustainability using an inclusive index. The system is based on a modular floating structure with a designed lifetime of 50 years. Tuna aquaculture, microalgae cultivation and processing, and the OTEC energy infrastructure are integrated to increase the profitability of the applications. We adopted a high-yield photobioreactor microalgae cultivation system and a low-cost barge-type floating structure combined with a semisubmergible to reduce the required area and cost of the floating structure and improve the sustainability of the system. The inclusive impact index "Triple-I-light (IIIlight)" was calculated to evaluate the environmental sustainability and economic feasibility of the floating system. The result shows that the new system becomes environmentally neutral (EF = BC) at a lifetime of 11.5 years, showing sustainability (IIIlight & LE; 0) at a lifetime of 20 years. The proposed system can produce fish with no external energy or feed supply. An autonomous system, such as the one proposed here, is considered very effective when it comes to utilizing the ocean and contributing to a sustainable society.
+C1 [Chen, Shanyu; Tabeta, Shigeru] Univ Tokyo, Kashiwa, Japan.
+   [Duan, Fengjun] Canon Inst Global Studies, Tokyo, Japan.
+C3 University of Tokyo
+RP Tabeta, S (通讯作者)，Univ Tokyo, Kashiwa, Japan.
+EM tabeta@k.u-tokyo.ac.jp
+RI Tabeta, Shigeru/AAZ-9926-2020
+OI Tabeta, Shigeru/0000-0001-8061-4288
+FU University of Tokyo
+FX Open access funding provided by The University of Tokyo
+NR 39
+TC 1
+Z9 1
+U1 2
+U2 11
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1387-585X
+EI 1573-2975
+J9 ENVIRON DEV SUSTAIN
+JI Environ. Dev. Sustain.
+PD SEP
+PY 2024
+VL 26
+IS 9
+BP 22449
+EP 22471
+DI 10.1007/s10668-023-03559-5
+EA JUL 2023
+PG 23
+WC Green & Sustainable Science & Technology; Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA D4Y2L
+UT WOS:001025589100004
+OA hybrid
+DA 2025-05-29
+ER

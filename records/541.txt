@@ -1,0 +1,60 @@
+PT J
+AU Tuda, PM
+   Wolff, M
+AF Tuda, Paul M.
+   Wolff, Matthias
+TI Comparing an ecosystem approach to single-species stock assessment: The
+   case of Gazi Bay, Kenya
+SO JOURNAL OF MARINE SYSTEMS
+LA English
+DT Article
+DE Ecopath; Gazi Bay; Fishery impact; Trophic interaction
+ID CORAL-REEF; FISHERIES MANAGEMENT; TROPHIC STRUCTURE; MANGROVE
+   VEGETATION; COMMUNITY STRUCTURE; SEAGRASS BEDS; INDIAN-OCEAN; TROPICAL
+   BAY; FOOD-WEB; FISH
+AB Gazi Bay located on the Kenyan South Coast is a semi-enclosed shallow tropical coastal ecosystem supporting an economically important multi-species and multi-gear artisanal fishery. In this study, we integrated the available scientific information of the system to develop a preliminary trophic mass-balance model to characterize the ecosystem structure and functioning, evaluate the ecological impacts of fishing on the ecosystem, and compare the results of the ecosystem assessment to those of previous single-species stock assessments. The model includes 23 functional groups aggregated into linear food chains, which resulted in nine discrete trophic levels sensu Lindeman (1942). Results from the mixed trophic impacts showed a bottom-up control in the system where herbivory dominated the energy flow to higher trophic levels but with a significant export of detritus out of the system. With a mean transfer efficiency of 12.6%, Finn cycling index 7.3%, path length 2.7, system omnivory index 0.19, and system ascendency and overhead 27 and 73%, respectively, it would appear that Gazi Bay is immature and perturbed likely due to fishery-induced exploitation. Overall, the fishery is operating at a level of primary consumers with a mean trophic level of the catch of 2.38. Fishing mortality is by far the leading cause of total mortality with the computed exploitation rates suggesting heavy exploitation of the key commercial species (F/Z > 0.5). A comparison of the results of the percentage of primary production required to sustain fisheries and the average trophic level of catch (%PPR-TLc) with those from similar tropical coastal systems shows that Gazi Bay is comparable to some of the most intensively exploited coastal ecosystems. This implies the impacts of the fishery are evident both at the species and ecosystem level, and there may be a need for precautionary measures for fisheries management.
+C1 [Tuda, Paul M.; Wolff, Matthias] Leibniz Ctr Trop Marine Res ZMT, Dept Theoret Ecol & Modelling, Fahrenheitstr 6, D-28359 Bremen, Germany.
+   [Tuda, Paul M.] Univ Bremen, Fac Biol & Chem FB2, POB 33 04 40, D-28334 Bremen, Germany.
+C3 Leibniz Association; Leibniz Zentrum fur Marine Tropenforschung (ZMT);
+   University of Bremen
+RP Tuda, PM (通讯作者)，Leibniz Ctr Trop Marine Res ZMT, Dept Theoret Ecol & Modelling, Fahrenheitstr 6, D-28359 Bremen, Germany.
+EM ptuda@yahoo.com
+RI Tuda, Paul/AAM-3825-2020; Wolff, Matthias/E-7782-2011
+OI Wolff, Matthias/0000-0001-7458-983X; Tuda, Paul/0000-0002-5629-9406
+FU German Academic Exchange Service (DAAD) [A12/97866]; Rufford, Small
+   Grant Foundation [15290-1]
+FX The author's research stay at the ZMT was funded by the German Academic
+   Exchange Service (DAAD), Grant No: A12/97866. The Rufford, Small Grant
+   Foundation, provided support for the field work, Grant No: 15290-1. We
+   would like to thank Paul Tompkins for proofreading the final version of
+   the manuscript. Thanks also to the anonymous reviewers of the manuscript
+   for their helpful comments. We would like to thank Paul Tompkins for
+   proofreading the final version of the manuscript and for the anonymous
+   reviewers whose constructive comments greatly improved this manuscript.
+NR 119
+TC 7
+Z9 7
+U1 2
+U2 40
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0924-7963
+EI 1879-1573
+J9 J MARINE SYST
+JI J. Mar. Syst.
+PD AUG
+PY 2018
+VL 184
+BP 1
+EP 14
+DI 10.1016/j.jmarsys.2018.04.004
+PG 14
+WC Geosciences, Multidisciplinary; Marine & Freshwater Biology;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology; Marine & Freshwater Biology; Oceanography
+GA GI8CI
+UT WOS:000434749000001
+DA 2025-05-29
+ER

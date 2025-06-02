@@ -1,0 +1,62 @@
+PT J
+AU Jalani, MA
+   Saad, MR
+   Abdullah, MF
+   Naiem, MA
+   Razali, MN
+   Abidin, NZ
+   Rahman, MRA
+AF Jalani, Muhamad Aiman
+   Saad, Mohd Rashdan
+   Abdullah, Mohamad Faizal
+   Md Naiem, Mohd Azzeri
+   Razali, Mohd Norsyarizad
+   Abidin, Noh Zainal
+   Rahman, Mohd Rosdzimin Abdul
+TI A Statistical Analysis for Optimisation of a Hybrid BBDB-PA in Mantanani
+   Island, Sabah
+SO JOURNAL OF MARINE SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE statistical analysis; BBDB; point absorber; wave energy converter;
+   hydrodynamics
+ID WAVE ENERGY CONVERTER; BUOY
+AB The hybrid form of wave energy converter (WEC) is a recent advancement in research concerning harvesting energy from the ocean. This study investigates the effect of size and position of the point absorber integrated with a backward bent duct buoy. The aim of this optimisation is to maximise the WEC-absorbed power and heave response amplitude operators (RAO) at a specific sea site. The optimisation process was applied based on the data collected over a one-year period about sea characteristics for a nearshore region of the Mantanani Island. We present a methodology for optimising the Hybrid BBDB-PA based on a statistical analysis and the hydrodynamics of the system in the frequency and time domain. We used the ANSYS/AQWA software for the hydrodynamic diffraction analysis, and the design of experiments method was applied through the statistical software to determine the optimised parameters. We found that the diameter and gap length between PA and BBDB were found to significantly influence two characteristics, namely, heave RAO and maximum power absorption of PA. This observation shows that the PA size was directly proportional to the performance because a higher diameter has more contact with the ocean's wet surface area with the ocean and absorbed higher wave energy. Moreover, the gap length between the PA and BBDB was directly correlated with a wavelength, which followed the theoretical value for peak-to-trough length, where the maximum wave height occurs. Despite the condition parameter, we discovered that the WEC position and arrangement were responsible for the highest value of the power, regardless of the PA position used in the experiment. The results of this research provide recommendations for optimising the ocean energy harvesting in order to fully utilise ocean space for energy.
+C1 [Jalani, Muhamad Aiman; Saad, Mohd Rashdan; Abdullah, Mohamad Faizal; Rahman, Mohd Rosdzimin Abdul] Univ Pertahanan Nas Malaysia, Fac Engn, Dept Mech Engn, Kuala Lumpur 57000, Malaysia.
+   [Md Naiem, Mohd Azzeri; Razali, Mohd Norsyarizad; Abidin, Noh Zainal] Univ Pertahanan Nas Malaysia, Fac Def Sci & Technol, Dept Sci & Maritime Technol, Kuala Lumpur 57000, Malaysia.
+C3 Universiti Pertahanan Nasional Malaysia; Universiti Pertahanan Nasional
+   Malaysia
+RP Jalani, MA; Rahman, MRA (通讯作者)，Univ Pertahanan Nas Malaysia, Fac Engn, Dept Mech Engn, Kuala Lumpur 57000, Malaysia.
+EM aimanjays@gmail.com; rosdzimin@gmail.com
+RI Jalani, Muhamad Aiman/KGL-0304-2024; Rahman, Mohd/ABE-9518-2021; Saad,
+   Rashdan/AAW-8202-2020; Abdullah, Mohamad Faizal/JHU-0482-2023
+OI naiem, azzeri/0000-0001-7984-4617; Razali, Mohd
+   Norsyarizad/0000-0003-4743-6795; Zainal Abidin, Noh/0000-0003-3299-8234;
+   Abdul Rahman, Mohd Rosdzimin/0000-0001-9025-0414; Jalani,
+   Aiman/0000-0003-0902-8002; Abdullah, Mohamad Faizal/0000-0002-8281-2584
+NR 33
+TC 5
+Z9 5
+U1 1
+U2 10
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2077-1312
+J9 J MAR SCI ENG
+JI J. Mar. Sci. Eng.
+PD FEB
+PY 2023
+VL 11
+IS 2
+AR 386
+DI 10.3390/jmse11020386
+PG 19
+WC Engineering, Marine; Engineering, Ocean; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 9J8QI
+UT WOS:000940444000001
+OA gold
+DA 2025-05-29
+ER

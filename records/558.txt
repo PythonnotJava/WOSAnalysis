@@ -1,0 +1,81 @@
+PT J
+AU Bechtold, P
+   Semane, N
+   Lopez, P
+   Chaboureau, JP
+   Beljaars, A
+   Bormann, N
+AF Bechtold, Peter
+   Semane, Noureddine
+   Lopez, Philippe
+   Chaboureau, Jean-Pierre
+   Beljaars, Anton
+   Bormann, Niels
+TI Representing Equilibrium and Nonequilibrium Convection in Large-Scale
+   Models
+SO JOURNAL OF THE ATMOSPHERIC SCIENCES
+LA English
+DT Article
+DE Deep convection
+ID TROPICAL INTRASEASONAL VARIABILITY; MADDEN-JULIAN OSCILLATION;
+   CLOUD-RESOLVING MODEL; GREAT-PLAINS SITE; DIURNAL-CYCLE; DEEP
+   CONVECTION; MOIST CONVECTION; CUMULUS CONVECTION; ECMWF MODEL; PART I
+AB A new diagnostic convective closure, which is dependent on convective available potential energy (CAPE), is derived under the quasi-equilibrium assumption for the free troposphere subject to boundary layer forcing. The closure involves a convective adjustment time scale for the free troposphere and a coupling coefficient between the free troposphere and the boundary layer based on different time scales over land and ocean. Earlier studies with the ECMWF Integrated Forecasting System (IFS) have already demonstrated the model's ability to realistically represent tropical convectively coupled waves and synoptic variability with use of the standard CAPE closure, given realistic entrainment rates.A comparison of low-resolution seasonal integrations and high-resolution short-range forecasts against complementary satellite and radar data shows that with the extended CAPE closure it is also possible, independent of model resolution and time step, to realistically represent nonequilibrium convection such as the diurnal cycle of convection and the convection tied to advective boundary layers, although representing the late night convection over land remains a challenge. A more in-depth regional analysis of the diurnal cycle and the closure is provided for the continental United States and particularly Africa, including comparison with data from satellites and a cloud-resolving model (CRM). Consequences for global numerical weather prediction (NWP) are not only a better phase representation of convection, but also better forecasts of its spatial distribution and local intensity.
+C1 [Bechtold, Peter; Semane, Noureddine; Lopez, Philippe; Beljaars, Anton; Bormann, Niels] European Ctr Medium Range Weather Forecasts, Reading RG2 9AX, Berks, England.
+   [Chaboureau, Jean-Pierre] Univ Toulouse, Lab Aerol, Toulouse, France.
+   [Chaboureau, Jean-Pierre] CNRS, Toulouse, France.
+C3 European Centre for Medium-Range Weather Forecasts (ECMWF); Universite
+   de Toulouse; Universite Toulouse III - Paul Sabatier; Centre National de
+   la Recherche Scientifique (CNRS); LAERO; Centre National de la Recherche
+   Scientifique (CNRS)
+RP Bechtold, P (通讯作者)，European Ctr Medium Range Weather Forecasts, Shinfield Pk, Reading RG2 9AX, Berks, England.
+EM peter.bechtold@ecmwf.int
+RI Chaboureau, Jean-Pierre/P-5668-2019
+OI Chaboureau, Jean-Pierre/0000-0002-4365-8940; Bormann,
+   Niels/0000-0001-5302-6093; Lopez, Philippe/0000-0003-4014-5813
+FU European Commission's COST action [ES0905]; European Commission [282672]
+FX The first author expresses his gratitude to Profs. Julia Slingo, Erland
+   Kallen, and Alan Thorpe for encouragements to never give up on the
+   diurnal cycle. Two anonymous reviewers provided very helpful
+   suggestions. We are also very grateful to Prof. Yukari Takayabu and her
+   group at Tokyo University for providing the TRMM data, and to Dr. Peter
+   Bauer for processing these data. Numerous discussions and critical
+   evaluation of the model by our colleagues Drs. Irina Sandu, Richard
+   Forbes, and Takuya Komori were extremely helpful, as was the assistance
+   by Anabel Bowen in preparing the figures, and by Dr. Bob Riddaway in
+   improving the text. We are grateful to the National Centers for
+   Environmental Prediction (NCEP) for producing and the Joint Office for
+   Science Support/University Corporation for Atmospheric Research
+   (JOSS/UCAR) for providing the stage IV precipitation composites over the
+   United States and thank Dr. Klaus Stephan from Deutsche Wetterdienst for
+   providing the German radar precipitation composites. This work has also
+   greatly benefited from the European Commission's COST action ES0905, and
+   7th Framework Programme EMBRACE project under Grant Agreement 282672.
+NR 75
+TC 307
+Z9 325
+U1 2
+U2 63
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0022-4928
+EI 1520-0469
+J9 J ATMOS SCI
+JI J. Atmos. Sci.
+PD FEB
+PY 2014
+VL 71
+IS 2
+BP 734
+EP 753
+DI 10.1175/JAS-D-13-0163.1
+PG 20
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA AG5XG
+UT WOS:000335491400017
+OA Green Submitted, Bronze
+DA 2025-05-29
+ER

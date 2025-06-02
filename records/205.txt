@@ -1,0 +1,79 @@
+PT J
+AU Mao, XH
+   Zhang, JY
+   Duan, LW
+   Lyu, B
+   Dong, YX
+   Cao, F
+   Jia, CZ
+   Liu, L
+   Chang, HL
+   Li, ZJ
+   Tao, K
+AF Mao, Xinhui
+   Zhang, Jiyuan
+   Duan, Longwei
+   Lyu, Boming
+   Dong, Yuxiang
+   Cao, Feng
+   Jia, Changzhen
+   Liu, Long
+   Chang, Honglong
+   Li, Zhongjie
+   Tao, Kai
+TI AI-driven ocean monitoring with multimodal triboelectric nanogenerator:
+   Self-sustainable real-time wave warning and forecasting system
+SO NANO ENERGY
+LA English
+DT Article
+DE Triboelectric nanogenerators; Wave energy harvesting; Wave level
+   monitoring; Electret; Multimodal; Deep Learning
+AB Conventional ocean monitoring systems utilizing single-mode triboelectric nanogenerators (TENGs) are fundamentally limited by their dependence on unimodal signal acquisition, which results in a critical lack of recognition accuracy and early warning reliability. To address this, we propose a highly integrated, multimodal self-powered AI-enhanced monitoring system (SAMS) for diverse ocean state monitoring. SAMS combines solid-solid and liquid-solid TENG modes, incorporating three distinct triboelectric conversion mechanisms. SAMS features a spherical framework with a freestanding-layer electret generator on its lower surface, detecting subtle wave vibrations through continuous liquid-solid contact. The upper surface features a double-electrode electret generator, enhanced via oxygen plasma treatment, which sensitively captures intermittent liquid-solid interactions (e.g., splashes and scours) under high-intensity waves, producing signals up to 80 V. Internally, a spiral electret generator with a dual-spiral structure generates in-plane and out-of-plane vibrations, delivering outputs of up to 100 V and significantly expanding detectable wave motion ranges. The triple-modal design of the SAMS enables simultaneous generation from three signal channels. Assisted by deep learning, the SAMS achieves a substantial improvement in wave level recognition accuracy, from 41.25 % (single-mode) to 96.25 % (triple-mode). This work advances multimodal TENGs for intelligent marine monitoring and enables real-time energy harvesting and state monitoring in complex marine environments.
+C1 [Mao, Xinhui; Zhang, Jiyuan; Liu, Long; Tao, Kai] Northwestern Polytech Univ, Shenzhen Res Inst, Sanhang Sci & Technol Bldg, 45th Gaoxin South 9th, Shenzhen 518057, Peoples R China.
+   [Mao, Xinhui; Zhang, Jiyuan; Duan, Longwei; Lyu, Boming; Dong, Yuxiang; Cao, Feng; Jia, Changzhen; Chang, Honglong; Tao, Kai] Northwestern Polytech Univ, Sch Mech Engn, Key Lab Micro & Nano Syst Aerosp, Minist Educ, Xian 710072, Peoples R China.
+   [Liu, Long] Northwestern Polytech Univ, Sch Elect & Informat, Xian 710072, Peoples R China.
+   [Li, Zhongjie] Shanghai Univ, Sch Mechatron Engn & Automat, 99 Shangda Rd, Shanghai 200444, Peoples R China.
+C3 Northwestern Polytechnical University; Northwestern Polytechnical
+   University; Ministry of Education - China; Northwestern Polytechnical
+   University; Shanghai University
+RP Tao, K (通讯作者)，Northwestern Polytech Univ, Shenzhen Res Inst, Sanhang Sci & Technol Bldg, 45th Gaoxin South 9th, Shenzhen 518057, Peoples R China.
+EM taokai@nwpu.edu.cn
+RI Li, Zhongjie/GZG-7180-2022; TAO, KAI/KDN-8211-2024; Mao,
+   Xinhui/NDS-6959-2025
+FU Shenzhen Science and Technology Program [JCYJ20220530161809020,
+   JCYJ20220818100415033]; GuangDong Basic and Applied Basic Research
+   Foundation [2024A1515012324, 2023A1515110229]; Key Research and
+   Development Program of Shaanxi Province [2024GX-YBXM-193]
+FX This research was supported by Shenzhen Science and Technology Program
+   (JCYJ20220530161809020 & JCYJ20220818100415033) , GuangDong Basic and
+   Applied Basic Research Foundation (2024A1515012324, 2023A1515110229) ,
+   The Key Research and Development Program of Shaanxi Province
+   (2024GX-YBXM-193) . These authors contributed equally: Xinhui Mao,
+   Jiyuan Zhang.
+NR 53
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD JUL
+PY 2025
+VL 140
+AR 111004
+DI 10.1016/j.nanoen.2025.111004
+PG 12
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 2LN5Z
+UT WOS:001485519400001
+DA 2025-05-29
+ER

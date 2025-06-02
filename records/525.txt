@@ -1,0 +1,60 @@
+PT J
+AU Martínez, EA
+   Fínez, JIB
+   Bruno, FY
+AF Martinez, Emanuel A.
+   Finez, Juan I. Beltran
+   Bruno, Flavio Y.
+TI BinPo: An open-source code to compute the band structure of
+   two-dimensional electron systems
+SO COMPUTER PHYSICS COMMUNICATIONS
+LA English
+DT Article
+DE Python; 2DES; Band structure; Maximally localized Wannier functions;
+   SrTiO3; Schr?dinger-Poisson scheme
+ID GAS; INTERFACES; SURFACE; PERMITTIVITY; WANNIER90; MOBILITY; ARPES; TOOL
+AB We introduce BinPo, an open-source Python code to compute electronic properties of two-dimensional electron systems. A bulk tight binding Hamiltonian is constructed from relativistic density functional theory calculations represented in the basis of maximally localized Wannier functions. BinPo has a Schrodinger-Poisson solver, integrating an electric field-dependent relative permittivity to obtain self -consistently the confining electrostatic potential energy term in the derived tight binding slab system. The band structure, energy slices, and other properties, along with different projections and orientations can be computed. High resolution and publishable figures of the simulations can be generated. In BinPo, priority has been given to ease-of-use, efficiency, readability and modularity, therefore becoming suitable to produce reliable electronic structures simulations at low computational cost. Along with the code itself, we provide files from first-principles calculations for some materials, instructions of use, and detailed examples of its wide range of capabilities. The code was developed with a focus on the ABO(3) perovskite structure-based systems, such as SrTiO3 and KTaO3, because of their increasing impact in the materials community. Some features, such as the projection onto orbital states, are restricted to calculations using the relevant t(2g) orbitals for this family of materials, yet it is possible to include more elements in the basis for the band structure determination of other systems. The use of a relativistic approach allows for the inspection of the role of spin-orbit coupling and the resulting Rashba effect on the systems. We detail the approaches used in the code, so that it can be further exploited and adapted to other problems, such as adding new materials and functionalities which can strength the initial code scopes.Program summaryProgram title: BinPoCPC Library link to program files: https://doi .org /10 .17632 /zk4xy7vfy4 .1Developer's repository link: https://github .com /emanuelm33 /BinPoCode Ocean capsule: https://codeocean .com /capsule /0987578Licensing provisions: GPLv3Programming language: PythonExternal routines/libraries: NumPy, SciPy, Matplotlib, ASE.Nature of problem: Compute the band structure and other electronic properties in two-dimensional electron systems.Solution method: Construction of a slab Hamiltonian from one built using a basis of maximally localized Wannier functions. Solve the Schrodinger-Poisson scheme to get the self-consistent potential energy along the slab. Use this potential to compute the band structure and additional properties by solving the Schrodinger equation. Additional comments including restrictions and unusual features: Other features included are the visualization of the self-consistent process and final solutions, band structure and energy slices with different projections. High resolution and customizable figures can be obtained in all cases.(c) 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+C1 [Martinez, Emanuel A.; Finez, Juan I. Beltran; Bruno, Flavio Y.] Univ Complutense Madrid, Dept Fis Mat, GFMC, Madrid 28040, Spain.
+C3 Complutense University of Madrid
+RP Martínez, EA (通讯作者)，Univ Complutense Madrid, Dept Fis Mat, GFMC, Madrid 28040, Spain.
+EM emanuelm@ucm.es
+RI Bruno, Flavio/C-7380-2008; Beltran, Juan Ignacio/I-8526-2012
+OI Beltran, Juan Ignacio/0000-0002-7412-2217; Martinez, Emanuel
+   Alberto/0000-0003-3978-9021
+FU Comunidad de Madrid, Spain (Atraccion de Talento) [2018-T1/IND-10521];
+   MICINN, Spain [PID2019-105238GA-I00]; Spanish MICINN
+   [PID2021-122980OB-C51]; Santander-UCM project [PR87/19]
+FX This work has been supported by Comunidad de Madrid, Spain (Atraccion de
+   Talento grant No. 2018-T1/IND-10521) and by MICINN, Spain
+   PID2019-105238GA-I00. Financial support from the Spanish MICINN
+   PID2021-122980OB-C51 and Santander-UCM project PR87/19 is acknowledged
+   (JIB) . We acknowledge Alejandro B. Kolton for fruitful discussions and
+   Felix Baumberger for sharing raw ARPES data used to produce Figs. 11 (a)
+   and 11 (d) .
+NR 95
+TC 5
+Z9 5
+U1 0
+U2 13
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0010-4655
+EI 1879-2944
+J9 COMPUT PHYS COMMUN
+JI Comput. Phys. Commun.
+PD MAR
+PY 2023
+VL 284
+AR 108595
+DI 10.1016/j.cpc.2022.108595
+EA NOV 2022
+PG 19
+WC Computer Science, Interdisciplinary Applications; Physics, Mathematical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Physics
+GA 7Y0NS
+UT WOS:000914587900011
+OA hybrid, Green Submitted, Green Accepted
+DA 2025-05-29
+ER

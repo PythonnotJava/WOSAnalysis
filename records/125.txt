@@ -1,0 +1,47 @@
+PT J
+AU Wu, HT
+   Yuan, ZM
+AF Wu, Haitao
+   Yuan, Zhiming
+TI WEC spacing effects on the performance of a floating energy harvesting
+   platform
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE The floating energy harvesting platform; WEC spacing; Hydrodynamic
+   interactions; Energy harvesting performance; Dynamic response;
+   Performance evaluation criterion
+AB This paper proposes a floating energy harvesting platform concept, which integrates multiple point-absorber wave energy converters (WECs) onto a floating semi-submersible platform. The focus is to investigate WEC spacing effects on the dynamic response and energy harvesting performance of the hybrid system. To this end, five energy harvesting models with various WEC spacings are defined. Under average wave height condition, the typical wave periods are considered to analyze the performance variations in these models. Notably, the influence of hydrodynamic interactions is evaluated on the energy absorption. Furthermore, under both average and severe wave conditions, the present study establishes different performance evaluation criteria and conducts comparative analysis across the models. The results indicate that under average wave condition, the optimal energy harvesting model varies depending on the evaluation benchmark. Additionally, under severe wave condition, the model with the smallest WEC spacing demonstrates the best performance. Overall, the present study emphasizes the effects of the hydrodynamic interactions on the performance of the wave-energy integrated system, of which the analytical framework and methods could provide some insights into the design and optimization of other ocean energy systems.
+C1 [Wu, Haitao; Yuan, Zhiming] Univ Strathclyde, Dept Naval Architecture Ocean & Marine Engn, Glasgow City G4 0LZ, Scotland.
+C3 University of Strathclyde
+RP Yuan, ZM (通讯作者)，Univ Strathclyde, Dept Naval Architecture Ocean & Marine Engn, Glasgow City G4 0LZ, Scotland.
+EM zhiming.yuan@strath.ac.uk
+RI Yuan, Zhi-Ming/H-2059-2016; WU, Haitao/AHD-8951-2022
+NR 30
+TC 0
+Z9 0
+U1 2
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD MAY 30
+PY 2025
+VL 327
+AR 120971
+DI 10.1016/j.oceaneng.2025.120971
+EA MAR 2025
+PG 15
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA 0PO3Y
+UT WOS:001452969500001
+OA hybrid
+DA 2025-05-29
+ER

@@ -1,0 +1,60 @@
+PT J
+AU Cong, DS
+   Shang, JZ
+   Luo, ZR
+   Sun, CF
+   Wu, W
+AF Cong, Dongsheng
+   Shang, Jianzhong
+   Luo, Zirong
+   Sun, Chongfei
+   Wu, Wei
+TI Energy Efficiency Analysis of Multi-Type Floating Bodies for a Novel
+   Heaving Point Absorber with Application to Low-Power Unmanned Ocean
+   Device
+SO ENERGIES
+LA English
+DT Article
+DE unmanned ocean device; wave energy; multi-type floating bodies;
+   nonlinear Froude-Krylov force; energy efficiency
+ID WAVE ENERGY; HYDRODYNAMIC COEFFICIENTS; VERTICAL CYLINDER; WATER;
+   SCATTERING; CONVERSION; RADIATION; SYSTEMS; FORCES; BUOY
+AB Long-term energy supplies hinder the application of the low-power unmanned ocean devices to the deep sea. Ocean wave energy is a renewable resource with amount stores of enormous and high density. The wave energy converter (WEC) could be miniaturized so that it can be integrated into the devices to make up the power module. In this paper, a small novel heaving point absorber of energy supply for low-power unmanned ocean devices is developed based on the counter-rotating self-adaptive mechanism. The floating body as an important part of the heaving point absorber, the geometric parameters is optimized to increase the efficiency of power production. Through constructing the constitutive relation between the geometric parameters, the wave force, the motion displacement, the motion velocity, and the capture width ratio of the floating body, the energy efficiency characteristics of the multi-type floating bodies are calculated, and the optimal shape is selected. On the other hand, in the calculation process of the wave force, the Froude-Krylov method is an effective method to accurately calculate the wave excitation force. Meanwhile, nonlinear static and dynamic Froude-Krylov force effectively overcomes the inaccuracy of the linear models and reduces the time consumed to simulate. Finally, the wave force, heaving velocity, heaving displacement, and capture width ratio of the three floating bodies are compared and analyzed, and the results show that the cylindrical floater that is vertically placed on the wave surface is more suitable for the novel heaving wave energy point absorber.
+C1 [Cong, Dongsheng; Shang, Jianzhong; Luo, Zirong; Sun, Chongfei; Wu, Wei] Natl Univ Def Technol, Sch Intelligent Sci, Changsha 410073, Hunan, Peoples R China.
+   [Cong, Dongsheng] Shandong Jianzhu Univ, Sch Mech & Elect Engn, Jinan 250101, Shandong, Peoples R China.
+C3 National University of Defense Technology - China; Shandong Jianzhu
+   University
+RP Luo, ZR (通讯作者)，Natl Univ Def Technol, Sch Intelligent Sci, Changsha 410073, Hunan, Peoples R China.
+EM cdssdjz@sdjzu.edu.cn; shangjianzhong@nudt.edu.cn; luozirong@nudt.edu.cn;
+   sunchongfei@yeah.net; wuwei14@nudt.edu.cn
+RI Luo, Zirong/AAO-4621-2021
+OI Luo, Zirong/0000-0002-8247-7317
+FU National Natural Science Foundation of China [51475465]
+FX This research was funded by National Natural Science Foundation of China
+   (51475465).
+NR 54
+TC 10
+Z9 10
+U1 2
+U2 21
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD DEC
+PY 2018
+VL 11
+IS 12
+AR 3282
+DI 10.3390/en11123282
+PG 20
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA HG9VB
+UT WOS:000455358300043
+OA Green Submitted, gold
+DA 2025-05-29
+ER

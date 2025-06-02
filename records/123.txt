@@ -1,0 +1,75 @@
+PT J
+AU Zheng, Z
+   Jin, P
+   Huang, Q
+   Zhou, BZ
+   Xiang, RX
+   Zhou, ZM
+   Huang, LF
+AF Zheng, Zhi
+   Jin, Peng
+   Huang, Qiang
+   Zhou, Binzhen
+   Xiang, Ruoxuan
+   Zhou, Zhaomin
+   Huang, Luofeng
+TI Motion response and energy harvesting of multi-module floating
+   photovoltaics in seas
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Marine renewable energy; Floating photovoltaic; Ocean engineering; Wave
+   energy converters; Offshore solar-wave combination
+ID PERFORMANCE ANALYSIS; POWER; PLANTS
+AB Floating Photovoltaic (FPV) systems are emerging as a new type of ocean renewable energy, offering advantages such as avoiding land use and promoting power generation efficiency. Providing significant cost-effectiveness for manufacturing, transportation, and installation, FPV systems with modular floating platforms exhibit the potential to replace the conventional large steel-frame one. However, the performance of such multi-floating body structures under wave conditions remain underexplored. In this paper, based on potential flow theory, the motion characteristics and power performance of the proposed FPV array connected by the articulated system are evaluated. The results indicate that the FPV arrays with shorter floating structures exhibit greater pitch motion, especially when the wave condition matches the pitch resonance. For multi-float cases, the articulated system, optimized with appropriate parameters, demonstrates efficacy as attenuators. Additionally, the proposed FPV array has great potential to serve as an infrastructure for integrating solar and wave energy. For a selected offshore site, potential wave energy output from motion attenuators between FPV floaters is assessed together with solar energy output. Overall, this study serves as a valuable reference for the design and optimization of the multi-modules FPV and advances the research on combined solar and wave energy utilization on floating structures.
+C1 [Zhou, Binzhen] South China Univ Technol, State Key Lab Subtrop Bldg & Urban Sci, Guangzhou 510641, Peoples R China.
+   [Zheng, Zhi; Jin, Peng; Zhou, Binzhen] South China Univ Technol, Sch Civil Engn & Transportat, Guangzhou 510641, Peoples R China.
+   [Huang, Qiang] South China Univ Technol, Sch Marine Sci & Engn, Guangzhou 511442, Peoples R China.
+   [Xiang, Ruoxuan; Zhou, Zhaomin] PowerChina Renewable Energy Co Ltd, Beijing 100101, Peoples R China.
+   [Huang, Luofeng] Cranfield Univ, Sch Water Energy & Environm, Cranfield MK43 0AL, England.
+C3 South China University of Technology; South China University of
+   Technology; South China University of Technology; Cranfield University
+RP Zhou, BZ (通讯作者)，South China Univ Technol, State Key Lab Subtrop Bldg & Urban Sci, Guangzhou 510641, Peoples R China.
+EM zhoubinzhen@scut.edu.cn
+RI zheng, zhi/HTN-0861-2023; Huang, Qiang/ACF-7958-2022; Huang,
+   Luofeng/GRN-7919-2022
+OI Zheng, Zhi/0009-0004-1990-0129; Huang, Luofeng/0000-0002-7096-7677
+FU National Natural Science Foundation of China National Outstanding Youth
+   Science Fund Project [52222109]; National Natural Science Foundation of
+   China [52071096, 52201322]; Project of State Key Laboratory of
+   Subtropical Building and Urban Science [2023ZB14]; Guangdong Basic and
+   Applied Basic Research Foundation [2022B1515020036, 2023A1515012144]
+FX This work is supported by the National Natural Science Foundation of
+   China National Outstanding Youth Science Fund Project (52222109) , the
+   National Natural Science Foundation of China (52071096 and 52201322) ,
+   Project of State Key Laboratory of Subtropical Building and Urban
+   Science (2023ZB14) , Guangdong Basic and Applied Basic Research
+   Foundation (2022B1515020036 and 2023A1515012144) .
+NR 49
+TC 7
+Z9 7
+U1 27
+U2 55
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD OCT 15
+PY 2024
+VL 310
+AR 118760
+DI 10.1016/j.oceaneng.2024.118760
+EA JUL 2024
+PN 2
+PG 12
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA A0I6A
+UT WOS:001279465000001
+DA 2025-05-29
+ER

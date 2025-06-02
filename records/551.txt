@@ -1,0 +1,68 @@
+PT J
+AU Wiedemann, S
+   McGahan, E
+   Murphy, C
+   Yan, MJ
+   Henry, B
+   Thoma, G
+   Ledgard, S
+AF Wiedemann, Stephen
+   McGahan, Eugene
+   Murphy, Caoilinn
+   Yan, Ming-Jia
+   Henry, Beverley
+   Thoma, Greg
+   Ledgard, Stewart
+TI Environmental impacts and resource use of Australian beef and lamb
+   exported to the USA determined using life cycle assessment
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE LCA; Water; GHG; Carbon; Energy; Footprint
+ID GREENHOUSE-GAS EMISSIONS; WATER-USE
+AB Australia is one of the two largest exporting nations for beef and lamb in the world and the USA is a major export market for both products. To inform the Australian red meat industry regarding the environmental performance of exported food products, this study conducted the first multi-impact analysis of Australian red meat export supply chains including all stages through to warehousing in the USA. A large, integrated dataset based on case study farms and regional survey was used to model beef and lamb from major representative production regions in eastern Australia. Per kilogram of retail-ready red meat, fresh water consumption ranged from 441.7 to 597.6 L across the production systems, stress-weighted water use from 108.5 to 169.4 L H2O-e, fossil energy from 28.1 to 46.6 MJ, crop land occupation from 2.5 to 29.9 m(2) and human edible protein conversion efficiency ranged from 7.9 to 0.3, with major differences observed between grass finished and grain finished production. GHG emissions excluding land use and direct land use change ranged from 16.1 to 27.2 kg CO2-e per kilogram, and removals and emissions from land use and direct land use change ranged from -2.4 to 8.7 kg CO2-e per kilogram of retail retail ready meat.
+   Process based life cycle assessment shows that environmental impacts and resource use were highest in the farm and feedlot phase. Transportation contributed <= 5% of greenhouse gas emissions, water and land, confirming that food miles is not a suitable indicator of environmental impacts for red meat transported by ocean shipping. The contribution of international transportation to total energy demand was higher, ranging from 14 to 23%. These beef and lamb supply chains were found to rely on small volumes of water from stressed water catchments, and occupied only small amounts of crop land suited to other food production systems. Production of high quality protein foods for human consumption used only small amounts of protein from human edible grain. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Wiedemann, Stephen; McGahan, Eugene; Murphy, Caoilinn; Yan, Ming-Jia] FSA Consulting, Toowoomba, Qld 4350, Australia.
+   [Henry, Beverley] Queensland Univ Technol, Inst Future Environm, Brisbane, Qld 4000, Australia.
+   [Thoma, Greg] Univ Arkansas, Ralph E Martin Dept Chem Engn, Fayetteville, AR 72701 USA.
+   [Ledgard, Stewart] AgRes Ruakura Res Ctr, Hamilton 3240, New Zealand.
+C3 Queensland University of Technology (QUT); University of Arkansas
+   System; University of Arkansas Fayetteville; AgResearch - New Zealand
+RP Wiedemann, S (通讯作者)，FSA Consulting, POB 2175, Toowoomba, Qld 4350, Australia.
+EM stephen.wiedemann@fsaconsulting.net
+RI Henry, Beverley/J-1322-2012; Thoma, Greg/W-8646-2019
+OI Ledgard, Stewart/0000-0002-6623-8172; Thoma, Greg/0000-0001-8757-7635
+FU Meat and Livestock Australia [B.CCH.2072]
+FX This study was funded by Meat and Livestock Australia, project number
+   B.CCH.2072. Review and input to the project scope from Dr. Tom Davison
+   was appreciated. The contribution of data from the many case study
+   farmers involved in the study was greatly appreciated.
+NR 65
+TC 66
+Z9 67
+U1 5
+U2 120
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD MAY 1
+PY 2015
+VL 94
+BP 67
+EP 75
+DI 10.1016/j.jclepro.2015.01.073
+PG 9
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA CH0VV
+UT WOS:000353741400006
+OA hybrid, Green Published
+DA 2025-05-29
+ER

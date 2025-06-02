@@ -1,0 +1,68 @@
+PT J
+AU Li, YD
+   Li, XC
+   Feng, J
+   Zhou, Y
+   Wang, WZ
+   Hou, YR
+AF Li, Yadi
+   Li, Xichen
+   Feng, Juan
+   Zhou, Yi
+   Wang, Wenzhu
+   Hou, Yurong
+TI Uncertainties of ENSO-related Regional Hadley Circulation Anomalies
+   within Eight Reanalysis Datasets
+SO ADVANCES IN ATMOSPHERIC SCIENCES
+LA English
+DT Article
+DE regional Hadley circulation; ENSO; atmosphere-ocean interaction;
+   reanalysis data
+ID SEA-SURFACE TEMPERATURE; NINO-SOUTHERN-OSCILLATION; EL-NINO; INTERANNUAL
+   VARIABILITY; ATMOSPHERIC CIRCULATION; ENERGY-TRANSPORT; SEASONAL CYCLE;
+   PHASE-LOCKING; LOCAL HADLEY; OCEAN
+AB El Nino-Southern Oscillation (ENSO), the leading mode of global interannual variability, usually intensifies the Hadley Circulation (HC), and meanwhile constrains its meridional extension, leading to an equatorward movement of the jet system. Previous studies have investigated the response of HC to ENSO events using different reanalysis datasets and evaluated their capability in capturing the main features of ENSO-associated HC anomalies. However, these studies mainly focused on the global HC, represented by a zonal-mean mass stream function (MSF). Comparatively fewer studies have evaluated HC responses from a regional perspective, partly due to the prerequisite of the Stokes MSF, which prevents us from integrating a regional HC. In this study, we adopt a recently developed technique to construct the three-dimensional structure of HC and evaluate the capability of eight state-of-the-art reanalyses in reproducing the regional HC response to ENSO events. Results show that all eight reanalyses reproduce the spatial structure of HC responses well, with an intensified HC around the central-eastern Pacific but weakened circulations around the Indo-Pacific warm pool and tropical Atlantic. The spatial correlation coefficient of the three-dimensional HC anomalies among the different datasets is always larger than 0.93. However, these datasets may not capture the amplitudes of the HC responses well. This uncertainty is especially large for ENSO-associated equatorially asymmetric HC anomalies, with the maximum amplitude in Climate Forecast System Reanalysis (CFSR) being about 2.7 times the minimum value in the Twentieth Century Reanalysis (20CR). One should be careful when using reanalysis data to evaluate the intensity of ENSO-associated HC anomalies.
+C1 [Li, Yadi; Li, Xichen; Feng, Juan; Zhou, Yi; Wang, Wenzhu; Hou, Yurong] Chinese Acad Sci, Inst Atmospher Phys, Int Ctr Climate & Environm Sci ICCES, Beijing 100029, Peoples R China.
+   [Li, Yadi; Zhou, Yi; Wang, Wenzhu; Hou, Yurong] Univ Chinese Acad Sci, Beijing 101408, Peoples R China.
+   [Feng, Juan] Beijing Normal Univ, Coll Global Change & Earth Syst Sci GCESS, Beijing 100875, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Atmospheric Physics, CAS;
+   Chinese Academy of Sciences; University of Chinese Academy of Sciences,
+   CAS; Beijing Normal University
+RP Li, XC; Feng, J (通讯作者)，Chinese Acad Sci, Inst Atmospher Phys, Int Ctr Climate & Environm Sci ICCES, Beijing 100029, Peoples R China.; Feng, J (通讯作者)，Beijing Normal Univ, Coll Global Change & Earth Syst Sci GCESS, Beijing 100875, Peoples R China.
+EM lixichen@mail.iap.ac.cn; fengjuan@bnu.edu.cn
+RI Li, Xichen/ISB-4663-2023; Wang, Wenzhu/AAS-9868-2021
+FU National Key Research and Development Program of China [2018YFA0605703];
+   National Natural Science Foundation of China [41975079]
+FX AcknowledgementsYadi LI and Xichen LI were supported by the National Key
+   Research and Development Program of China (Grant No. 2018YFA0605703),
+   and the National Natural Science Foundation of China (Grant Nos.
+   42176243, 41976193 and 41676190). Juan FENG was supported by National
+   Natural Science Foundation of China (Grant No. 41975079).
+NR 70
+TC 3
+Z9 3
+U1 5
+U2 19
+PU SCIENCE PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 0256-1530
+EI 1861-9533
+J9 ADV ATMOS SCI
+JI Adv. Atmos. Sci.
+PD JAN
+PY 2024
+VL 41
+IS 1
+BP 115
+EP 140
+DI 10.1007/s00376-023-3047-0
+EA JUN 2023
+PG 26
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA Z0PM2
+UT WOS:001004085500001
+DA 2025-05-29
+ER

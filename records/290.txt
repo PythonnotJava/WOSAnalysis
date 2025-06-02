@@ -1,0 +1,66 @@
+PT J
+AU Yu, HC
+   Fang, ZX
+   Fu, XJ
+   Liu, JX
+   Chen, JH
+AF Yu, Hongchu
+   Fang, Zhixiang
+   Fu, Xiuju
+   Liu, Jingxian
+   Chen, Jinhai
+TI Literature review on emission control-based ship voyage optimization
+SO TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+LA English
+DT Article
+DE Voyage optimization; Fuel consumption; Emission control
+ID SPEED OPTIMIZATION; ENERGY EFFICIENCY; FUEL CONSUMPTION; OCEAN CURRENTS;
+   CONTAINER SHIP; SYSTEM; PERFORMANCE; VESSEL; MANAGEMENT; NAVIGATION
+AB Ship voyage optimization provides key theoretical and technical insights for efficient shipping operations. It is critical for developing methodologies and systems that bridge the gaps between the perceived expectations of stakeholders and actual ship operations and for truly applying primary principles and fundamental practices in maritime operations. To develop an advanced and effective shipping voyage optimization system, it is necessary to investigate thoroughly the factors affecting fuel consumption and integrate wisely other aspects, including cargo operation, emissions from fuel consumption, and emission control regulations. The literature on ship voyage optimization is flourishing with the development of green maritime transportation. This paper carefully reviews the latest articles on emission control-driven voyage optimization to investigate the state-of-art and further identify research gaps, ongoing topics, and future research trends.
+C1 [Yu, Hongchu; Liu, Jingxian] Wuhan Univ Technol, Sch Nav, Wuhan 430063, Peoples R China.
+   [Yu, Hongchu; Chen, Jinhai] Jimei Univ, Natl Local Joint Engn Res Ctr Marine Nav Aids Ser, Nav Coll, Xiamen 361021, Peoples R China.
+   [Fang, Zhixiang] Wuhan Univ, State Key Lab Informat Engn Surveying Mapping & R, Wuhan 430079, Peoples R China.
+   [Fu, Xiuju] Agcy Sci Technol & Res, Inst High Performance Comp, Singapore 138632, Singapore.
+C3 Wuhan University of Technology; Jimei University; Wuhan University;
+   Agency for Science Technology & Research (A*STAR); A*STAR - Institute of
+   High Performance Computing (IHPC)
+RP Liu, JX (通讯作者)，Wuhan Univ Technol, Sch Nav, Wuhan 430063, Peoples R China.; Chen, JH (通讯作者)，Jimei Univ, Natl Local Joint Engn Res Ctr Marine Nav Aids Ser, Nav Coll, Xiamen 361021, Peoples R China.
+EM ljxteacher@sohu.com; jhchen@jmu.edu.cn
+RI 方, 志祥/L-7411-2019; Chen, Jinhai/F-5888-2014
+OI Fang, Zhixiang/0000-0003-1651-878X; Yu, Hongchu/0000-0003-3858-9212
+FU National Key Research of China [2018YFC1407404, 2017YFC1405302];
+   Navigation College of Jimei University, National-local Joint Engineering
+   Research Center for Marine Navigation Aids Services; National Natural
+   Science Foundation of China [41771473]
+FX This work was supported in part by the National Key Research of China,
+   2018YFC1407404; a grant from Navigation College of Jimei University,
+   National-local Joint Engineering Research Center for Marine Navigation
+   Aids Services; the National Key Research of China, 2017YFC1405302;
+   National Natural Science Foundation of China, No. 41771473.
+NR 63
+TC 75
+Z9 76
+U1 17
+U2 123
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1361-9209
+EI 1879-2340
+J9 TRANSPORT RES D-TR E
+JI Transport. Res. Part D-Transport. Environ.
+PD APR
+PY 2021
+VL 93
+AR 102768
+DI 10.1016/j.trd.2021.102768
+EA MAR 2021
+PG 16
+WC Environmental Studies; Transportation; Transportation Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Transportation
+GA RK4EB
+UT WOS:000638249600005
+DA 2025-05-29
+ER

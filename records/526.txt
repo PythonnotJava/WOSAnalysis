@@ -1,0 +1,61 @@
+PT J
+AU Edolat, D
+   Monjo, R
+AF Edolat, Darior
+   Monjo, Robert
+TI Statistical Predictability of Euro-Mediterranean Subseasonal Anomalies:
+   The TeWA Approach
+SO WEATHER AND FORECASTING
+LA English
+DT Article
+DE Teleconnections; Seasonal forecasting; Subseasonal variability
+ID MULTIDECADAL VARIABILITY; NORTH-ATLANTIC; GEOPOTENTIAL HEIGHT;
+   OSCILLATION; OCEAN; PRECIPITATION; TEMPERATURE; RAINFALL; MODELS;
+   TELECONNECTIONS
+AB It is widely known from energy balances that global oceans play a fundamental role in atmospheric seasonal anomalies via coupling mechanisms. However, numerical weather prediction models still have limitations in long-term forecasting due to their nonlinear sensitivity to initial deep oceanic conditions. As the Mediterranean climate has highly unpredictable seasonal variability, we designed a complementary method by supposing that 1) delayed teleconnection patterns provide information about ocean-atmosphere coupling on subseasonal time scales through the lens of 2) partially predictable quasi-periodic oscillations since 3) forecast signals can be extracted by smoothing noise in a continuous leadtime horizon. To validate these hypotheses, the subseasonal predictability of temperature and precipitation was analyzed at 11 reference stations in the Mediterranean area in the 1993-2021 period. The novel method, presented here, consists of combining lag-correlated teleconnections (15 indices) with self-predictability techniques of residual quasi-oscillation based on wavelet (cyclic) and autoregressive integrated moving average (ARIMA) (linear) analyses. The prediction skill of this teleconnection-wavelet-ARIMA (TeWA) combination was cross-validated and compared to that of the ECMWF's Seasonal Forecast System 5 (SEAS5)-ECMWF model (3 months ahead). Results show that the proposed TeWA approach improves the predictability of first-month temperature and precipitation anomalies by 50%-70% compared with the forecast of SEAS5. On a moving-averaged daily scale, the optimum prediction window is 30 days for temperature and 16 days for precipitation. The predictable ranges are consistent with atmospheric bridges in teleconnection patterns [e.g., Upper-Level Mediterranean Oscillation (ULMO)] and are reflected by spatial correlation with sea surface temperature (SST). Our results suggest that combinations of the TeWA approach and numerical models could boost new research lines in subseasonalto-seasonal forecasting.
+C1 [Edolat, Darior; Monjo, Robert] Climate Res Fdn, Fdn Invest Clima, Madrid, Spain.
+   [Monjo, Robert] Univ Complutense Madrid, Dept Algebra Geometry & Topol, Madrid, Spain.
+C3 Complutense University of Madrid
+RP Edolat, D (通讯作者)，Climate Res Fdn, Fdn Invest Clima, Madrid, Spain.
+EM dario@ficlima.org
+RI Monjo, Robert/J-4033-2014
+FU Improving ClimAte Resilience of critical Assets (ICARIA) project -
+   European Commission through the Horizon Europe Programme [101093806];
+   Ministry for the Ecological Transition and the Demographic Challenge
+   (MITECO) of the Spanish Government; Horizon Europe - Pillar II
+   [101093806] Funding Source: Horizon Europe - Pillar II
+FX This work is partially supported by the Improving ClimAte Resilience of
+   critical Assets (ICARIA) project, funded by the European Commission
+   through the Horizon Europe Programme (Grant 101093806) . The work is
+   also supported by the Ministry for the Ecological Transition and the
+   Demographic Challenge (MITECO) of the Spanish Government under the two
+   phases of the IMpacts of climate change on wetlands Affected by
+   GroUndwAter (IMAGUA II) project. Finally, we truly appreciate all the
+   constructive comments and suggestions from the reviewers.
+NR 70
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693, UNITED STATES
+SN 0882-8156
+EI 1520-0434
+J9 WEATHER FORECAST
+JI Weather Forecast.
+PD JUN
+PY 2024
+VL 39
+IS 6
+BP 899
+EP 914
+DI 10.1175/WAF-D-23-0061.1
+PG 16
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA WY8Q4
+UT WOS:001258529600001
+DA 2025-05-29
+ER

@@ -1,0 +1,60 @@
+PT J
+AU Ning, YR
+   Wang, L
+   Yu, XC
+   Li, J
+AF Ning, Yanrui
+   Wang, Lei
+   Yu, Xiaochuan
+   Li, Jing
+TI Recent development in the decarbonization of marine and offshore
+   engineering systems
+SO OCEAN ENGINEERING
+LA English
+DT Article
+DE Decarbonization; CO2 storage; Carbon capture; Marine and offshore
+   systems; Ocean-based negative emission technologies; (NETs)
+ID CARBON CAPTURE; STORAGE; SHIPS; IRON; COST; OIL
+AB To mitigate global warming within 1.5 degrees C, it is critical to leverage the resources of the marine system to reduce the magnitude of CO2 concentration in the atmosphere. Recent progress of the decarbonization in the ocean and the underlying subsurface sedimentary basin is reviewed in this study. Considerable research effort has gone into the decarbonization of cargo ships and offshore oil and gas platforms, which mainly includes two aspects: 1) replace and integrate the current fuel with clean energy, and 2) deploy the carbon capture technology. Many technologies have been demonstrated to be effective in decarbonization with some being commercialized recently. Wind turbines have been linked with emerging battery technologies to provide power to offshore projects, while other renewable energies such as wave, solar and tidal energies are in the research stage. Comparison of different CO2 storage technologies shows that CO2 storage in the offshore saline aquifers/reser-voirs is more achievable from the perspectives of cost and environmental concerns. The offshore CCUS projects under operation and planning until 2022 have been summarized, most of which are planned by companies in Europe near the North Sea. Nevertheless, ocean-based negative emission technologies (NET) are still in the early stage. Due to the high cost and the potential environmental concerns, there is still a long way to go before NET can be widely deployed for application.
+C1 [Ning, Yanrui; Li, Jing] Shanghai Jiao Tong Univ, Sch Naval Architecture Ocean & Civil Engn, State Key Lab Ocean Engn, Shanghai, Peoples R China.
+   [Wang, Lei] Chengdu Univ Technol, Coll Energy, State Key Lab Oil & Gas Reservoir Geol & Exploita, Chengdu, Peoples R China.
+   [Yu, Xiaochuan] Univ New Orleans, Boysie Bollinger Sch Naval Architecture & Marine, New Orleans, LA 70148 USA.
+C3 Shanghai Jiao Tong University; Chengdu University of Technology;
+   University of Louisiana System; University of New Orleans
+RP Ning, YR (通讯作者)，Shanghai Jiao Tong Univ, Sch Naval Architecture Ocean & Civil Engn, State Key Lab Ocean Engn, Shanghai, Peoples R China.
+EM yning@mines.edu
+RI Ning, Yanrui/AAC-1328-2022; Wang, Lei/JCE-5052-2023
+OI Wang, Lei/0000-0002-3090-1921; Ning, Yanrui/0000-0002-2163-3451; yu,
+   Xiaochuan/0000-0002-1553-1643
+FU State Key Laboratory of Ocean Engineering, Shanghai Jiao Tong University
+   [GKZD010084]
+FX The authors would like to thank the funding support by State Key
+   Laboratory of Ocean Engineering, Shanghai Jiao Tong University (Grant
+   No. GKZD010084) .
+NR 62
+TC 15
+Z9 16
+U1 6
+U2 43
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD JUL 15
+PY 2023
+VL 280
+AR 114883
+DI 10.1016/j.oceaneng.2023.114883
+EA MAY 2023
+PG 9
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA L3VR9
+UT WOS:001022575200001
+DA 2025-05-29
+ER

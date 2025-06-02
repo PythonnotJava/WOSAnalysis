@@ -1,0 +1,62 @@
+PT J
+AU Faridi, WA
+   Asjad, MI
+   Toseef, M
+   Amjad, T
+AF Faridi, Waqas Ali
+   Asjad, Muhammad Imran
+   Toseef, Muhammad
+   Amjad, Taha
+TI Analysis of propagating wave structures of the cold bosonic atoms in a
+   zig-zag optical lattice via comparison with two different analytical
+   techniques
+SO OPTICAL AND QUANTUM ELECTRONICS
+LA English
+DT Article
+DE New direct extended algebraic method; G '/G(2) expansion method; The
+   cold bosonic atoms in a zig-zag optical lattice; Traveling wave
+   solutions
+ID CHAINS
+AB The wave propagation has the significant role in the field of coastal engineering and ocean. In the geographical fields, waves are primary source of environmental process owed to energy conveyance on floating structure. This study aims to investigate the system of cold bosonic atoms in zigzag optics lattices. The solitonic patterns of the considered model successfully surveyed by using two integrated analytical techniques new extended direct algebraic and G'/G(2) expansion method. The exact solutions are presented by rational, trigonometric, hyperbolic and exponential functions. On the basis of solitons, we need to show that which one is more integrated and robust scheme. These solutions will help to understood the dynamics of cold bosonic atoms in zig-zag optical lattices and the several other systems. Three dimensional as well as two dimensional comparison presented for a cold bosonic atoms model solutions which are revealed diagrammatically for appropriate parameters by using Mathematica. This study will help physicists to predict some new hypothesis and theories in the field of mathematical physics.
+C1 [Faridi, Waqas Ali; Asjad, Muhammad Imran] Univ Management & Technol, Dept Math, Lahore, Pakistan.
+   [Toseef, Muhammad] Govt Coll Univ Lahore, Dept Math, Lahore, Pakistan.
+   [Amjad, Taha] Super Univ Lahore, Dept Biol Sci, Lahore, Pakistan.
+C3 University of Management & Technology (UMT); Government College
+   University Lahore
+RP Asjad, MI (通讯作者)，Univ Management & Technol, Dept Math, Lahore, Pakistan.
+EM imran.asjad@umt.edu.pk
+RI Faridi, Waqas Ali Faridi/AGO-2432-2022; Asjad, Muhammad/X-1799-2019
+OI Asjad, Muhammad Imran/0000-0002-1484-5114; Ali Faridi,
+   Waqas/0000-0003-0713-5365
+FU University of Management and Technology in Lahore, Pakistan
+FX The authors are grateful to the University of Management and Technology
+   in Lahore, Pakistan, for assisting and supporting this research.
+NR 37
+TC 25
+Z9 25
+U1 0
+U2 3
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0306-8919
+EI 1572-817X
+J9 OPT QUANT ELECTRON
+JI Opt. Quantum Electron.
+PD DEC
+PY 2022
+VL 54
+IS 12
+AR 773
+DI 10.1007/s11082-022-04179-5
+PG 24
+WC Engineering, Electrical & Electronic; Quantum Science & Technology;
+   Optics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Physics; Optics
+GA 4Z0ZD
+UT WOS:000861946600004
+PM 36193336
+OA Bronze, Green Published
+DA 2025-05-29
+ER

@@ -1,0 +1,93 @@
+PT J
+AU Varlas, G
+   Vervatis, V
+   Spyrou, C
+   Papadopoulou, E
+   Papadopoulos, A
+   Katsafados, P
+AF Varlas, G.
+   Vervatis, V.
+   Spyrou, C.
+   Papadopoulou, E.
+   Papadopoulos, A.
+   Katsafados, P.
+TI Investigating the impact of atmosphere-wave-ocean interactions on a
+   Mediterranean tropical-like cyclone
+SO OCEAN MODELLING
+LA English
+DT Article
+DE CHAOS system; WRF; WAM; NEMO; Coupled models; Air-sea interaction;
+   Momentum; Enthalpy; Medicane
+ID AIR-SEA EXCHANGE; MODELING SYSTEM; BULK PARAMETERIZATION;
+   BOUNDARY-LAYER; FREE-SURFACE; WIND STRESS; SENSITIVITY; HURRICANE;
+   IMPLEMENTATION; TEMPERATURE
+AB Understanding the governing mechanisms of atmosphere-wave-ocean interactions is critical for unravelling the formation and evolution mechanisms of severe weather phenomena. This study aims at investigating the effects of atmosphere-wave-ocean feedbacks on a Mediterranean tropical-like cyclone (medicane), occurred on 27-30 September 2018 at the central-eastern Mediterranean Sea and characterized by severe environmental and socioeconomic impact. To unveil the interactions across the air-sea interface, the medicane was simulated by an integrated modelling system consisting of the Chemical Hydrological Atmospheric Ocean wave System (CHAOS), upgraded by embedding to it the Nucleus for European Modelling of the Ocean (NEMO) as ocean circulation component. Coupled simulations revealed that air-sea heat transfer and Ekman pumping, bringing sub-surface cold waters in upper ocean layers (upwelling), caused SST cooling (similar to 2-3 degrees C). SST cooling triggered a negative feedback loop procedure tending to balance between atmospheric and ocean processes. It also attenuated the cyclone and, subsequently, reduced the atmospheric energy embedded in ocean through the upper ocean vertical stratification weakening, thus, upper ocean vertical mixing, upwelling and SST cooling. The waves adjusted this feedback loop making the system more resistant in air-sea flux variations. Waves additionally weakened the cyclone not only due to the kinetic energy loss in the lower-atmosphere but also due to the enhancement of SST cooling which is attributed to the strengthening of Ekman pumping and vertical mixing, forced by wind stress increase. Nevertheless, waves partially balanced the air-wave-sea exchanges through the slight enthalpy flux gain under high wind conditions which is explained by considering the increase of enthalpy transfer coefficient in rougher sea areas.
+C1 [Varlas, G.; Papadopoulos, A.] Hellen Ctr Marine Res HCMR, Inst Marine Biol Resources & Inland Waters, 46-7 Km Athens Sounio Av, Anavyssos 19013, Greece.
+   [Vervatis, V.] Natl & Kapodistrian Univ Athens, Dept Phys, Sch Sci Bldg, 2nd Floor, Athens 15771, Greece.
+   [Spyrou, C.; Papadopoulou, E.; Katsafados, P.] Harokopio Univ Athens HUA, Dept Geog, El Venizelou Str 70, Athens 17671, Greece.
+C3 Hellenic Centre for Marine Research; National & Kapodistrian University
+   of Athens
+RP Katsafados, P (通讯作者)，Harokopio Univ Athens HUA, Dept Geog, El Venizelou Str 70, Athens 17671, Greece.
+EM pkatsaf@hua.gr
+RI Spyrou, Christos/ABA-9919-2020; Varlas, George/L-8082-2019; Vervatis,
+   Vassilios/GNW-4727-2022; Vervatis, Vassilios/O-9364-2014; Papadopoulos,
+   Anastasios/L-6578-2013
+OI Varlas, George/0000-0001-7929-9452; KATSAFADOS,
+   PETROS/0000-0001-7452-0138; Spyrou, Christos/0000-0002-3074-3230;
+   Vervatis, Vassilios/0000-0002-8862-8155; Papadopoulos,
+   Anastasios/0000-0002-4441-3443
+FU Greek Research & Technology Network (GRNET) in the National HPC facility
+   - ARIS [pr005011_thin]; European Union (European Social Fund-ESF); Greek
+   national funds
+FX This work was supported by computational time granted from the Greek
+   Research & Technology Network (GRNET) in the National HPC facility -
+   ARIS (https://hpc.grnet.gr/) - under project ID pr005011_thin. The
+   European Centre for Medium-Range Weather Forecasts (ECMWF) is gratefully
+   acknowledged for the kind provision of gridded atmospheric analysis
+   data. The Copernicus Marine Environment Monitoring Service (CMEMS) is
+   fruitfully acknowledged for the kind provision of gridded ocean analysis
+   data. Part of this research is also implemented through IKY Scholarships
+   Programme co-financed by the European Union (European Social Fund-ESF)
+   and Greek national funds through the action entitled ''Reinforcement of
+   Postdoctoral Researchers'', in the framework of the Operational
+   Programme ''Human Resources Development Programme, Education and
+   Lifelong Learning'' of the National Strategic Reference Framework (NSRF)
+   2014-2020. The stable version 3.6 of the NEMO model was downloaded under
+   the CeCILL public license from the svn repository
+   http://www.nemo-ocean.eu/under revision 8785. The measurements at the
+   meteorological station at Geraki
+   (http://meteoclima.hua.gr/stations/geraki/) were provided by the
+   Atmosphere and Climate Dynamics Group of Harokopio University of Athens.
+   The measurements of buoy 68 422 and Argo float 6 901 847 were provided
+   by the Mongoos Data Centre (http://mongoos.hcmr.gr/).The National
+   Aeronautics and Space Administration (NASA) is acknowledged for the
+   provision of a Terra/Moderate Resolution Imaging Spectroradiometer
+   (MODIS) satellite image. The European Organization for the Exploitation
+   of Meteorological Satellites (EUMETSAT) and the Cooperative Institute
+   for Meteorological Satellite Studies (CIMSS) are acknowledged for the
+   provision of a Meteosat-11 satellite image.
+NR 129
+TC 24
+Z9 24
+U1 0
+U2 20
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1463-5003
+EI 1463-5011
+J9 OCEAN MODEL
+JI Ocean Model.
+PD SEP
+PY 2020
+VL 153
+AR 101675
+DI 10.1016/j.ocemod.2020.101675
+PG 21
+WC Meteorology & Atmospheric Sciences; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences; Oceanography
+GA NE5ZX
+UT WOS:000562680400004
+DA 2025-05-29
+ER

@@ -1,0 +1,79 @@
+PT J
+AU Liu, ZK
+AF Liu, Zi-Kui
+TI Ocean of Data: Integrating First-Principles Calculations and CALPHAD
+   Modeling with Machine Learning
+SO JOURNAL OF PHASE EQUILIBRIA AND DIFFUSION
+LA English
+DT Article
+DE first-principles calculation; CALPHAD; thermodynamics; thermodynamic
+   modeling; thermodynamic stability
+ID INITIO MOLECULAR-DYNAMICS; AB-INITIO; CRYSTAL-STRUCTURE; THERMODYNAMIC
+   PROPERTIES; ALLOYING ELEMENTS; NI; DENSITY; SIMULATIONS; TRANSITION;
+   STABILITY
+AB Thermodynamics is a science concerning the state of a system, whether it is stable, metastable or unstable, when interacting with the surroundings. Computational thermodynamics enables quantitative calculations of thermodynamic properties as a function of both external conditions and internal configurations, in terms of first and second derivatives of energy with respect to either potentials or molar quantities. Thermodynamic modeling based on the CALPHAD method enables the thermodynamics beyond stable states and is the foundation of Materials Genome and materials design. In last several decades, first-principles calculations based on density functional theory have provided invaluable thermochemical data to improve the robustness of CALPHAD modeling. Today with ever increasing computing power and large amount of data repositories online, it calls for a new paradigm for CALPHAD modeling approach incorporating machine learning to create a sustainable ecosystem for the ocean of data and for emergent behaviors.
+C1 [Liu, Zi-Kui] Penn State Univ, Dept Mat Sci & Engn, University Pk, PA 16802 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Penn State Behrend; Pennsylvania State
+   University - University Park
+RP Liu, ZK (通讯作者)，Penn State Univ, Dept Mat Sci & Engn, University Pk, PA 16802 USA.
+EM prof.zikui.liu@psu.edu
+RI Liu, Zi-Kui/A-8196-2009
+OI Liu, Zi-Kui/0000-0003-3346-3696
+FU National Science Foundation (NSF); Department of Energy, Army Research
+   Lab, Office of Naval Research, Wright Patterson AirForce Base; NASA Jet
+   Propulsion Laboratory; National Institute of Standards and Technology;
+   NSF Center for Computational Materials Design; LION clusters at the
+   Pennsylvania State University; Office of Science of the U.S. Department
+   of Energy [DE-AC02-05CH11231]; NSF [ACI-1053575]; NASA Space Technology
+   Research Fellowship [NNX14AL43H]; NSF Research Traineeship Program
+   (CoMET: Computational Materials Education) [1449785]; Direct For
+   Education and Human Resources; Division Of Graduate Education [1449785]
+   Funding Source: National Science Foundation
+FX The research results reported in the paper are accumulated from the
+   author' publications over the years, as listed in the cited references
+   with financial supports acknowledged in them, including the National
+   Science Foundation (NSF), the Department of Energy, Army Research Lab,
+   Office of Naval Research, Wright Patterson AirForce Base, NASA Jet
+   Propulsion Laboratory, and the National Institute of Standards and
+   Technology, in addition to a range of national laboratories and
+   companies that supported the NSF Center for Computational Materials
+   Design, and the LION clusters at the Pennsylvania State University, the
+   resources of NERSC supported by the Office of Science of the U.S.
+   Department of Energy under Contract No. DE-AC02-05CH11231, and the
+   resources of XSEDE supported by NSF with Grant ACI-1053575.
+   Particularly, pycalphad and ESPEI have been supported by a NASA Space
+   Technology Research Fellowship under Grant No. NNX14AL43H and NSF
+   Research Traineeship Program (CoMET: Computational Materials Education)
+   under Grant No. 1449785. The author would like to thanks Dr. Richard
+   Otis and Mr. Brandon Bocklund for comments of the manuscript and
+   Patricia Lee Craig at Penn State for drawing Fig. 5.
+NR 107
+TC 31
+Z9 34
+U1 3
+U2 71
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1547-7037
+EI 1863-7345
+J9 J PHASE EQUILIB DIFF
+JI J. Phase Equilib. Diffus.
+PD OCT
+PY 2018
+VL 39
+IS 5
+SI SI
+BP 635
+EP 649
+DI 10.1007/s11669-018-0654-z
+PG 15
+WC Chemistry, Physical; Materials Science, Multidisciplinary; Metallurgy &
+   Metallurgical Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Materials Science; Metallurgy & Metallurgical Engineering
+GA GT8DO
+UT WOS:000444765000017
+DA 2025-05-29
+ER

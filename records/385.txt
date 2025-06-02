@@ -1,0 +1,76 @@
+PT J
+AU Manganello, JV
+   Hodges, KI
+   Cash, BA
+   Kinter, JL
+   Altshuler, EL
+   Fennessy, MJ
+   Vitart, F
+   Molteni, F
+   Towers, P
+AF Manganello, Julia V.
+   Hodges, Kevin I.
+   Cash, Benjamin A.
+   Kinter, James L., III
+   Altshuler, Eric L.
+   Fennessy, Michael J.
+   Vitart, Frederic
+   Molteni, Franco
+   Towers, Peter
+TI Seasonal Forecasts of Tropical Cyclone Activity in a
+   High-Atmospheric-Resolution Coupled Prediction System
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+DE Atm; Ocean Structure; Phenomena; Tropical cyclones; Forecasting;
+   Seasonal forecasting; Models and modeling; Coupled models; Variability;
+   Interannual variability
+ID INTERANNUAL VARIABILITY; STORM FREQUENCY; PACIFIC; ENSEMBLE; TRACKING;
+   MODEL; ENSO; CIRCULATION; SIMULATION; INTENSITY
+AB Seasonal forecast skill of the basinwide and regional tropical cyclone (TC) activity in an experimental coupled prediction system based on the ECMWF System 4 is assessed. As part of a collaboration between the Center for Ocean-Land-Atmosphere Studies (COLA) and the ECMWF called Project Minerva, the system is integrated at the atmospheric horizontal spectral resolutions of T319, T639, and T1279. Seven-month hindcasts starting from 1 May for the years 1980-2011 are produced at all three resolutions with at least 15 ensemble members. The Minerva system demonstrates statistically significant skill for retrospective forecasts of TC frequency and accumulated cyclone energy (ACE) in the North Atlantic (NA), eastern North Pacific (EP), and western North Pacific. While the highest scores overall are achieved in the North Pacific, the skill in the NA appears to be limited by an overly strong influence of the tropical Pacific variability. Higher model resolution improves skill scores for the ACE and, to a lesser extent, the TC frequency, even though the influence of large-scale climate variations on these TC activity measures is largely independent of resolution changes. The biggest gain occurs in transition from T319 to T639. Significant skill in regional TC forecasts is achieved over broad areas of the Northern Hemisphere. The highest-resolution hindcasts exhibit additional locations with skill in the NA and EP, including land-adjacent areas. The feasibility of regional intensity forecasts is assessed. In the presence of the coupled model biases, the benefits of high resolution for seasonal TC forecasting may be underestimated.
+C1 [Manganello, Julia V.; Cash, Benjamin A.; Kinter, James L., III; Altshuler, Eric L.; Fennessy, Michael J.] George Mason Univ, Ctr Ocean Land Atmosphere Studies, 113 Res Hall,Mail Stop 2B3,4400 Univ Dr, Fairfax, VA 22030 USA.
+   [Hodges, Kevin I.] Univ Reading, Dept Meteorol, Reading, Berks, England.
+   [Kinter, James L., III] George Mason Univ, 113 Res Hall,Mail Stop 2B3, Fairfax, VA 22030 USA.
+   [Vitart, Frederic; Molteni, Franco; Towers, Peter] European Ctr Medium Range Weather Forecasts, Shinfield Pk, Reading RG2 9AX, Berks, England.
+C3 George Mason University; Center for Ocean Land Atmosphere Studies;
+   University of Reading; George Mason University; European Centre for
+   Medium-Range Weather Forecasts (ECMWF)
+RP Manganello, JV (通讯作者)，George Mason Univ, Ctr Ocean Land Atmosphere Studies, 113 Res Hall,Mail Stop 2B3,4400 Univ Dr, Fairfax, VA 22030 USA.
+EM jvisneva@gmu.edu
+RI Kinter, James/A-8610-2015
+OI Cash, Benjamin/0000-0003-2295-3112
+FU NSF [AGS-1338427]; NOAA [NA09OAR4310058, NA14OAR4310160]; NASA
+   [NNX14AM19G]
+FX Funding of COLA for this study is provided by Grants from NSF
+   (AGS-1338427), NOAA (NA09OAR4310058 and NA14OAR4310160), and NASA
+   (NNX14AM19G). Computing resources on the Yellowstone supercomputer
+   provided by the National Center for Atmospheric Research are also
+   gratefully acknowledged.
+NR 73
+TC 37
+Z9 38
+U1 1
+U2 26
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD FEB
+PY 2016
+VL 29
+IS 3
+BP 1179
+EP 1200
+DI 10.1175/JCLI-D-15-0531.1
+PG 22
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA DC5UZ
+UT WOS:000369287300002
+OA hybrid
+DA 2025-05-29
+ER

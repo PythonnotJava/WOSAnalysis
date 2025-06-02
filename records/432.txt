@@ -1,0 +1,59 @@
+PT J
+AU Applebaum, SL
+   Pan, TCF
+   Hedgecock, D
+   Manahan, DT
+AF Applebaum, Scott L.
+   Pan, T. -C. Francis
+   Hedgecock, Dennis
+   Manahan, Donal T.
+TI Separating the Nature and Nurture of the Allocation of Energy in
+   Response to Global Change
+SO INTEGRATIVE AND COMPARATIVE BIOLOGY
+LA English
+DT Article
+ID OCEAN ACIDIFICATION; PACIFIC OYSTERS; CLIMATE-CHANGE; CONSUMING
+   PROCESSES; GROWTH HETEROSIS; SEA-URCHINS; GENOME; EXPRESSION; REVEALS;
+   LARVAE
+AB Understanding and predicting biological stability and change in the face of rapid anthropogenic modifications of ecosystems and geosystems are grand challenges facing environmental and life scientists. Physiologically, organisms withstand environmental stress through changes in biochemical regulation that maintain homeostasis, which necessarily demands tradeoffs in the use of metabolic energy. Evolutionarily, in response to environmentally forced energetic tradeoffs, populations adapt based on standing genetic variation in the ability of individual organisms to reallocate metabolic energy. Combined study of physiology and genetics, separating "Nature and Nurture," is, thus, the key to understanding the potential for evolutionary adaptation to future global change. To understand biological responses to global change, we need experimentally tractable model species that have the well-developed physiological, genetic, and genomic resources necessary for partitioning variance in the allocation of metabolic energy into its causal components. Model species allow for discovery and for experimental manipulation of relevant phenotypic contrasts and enable a systems-biology approach that integrates multiple levels of analyses to map genotypic-to-phenotypic variation. Here, we illustrate how combined physiological and genetic studies that focus on energy metabolism in developmental stages of a model marine organism contribute to an understanding of the potential to adapt to environmental change. This integrative research program provides insights that can be readily incorporated into individual-based ecological models of population persistence under global change.
+C1 [Applebaum, Scott L.; Pan, T. -C. Francis; Hedgecock, Dennis; Manahan, Donal T.] Univ So Calif, Dept Biol Sci, Los Angeles, CA 90089 USA.
+C3 University of Southern California
+RP Applebaum, SL (通讯作者)，Univ So Calif, Dept Biol Sci, Los Angeles, CA 90089 USA.
+EM manahan@usc.edu
+RI Pan, Francis/E-5243-2019; Hedgecock, Dennis/I-8655-2012; Applebaum,
+   Scott/S-8557-2018
+OI Applebaum, Scott/0000-0003-4384-9349; Hedgecock,
+   Dennis/0000-0002-3995-646X; Pan, Francis/0000-0002-1550-4581
+FU Direct For Biological Sciences; Division Of Integrative Organismal
+   Systems [1243801] Funding Source: National Science Foundation; Emerging
+   Frontiers; Direct For Biological Sciences [1220587] Funding Source:
+   National Science Foundation
+NR 85
+TC 59
+Z9 63
+U1 2
+U2 82
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 1540-7063
+EI 1557-7023
+J9 INTEGR COMP BIOL
+JI Integr. Comp. Biol.
+PD JUL
+PY 2014
+VL 54
+IS 2
+BP 284
+EP 295
+DI 10.1093/icb/icu062
+PG 12
+WC Zoology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Zoology
+GA AM7TP
+UT WOS:000340071900020
+PM 24907199
+OA Bronze
+DA 2025-05-29
+ER

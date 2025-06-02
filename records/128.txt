@@ -1,0 +1,69 @@
+PT J
+AU Kim, ZH
+   Park, H
+   Hong, SJ
+   Lim, SM
+   Lee, CG
+AF Kim, Z-Hun
+   Park, Hanwool
+   Hong, Seong-Joo
+   Lim, Sang-Min
+   Lee, Choul-Gyun
+TI Development of a floating photobioreactor with internal partitions for
+   efficient utilization of ocean wave into improved mass transfer and
+   algal culture mixing
+SO BIOPROCESS AND BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Internal partition; Marine photobioreactor; Microalgae; Ocean
+   cultivation
+ID TUBULAR PHOTOBIOREACTORS; CHLORELLA-ZOFINGIENSIS; BIODIESEL PRODUCTION;
+   ENHANCED PRODUCTION; BUBBLE-COLUMN; STATIC MIXERS; MICROALGAE; GROWTH;
+   TECHNOLOGY; DESIGN
+AB Culturing microalgae in the ocean has potentials that may reduce the production cost and provide an option for an economic biofuel production from microalgae. The ocean holds great potentials for mass microalgal cultivation with its high specific heat, mixing energy from waves, and large cultivable area. Suitable photobioreactors (PBRs) that are capable of integrating marine energy into the culture systems need to be developed for the successful ocean cultivation. In this study, prototype floating PBRs were designed and constructed using transparent low-density polyethylene film for microalgal culture in the ocean. To improve the mixing efficiency, various types of internal partitions were introduced within PBRs. Three different types of internal partitions were evaluated for their effects on the mixing efficiency in terms of mass transfer (K(L)a) and mixing time in the PBRs. The partition type with the best mixing efficiency was selected, and the number of partitions was varied from one to three for investigation of its effect on mixing efficiency. When the number of partitions is increased, mass transfer increased in proportion to the number of partitions. However, mixing time was not directly related to the number of partitions. When a green microalga, Tetraselmis sp. was cultivated using PBRs with the selected partition under semi-continuous mode in the ocean, biomass and fatty acid productivities in the PBRs were increased by up to 50 % and 44 % at high initial cell density, respectively, compared to non-partitioned ones. The results of internally partitioned PBRs demonstrated potentials for culturing microalgae by efficiently utilizing ocean wave energy into culture mixing in the ocean.
+C1 [Kim, Z-Hun; Park, Hanwool; Hong, Seong-Joo; Lim, Sang-Min; Lee, Choul-Gyun] Inha Univ, Natl Marine Bioenergy R&D Ctr, Inchon 22212, South Korea.
+   [Kim, Z-Hun; Park, Hanwool; Hong, Seong-Joo; Lim, Sang-Min; Lee, Choul-Gyun] Inha Univ, Dept Biol Engn, Inchon 22212, South Korea.
+C3 Inha University; Inha University
+RP Lee, CG (通讯作者)，Inha Univ, Natl Marine Bioenergy R&D Ctr, Inchon 22212, South Korea.; Lee, CG (通讯作者)，Inha Univ, Dept Biol Engn, Inchon 22212, South Korea.
+EM kimzhun@gmail.com; leecg@inha.ac.kr
+RI Kim, Seong-Hun/ABF-2927-2020
+OI Park, Hanwool/0000-0003-4679-8217; Lee, Choul-Gyun/0000-0002-4684-7990
+FU Marine Biotechnology Program - Ministry of Oceans and Fisheries of
+   Korean Government [200255]; Manpower Development Program for Marine
+   Energy; Global Ph.D. Fellowship Program through the National Research
+   Foundation of Korea (NRF) - Ministry of Education [2013032623]
+FX This research was supported by Marine Biotechnology Program funded by
+   Ministry of Oceans and Fisheries of Korean Government (Project No.:
+   200255), and Manpower Development Program for Marine Energy from the
+   same ministry, for which authors are grateful. In addition, Hanwool Park
+   was supported by Global Ph.D. Fellowship Program through the National
+   Research Foundation of Korea (NRF) funded by the Ministry of Education
+   (Project No.: 2013032623).
+NR 36
+TC 49
+Z9 49
+U1 1
+U2 41
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1615-7591
+EI 1615-7605
+J9 BIOPROC BIOSYST ENG
+JI Bioprocess. Biosyst. Eng.
+PD MAY
+PY 2016
+VL 39
+IS 5
+BP 713
+EP 723
+DI 10.1007/s00449-016-1552-6
+PG 11
+WC Biotechnology & Applied Microbiology; Engineering, Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biotechnology & Applied Microbiology; Engineering
+GA DJ9UH
+UT WOS:000374557900003
+PM 26857371
+DA 2025-05-29
+ER

@@ -1,0 +1,65 @@
+PT J
+AU Li, ZJ
+   Wen, JB
+   Yang, JC
+   He, JY
+   Ni, TL
+   Li, Y
+AF Li, Zhengjian
+   Wen, Jiabao
+   Yang, Jiachen
+   He, Jingyi
+   Ni, Tianlei
+   Li, Yang
+TI Energy-Efficient Space-Air-Ground-Ocean-Integrated Network Based on
+   Intelligent Autonomous Underwater Glider
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Oceans; Numerical models; Navigation; Energy efficiency; Analytical
+   models; Sensors; Data models; Green Internet of Things (IoT); long
+   short-term memory network-based self-navigation (SN-LSTM); numerical
+   modeling; self-navigation (SN); space-air-ground-ocean-integrated
+   network (SAGOI-Net); underwater glider
+ID LOCALIZATION; NAVIGATION
+AB Internet of Things (IoT) has extended its coverage to various spatial domains and has established interconnection to serve widespread applications of a larger spatial scale. Such IoT is called the space-air-ground-ocean-integrated network (SAGOI-Net), which consists of multiple battery-powered heterogeneous devices. Hence, energy efficiency is the key point of SAGOI-Net to be stably operated for a long time without manual maintenance. This article proposes a novel scheme of energy-efficient autonomous and decentralized SAGOI-Net establishment using an intelligent autonomous underwater glider (AUG) to serve marine applications. The proposed SAGOI-Net is energy efficient because the energy consumption is minimized by: 1) employing nonpropeller-driven AUG; 2) navigating AUG under water without acoustic sensor or extra energy-consuming vision sensors; and 3) equipping the self-navigation (SN) system based on lightweight neural network model to save the energy consumption of onboard computing resource. Moreover, assuming the AUG navigation problem as time-series regression, the proposed scheme designs SAGOI-Net to be autonomous and decentralized with the aid of lightweight long short-term memory (LSTM) network-based SN (SN-LSTM) system of AUG. The lightweight SN-LSTM model is trained end-to-end on dynamically modeled AUG motion information along with numerically modeled ocean environment data to quantitatively analyze the impact of the ocean environment on AUG. The simulation results demonstrate a superior performance of the AUG SN along with energy efficiency of the proposed SAGOI-Net.
+C1 [Li, Zhengjian; Wen, Jiabao; Yang, Jiachen; He, Jingyi; Ni, Tianlei; Li, Yang] Tianjin Univ, Sch Elect & Informat Engn, Tianjin 300072, Peoples R China.
+C3 Tianjin University
+RP Wen, JB (通讯作者)，Tianjin Univ, Sch Elect & Informat Engn, Tianjin 300072, Peoples R China.
+EM lizj@tju.edu.cn; wen_jiabao@tju.edu.cn; yangjiachen@tju.edu.cn;
+   seie_hjy@tju.edu.cn; nitianlei@tju.edu.cn; liyang328@shzu.edu.cn
+RI Li, Yang/ABC-9731-2020; Yang, Jiachen/ABH-5032-2020
+OI Li, Zhengjian/0000-0003-3781-6807; He, Jingyi/0000-0003-2817-7396; Wen,
+   Jiabao/0000-0003-2303-9613; Yang, Jiachen/0000-0003-2558-552X
+FU National Natural Science Foundation of China [61871283, 62271345];
+   Postdoctoral Science Foundation of China [2021M702441]
+FX This work wassupported in part by the National Natural Science
+   Foundation of China under Grant 61871283 and Grant 62271345, and in part
+   by the Postdoctoral Science Foundation of China under Grant 2021M702441.
+NR 37
+TC 5
+Z9 5
+U1 3
+U2 25
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD JUN 1
+PY 2023
+VL 10
+IS 11
+BP 9329
+EP 9341
+DI 10.1109/JIOT.2022.3227912
+PG 13
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA G8QI2
+UT WOS:000991733300009
+DA 2025-05-29
+ER

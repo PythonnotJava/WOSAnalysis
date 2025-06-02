@@ -1,0 +1,71 @@
+PT J
+AU Guo, JN
+   Liu, MY
+   Fang, ZC
+   Xiao, LF
+   Chen, WM
+   Pan, XJ
+AF Guo, Jianing
+   Liu, Mingyue
+   Fang, Zhichao
+   Xiao, Longfei
+   Chen, Weimin
+   Pan, Xujie
+TI Motion and Mooring Load Responses of a Novel 12-MW Semi-Submersible
+   Floating Wind Turbine: An Experimental Study
+SO JOURNAL OF OFFSHORE MECHANICS AND ARCTIC ENGINEERING-TRANSACTIONS OF THE
+   ASME
+LA English
+DT Article
+DE floating wind turbine; model test; motion responses; mooring load;
+   hydrodynamics; ocean energy technology
+AB Due to the complexity of the integrated Floating Wind Turbine (FWT) system, obtaining reliable results necessitates extensive experiments. This paper conducts a comprehensive study on the motion performance and mooring load responses of a novel 12-MW semi-submersible FWT through model tests carried out in a wave basin. A multi-blade large-scale wind-generation system, equipped with a rectifier network, was enhanced and constructed to provide a dependable wind field. And a flexible tower was designed and fabricated, achieving an accurate simulation of the tower's stiffness characteristic and its impact on the overall dynamic response. The marine environmental conditions encompass various combinations of wind, waves, and currents. Rigorous calibration and identification tests were undertaken to validate the environmental conditions and the model system. The findings reveal that, under mild wave parameters, the mooring load is primarily influenced by the resonance response with platform motions, particularly surge resonance. The load effect of wind and current induces mean surge and pitch motions, while their damping effect reduces the standard deviation of responses, notably suppressing the pitch response peak at its natural motion frequency. Wave loads predominantly dictate the vibration range of motion responses. When the current velocity reaches a sufficient magnitude, the coupling effect between current and wave in the wave-frequency region significantly amplifies the mooring response. Notably, motions and mooring loads in the 60-deg and 90-deg directions surpass those in the 0-deg direction, with the maximum responses occurring at 60 deg.
+C1 [Guo, Jianing; Liu, Mingyue; Xiao, Longfei] Shanghai Jiao Tong Univ, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+   [Guo, Jianing; Fang, Zhichao; Chen, Weimin; Pan, Xujie] Wison Nantong Heavy Ind Co Ltd, Nantong 226009, Jiangsu, Peoples R China.
+   [Guo, Jianing; Liu, Mingyue; Xiao, Longfei] SJTU Sanya Yazhou Bay Inst Deepsea Sci & Technol, Sanya 572024, Peoples R China.
+C3 Shanghai Jiao Tong University
+RP Liu, MY (通讯作者)，Shanghai Jiao Tong Univ, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.; Liu, MY (通讯作者)，SJTU Sanya Yazhou Bay Inst Deepsea Sci & Technol, Sanya 572024, Peoples R China.
+EM guojianing@sjtu.edu.cn; lmy_ummer@sjtu.edu.cn; fangzhichao@wison.com;
+   xiaolf@sjtu.edu.cn; chenweimin@wison.com; panxujie@wison.com
+RI liu, mingyue/KYQ-9700-2024
+FU Industrial Innovation "Unveiling and Commanding" Project of Nantong City
+   [JB2022007]; PhD Scientific Research and Innovation Foundation of Sanya
+   Yazhou Bay Science and Technology City [HSPHDSRF-2023-01-002]; National
+   Key Research and Development Program of China [2021YFB1507102]; Key
+   Technology Research and Test Verification of Off-shore Floating Wind
+   Turbine-Major Scientific and Technological Innovation Project in Wenzhou
+   in 2022 [ZG2022022]
+FX The Industrial Innovation "Unveiling and Commanding" Project of Nantong
+   City (Grant No. JB2022007).The National Key Research and Development
+   Program of China (Grant No. 2021YFB1507102).The PhD Scientific Research
+   and Innovation Foundation of Sanya Yazhou Bay Science and Technology
+   City (Grant No.HSPHDSRF-2023-01-002).The Key Technology Research and
+   Test Verification of Off-shore Floating Wind Turbine-Major Scientific
+   and Technological Innovation Project in Wenzhou in 2022 (Grant
+   No.ZG2022022)
+NR 25
+TC 2
+Z9 2
+U1 4
+U2 4
+PU ASME
+PI NEW YORK
+PA TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0892-7219
+EI 1528-896X
+J9 J OFFSHORE MECH ARCT
+JI J. Offshore Mech. Arct. Eng. Trans. ASME
+PD DEC 1
+PY 2024
+VL 146
+IS 6
+AR 062002
+DI 10.1115/1.4065601
+PG 25
+WC Engineering, Ocean; Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA L3C8O
+UT WOS:001349541300011
+DA 2025-05-29
+ER

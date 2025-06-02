@@ -1,0 +1,61 @@
+PT J
+AU Herrera-León, S
+   Lucay, FA
+   Cisternas, LA
+   Kraslawski, A
+AF Herrera-Leon, Sebastian
+   Lucay, Freddy A.
+   Cisternas, Luis A.
+   Kraslawski, Andrzej
+TI Applying a multi-objective optimization approach in designing water
+   supply systems for mining industries. The case of Chile
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Mining industry; Chile; Integrated water supply; Desalination; Solar
+   energy
+ID ATACAMA DESERT; DESALINATION; MANAGEMENT; ENERGY; CHALLENGES; SEAWATER;
+   FOOTPRINT; OPERATE; CLIMATE; PLANTS
+AB This work presents a multi-objective optimization approach to designing integrated water supply systems for the mining industry. The main goal is to estimate the total operational costs and greenhouse gas emissions from water supply systems. Chilean mining industry has been selected as a case study because of acute problem of water scarcity that it experiences. The current strategy to face the problem applied by the mining companies operating in Chile consists in building independent water supply systems that use ocean as the source of water. This solution is highly energy intensive, which is why the problem of water consumption is also a problem of energy consumption. The proposed optimization approach determines - from technical, economic and environmental perspective - the optimal topology of the system, optimal locations and sizes of water treatment plants, pumping stations, and pipelines. In addition, the analysis takes into account the eventual use of photovoltaic solar system in order to decrease greenhouse gas emissions. Our main findings have demonstrated that an integrated water supply system is always the best option from an economic and environmental point of view. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Herrera-Leon, Sebastian; Kraslawski, Andrzej] LUT Univ, Sch Engn Sci, Lappeenranta, Finland.
+   [Herrera-Leon, Sebastian; Lucay, Freddy A.; Cisternas, Luis A.] Univ Antofagasta, Dept Ingn Quim & Proc Minerales, Antofagasta, Chile.
+   [Herrera-Leon, Sebastian; Cisternas, Luis A.] CICITEM, Ctr Invest Cient Tecnol Mineria, Antofagasta, Chile.
+   [Kraslawski, Andrzej] Lodz Univ Technol, Dept Proc & Environm Engn, Lodz, Poland.
+C3 Lappeenranta-Lahti University of Technology LUT; Universidad de
+   Antofagasta; Lodz University of Technology
+RP Herrera-León, S (通讯作者)，LUT Univ, Sch Engn Sci, Lappeenranta, Finland.
+EM sebastian.herrera@lut.fi
+RI Kraslawski, Andrzej/LTZ-9350-2024; Herrera, Sebastian/IAO-7096-2023;
+   Cisternas, Luis/H-7225-2019
+OI Herrera, Sebastian/0000-0003-3315-9272
+FU CICITEM [R15A10002]
+FX The authors thanks to CICITEM for their funding through the project
+   R15A10002.
+NR 55
+TC 48
+Z9 50
+U1 4
+U2 39
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD FEB 10
+PY 2019
+VL 210
+BP 994
+EP 1004
+DI 10.1016/j.jclepro.2018.11.081
+PG 11
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA HI9GF
+UT WOS:000456762600088
+DA 2025-05-29
+ER

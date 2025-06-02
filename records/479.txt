@@ -1,0 +1,65 @@
+PT J
+AU Won, EJ
+   Dahms, HU
+   Kumar, KS
+   Shin, KH
+   Lee, JS
+AF Won, Eun-Ji
+   Dahms, Hans-U.
+   Kumar, K. Suresh
+   Shin, Kyung-Hoon
+   Lee, Jae-Seong
+TI An integrated view of gamma radiation effects on marine fauna: from
+   molecules to ecosystems
+SO ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH
+LA English
+DT Article
+DE Gamma radiation; Marine invertebrate; Copepod; Biological effects;
+   Repair
+ID IONIZING-RADIATION; OXIDATIVE STRESS; COPEPOD TIGRIOPUS; DNA-REPAIR;
+   REPRODUCTIVE-PERFORMANCE; HERMAPHRODITIC FISH; ANTIOXIDANT ENZYMES;
+   COMMUNITY STRUCTURE; AQUATIC ORGANISMS; CHRONIC EXPOSURE
+AB Accidental release of nuclides into the ocean is causing health risks to marine organisms and humans. All life forms are susceptible to gamma radiation with a high variation, depending on various physical factors such as dose, mode, and time of exposure and various biological factors such as species, vitality, age, and gender. Differences in sensitivity of gamma radiation are also associated with different efficiencies of mechanisms related to protection and repair systems. Gamma radiation may also affect various other integration levels: from gene, protein, cells and organs, population, and communities, disturbing the energy flow of food webs that will ultimately affect the structure and functioning of ecosystems. Depending on exposure levels, gamma radiation induces damages on growth and reproduction in various organisms such as zooplankton, benthos, and fish in aquatic ecosystems. In this paper, harmful effects of gamma-irradiated aquatic organisms are described and the potential of marine copepods in assessing the risk of gamma radiation is discussed with respect to physiological adverse effects that even affect the ecosystem level.
+C1 [Won, Eun-Ji; Lee, Jae-Seong] Sungkyunkwan Univ, Coll Sci, Dept Biol Sci, Suwon 440746, South Korea.
+   [Dahms, Hans-U.] Kaohsiung Med Univ, Dept Biomed Sci & Environm Biol, Kaohsiung 80424, Taiwan.
+   [Dahms, Hans-U.] Natl Sun Yat Sen Univ, Dept Marine Biotechnol & Resources, Kaohsiung 80424, Taiwan.
+   [Kumar, K. Suresh; Shin, Kyung-Hoon] Hanyang Univ, Dept Marine Sci & Convergent Technol, Coll Sci & Technol, Ansan 426791, South Korea.
+C3 Sungkyunkwan University (SKKU); Kaohsiung Medical University; National
+   Sun Yat Sen University; Hanyang University
+RP Lee, JS (通讯作者)，Sungkyunkwan Univ, Coll Sci, Dept Biol Sci, Suwon 440746, South Korea.
+EM jslee2@skku.edu
+RI Shin, Kyung-Hoon/AAD-6999-2021; Won, Eun-Ji/ABI-5949-2020; Kumar, K.
+   Suresh Kumar/A-2828-2017; Lee, Jae-Seong/H-6013-2015
+OI Kumar, K. Suresh Kumar/0000-0002-6365-0604; Lee,
+   Jae-Seong/0000-0003-0944-5172; Shin, Kyung-Hoon/0000-0002-3169-4274
+FU National Research Foundation [2013R1A1A2013404]
+FX This work was supported by a grant (2013R1A1A2013404) of the National
+   Research Foundation funded to Eun-Ji Won.
+NR 68
+TC 14
+Z9 15
+U1 4
+U2 30
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0944-1344
+EI 1614-7499
+J9 ENVIRON SCI POLLUT R
+JI Environ. Sci. Pollut. Res.
+PD NOV
+PY 2015
+VL 22
+IS 22
+BP 17443
+EP 17452
+DI 10.1007/s11356-014-3797-4
+PG 10
+WC Environmental Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology
+GA CX0YJ
+UT WOS:000365423100017
+PM 25382502
+DA 2025-05-29
+ER

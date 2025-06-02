@@ -1,0 +1,108 @@
+PT J
+AU Yokohata, T
+   Kinoshita, T
+   Sakurai, G
+   Pokhrel, Y
+   Ito, A
+   Okada, M
+   Satoh, Y
+   Kato, E
+   Nitta, T
+   Fujimori, S
+   Felfelani, F
+   Masaki, Y
+   Iizumi, T
+   Nishimori, M
+   Hanasaki, N
+   Takahashi, K
+   Yamagata, Y
+   Emori, S
+AF Yokohata, Tokuta
+   Kinoshita, Tsuguki
+   Sakurai, Gen
+   Pokhrel, Yadu
+   Ito, Akihiko
+   Okada, Masashi
+   Satoh, Yusuke
+   Kato, Etsushi
+   Nitta, Tomoko
+   Fujimori, Shinichiro
+   Felfelani, Farshid
+   Masaki, Yoshimitsu
+   Iizumi, Toshichika
+   Nishimori, Motoki
+   Hanasaki, Naota
+   Takahashi, Kiyoshi
+   Yamagata, Yoshiki
+   Emori, Seita
+TI MIROC-INTEG-LAND version 1: a global biogeochemical land surface model
+   with human water management, crop growth, and land-use change
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+LA English
+DT Article
+ID EARTH SYSTEM MODEL; CLIMATE-CHANGE; PARAMETERIZATION SIB2; STOMATAL
+   CONDUCTANCE; TERRESTRIAL GROSS; ATMOSPHERIC GCMS; COUPLED MODEL; CARBON
+   BUDGET; COVER CHANGE; FOOD DEMAND
+AB Future changes in the climate system could have significant impacts on the natural environment and human activities, which in turn affect changes in the climate system. In the interaction between natural and human systems under climate change conditions, land use is one of the elements that play an essential role. On the one hand, future climate change will affect the availability of water and food, which may impact land-use change. On the other hand, human-induced land-use change can affect the climate system through biogeophysical and biogeochemical effects. To investigate these interrelationships, we developed MIROC-INTEG-LAND (MIROC INTEGrated LAND surface model version 1), an integrated model that combines the land surface component of global climate model MIROC (Model for Interdisciplinary Research on Climate) with water resources, crop production, land ecosystem, and land-use models. The most significant feature of MIROC-INTEG-LAND is that the land surface model that describes the processes of the energy and water balance, human water management, and crop growth incorporates a land use decision-making model based on economic activities. In MIROC-INTEG-LAND, spatially detailed information regarding water resources and crop yields is reflected in the prediction of future land-use change, which cannot be considered in the conventional integrated assessment models. In this paper, we introduce the details and interconnections of the submodels of MIROC-INTEG-LAND, compare historical simulations with observations, and identify various interactions between the submodels. By evaluating the historical simulation, we have confirmed that the model reproduces the observed states well. The future simulations indicate that changes in climate have significant impacts on crop yields, land use, and irrigation water demand. The newly developed MIROC-INTEG-LAND could be combined with atmospheric and ocean models to develop an integrated earth system model to simulate the interactions among coupled natural-human earth system components.
+C1 [Yokohata, Tokuta; Ito, Akihiko; Satoh, Yusuke; Hanasaki, Naota; Yamagata, Yoshiki; Emori, Seita] Natl Inst Environm Studies, Ctr Global Environm Res, Tsukuba, Ibaraki 3058506, Japan.
+   [Kinoshita, Tsuguki; Masaki, Yoshimitsu] Ibaraki Univ, Coll Agr, Ami, Ibaraki 300393, Japan.
+   [Sakurai, Gen; Iizumi, Toshichika; Nishimori, Motoki] Natl Agr & Food Res Org, Inst Agroenvironm Sci, Tsukuba, Ibaraki 3058604, Japan.
+   [Pokhrel, Yadu; Felfelani, Farshid] Michigan State Univ, Dept Civil & Environm Engn, E Lansing, MI 48824 USA.
+   [Okada, Masashi; Takahashi, Kiyoshi] Natl Inst Environm Studies, Ctr Social & Environm Syst Res, Tsukuba, Ibaraki 3058506, Japan.
+   [Kato, Etsushi] Inst Appl Energy, Tokyo 105003, Japan.
+   [Nitta, Tomoko] Univ Tokyo, Inst Ind Sci, Kashiwa, Chiba 2778574, Japan.
+   [Fujimori, Shinichiro] Kyoto Univ, Grad Sch Engn, Kyoto 6158540, Japan.
+   [Masaki, Yoshimitsu] Hirosaki Univ, Grad Sch Sci & Technol, Hirosaki, Aomori 0368561, Japan.
+C3 National Institute for Environmental Studies - Japan; Ibaraki
+   University; National Agriculture & Food Research Organization - Japan;
+   Michigan State University; National Institute for Environmental Studies
+   - Japan; University of Tokyo; Kyoto University; Hirosaki University
+RP Yokohata, T (通讯作者)，Natl Inst Environm Studies, Ctr Global Environm Res, Tsukuba, Ibaraki 3058506, Japan.
+EM yokohata@nies.go.jp
+RI TAKAHASHI, KIYOSHI/AFN-9175-2022; Emori, Seita/D-1950-2012; Fujimori,
+   Shinichiro/A-1288-2015; Nitta, Tomoko/AAD-8244-2022; Felfelani,
+   Farshid/J-2282-2019; Hanasaki, Naota/C-2932-2009; Yamagata,
+   Yoshiki/H-7224-2018; Yokohata, Tokuta/N-4540-2019; Pokhrel,
+   Yadu/J-6440-2013; Kato, Etsushi/Q-2623-2018; Ito, Akihiko/P-2624-2017
+OI Nitta, Tomoko/0000-0001-9918-4716; SATOH, Yusuke/0000-0001-6419-7330;
+   Pokhrel, Yadu/0000-0002-1367-216X; TAKAHASHI,
+   KIYOSHI/0000-0002-0163-545X; Sakurai, Gen/0000-0002-6667-3924; Kato,
+   Etsushi/0000-0001-8814-804X; Yokohata, Tokuta/0000-0001-7346-7988; Ito,
+   Akihiko/0000-0001-5265-0791
+FU Ministry of Education, Culture, Sports, Science and Technology of Japan
+   (Integrated Research Program for Advancing Climate Models)
+   [JPMXD0717935715]; Ministry of the Environment of Japan (The Environment
+   Research and Technology Development Fund) (S-10) [JPMEERF12S11000]
+FX This research has been supported by the Ministry of Education, Culture,
+   Sports, Science and Technology of Japan (Integrated Research Program for
+   Advancing Climate Models) (grant no. JPMXD0717935715) and the Ministry
+   of the Environment of Japan (The Environment Research and Technology
+   Development Fund (S-10, grant no. JPMEERF12S11000)).
+NR 138
+TC 27
+Z9 27
+U1 3
+U2 22
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1991-959X
+EI 1991-9603
+J9 GEOSCI MODEL DEV
+JI Geosci. Model Dev.
+PD OCT 2
+PY 2020
+VL 13
+IS 10
+BP 4713
+EP 4747
+DI 10.5194/gmd-13-4713-2020
+PG 35
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Geology
+GA NZ5LA
+UT WOS:000577142700003
+OA Green Submitted, gold
+DA 2025-05-29
+ER

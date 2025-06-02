@@ -1,0 +1,64 @@
+PT J
+AU Yang, JC
+   Huo, JM
+   Xi, M
+   He, JY
+   Li, ZJ
+   Song, HH
+AF Yang, Jiachen
+   Huo, Jiaming
+   Xi, Meng
+   He, Jingyi
+   Li, Zhengjian
+   Song, Houbing Herbert
+TI A Time-Saving Path Planning Scheme for Autonomous Underwater Vehicles
+   With Complex Underwater Conditions
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Autonomous underwater vehicle (AUV); Internet of Underwater Things
+   (IoUT); ocean current; path planning; reinforcement learning (RL); time
+   saving
+ID DYNAMIC ENVIRONMENTS
+AB Autonomous underwater vehicle (AUV) shows great potential in the Internet of Underwater Things (IoUT) system, in which the path planning algorithm plays a fundamental role. However, the complex underwater environment brings greater challenges to AUV path planning, especially the ocean current, which has a profound impact on time and energy consumption. This article focuses on the complex ocean current condition and proposes an underwater path planning method based on proximal policy optimization (UP4O). In this novel method, a deep reinforcement network is constructed to serve as a decision control to plan the moving direction of AUV. An information encoding module is developed to extract the features of the local obstacles. Furthermore, UP4O integrates the obstacle features with the current state information, including relative position, ocean current, and velocity, enabling the AUV to focus on the global direction and local obstacles at the same time. Additionally, to further adapt to the ocean current and shorten the time cost, UP4O expands the action space of AUV, realizing a fine and flexible action adjustment. The wide applicability of UP4O has been proved by numerous experiments. The proposed algorithm can always plan the time-saving and collision-free paths in complex underwater environments with various terrains and ocean current.
+C1 [Yang, Jiachen; Huo, Jiaming; Xi, Meng; He, Jingyi; Li, Zhengjian] Tianjin Univ, Sch Elect & Informat Engn, Tianjin 300072, Peoples R China.
+   [Song, Houbing Herbert] Embry Riddle Aeronaut Univ, Secur & Optimizat Networked Globe Lab, Daytona Beach, FL 32114 USA.
+C3 Tianjin University; Embry-Riddle Aeronautical University
+RP Xi, M (通讯作者)，Tianjin Univ, Sch Elect & Informat Engn, Tianjin 300072, Peoples R China.
+EM yangjiachen@tju.edu.cn; huojiaming@tju.edu.cn; ximeng@tju.edu.cn;
+   seie_hjy@tju.edu.cn; lizj@tju.edu.cn; h.song@ieee.org
+RI Yang, Jiachen/ABH-5032-2020; xi, meng/HKW-2073-2023; Song,
+   Houbing/E-3628-2010
+OI Yang, Jiachen/0000-0003-2558-552X; Song, Houbing/0000-0003-2631-9223;
+   He, Jingyi/0000-0003-2817-7396; xi, meng/0000-0001-8207-3921; Li,
+   Zhengjian/0000-0003-3781-6807
+FU National Natural Science Foundation of China [61871283]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grant 61871283.
+NR 42
+TC 24
+Z9 25
+U1 36
+U2 133
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD JAN 15
+PY 2023
+VL 10
+IS 2
+BP 1001
+EP 1013
+DI 10.1109/JIOT.2022.3205685
+PG 13
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA J6XT1
+UT WOS:001011036600004
+DA 2025-05-29
+ER

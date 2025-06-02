@@ -1,0 +1,73 @@
+PT J
+AU Lv, B
+   Chen, J
+   Liu, HL
+   Liu, C
+   Zhang, ZW
+   Zhang, XN
+   Gao, H
+   Cai, YL
+AF Lv, Bin
+   Chen, Jie
+   Liu, Hai-lin
+   Liu, Chao
+   Zhang, Zhao-wen
+   Zhang, Xiao-nan
+   Gao, Hao
+   Cai, Yu-long
+TI Design of deep-sea chemical data collector for the seafloor observatory
+   network
+SO MARINE GEORESOURCES & GEOTECHNOLOGY
+LA English
+DT Article
+DE Seafloor Observatory; junction box; marine chemical monitoring; data
+   collector
+ID OCEAN; SYSTEM; SCIENCE
+AB This paper describes the design of a deep-sea chemical data collector for a seafloor observatory network. The control system of the data collector comprises the main control unit, energy supply distribution unit, serial port expansion unit, condition monitoring, power supply switching unit, and communication unit. The functions of the data collector include self-inspection, diagnosis, and isolation. It also transmits the collected data and the monitoring data in the data collector cabin to the shore station management system in real-time. The data is transmitted through the secondary junction box and the photoelectric composite cable. The data collector also includes optical dissolved oxygen, deep-sea methane, chlorophyll, turbidity, and colored dissolved organic matter (CDOM) sensors. In January 2017, the data collector integrated with domestic chemical sensors was used for the sea trial, in Jiaozhou Bay, Qingdao. The experimental results demonstrate the reliability of the system and the data quality of all chemical parameters.
+C1 [Lv, Bin; Chen, Jie; Liu, Hai-lin; Liu, Chao; Zhang, Zhao-wen; Zhang, Xiao-nan; Gao, Hao; Cai, Yu-long] Qilu Univ Technol, Shandong Acad Sci, Inst Oceanog Instrumentat, Qingdao, Peoples R China.
+   [Lv, Bin; Chen, Jie; Liu, Hai-lin; Liu, Chao; Zhang, Zhao-wen; Zhang, Xiao-nan; Gao, Hao; Cai, Yu-long] Shandong Prov Key Lab Ocean Environm Monitoring T, Qingdao, Peoples R China.
+C3 Qilu University of Technology
+RP Lv, B (通讯作者)，Qilu Univ Technol, Shandong Acad Sci, Inst Oceanog Instrumentat, Qingdao, Peoples R China.
+EM lvbin20031@163.com
+RI Zhao, Wensi/JDW-1266-2023; liu, chao/GQZ-6687-2022
+OI Lv, Bin/0000-0002-8182-9077
+FU National Development and Reform Commission Smart Ocean Major Project
+   [2019-37000-73-03005308]; Major Science and Technology Innovation
+   Projects of Shandong Province [2019JZZY010812]; National High Technology
+   Development Plan [2013AA09A411]; Institute of Oceanographic
+   Instrumentation Talent Training Fund Project [HYPY202108]
+FX This study is supported in part by National Development and Reform
+   Commission Smart Ocean Major Project [No. 2019-37000-73-03005308], Major
+   Science and Technology Innovation Projects of Shandong Province
+   (No.2019JZZY010812), in part by National High Technology Development
+   Plan (No. 2013AA09A411), and Institute of Oceanographic Instrumentation
+   Talent Training Fund Project (No. HYPY202108).
+NR 29
+TC 3
+Z9 3
+U1 0
+U2 32
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1064-119X
+EI 1521-0618
+J9 MAR GEORESOUR GEOTEC
+JI Mar. Geores. Geotechnol.
+PD NOV 7
+PY 2022
+VL 40
+IS 11
+BP 1359
+EP 1369
+DI 10.1080/1064119X.2021.1994064
+EA OCT 2021
+PG 11
+WC Engineering, Ocean; Engineering, Geological; Oceanography; Mining &
+   Mineral Processing
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography; Mining & Mineral Processing
+GA 6D5KQ
+UT WOS:000710403200001
+DA 2025-05-29
+ER

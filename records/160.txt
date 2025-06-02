@@ -1,0 +1,66 @@
+PT J
+AU Ham, S
+   Hong, SY
+   Park, S
+AF Ham, Suryun
+   Hong, Song-You
+   Park, Suhee
+TI A study on air-sea interaction on the simulated seasonal climate in an
+   ocean-atmosphere coupled model
+SO CLIMATE DYNAMICS
+LA English
+DT Article
+DE Intra-seasonal oscillation; Coupled climate model; Air-sea interaction;
+   Diurnal variation of SST; GRIMs
+ID MADDEN-JULIAN OSCILLATION; INTRASEASONAL OSCILLATIONS; GLOBAL
+   PRECIPITATION; SURFACE TEMPERATURE; CSIRO MK3.5; SUMMER;
+   PARAMETERIZATION; PREDICTABILITY; IMPACT; VARIABILITY
+AB This study investigates the effects of air-sea interaction upon simulated tropical climatology, focusing on the boreal summer mean precipitation and the embedded intra-seasonal oscillation (ISO) signal. Both the daily coupling of ocean-atmosphere and the diurnal variation of sea surface temperature (SST) at every time step by accounting for the ocean mixed layer and surface-energy budget at the ocean surface are considered. The ocean-atmosphere coupled model component of the global/regional integrated model system has been utilized. Results from the coupled model show better precipitation climatology than those from the atmosphere-only model, through the inclusion of SST-cloudiness-precipitation feedback in the coupled system. Cooling the ocean surface in the coupled model is mainly responsible for the improved precipitation climatology, whereas neither the coupling itself nor the diurnal variation in the SST influences the simulated climatology. However, the inclusion of the diurnal cycle in the SST shows a distinct improvement of the simulated ISO signal, by either decreasing or increasing the magnitude of spectral powers, as compared to the simulation results that exclude the diurnal variation of the SST in coupled models.
+C1 [Ham, Suryun; Hong, Song-You] Yonsei Univ, Dept Atmospher Sci, Seoul 120749, South Korea.
+   [Hong, Song-You] Yonsei Univ, Coll Sci, Dept Atmospher Sci, Seoul 120749, South Korea.
+   [Park, Suhee] Korea Meteorol Adm, Climate Predict Div, Seoul, South Korea.
+C3 Yonsei University; Yonsei University; Korea Meteorological
+   Administration (KMA)
+RP Hong, SY (通讯作者)，Yonsei Univ, Coll Sci, Dept Atmospher Sci, Seoul 120749, South Korea.
+EM songyouhong@gmail.com
+RI Hong, Song-You/I-3824-2012
+FU National Research Foundation of Korea (NRF); Ministry of Education,
+   Science and Technology [2012-0000158]; Korea Meteorological
+   Administration Research and Development Program [CATER 2012-3084]; KISTI
+   supercomputing center [KSC-2011-C3-11]
+FX This work was supported by the Basic Science Research Program through
+   the National Research Foundation of Korea (NRF) funded by the Ministry
+   of Education, Science and Technology (2012-0000158) and also funded by
+   Korea Meteorological Administration Research and Development Program
+   under Grant CATER 2012-3084. The authors would like to acknowledge the
+   support from KISTI supercomputing center through the strategic support
+   program for the supercomputing application research [No.
+   KSC-2011-C3-11].
+NR 71
+TC 14
+Z9 17
+U1 0
+U2 9
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0930-7575
+EI 1432-0894
+J9 CLIM DYNAM
+JI Clim. Dyn.
+PD MAR
+PY 2014
+VL 42
+IS 5-6
+BP 1175
+EP 1187
+DI 10.1007/s00382-013-1847-0
+PG 13
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA AB7KV
+UT WOS:000331969800004
+OA hybrid
+DA 2025-05-29
+ER

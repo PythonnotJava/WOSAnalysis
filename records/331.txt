@@ -1,0 +1,71 @@
+PT J
+AU Lou, Y
+   Li, MF
+   Hu, JX
+   Zhao, YL
+   Cui, WQ
+   Wang, YL
+   Yu, AF
+   Zhai, JY
+AF Lou, Ying
+   Li, Mengfan
+   Hu, Jiaxi
+   Zhao, Yilin
+   Cui, Weiqi
+   Wang, Yulong
+   Yu, Aifang
+   Zhai, Junyi
+TI Maximizing the energy conversion of triboelectric nanogenerator through
+   the synergistic effect of high coupling and dual-track circuit for
+   marine monitoring
+SO NANO ENERGY
+LA English
+DT Article
+DE Coupled nanogenerator; Energy conversion; Synergistic effect; Marine
+   monitoring
+AB The wave energy harvesting efficiency (EHE) and electrical energy storage efficiency (ESE) significantly impact ocean power at the front-end and back-end stages, respectively. In this work, to maximize the overall energy conversion affected by these two factors, a clip-like structured pendulum coupled nanogenerator (CP-CNG) integrated with a dual-track circuit (DTC) is elaborately designed to address poor energy conversion of the TENGs for marine monitoring. The optimized EHE was realized through coupling one freestanding triboelectric nano -generator (FR-TENG) unit and two electromagnetic generator (EMG) units into two contact-separation tribo-electric nanogenerator (CS-TENG) units. The space utilization rate of CP-CNG can be as high as 91.9%. Meanwhile, increased ESE is achieved by integrating DTC as voltage regulators, which perform backend energy management for CS-TENG and EMG, respectively. It is worth noting that for a 1 mF capacitor, the stored energy via the cooperation of CP-CNG and DTC can reach 60.7 mJ in 110 s, which is about 164 times that of CS-TENG (0.37 mJ) coupling with FR-TENG and EMG and 1.6 times that of CS-TENG (36.8 mJ) with buck circuit, demonstrating excellent synergistic effects. Owing to the synergistic effect, one CP-CNG can continuously drive four thermohygrometers under simulated water wave conditions. In additional, a hazard alarm system, including an immersion sensor, Bluetooth and gateway support, can also be powered by one CP-CNG successfully. This work develops a state-of-the-art concept for maximum energy conversion of TENGs, which should have a pro-found impact on the design of high-performance TENGs in the future.
+C1 [Lou, Ying; Li, Mengfan; Hu, Jiaxi; Cui, Weiqi; Wang, Yulong; Zhai, Junyi] Guangxi Univ, Ctr Nanoenergy Res, Sch Phys Sci & Technol, Nanning 530004, Peoples R China.
+   [Zhao, Yilin; Yu, Aifang; Zhai, Junyi] Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, Beijing 101400, Peoples R China.
+   [Zhao, Yilin; Yu, Aifang; Zhai, Junyi] Univ Chinese Acad Sci, Sch Nanosci & Engn, Beijing 100049, Peoples R China.
+C3 Guangxi University; Chinese Academy of Sciences; Beijing Institute of
+   Nanoenergy & Nanosystems, CAS; Chinese Academy of Sciences; University
+   of Chinese Academy of Sciences, CAS
+RP Yu, AF; Zhai, JY (通讯作者)，Chinese Acad Sci, CAS Ctr Excellence Nanosci, Beijing Inst Nanoenergy & Nanosyst, Beijing Key Lab Micronano Energy & Sensor, Beijing 101400, Peoples R China.
+EM yuaifang@binn.cas.cn; jyzhai@binn.cas.cn
+OI li, mengfan/0009-0007-1572-4043
+FU National Key R & D Project from Ministry of Science and Technology,
+   China [2021YFA1201603]; National Natural Science Foundation of China
+   [52073032, 52192611]; Fundamental Research Funds for the Central
+   Universities
+FX This work was supported by the National Key R & D Project from Ministry
+   of Science and Technology, China (2021YFA1201603) , National Natural
+   Science Foundation of China (52073032 and 52192611) and the Fundamental
+   Research Funds for the Central Universities.
+NR 31
+TC 12
+Z9 12
+U1 18
+U2 72
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-2855
+EI 2211-3282
+J9 NANO ENERGY
+JI Nano Energy
+PD MAR
+PY 2024
+VL 121
+AR 109240
+DI 10.1016/j.nanoen.2023.109240
+EA DEC 2023
+PG 12
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA GI0N4
+UT WOS:001151922800001
+DA 2025-05-29
+ER

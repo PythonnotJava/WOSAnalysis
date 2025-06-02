@@ -1,0 +1,71 @@
+PT J
+AU Nagel, T
+   Chauchat, J
+   Wirth, A
+   Bonamy, C
+AF Nagel, T.
+   Chauchat, J.
+   Wirth, A.
+   Bonamy, C.
+TI On the multi-scale interactions between an offshore-wind-turbine wake
+   and the ocean-sediment dynamics in an idealized framework - A numerical
+   investigation
+SO RENEWABLE ENERGY
+LA English
+DT Article
+DE Offshore-wind-turbine; Wake; Sea-sediment interactions; Ocean dynamics;
+   Seabed dynamics
+ID HYPERBOLIC CONSERVATION-LAWS; NONOSCILLATORY CENTRAL SCHEMES; PLANE
+   TURBULENT WAKES; SHALLOW-WATER LAYER; SEA-SURFACE; COEFFICIENTS; STRESS;
+   ENERGY; SCOUR; FLOW
+AB We investigate the turbulent dynamics of the coupled atmosphere-ocean-sediment system around a wind turbine. To this end, a coupled two-dimensional idealized numerical model of the ocean and sediment layers, forced by an idealized offshore wind turbine wake is used. The turbine wake impacts the ocean surface and for strong wind and water layer thickness higher than 20 m, large scale eddies of the size comparable to the wake thickness are generated, leading to a turbulent dynamics in the ocean.
+   The turbulence in the ocean is controlled by the shallow wake parameter S. The turbulent ocean dynamics is numerically integrated using time dependent simulations at fine horizontal resolution (1 m). From these simulations, eddy coefficients parametrizating the turbulent fluxes are proposed to be used in larger-scale (RANS) models. The ocean dynamics and the parameter values depend mainly on S. The ocean dynamics is laminar (S > 7.10(-2)), has a localized (7.10-2 <S < 7.10(-2)) or domain wide turbulent (S < 3.10(-2)) behavior. In the first two cases, changes in seabed elevation are around a few millimeters per month. For the third case, averaged over several days, changes decreases to a few tenths of millimeters per month. This is due to the alternating local velocity which transports sediments back and forth. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Nagel, T.; Chauchat, J.; Wirth, A.; Bonamy, C.] Univ Grenoble Alpes, LEGI, F-38000 Grenoble, France.
+   [Nagel, T.; Chauchat, J.; Wirth, A.; Bonamy, C.] CNRS, LEGI, F-38000 Grenoble, France.
+C3 Communaute Universite Grenoble Alpes; Institut National Polytechnique de
+   Grenoble; Universite Grenoble Alpes (UGA); Centre National de la
+   Recherche Scientifique (CNRS); Communaute Universite Grenoble Alpes;
+   Institut National Polytechnique de Grenoble; Universite Grenoble Alpes
+   (UGA); Centre National de la Recherche Scientifique (CNRS)
+RP Nagel, T (通讯作者)，Univ Grenoble Alpes, LEGI, F-38000 Grenoble, France.
+EM tim.nagel@univ-grenoble-alpes.fr
+RI CHAUCHAT, Julien/LMO-1368-2024; bonamy, cyrille/GXH-4496-2022
+OI chauchat, julien/0000-0002-5979-0620; bonamy,
+   cyrille/0000-0003-3868-7090
+FU Institut Carnot Energies du Futur; Observatoire des Sciences de
+   l'Univers de Grenoble (OSUG, LabEx OSUG@2020); Rhone-Alpes region
+   [CPER07-13 CIRA]; programme Investissements d'Avenir [ANR-10-EQPX-29-01]
+FX We thank the Institut Carnot Energies du Futur and the Observatoire des
+   Sciences de l'Univers de Grenoble (OSUG, LabEx OSUG@2020) for their
+   financial support. All the computations presented in this paper were
+   performed using the Froggy platform of the CIMENT infrastructure
+   (https://ciment.ujf-grenoble.fr), which is supported by the Rhone-Alpes
+   region (GRANT CPER07-13 CIRA) and the Equip@Meso project (reference
+   ANR-10-EQPX-29-01) of the programme Investissements d'Avenir supervised
+   by the Agence Nationale pour la Recherche.
+NR 35
+TC 8
+Z9 8
+U1 3
+U2 41
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0960-1481
+J9 RENEW ENERG
+JI Renew. Energy
+PD JAN
+PY 2018
+VL 115
+BP 783
+EP 796
+DI 10.1016/j.renene.2017.08.078
+PG 14
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA FK6LP
+UT WOS:000413615500069
+OA Green Submitted
+DA 2025-05-29
+ER

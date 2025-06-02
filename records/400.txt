@@ -1,0 +1,45 @@
+PT J
+AU Abbaspour, M
+   Farshforoush, A
+AF Abbaspour, Madjid
+   Farshforoush, Amir
+TI Enhancing wave energy harvesting through integration of IEA 15 MW wind
+   turbine on oscillating water columns equipped platform
+SO OCEAN ENGINEERING
+LA English
+DT Article
+ID DYNAMIC-RESPONSE; PERFORMANCE; ARRAYS
+AB The high costs associated with wave energy, encompassing substantial initial investments and ongoing operation and maintenance expenses, present significant obstacles to its widespread adoption and the realization of full-scale projects. To address this challenge, one promising strategy involves deploying robust wave energy converters within arrays integrated into platforms that also support wind turbines. This study introduces a novel hybrid energy harvesting platform featuring an IEA 15 MW wind turbine mounted on an oscillating water column-equipped platform previously developed by the authors. A time-domain analysis is performed using a numerical framework that integrates the FAST tool modules, including AeroDyn for aerodynamics and ElastoDyn for structural dynamics, alongside an analytical approach to model hydrodynamic interactions between oscillating water column units and incident waves, as well as the platform's motion response. The study is structured into three primary sections. The first section evaluates the wind turbine's response under calm water. The second section investigates platform motion and turbine response from startup to steady-state in regular waves. The third section analyzes power performance and platform behavior under varying wave periods and directions. The In-Situ Interaction Factor (ISIF), originally proposed by the authors, represents the ratio of the energy harvested from ocean waves by an array of PTO systems operating together to the sum of the energy captured by each PTO device in isolation, when the devices are positioned far apart. Results from the proposed hybrid energy harvesting platform demonstrate promising outcomes, notably achieving a ISIF of 16, which represents an eightfold increase compared to configurations without wind turbines. This means that through this platform, wave energy harvesting achieves a sixteenfold increase in the aggregate energy yield compared to the total energy output of all isolated harvesting units combined. This improvement is attributed to controlled pitch and roll (both less than 1 degrees at maximum) and the constructive interaction of OWCs in resonant conditions. The study validates these findings by comparing adapted methodologies with experimental data from a 1:50 scale model wave basin test of the DeepCwind-OWC.
+C1 [Abbaspour, Madjid; Farshforoush, Amir] Sharif Univ Technol, Sch Mech Engn, Tehran, Iran.
+C3 Sharif University of Technology
+RP Abbaspour, M (通讯作者)，Sharif Univ Technol, Sch Mech Engn, Tehran, Iran.
+EM abbpor@sharif.edu
+RI Abbaspour, Madjid/U-3256-2019
+OI Abbaspour, Madjid/0000-0003-2867-857X
+NR 45
+TC 1
+Z9 1
+U1 5
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0029-8018
+EI 1873-5258
+J9 OCEAN ENG
+JI Ocean Eng.
+PD FEB 1
+PY 2025
+VL 317
+AR 120069
+DI 10.1016/j.oceaneng.2024.120069
+EA DEC 2024
+PG 14
+WC Engineering, Marine; Engineering, Civil; Engineering, Ocean;
+   Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Oceanography
+GA U7Y1A
+UT WOS:001413891300001
+DA 2025-05-29
+ER

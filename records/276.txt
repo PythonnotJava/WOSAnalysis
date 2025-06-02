@@ -1,0 +1,65 @@
+PT J
+AU Lyard, FH
+   Allain, DJ
+   Cancet, M
+   Carrère, L
+   Picot, N
+AF Lyard, Florent H.
+   Allain, Damien J.
+   Cancet, Mathilde
+   Carrere, Loren
+   Picot, Nicolas
+TI FES2014 global ocean tide atlas: design and performance
+SO OCEAN SCIENCE
+LA English
+DT Article
+ID ACCURACY ASSESSMENT; WAVE-EQUATION; POLE TIDE; MODEL; TOPEX/POSEIDON;
+   DEFORMATION; DISSIPATION; ALTIMETRY; CURRENTS; TESTS
+AB Since the mid-1990s, a series of FES (finite element solution) global ocean tidal atlases has been produced and released with the primary objective to provide altimetry missions with tidal de-aliasing correction at the best possible accuracy. We describe the underlying hydrodynamic and data assimilation design and accuracy assessments for the latest FES2014 release (finalized in early 2016), especially for the altimetry de-aliasing purposes. The FES2014 atlas shows extremely significant improvements compared to the standard FES2004 and (intermediary) FES2012 atlases, in all ocean compartments, especially in shelf and coastal seas, thanks to the unstructured grid flexible resolution, recent progress in the (prior to assimilation) hydrodynamic tidal solutions, and use of ensemble data assimilation technique. Compared to earlier releases, the available tidal constituent's spectrum has been significantly extended, the overall resolution has been augmented, and additional scientific byproducts such as loading and self-attraction, energy diagnostics, or lowest astronomical tides have been derived from the atlas and are available. Compared to the other available global ocean tidal atlases, FES2014 clearly shows improved de-aliasing performance in most of the global ocean areas and has consequently been integrated in satellite altimetry geophysical data records (GDRs) and gravimetric data processing and adopted in recently renewed ITRF standards (International Terrestrial Reference System, 2020). It also provides very accurate open-boundary tidal conditions for regional and coastal modelling.
+C1 [Lyard, Florent H.; Allain, Damien J.] Univ Toulouse, LEGOS, CNES, CNRS,IRD, Toulouse, France.
+   [Cancet, Mathilde] NOVELTIS, F-31670 Labege, France.
+   [Carrere, Loren] CLS, F-31520 Ramonville St Agne, France.
+   [Picot, Nicolas] CNES, DSO OT, F-31400 Toulouse, France.
+C3 Universite de Toulouse; Universite Toulouse III - Paul Sabatier; Centre
+   National de la Recherche Scientifique (CNRS); Institut de Recherche pour
+   le Developpement (IRD); Laboratoire d'Etudes en Geophysique et
+   oceanographie spatiales
+RP Lyard, FH (通讯作者)，Univ Toulouse, LEGOS, CNES, CNRS,IRD, Toulouse, France.
+EM florent.lyard@legos.obs-mip.fr
+RI Lyard, Florent/AAN-4065-2021
+OI Allain, Damien/0000-0001-7243-0366
+FU French space agency (CNES) [131678, 160306, 161431, 14026]; OSTST/TOSCA
+   (INSU) scientific funding
+FX The FES2014 project has been supported by the French space agency (CNES;
+   grant nos. 131678, 160306, and 161431; general grant framework no.
+   14026) and by OSTST/TOSCA (INSU) scientific funding.
+NR 52
+TC 314
+Z9 329
+U1 6
+U2 45
+PU COPERNICUS GESELLSCHAFT MBH
+PI GOTTINGEN
+PA BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN 1812-0784
+EI 1812-0792
+J9 OCEAN SCI
+JI Ocean Sci.
+PD MAY 5
+PY 2021
+VL 17
+IS 2
+BP 615
+EP 649
+DI 10.5194/os-17-615-2021
+PG 35
+WC Meteorology & Atmospheric Sciences; Oceanography
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences; Oceanography
+GA RZ3GA
+UT WOS:000648484500001
+OA Green Submitted, gold
+HC Y
+HP N
+DA 2025-05-29
+ER

@@ -1,0 +1,76 @@
+PT J
+AU Leu, AO
+   Eppley, JM
+   Burger, A
+   DeLong, EF
+AF Leu, Andy O.
+   Eppley, John M.
+   Burger, Andrew
+   DeLong, Edward F.
+TI Diverse Genomic Traits Differentiate Sinking-Particle-Associated versus
+   Free-Living Microbes throughout the Oligotrophic Open Ocean Water Column
+SO MBIO
+LA English
+DT Article
+DE carbon pump; deep sea; free-living; marine microbes; particle-attached
+ID ORGANIC-MATTER; BACTERIAL COMMUNITIES; ENZYME-ACTIVITY; GROWTH-RATES;
+   MARINE-SNOW; CARBON; NITROGEN; IDENTIFICATION; ENVIRONMENT; POPULATIONS
+AB Particle-attached microbes play large roles in the ocean carbon cycle and help to sequester atmospheric CO2 and to deliver nutrients and energy on sinking particles to the deep sea. Here, we report on the genomic traits of particle-attached versus free-living microbes throughout the ocean water column to better differentiate their specific metabolic and ecological roles in the sea.
+   Bacteria and archaea are central to the production, consumption, and remineralization of dissolved and particulate organic matter and contribute critically to carbon delivery, nutrient availability, and energy transformations in the deep ocean. To explore environmentally relevant genomic traits of sinking-particle-associated versus free-living microbes, we compared habitat-specific metagenome-assembled genomes recovered throughout the water column in the North Pacific Subtropical Gyre. The genomic traits of sinking-particle-associated versus free-living prokaryotes were compositionally, functionally, and phylogenetically distinct. Substrate-specific transporters and extracellular peptidases and carbohydrate-active enzymes were more enriched and diverse in particle-associated microbes at all depths than in free-living counterparts. These data indicate specific roles for particle-attached microbes in particle substrate hydrolysis, uptake, and remineralization. Shallow-water particle-associated microbes had elevated genomic GC content and proteome nitrogen content and reduced proteome carbon content in comparison to abyssal particle-associated microbes. An inverse trend was observed for their sympatric free-living counterparts. These different properties of attached microbes are postulated to arise in part due to elevated organic and inorganic nitrogen availability inside sinking particles. Particle-attached microbes also were enriched in genes for environmental sensing via two-component regulatory systems, and cell-cell interactions via extracellular secretion systems, reflecting their surface-adapted lifestyles. Finally, particle-attached bacteria had greater predicted maximal growth efficiencies than free-living bacterioplankton at all depths. All of these particle-associated specific genomic and proteomic features appear to be driven by microhabitat-specific elevated nutrient and energy availability as well as surface-associated competitive and synergistic ecological interactions. Although some of these characteristics have been previously postulated or observed individually, we report them together here in aggregate via direct comparisons of cooccurring free-living and sinking-particle-attached microbial genomes from the open ocean. IMPORTANCE Particle-attached microbes play large roles in the ocean carbon cycle and help to sequester atmospheric CO2 and to deliver nutrients and energy on sinking particles to the deep sea. Here, we report on the genomic traits of particle-attached versus free-living microbes throughout the ocean water column to better differentiate their specific metabolic and ecological roles in the sea. In general, the genomic properties and contents of particle-attached microbes reflected the physical and chemical compositions of their environment as well as their microhabitat-specific adaptive traits. In comparison to cooccurring free-living microbes, particle-attached microbes had larger genomes, greater capacity for extracellular polymer degradation, greater environmental sensing and response capacity, greater potential for motility and attachment, and higher growth efficiencies. Our results present an integrated new perspective on sinking-particle-attached microbial adaptive traits that contribute to their critical ecological and biogeochemical roles and activities in the sea.
+C1 [Leu, Andy O.; Eppley, John M.; Burger, Andrew; DeLong, Edward F.] Univ Hawaii, Daniel K Inouye Ctr Microbial Oceanog Res & Educ, Honolulu, HI 96822 USA.
+   [Leu, Andy O.] Queensland Univ Technol, Sch Biomed Sci, Translat Res Inst, Ctr Microbiome Res, Woolloongabba, Qld, Australia.
+C3 University of Hawaii System; University of Queensland; Queensland
+   University of Technology (QUT)
+RP DeLong, EF (通讯作者)，Univ Hawaii, Daniel K Inouye Ctr Microbial Oceanog Res & Educ, Honolulu, HI 96822 USA.
+EM edelong@hawaii.edu
+OI DeLong, Edward/0000-0002-3088-4965
+FU Simons Foundation [329108, 721223]; Gordon and Betty Moore Foundation
+   [GBMF3777]; Gordon and Betty Moore Foundation (GBMF) [GBMF3777] Funding
+   Source: Gordon and Betty Moore Foundation (GBMF)
+FX We thank the captains and crews of R/V Kilo Moana, R/V
+   Ka'imikai-O-Kanaloa, the HOT program, and the SCOPE team for cruise
+   organization, sample collection, and oceanographic data acquisition. We
+   thank David Karl, Tara Clemente, Blake Watkins, and the HOT and SCOPE
+   teams for sediment trap deployment and recovery, Eric Grabowski for
+   particulate export flux data, and our reviewers for their constructive
+   criticisms and suggestions. We thank the Zehr lab at UC Santa Cruz for
+   providing DNA extracted from the 2015 Hoe Legacy II cruise 150-m
+   sediment traps (48).This project was funded by grants from the Simons
+   Foundation (no. 329108 and no. 721223 to E.F.D.) and the Gordon and
+   Betty Moore Foundation (grant no. GBMF3777 to E.F.D.). This work is a
+   contribution of the Simons Collaboration on Ocean Processes and Ecology
+   and the Center for Microbial Oceanography: Research and Education.E.F.D.
+   and J.M.E. designed and supervised sample recovery, processing, DNA
+   sequencing, and data analyses. A.B. and J.M.E. performed the metagenomic
+   sequencing and quality control on all sequence data, and J.M.E.
+   generated the initial metagenomic assemblies. A.O.L. generated and
+   quality assessed MAGs from sediment traps and freeliving microbes and
+   performed all downstream MAG analyses. A.O.L. and E.F.D. wrote the
+   manuscript with contributions from J.M.E. and A.B.
+NR 124
+TC 33
+Z9 34
+U1 6
+U2 51
+PU AMER SOC MICROBIOLOGY
+PI WASHINGTON
+PA 1752 N ST NW, WASHINGTON, DC 20036-2904 USA
+SN 2150-7511
+J9 MBIO
+JI mBio
+PD AUG 30
+PY 2022
+VL 13
+IS 4
+DI 10.1128/mbio.01569-22
+EA JUL 2022
+PG 19
+WC Microbiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Microbiology
+GA 4F1EF
+UT WOS:000825309700004
+PM 35862780
+OA Green Published, gold
+DA 2025-05-29
+ER

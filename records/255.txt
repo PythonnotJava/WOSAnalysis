@@ -1,0 +1,76 @@
+PT J
+AU Wickliffe, LC
+   Jossart, JA
+   Theuerkauf, SJ
+   Jensen, BM
+   King, JB
+   Henry, T
+   Sylvia, PC
+   Morris, JA Jr
+   Riley, KL
+AF Wickliffe, Lisa C.
+   Jossart, Jonathan A.
+   Theuerkauf, Seth J.
+   Jensen, Brandon M.
+   King, John B.
+   Henry, Trent
+   Sylvia, Paula C.
+   Morris Jr, James A.
+   Riley, Kenneth L.
+TI Balancing conflict and opportunity - spatial planning of shellfish and
+   macroalgae culture systems in a heavily trafficked maritime port
+SO FRONTIERS IN MARINE SCIENCE
+LA English
+DT Article
+DE aquaculture; marine spatial planning; culture systems analysis;
+   shellfish; macroalgae; seaweed; blue economy
+ID MARINE AQUACULTURE
+AB Ocean-based industries like shipping, aquaculture, and wind energy are growing at an unprecedented rate resulting in challenges related to siting and environmental management. As marine aquaculture and other ocean-based industries continue to expand, robust marine spatial planning analyses that reconcile existing ocean uses and integrate pertinent environmental and planning data are critical for identifying compatible locations. In this study, a series of geospatial analyses were used for aquaculture siting within and around a heavily trafficked and highly utilized maritime port in the San Diego Bay area of California, USA. Using a centralized geodatabase representing key aquaculture planning spatial datasets, recommendations for specific areas for aquaculture were developed based on appropriate environmental conditions for candidate shellfish and algae aquaculture species culture systems. Areas that were known constraints were first identified to determine potentially usable areas for shellfish and macroalgae (i.e., seaweed) aquaculture using an exclusion analysis, a type of multi-criteria decision analysis, to eliminate all areas without compatibility. Within the remaining usable area, we further considered shellfish and macroalgae culture system-specific factors within a 'culture systems analysis' to determine where different culture systems have potential for success. This analysis provides a foundation of coastal intelligence for guiding the aquaculture industry and natural resource managers towards appropriate siting decisions. This study can serve as a replicable example of aquaculture spatial planning approaches for siting sustainable aquaculture and other blue economy industries.
+C1 [Wickliffe, Lisa C.; Jossart, Jonathan A.; Theuerkauf, Seth J.; Jensen, Brandon M.; King, John B.] NOAA, Natl Ocean Serv, CSS, Beaufort, NC 28516 USA.
+   [Henry, Trent] US EPA, Great Lakes Natl Program Off, Chicago, IL USA.
+   [Sylvia, Paula C.] Aquaculture & Blue Technol Program, Port San Diego, San Diego, CA USA.
+   [Morris Jr, James A.; Riley, Kenneth L.] NOAA, Natl Ocean Serv, Natl Ctr Coastal Ocean Sci, Beaufort, NC 28516 USA.
+C3 National Oceanic Atmospheric Admin (NOAA) - USA; National Ocean Service,
+   NOAA; United States Environmental Protection Agency; National Oceanic
+   Atmospheric Admin (NOAA) - USA; National Ocean Service, NOAA; National
+   Centers for Coastal Ocean Science (NOOCS)
+RP Wickliffe, LC (通讯作者)，NOAA, Natl Ocean Serv, CSS, Beaufort, NC 28516 USA.; Riley, KL (通讯作者)，NOAA, Natl Ocean Serv, Natl Ctr Coastal Ocean Sci, Beaufort, NC 28516 USA.
+EM lwickliffe.8481@gmail.com; ken.riley@noaa.gov
+RI Theuerkauf, Seth/AAB-3290-2020
+FU NOAA Fisheries Office of Aquaculture; NOAA National Centers for Coastal
+   Ocean Science; NOAA Ernest F. Hollings Undergraduate Scholarship; NOAA
+   Fisheries West Coast Region; California Sea Grant
+FX The author(s) declare financial support was received for the research,
+   authorship, and/or publication of this article. Funding and support for
+   this project were provided by NOAA Fisheries Office of Aquaculture and
+   the NOAA National Centers for Coastal Ocean Science. We thank the NOAA
+   Ernest F. Hollings Undergraduate Scholarship for support of T. Henry. We
+   also acknowledge the many contributions from the Port of San Diego, NOAA
+   Fisheries West Coast Region; U.S. Navy Environmental Information
+   Management System; Port of San Diego Regional Harbor Monitoring Program,
+   and California Sea Grant.
+NR 44
+TC 2
+Z9 2
+U1 7
+U2 16
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2296-7745
+J9 FRONT MAR SCI
+JI Front. Mar. Sci.
+PD JAN 5
+PY 2024
+VL 10
+AR 1294501
+DI 10.3389/fmars.2023.1294501
+PG 16
+WC Environmental Sciences; Marine & Freshwater Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Environmental Sciences & Ecology; Marine & Freshwater Biology
+GA FG2X3
+UT WOS:001144554900001
+OA gold
+DA 2025-05-29
+ER

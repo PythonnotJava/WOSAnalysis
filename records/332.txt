@@ -1,0 +1,70 @@
+PT J
+AU Wang, C
+   Zhang, YL
+   Xu, HC
+   Chen, WC
+AF Wang, Chen
+   Zhang, Yongliang
+   Xu, Haochun
+   Chen, Wenchuang
+TI Wave power extraction from an integrated system composed of a three-unit
+   oscillating water column array and an inclined breakwater
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+LA English
+DT Article
+DE Wave power; Arrayed system; Inclined breakwater; Array effect; Wave
+   scattering
+ID OWC; PERFORMANCE; HYDRODYNAMICS; DEVICE
+AB Addressing the challenges linked to the high Levelised Cost of Electricity in ocean wave energy, the utilization of arrays comprising oscillating water columns (OWCs) emerges as a promising and preferred strategy. In this study, the efficacy of a linear OWC arrayed structure, comprising three identical cylindrical units embedded into an inclined breakwater, was demonstrated by leveraging the Computational Fluid Dynamics technique. The investigation delved into the potential impacts of varying the transverse spacing between the sub-units within the array and adjusting the slope profile. Comparisons were drawn between the integrated system - comprising an arrayed system and an inclined breakwater - and its equivalent embedded into a vertical breakwater under different water depth conditions owing to the influence of the tidal range. The results indicate that superior power extraction emerges when employing a larger transverse spacing, through amplifying the capture width ratio across a broader spectrum of wave frequencies, with a substantial 55.8% increment between the larger and smaller transverse spacing conditions. A moderate slope profile emerges as the favored choice for enhancing performance provided that the transverse spacing is to a larger extent. The advantageous performance of the arrayed system in contrast to the isolated structure, leveraging the principle of the qfactor, becomes more evident, particularly under a moderate slope profile. Additionally, the incorporation of an arrayed system into an inclined breakwater exhibits heightened potential for harnessing wave energy, particularly when stimulated by long-period waves, attributed largely to amplified wave scattering. Conversely, integration into a vertical breakwater excels within the domain of short-period waves.
+C1 [Wang, Chen; Zhang, Yongliang; Xu, Haochun] Tsinghua Univ, State Key Lab Hydrosci & Engn, Beijing 100084, Peoples R China.
+   [Wang, Chen; Zhang, Yongliang; Xu, Haochun] Tsinghua Univ, Key Lab Hydrosphere Sci, Minist Water Resources, Beijing 100084, Peoples R China.
+   [Wang, Chen; Zhang, Yongliang; Xu, Haochun] China Inst Ocean Engn Tsing Tao, Qingdao 266555, Peoples R China.
+   [Wang, Chen] Shanghai Jiao Tong Univ, State Key Lab Ocean Engn, Shanghai 200240, Peoples R China.
+   [Chen, Wenchuang] Sun Yat Sen Univ, Sch Civil Engn, Zhuhai 519082, Peoples R China.
+C3 Tsinghua University; Tsinghua University; Shanghai Jiao Tong University;
+   Sun Yat Sen University
+RP Zhang, YL (通讯作者)，Tsinghua Univ, State Key Lab Hydrosci & Engn, Beijing 100084, Peoples R China.; Chen, WC (通讯作者)，Sun Yat Sen Univ, Sch Civil Engn, Zhuhai 519082, Peoples R China.
+EM yongliangzhang@tsinghua.edu.cn; chenwch37@mail.sysu.edu.cn
+RI Wang, Chen/ADH-4604-2022
+OI Wang, Chen/0000-0002-2676-2498; zhang, yongliang/0000-0002-9275-4883
+FU Guangdong Basic and Applied Basic Research Founda-tion [52311530078]; 
+   [2023A1515012224];  [2023B1515040028]
+FX This research was supported by the National Natural Science Foundation
+   of China (51879144) , State Key Laboratory of HydroScience and
+   Engineering, China under Grant no. 2020-KY-02, Tsinghua National
+   Laboratory for Information Science and Technology, China, and Laoshan
+   Laboratory under Grant No. LSKJ202204503. Chen Wang acknowledges the
+   support from the Shuimu Tsinghua Scholar Program, and the Open Research
+   Fund Program of State Key Laboratory of Ocean Engineering, Shanghai Jiao
+   Tong University (Grant No. GKZD010089f) . Wenchuang Chen gratefully
+   acknowledges the National Natural Science Foundation of China (Grant No.
+   52201349, 52311530078) , Guangdong Basic and Applied Basic Research
+   Foundation (Grant No. 2023A1515012224, 2023B1515040028) .r 52311530078)
+   , Guangdong Basic and Applied Basic Research Founda-tion (Grant No.
+   2023A1515012224, 2023B1515040028) .
+NR 63
+TC 8
+Z9 8
+U1 3
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1364-0321
+EI 1879-0690
+J9 RENEW SUST ENERG REV
+JI Renew. Sust. Energ. Rev.
+PD SEP
+PY 2024
+VL 202
+AR 114645
+DI 10.1016/j.rser.2024.114645
+EA JUL 2024
+PG 23
+WC Green & Sustainable Science & Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Energy & Fuels
+GA XX3M7
+UT WOS:001264936600001
+DA 2025-05-29
+ER

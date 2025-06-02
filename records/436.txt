@@ -1,0 +1,83 @@
+PT J
+AU Proisy, C
+   Degenne, P
+   Anthony, EJ
+   Berger, U
+   Blanchard, E
+   Fromard, F
+   Gardel, A
+   Olagoke, A
+   Santos, V
+   Walcker, R
+   Lo Seen, D
+AF Proisy, Christophe
+   Degenne, Pascal
+   Anthony, Edward J.
+   Berger, Uta
+   Blanchard, Elodie
+   Fromard, Francois
+   Gardel, Antoine
+   Olagoke, Adewole
+   Santos, Valdenira
+   Walcker, Romain
+   Lo Seen, Danny
+TI A Multiscale Simulation Approach for Linking Mangrove Dynamics to
+   Coastal Processes using Remote Sensing Observations
+SO JOURNAL OF COASTAL RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 14th International Coastal Symposium (ICS)
+CY MAR 06-11, 2016
+CL Sydney, AUSTRALIA
+SP Univ Sydney, Geocoastal Res Grp, Coastal Educ & Res Fdn, JCR
+DE mangrove coasts; coastal modeling; ERA-Interim; coastal currents
+ID FRENCH-GUIANA; MUD BANK; SOUTH-AMERICA; WAVES
+AB We present a new landscape-modelling framework based on a domain-specific language called Ocelet that is used to question our understanding of how mangrove forests cope with fast-changing muddy seashores. For the demonstration, we selected the coast of French Guiana where mangrove physiognomy and extent continuously vary due to successive and recurrent erosion or accretion phases resulting from the alongshore migration of mud banks originating from the Amazon River. We modelled the French Guiana coastal system as a set of ecological and physical processes involving entities (e.g. ocean, mangrove shoreline, mud bank) that are in relation with each other. Interaction functions are written to specify how the entities change when they interact, according to the level of understanding and knowledge available. The scenario then describes what interaction functions are activated at each time step. We applied the approach to explain mangrove shoreline variations from 1986 to 2009 over 45 kilometres, and examined the contribution of alongshore and cross-shore wave energy and current velocities. The model was run with daily ERA-Interim/ECMWF waves and Mercator-Ocean currents as input data, whereas a time series of remote sensing images was used during the initialization and validation phases. We then discuss the flexibility of our approach to integrate existing models of mangrove forest dynamics.
+C1 [Proisy, Christophe; Blanchard, Elodie; Olagoke, Adewole] Inst Rech Dev, UMR AMAP, Montpellier, France.
+   [Degenne, Pascal; Lo Seen, Danny] CIRAD, UMR TETIS, Montpellier, France.
+   [Anthony, Edward J.] Aix Marseille Univ, Inst Univ France, CEREGE, Aix En Provence, France.
+   [Berger, Uta] Tech Univ Dresden, Inst Forest Growth & Comp Sci, D-01062 Dresden, Germany.
+   [Fromard, Francois; Walcker, Romain] CNRS UMR ECOLAB, Toulouse, France.
+   [Gardel, Antoine] Univ Littorale Cote Opale, CNRS Guyane, Cayenne, French Guiana.
+   [Santos, Valdenira] Inst Pesquisas Cient & Tecnol Estado Amapa IEPA, Macapa, Amapa, Brazil.
+   [Walcker, Romain] Univ Toulouse 3, F-31062 Toulouse, France.
+C3 CIRAD; Centre National de la Recherche Scientifique (CNRS); Institut de
+   Recherche pour le Developpement (IRD); Universite de Montpellier; CIRAD;
+   AgroParisTech; Institut Universitaire de France; Aix-Marseille
+   Universite; Technische Universitat Dresden; Universite de Toulouse;
+   Universite Toulouse III - Paul Sabatier
+RP Proisy, C (通讯作者)，Inst Rech Dev, UMR AMAP, Montpellier, France.
+EM christophe.proisy@ird.fr
+RI Olagoke, Adewole/F-9913-2013; Degenne, Pascal/A-8192-2011; SANTOS,
+   VALDENIRA/P-7060-2015; Anthony, Edward/G-5751-2013; Proisy,
+   Christophe/F-8501-2019; Lo Seen, Danny/C-2679-2008
+OI Proisy, Christophe/0000-0002-6718-863X; Lo Seen,
+   Danny/0000-0002-7773-2109
+NR 17
+TC 8
+Z9 8
+U1 0
+U2 42
+PU COASTAL EDUCATION & RESEARCH FOUNDATION
+PI LAWRENCE
+PA 810 EAST 10TH STREET, LAWRENCE, KS 66044 USA
+SN 0749-0208
+EI 1551-5036
+J9 J COASTAL RES
+JI J. Coast. Res.
+PD MAR
+PY 2016
+SI 75
+BP 810
+EP 814
+DI 10.2112/SI75-163.1
+PN 2
+PG 5
+WC Environmental Sciences; Geography, Physical; Geosciences,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Environmental Sciences & Ecology; Physical Geography; Geology
+GA DI1FF
+UT WOS:000373241300017
+DA 2025-05-29
+ER

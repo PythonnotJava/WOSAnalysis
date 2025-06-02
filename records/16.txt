@@ -1,0 +1,79 @@
+PT J
+AU Ding, HY
+   Zang, J
+   Jin, P
+   Ning, DZ
+   Zhao, XL
+   Liu, YY
+   Blenkinsopp, C
+   Chen, Q
+AF Ding, Haoyu
+   Zang, Jun
+   Jin, Peng
+   Ning, Dezhi
+   Zhao, Xuanlie
+   Liu, Yingyi
+   Blenkinsopp, Chris
+   Chen, Qiang
+TI Optimization of the Hydrodynamic Performance of a Wave Energy Converter
+   in an Integrated Cylindrical Wave Energy Converter-Type Breakwater
+   System
+SO JOURNAL OF OFFSHORE MECHANICS AND ARCTIC ENGINEERING-TRANSACTIONS OF THE
+   ASME
+LA English
+DT Article
+DE computational fluid dynamics; fluid-structure interaction;
+   hydrodynamics; ocean energy technology
+AB Wave energy converters (WECs) are built to extract wave energy. However, this kind of device is still expensive for commercial utilization. To cut down the cost of WECs by sharing the construction cost with breakwaters, an integrated cylindrical WEC-type breakwater system that includes a cylindrical WEC array in front of a very long breakwater is proposed to extract wave energy and attenuate incident waves. This paper aims to optimize the performance of the integrated cylindrical WEC-type breakwater system. A computational fluid dynamics tool, openfoam (R), and a potential flow theory-based solver, HAMS (R), are utilized. openfoam (R) provides viscosity corrections to a modified version of HAMS (R) in order to accurately and efficiently predict the integrated system's performance. Parametric studies are conducted to optimize the integrated system, and a novel setup with an extra arc structure is found to significantly improve the performance of the integrated system.
+C1 [Ding, Haoyu; Zang, Jun; Blenkinsopp, Chris] Univ Bath, Dept Architecture & Civil Engn, Bath BA2 7AY, England.
+   [Jin, Peng] South China Univ Technol, Sch Marine Sci & Engn, Guangzhou 510641, Peoples R China.
+   [Ning, Dezhi] Dalian Univ Technol, State Key Lab Coastal & Offshore Engn, 2, Linggong Rd, Dalian 116024, Liaoning, Peoples R China.
+   [Zhao, Xuanlie] Harbin Engn Univ, Coll Shipbldg Engn, Harbin 150009, Heilongjiang, Peoples R China.
+   [Liu, Yingyi] Kyushu Univ, Res Inst Appl Mech, 744 Motooka,Nishi Ku, Fukuoka 8190395, Japan.
+   [Chen, Qiang] Florida Int Univ, Int Hurricane Res Ctr, Miami, FL 33199 USA.
+C3 University of Bath; South China University of Technology; Dalian
+   University of Technology; Harbin Engineering University; Kyushu
+   University; State University System of Florida; Florida International
+   University
+RP Zang, J (通讯作者)，Univ Bath, Dept Architecture & Civil Engn, Bath BA2 7AY, England.
+EM hd484@bath.ac.uk; jz235@bath.ac.uk; jinpeng@scut.edu.cn;
+   dzning@dlut.edu.cn; xlzhao@hrbeu.edu.cn; liuyingyi@riam.kyushu-u.ac.jp;
+   cb761@bath.ac.uk; qchen@fiu.edu
+RI Ning, Dezhi/Q-7910-2017; Ding, Haoyu/LQJ-3675-2024; Zang,
+   Jun/A-9752-2012; Blenkinsopp, Chris/AFF-8523-2022; Chen,
+   Qiang/AEQ-4605-2022; Liu, Yingyi/L-2911-2016
+OI Ding, Haoyu/0000-0001-6093-6722; Chen, Qiang/0000-0003-4410-2829; Liu,
+   Yingyi/0000-0003-2935-9626; Zang, Jun/0000-0002-1810-5172
+FU Computations of CFD models were performed on the HPC facility "Balena"
+   at the University of Bath.; EPSRC [EP/T026782/1, EP/M022382/1] Funding
+   Source: UKRI; Grants-in-Aid for Scientific Research [22K14430] Funding
+   Source: KAKEN
+FX Computations of CFD models were performed on the HPC facility "Balena"
+   at the University of Bath.
+NR 14
+TC 5
+Z9 5
+U1 3
+U2 22
+PU ASME
+PI NEW YORK
+PA TWO PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0892-7219
+EI 1528-896X
+J9 J OFFSHORE MECH ARCT
+JI J. Offshore Mech. Arct. Eng. Trans. ASME
+PD OCT 1
+PY 2023
+VL 145
+IS 5
+AR 054501
+DI 10.1115/1.4056942
+PG 6
+WC Engineering, Ocean; Engineering, Mechanical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering
+GA Q1HI0
+UT WOS:001055092200006
+OA Green Published, Green Accepted
+DA 2025-05-29
+ER

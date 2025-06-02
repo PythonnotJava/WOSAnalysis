@@ -1,0 +1,63 @@
+PT J
+AU Hohenegger, C
+   Stevens, B
+AF Hohenegger, Cathy
+   Stevens, Bjorn
+TI Coupled radiative convective equilibrium simulations with explicit and
+   parameterized convection
+SO JOURNAL OF ADVANCES IN MODELING EARTH SYSTEMS
+LA English
+DT Article
+DE RCE; convection-permitting; convective parameterization; organization;
+   climate
+ID SELF-AGGREGATION; ATMOSPHERE; CLOUDS; MODEL; SCALE; SIZE
+AB Radiative convective equilibrium has been applied in past studies to various models given its simplicity and analogy to the tropical climate. At convection-permitting resolution, the focus has been on the organization of convection that appears when using fixed sea surface temperature (SST). Here the SST is allowed to freely respond to the surface energy. The goals are to examine and understand the resulting transient behavior, equilibrium state, and perturbations thereof, as well as to compare these results to a simulation integrated with parameterized cloud and convection. Analysis shows that the coupling between the SST and the net surface energy acts to delay the onset of self-aggregation and may prevent it, in our case, for a slab ocean of less than 1 m. This is so because SST gradients tend to oppose the shallow low-level circulation that is associated with the self-aggregation of convection. Furthermore, the occurrence of self-aggregation is found to be necessary for reaching an equilibrium state and avoiding a greenhouse-like climate. In analogy to the present climate, the self-aggregation generates the dry and clear subtropics that allow the system to efficiently cool. In contrast, strong shortwave cloud radiative effects, much stronger than at convection-permitting resolution, prevent the simulation with parameterized cloud and convection to fall into a greenhouse state. The convection-permitting simulations also suggest that cloud feedbacks, as arising when perturbing the equilibrium state, may be very different, and in our case less negative, than what emerges from general circulation models.
+C1 [Hohenegger, Cathy; Stevens, Bjorn] Max Planck Inst Meteorol, Hamburg, Germany.
+C3 Max Planck Society
+RP Hohenegger, C (通讯作者)，Max Planck Inst Meteorol, Hamburg, Germany.
+EM cathy.hohenegger@mpimet.mpg.de
+RI Stevens, Bjorn/A-1757-2013
+OI Stevens, Bjorn/0000-0003-3795-0475
+FU Max Planck Society for advancement of science; Hans Ertel Centre for
+   Weather Research; BMVBS (Federal Ministry of Transport, Building and
+   Urban Development)
+FX The study was supported by the Max Planck Society for the advancement of
+   science and the Hans Ertel Centre for Weather Research. The Hans Ertel
+   Centre for Weather Research is a research network of Universities,
+   Research Institutes, and the Deutscher Wetterdienst funded by the BMVBS
+   (Federal Ministry of Transport, Building and Urban Development). Use of
+   the supercomputer facilities at the Deutsches Klimarechenzentrum (DKRZ)
+   is acknowledged. The authors thank James Ruppert and the anonymous
+   reviewers for their helpful comments on this manuscript as well as
+   Robert Pincus, Christel Hohenegger, and Juan Pedro Mellado for
+   discussion. Primary data and scripts used in the analysis and other
+   supporting information that may be useful in reproducing the author's
+   work are archived by the Max Planck Institute for Meteorology and can be
+   obtained by contacting publications@mpimet.mpg.de.
+NR 42
+TC 72
+Z9 76
+U1 0
+U2 18
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 1942-2466
+J9 J ADV MODEL EARTH SY
+JI J. Adv. Model. Earth Syst.
+PD SEP
+PY 2016
+VL 8
+IS 3
+BP 1468
+EP 1482
+DI 10.1002/2016MS000666
+PG 15
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA EC0LV
+UT WOS:000387793500024
+OA gold
+DA 2025-05-29
+ER

@@ -1,0 +1,75 @@
+PT J
+AU Irving, D
+   Hobbs, W
+   Church, J
+   Zika, J
+AF Irving, Damien
+   Hobbs, Will
+   Church, John
+   Zika, Jan
+TI A Mass and Energy Conservation Analysis of Drift in the CMIP6 Ensemble
+SO JOURNAL OF CLIMATE
+LA English
+DT Article
+DE Heat budgets; fluxes; fluxes; transport; Water budget; balance; Climate
+   models; Coupled models; Model evaluation/performance
+ID GLOBAL WATER CYCLE; SEA-LEVEL; OCEAN
+AB Coupled climate models are prone to "drift" (long-term unforced trends in state variables) due to incomplete spinup and nonclosure of the global mass and energy budgets. Here we assess model drift and the associated conservation of energy, mass, and salt in CMIP6 and CMIP5 models. For most models, drift in globally integrated ocean mass and heat content represents a small but nonnegligible fraction of recent historical trends, while drift in atmospheric water vapor is negligible. Model drift tends to be much larger in time-integrated ocean heat and freshwater flux, net top-of-the-atmosphere radiation (netTOA) and moisture flux into the atmosphere (evaporation minus precipitation), indicating a substantial leakage of mass and energy in the simulated climate system. Most models are able to achieve approximate energy budget closure after drift is removed, but ocean mass budget closure eludes a number of models even after dedrifting and none achieve closure of the atmospheric moisture budget. The magnitude of the drift in the CMIP6 ensemble represents an improvement over CMIP5 in some cases (salinity and time-integrated netTOA) but is worse (time-integrated ocean freshwater and atmospheric moisture fluxes) or little changed (ocean heat content, ocean mass, and time-integrated ocean heat flux) for others, while closure of the ocean mass and energy budgets after drift removal has improved.
+C1 [Irving, Damien; Church, John] Univ New South Wales, Climate Change Res Ctr, Sydney, NSW, Australia.
+   [Hobbs, Will] Univ Tasmania, Inst Marine & Antarctic Studies, Hobart, Tas, Australia.
+   [Zika, Jan] Univ New South Wales, Sch Math & Stat, Sydney, NSW, Australia.
+C3 University of New South Wales Sydney; University of Tasmania; University
+   of New South Wales Sydney
+RP Irving, D (通讯作者)，Univ New South Wales, Climate Change Res Ctr, Sydney, NSW, Australia.
+EM damien.irving@unsw.edu.au
+RI Hobbs, Will/P-8094-2019; Zika, Jan/KYD-7146-2024; Hobbs,
+   Will/G-5116-2014; Irving, Damien/A-1479-2012; Church, John/A-1541-2012
+OI Hobbs, Will/0000-0002-2061-0899; Irving, Damien/0000-0003-1258-5002;
+   Church, John/0000-0002-7037-8194; Zika, Jan/0000-0003-3462-3559
+FU Centre for Southern Hemisphere Oceans Research (CSHOR) - Qingdao
+   National Laboratory for Marine Science and Technology (QNLM, China);
+   Centre for Southern Hemisphere Oceans Research (CSHOR) - Common wealth
+   Scientific and Industrial Research Organisation (CSIRO, Australia);
+   Australian Research Council's Discovery Project funding scheme
+   [DP190101173]
+FX This study was supported by the Centre for Southern Hemisphere Oceans
+   Research (CSHOR), jointly funded by the Qingdao National Laboratory for
+   Marine Science and Technology (QNLM, China) and theCommonwealth
+   Scientific and Industrial Research Organisation (CSIRO, Australia), and
+   the Australian Research Council's Discovery Project funding scheme
+   (project DP190101173). We acknowledge the World Climate Research
+   Programme, which, through its Working Group on Coupled Modelling,
+   coordinated and promoted CMIP6. We thank the climate modeling groups for
+   producing and making available their model output, the Earth System Grid
+   Federation (ESGF) for archiving the data and providing access, and the
+   multiple funding agencies who support CMIP6 and ESGF. We also thank Ryan
+   Holmes, Angeline Pendergrass, and Martin Dix for their insightful
+   comments on drafts of this work.
+NR 77
+TC 41
+Z9 42
+U1 1
+U2 18
+PU AMER METEOROLOGICAL SOC
+PI BOSTON
+PA 45 BEACON ST, BOSTON, MA 02108-3693 USA
+SN 0894-8755
+EI 1520-0442
+J9 J CLIMATE
+JI J. Clim.
+PD APR
+PY 2021
+VL 34
+IS 8
+BP 3157
+EP 3170
+DI 10.1175/JCLI-D-20-0281.1
+PG 14
+WC Meteorology & Atmospheric Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Meteorology & Atmospheric Sciences
+GA RT0GN
+UT WOS:000644147200020
+OA Green Submitted, Bronze
+DA 2025-05-29
+ER

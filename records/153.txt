@@ -1,0 +1,78 @@
+PT J
+AU Barkan, R
+   Srinivasan, K
+   Yang, LW
+   McWilliams, JC
+   Gula, J
+   Vic, C
+AF Barkan, Roy
+   Srinivasan, Kaushik
+   Yang, Luwei
+   McWilliams, James C.
+   Gula, Jonathan
+   Vic, Clement
+TI Oceanic Mesoscale Eddy Depletion Catalyzed by Internal Waves
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+DE oceanic energy transfers; mesoscale eddies; submesoscale fronts;
+   internal waves
+ID CALIFORNIA CURRENT SYSTEM; NEAR-INERTIAL WAVES; KINETIC-ENERGY;
+   SUBMESOSCALE TRANSITION; CIRCULATION; REANALYSIS; SURFACE; IMPACT;
+   TOPEX/POSEIDON; DISSIPATION
+AB The processes leading to the depletion of oceanic mesoscale kinetic energy (KE) and the energization of near-inertial internal waves are investigated using a suite of realistically forced regional ocean simulations. By carefully modifying the forcing fields we show that solutions where internal waves are forced have similar to 25% less mesoscale KE compared with solutions where they are not. We apply a coarse-graining method to quantify the KE fluxes across time scales and demonstrate that the decrease in mesoscale KE is associated with an internal wave-induced reduction of the inverse energy cascade and an enhancement of the forward energy cascade from sub-to super-inertial frequencies. The integrated KE forward transfer rate in the upper ocean is equivalent to half and a quarter of the regionally averaged near-inertial wind work in winter and summer, respectively, with the strongest fluxes localized at surface submesoscale fronts and filaments.
+C1 [Barkan, Roy] Tel Aviv Univ, Porter Sch Environm & Earth Sci, Tel Aviv, Israel.
+   [Barkan, Roy; Srinivasan, Kaushik; Yang, Luwei; McWilliams, James C.] Univ Calif Los Angeles, Dept Atmospher & Ocean Sci, Los Angeles, CA 90095 USA.
+   [Gula, Jonathan; Vic, Clement] Univ Bretagne Occidentale, Lab Oceanog Phys & Spatiale, Plouzane, France.
+   [Gula, Jonathan] Inst Univ France IUF, Paris, France.
+C3 Tel Aviv University; University of California System; University of
+   California Los Angeles; Ifremer; Universite de Bretagne Occidentale;
+   Institut de Recherche pour le Developpement (IRD); Institut
+   Universitaire de France
+RP Barkan, R (通讯作者)，Tel Aviv Univ, Porter Sch Environm & Earth Sci, Tel Aviv, Israel.; Barkan, R (通讯作者)，Univ Calif Los Angeles, Dept Atmospher & Ocean Sci, Los Angeles, CA 90095 USA.
+EM rbarkan@tauex.tau.ac.il
+RI Barkan, Roy/GZK-9665-2022; Yang, Luwei/B-3552-2016; Gula,
+   Jonathan/J-9925-2012
+OI Yang, Luwei/0000-0001-8570-7424; Srinivasan,
+   Kaushik/0000-0002-7191-5975; Vic, Clement/0000-0003-1290-9353; Gula,
+   Jonathan/0000-0002-0876-9557; Barkan, Roy/0000-0001-7307-1967
+FU NSF [OCE-1851397]; Israeli Science foundation [1736/18]; ONR
+   [ONR-N000141812599, N000142012023]; French National Agency for Research
+   (ANR) through the project DEEPER [ANR-19-CE01-0002-01]; 
+   [ONR-N000141812697]; U.S. Department of Defense (DOD) [N000142012023,
+   N000141812697, N000141812599] Funding Source: U.S. Department of Defense
+   (DOD)
+FX Roy Barkan, Kaushik Srinivasan, Luwei Yang, and James C. McWilliams were
+   supported by ONR-N000141812697. Roy Barkan was further supported by NSF
+   Grant OCE-1851397 and Israeli Science foundation Grant 1736/18. James C.
+   McWilliams was further supported ONR-N000141812599 and ONR
+   N000142012023. Jonathan Gula gratefully acknowledges support from the
+   French National Agency for Research (ANR) through the project DEEPER
+   (ANR-19-CE01-0002-01).
+NR 71
+TC 44
+Z9 44
+U1 2
+U2 22
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD SEP 28
+PY 2021
+VL 48
+IS 18
+AR e2021GL094376
+DI 10.1029/2021GL094376
+PG 11
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA WB6MS
+UT WOS:000703685100029
+OA Green Published, Green Submitted
+DA 2025-05-29
+ER

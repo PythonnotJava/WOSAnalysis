@@ -1,0 +1,51 @@
+PT J
+AU Rami, Y
+   Allouhi, A
+AF Rami, Yassine
+   Allouhi, Amine
+TI 3 E (Energy, Exergy and Economic) multi-objective optimization of a
+   novel solar-assisted ocean thermal energy conversion system for
+   integrated electricity and cooling production
+SO ENERGY CONVERSION AND MANAGEMENT
+LA English
+DT Article
+DE Ocean thermal energy conversion; Solar energy; Multi generation; Exergy;
+   Clean cooling
+ID PERFORMANCE ANALYSIS; POWER-GENERATION; OTEC SYSTEM; CYCLE
+AB Multi-generation systems based on renewable emerge as promising avenues to promote sustainability for the energy sector. This study introduces a novel concept: an Ocean Thermal Energy Conversion plant assisted by solar energy for both power and cold generation. Power generation is accomplished via an Organic Rankine cycle, while refrigeration needs are met through a vapor compression cycle. Employing Aspen Hysys for simulation, a comprehensive thermodynamic performance evaluation was conducted with extensive sensitivity analyses. Specifically, the effect of various parameters on energy, exergy and economic performance, including working fluids (R114, R134a, R600, and R600a), boiler outlet temperatures, and pressure ratios was investigated. Notably, pressure ratio was found to be the most critical design parameter significantly influencing both net work generated and exergy efficiency. R600 demonstrated the highest energy and exergy performances, with net work generation reaching 20.732 kW and exergy efficiency peaking at 77.07 % for R600a. Furthermore, R600 exhibited the highest COP of 5.24 in refrigeration. In terms of total costs, solar collectors accounted for a substantial portion, constituting 79.7 % of the total costs when using R134a as a working fluid. To optimize the system's performance, a multi-objective optimization was conducted, providing valuable insights into the integration of solar-assisted OTEC plants. This study not only showcases the potential of combining solar energy with OTEC technology but also underscores the critical design and economic considerations necessary for advancing these sustainable energy solutions.
+C1 [Rami, Yassine; Allouhi, Amine] USMBA, Ecole Super Technol Fes, Route Imouzzer,BP 2427, Fes, Morocco.
+C3 Sidi Mohamed Ben Abdellah University of Fez
+RP Rami, Y (通讯作者)，USMBA, Ecole Super Technol Fes, Route Imouzzer,BP 2427, Fes, Morocco.
+EM yassine.rami1@usmba.ac.ma
+RI ALLOUHI, Amine/M-5926-2016
+OI Rami, Yassine/0009-0001-2198-4219
+FU National Center for Scientific and Technical Research (CNRST)
+FX The first author would like to thank the National Center for Scientific
+   and Technical Research (CNRST) for its financial support received within
+   the framework of the "PhD-Associate Scholarship-PASS" Program.
+NR 64
+TC 5
+Z9 5
+U1 6
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0196-8904
+EI 1879-2227
+J9 ENERG CONVERS MANAGE
+JI Energy Conv. Manag.
+PD DEC 1
+PY 2024
+VL 321
+AR 119006
+DI 10.1016/j.enconman.2024.119006
+EA SEP 2024
+PG 17
+WC Thermodynamics; Energy & Fuels; Mechanics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Thermodynamics; Energy & Fuels; Mechanics
+GA H1K9D
+UT WOS:001321108700001
+DA 2025-05-29
+ER

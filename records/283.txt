@@ -1,0 +1,123 @@
+PT J
+AU McCoy, DT
+   Field, P
+   Frazer, ME
+   Zelinka, MD
+   Elsaesser, GS
+   Mülmenstädt, J
+   Tan, I
+   Myers, TA
+   Lebo, ZJ
+AF McCoy, Daniel T.
+   Field, Paul
+   Frazer, Michelle E.
+   Zelinka, Mark D.
+   Elsaesser, Gregory S.
+   Muelmenstaedt, Johannes
+   Tan, Ivy
+   Myers, Timothy A.
+   Lebo, Zachary J.
+TI Extratropical Shortwave Cloud Feedbacks in the Context of the Global
+   Circulation and Hydrological Cycle
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+DE climate; clouds; feedback; moisture; simulations
+ID ENERGY SYSTEM CERES; CARBON-DIOXIDE; CLIMATE; PHASE; CYCLONES;
+   MECHANISMS; MIDDLE
+AB Shortwave (SW) cloud feedback (SWFB) is the primary driver of uncertainty in the effective climate sensitivity (ECS) predicted by global climate models (GCMs). ECS for several GCMs participating in the sixth assessment report exceed 5K, above the fifth assessment report "likely" maximum (4.5K) due to extratropical SWFB's that are more positive than those simulated in the previous generation of GCMs. Here we show that across 57 GCMs Southern Ocean SWFB can be predicted from the sensitivity of column-integrated liquid water mass (LWP) to moisture convergence and to surface temperature. The response of LWP to moisture convergence and the response of albedo to LWP anti-correlate across GCMs. This is because GCMs that simulate a larger response of LWP to moisture convergence tend to have higher mean-state LWPs, which reduces the impact of additional LWP on albedo. Observational constraints suggest a modestly negative Southern Ocean SWFB- inconsistent with extreme ECS.
+C1 [McCoy, Daniel T.; Lebo, Zachary J.] Univ Wyoming, Laramie, WY 82071 USA.
+   [Field, Paul] United Kingdom Met Off, Exeter, Devon, England.
+   [Frazer, Michelle E.] Princeton Univ, Princeton, NJ 08544 USA.
+   [Frazer, Michelle E.] Penn State Univ, State Coll, PA USA.
+   [Zelinka, Mark D.] Lawrence Livermore Natl Lab, Livermore, CA 94550 USA.
+   [Elsaesser, Gregory S.] Columbia Univ, Dept Appl Phys & Appl Math, New York, NY USA.
+   [Elsaesser, Gregory S.] NASA, Goddard Inst Space Studies GISS, New York, NY USA.
+   [Muelmenstaedt, Johannes] Univ Leipzig, Inst Meteorol, Leipzig, Germany.
+   [Muelmenstaedt, Johannes] Pacific Northwest Natl Lab, Richland, WA 99352 USA.
+   [Tan, Ivy] McGill Univ, Montreal, PQ, Canada.
+   [Myers, Timothy A.] Univ Colorado, Cooperat Inst Res Environm Sci CIRES, Boulder, CO 80309 USA.
+   [Myers, Timothy A.] NOAA, Phys Sci Lab, Boulder, CO USA.
+C3 University of Wyoming; Met Office - UK; Princeton University;
+   Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; United States Department of Energy (DOE); Lawrence
+   Livermore National Laboratory; Columbia University; National Aeronautics
+   & Space Administration (NASA); NASA Goddard Space Flight Center; Goddard
+   Institute for Space Studies; Leipzig University; United States
+   Department of Energy (DOE); Pacific Northwest National Laboratory;
+   McGill University; University of Colorado System; University of Colorado
+   Boulder; National Oceanic Atmospheric Admin (NOAA) - USA
+RP McCoy, DT (通讯作者)，Univ Wyoming, Laramie, WY 82071 USA.
+EM daniel.mccoy@uwyo.edu
+RI Lebo, Zachary/AAC-7370-2019; Muelmenstaedt, Johannes/K-2432-2015;
+   Zelinka, Mark/C-4627-2011; LEBO, ZACHARY/N-3374-2014
+OI Tan, Ivy/0000-0003-4203-4770; Muelmenstaedt,
+   Johannes/0000-0003-1105-6678; Zelinka, Mark/0000-0002-6570-5445; LEBO,
+   ZACHARY/0000-0002-1064-4833; Myers, Timothy/0000-0003-0582-4554; Frazer,
+   Michelle/0000-0003-1359-9844; McCoy, Daniel/0000-0003-1148-6475
+FU European Union [641727]; University of Wyoming [80NSSC22K0599]; NSERC
+   [RGPIN-2021-02720]; U.S. Department of Energy (DOE) by Lawrence
+   Livermore National Laboratory [DE-AC52-07 NA27344]; Regional and Global
+   Model Analysis Program of the Office of Science at the DOE
+   [80NSSC18M0133, 80NSSC18K1030]; NASAMAP [80NSSC21K1498]; DOE
+   [DE-SC0020192, 80NSSC22K0609]; Atmospheric System Research (ASR) program
+   as part of the DOE Office of Biological and Environmental Research;
+   Pacific Northwest National Laboratory is operated by Battelle Memorial
+   Institute for the U.S. Department of Energy; National Science Foundation
+   [AWD1005319, NA17OAR4320101]; NOAA/ESRL Atmospheric Science for
+   Renewable Energy (ASRE) program; Dennis Hartmann for putting forward the
+   idea of moisture convergence; U.S. Department of Energy (DOE)
+   [DE-SC0020192] Funding Source: U.S. Department of Energy (DOE)
+FX DTM and PRF acknowledge support from the Process-Based Climate
+   Simulation: Advances in High-Resolution Modelling and European Climate
+   Risk Assessment (PRIMAVERA) project funded by the European Union's
+   Horizon 2020 program under Grant Agreement 641727. DTM acknowledges
+   support from the University of Wyoming. ZL and DTM acknowledge support
+   from NASAPMMST Grant #80NSSC22K0599. IT acknowledges support from NSERC
+   RGPIN-2021-02720. The work of MDZ was performed under the auspices of
+   the U.S. Department of Energy (DOE) by Lawrence Livermore National
+   Laboratory under Contract DE-AC52-07 NA27344 and was supported by the
+   Regional and Global Model Analysis Program of the Office of Science at
+   the DOE. GE was supported by the APAM-GISS Co-Op (#80NSSC18M0133),
+   NASA-TASNPP Grant #80NSSC18K1030, NASAMAP Grant #80NSSC21K1498, DOE
+   Grant #DE-SC0020192, and NASAPMMST Grant #80NSSC22K0609. JM was
+   supported by the Atmospheric System Research (ASR) program as part of
+   the DOE Office of Biological and Environmental Research. Pacific
+   Northwest National Laboratory is operated by Battelle Memorial Institute
+   for the U.S. Department of Energy. MEF was supported by National Science
+   Foundation award AWD1005319. TAM was supported in part by the NOAA
+   Cooperative Agreement with CIRES, NA17OAR4320101, and by the NOAA/ESRL
+   Atmospheric Science for Renewable Energy (ASRE) program. We thank two
+   anonymous reviewers for their thoughtful comments and advice. DTM thanks
+   Dennis Hartmann for putting forward the idea of moisture convergence as
+   a driver of extratropical cloudiness. Data analysis was performed on
+   JASMIN at the Centre for Environmental Data Analysis with assistance
+   from JASMIN staff.
+NR 65
+TC 15
+Z9 16
+U1 0
+U2 11
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD APR 28
+PY 2022
+VL 49
+IS 8
+AR e2021GL097154
+DI 10.1029/2021GL097154
+PG 11
+WC Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology
+GA 0U5FI
+UT WOS:000787675900001
+OA Green Published, Bronze
+DA 2025-05-29
+ER
