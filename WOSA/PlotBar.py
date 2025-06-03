@@ -5,75 +5,7 @@ from PySide6.QtCore import *
 from PySide6.QtGui import *
 from PySide6.QtCore import Qt
 
-class SplitterLine(QFrame):
-    def __init__(self, horizontal : bool = True, width : int = 2):
-        super().__init__()
-
-        if horizontal:
-            self.setFrameShape(QFrame.Shape.HLine)
-        else:
-            self.setFrameShape(QFrame.Shape.VLine)
-
-        self.setFrameShadow(QFrame.Shadow.Sunken)
-        self.setLineWidth(width)
-
-class Check(QCheckBox):
-    def __init__(self, s : Qt.CheckState = Qt.CheckState.Checked, **kwargs):
-        super().__init__(**kwargs)
-        self.setCheckState(s)
-
-class Spin(QSpinBox):
-    def __init__(self, value : int = 0, range_from : int = 0, range_to : int = 180, step : int = 1, minW : Optional[int] = 50, **kwargs):
-        super().__init__(**kwargs)
-
-        self.setRange(range_from, range_to)
-        self.setSingleStep(step)
-        self.setValue(value)
-        if minW:
-            self.setMinimumWidth(minW)
-
-class TButton(QToolButton):
-    def __init__(self, text : Optional[str] = None, icon : Optional[QIcon] = None, minW : Optional[int] = 50, **kwargs):
-        super().__init__(**kwargs)
-
-        self.setToolButtonStyle(Qt.ToolButtonStyle.ToolButtonTextBesideIcon)
-        if icon:
-            self.setIcon(icon)
-        if text:
-            self.setText(text)
-        if minW:
-            self.setMinimumWidth(minW)
-
-class FontDataTButton(TButton):
-    def __init__(self, font : QFont, **kwargs):
-        super().__init__(**kwargs)
-
-        self.fontData = font
-        self.setText(font.pointSize().__str__())
-
-class ColorDataTButton(TButton):
-    def __init__(self, color : str, **kwargs):
-        super().__init__(**kwargs)
-
-        self.colorData = color
-        self.setColor(color)
-
-    def setColor(self, c : str):
-        self.setStyleSheet(f'background-color:{c}')
-class SelectBox(QComboBox):
-    def __init__(self, defalutIndex, l : list[str]):
-        super().__init__()
-        self.addItems(l)
-        self.setCurrentIndex(defalutIndex)
-
-    def wheelEvent(self, e, /):
-        pass
-
-class LineInput(QTextEdit):
-    def __init__(self, p):
-        super().__init__()
-        self.setFixedWidth(200)
-        self.setPlaceholderText(p)
+from AppTyping import *
 
 SelectBox_style_grid = {
     '直线' : '-',
@@ -200,6 +132,9 @@ class PlotBar(QScrollArea):
     def __init__(self):
         super().__init__()
 
+        self.models = SelectBox(0, ['原图修改模式', '新图模式'])
+        self.draw_new_button = TButton('绘制')
+
         # 标题
         self.title = LineInput('标题名字，可以空着')
         self.color_title = ColorDataTButton(self.defaultPlotSetting.color_title)
@@ -277,6 +212,9 @@ class PlotBar(QScrollArea):
     def __setUI(self) -> None:
         lay = QFormLayout()
 
+        lay.addRow(self.models, QLabel('模式选择'))
+        lay.addRow(SplitterLine())
+
         self.addH(lay, QLabel('标题设置'))
         # lay.addWidget()
         lay.addRow(self.title, QLabel('标题控制'))
@@ -353,6 +291,9 @@ class PlotBar(QScrollArea):
         lay.addRow(self.frameon_legend, QLabel('显示边框'))
         lay.addRow(SplitterLine())
 
+        lay.addRow(self.draw_new_button)
+        lay.addRow(SplitterLine())
+
         center_container = QWidget()
         center_layout = QHBoxLayout(center_container)
         center_layout.addStretch()
@@ -363,6 +304,12 @@ class PlotBar(QScrollArea):
         center_layout.addStretch()
         self.setWidgetResizable(True)
         self.setWidget(center_container)
+        self.setMinimumWidth(300)
+
+        self.draw_new_button.setEnabled(bool(self.models.currentIndex()))
+
+        # connect
+        self.models.currentIndexChanged.connect(lambda index : self.draw_new_button.setEnabled(bool(index)))
 
     @staticmethod
     def addH(l : QFormLayout, w : QWidget):
