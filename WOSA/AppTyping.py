@@ -86,13 +86,26 @@ class LineEdit(QLineEdit):
 
         self.setEnabled(abled)
 
+class RowWidget(QWidget):
+    def __init__(self, *widgets):
+        super().__init__()
 
-class RowWidgetByWidget(QHBoxLayout):
+        lay = QHBoxLayout()
+        for w in widgets:
+            lay.addWidget(w)
+        self.setLayout(lay)
+
+class RowWidgetByWidget(QWidget):
     def __init__(self, w1, w2):
         super().__init__()
 
-        self.addWidget(w1)
-        self.addWidget(w2)
+        lay = QHBoxLayout()
+        lay.addWidget(w1)
+        lay.addWidget(w2)
 
         self.w1 = w1
         self.w2 = w2
+        self.setLayout(lay)
+
+class GraphicWidgetItem(QGraphicsProxyWidget):
+    pass

@@ -1,4 +1,5 @@
 # 画图的场景容器
+from matplotlib import rcParams
 from matplotlib.backends.backend_agg import FigureCanvasAgg
 from matplotlib.figure import Figure
 import matplotlib.pyplot as plt
@@ -8,17 +9,27 @@ from PySide6.QtCore import *
 from PySide6.QtGui import *
 from PySide6.QtCore import Qt
 
+from AppTyping import *
+
+rcParams['font.family'] = 'sans-serif'
+rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'Arial']  # 优先尝试中文字体
+
 def draw_a_bar() -> Figure:
-    fig, ax = plt.subplots(figsize=(5, 4), dpi=100)
-    ax.bar(['A%d' % d for d in range(1, 6)], [4, 2, 8, 5, 3])
-    ax.set_title("Bar Test")
+    fig, ax = plt.subplots(figsize=(8, 6), dpi=100)
+    ax.text(0.5, 0.5,
+            '1. 图片类图元可以右键操作\n2. 编辑类图元支持基本文本操作快捷键',
+            fontsize=14,
+            ha='center', va='center',
+            transform=ax.transAxes)
+    ax.set_title("You should konw.", fontdict={'size' : 32, 'weight' : 900})
+    ax.axis('off')
     return fig
 
 class TabScene(QGraphicsView):
     def __init__(self):
         super().__init__()
 
-        self.scene = QGraphicsScene(self)
+        self.scene = QGraphicsScene(sceneRect=QRectF(-10000, -10000, 20000, 20000), parent=self)
         self.defaultfig = draw_a_bar()
 
         self.__setUI()
@@ -33,6 +44,8 @@ class TabScene(QGraphicsView):
             QPainter.RenderHint.LosslessImageRendering
         )
         self.setViewportUpdateMode(QGraphicsView.ViewportUpdateMode.FullViewportUpdate)
+        self.horizontalScrollBar().hide()
+        self.verticalScrollBar().hide()
         self.transToGraphic(self.defaultfig)
 
     def transToGraphic(self, fig : Figure):
@@ -44,7 +57,7 @@ class TabScene(QGraphicsView):
         img = img.copy()
         pixmap = QPixmap.fromImage(img)
         item = QGraphicsPixmapItem(pixmap)
-        item.setPos(0, 0)
+        item.setPos(-400, -300)
         item.setFlags(
             QGraphicsPixmapItem.GraphicsItemFlag.ItemIsMovable |
             QGraphicsPixmapItem.GraphicsItemFlag.ItemIsSelectable

@@ -66,14 +66,23 @@ class ToolBar(QWidget):
         }
         self.selcetmodels = SelectBox(0, list(self.WOSModels.keys()))
         self.change_row2_inner = QHBoxLayout()
-
+        self.selectmethods = SelectBox(0, ['按数量从大到小', '按数量从小到大', '乱序', '按年份从早到晚', '按年份从早到晚', '按年份从晚到早'])
+        self.selectnumbers = Spin(0, 0, 10000, 1, 1)
+        self.selectok = TButton('分析', qtIcon('ei.ok-sign'))
         self.__current_model = '综合被引次数'
+
+        self.help_button = TButton('帮助', qtIcon('mdi.help-circle'))
+        self.insert_code_button = TButton('注入', qtIcon('msc.insert'))
+        self.cfg_style_button = TButton('样式', qtIcon('fa5s.border-style'))
 
         self.__setUI()
         self.__link()
 
     def __setUI(self) -> None:
+        row = QHBoxLayout()
         column = QVBoxLayout()
+        grid = QGridLayout()
+
 
         # 这一步只把记录读取进来然后处理为每个文献每个记录
         row1 = QHBoxLayout()
@@ -86,12 +95,26 @@ class ToolBar(QWidget):
         row2.addWidget(QLabel('匹配模式'))
         row2.addWidget(self.selcetmodels)
         for widget in self.WOSModels[self.__current_model]:
-            self.change_row2_inner.addLayout(widget)
+            self.change_row2_inner.addWidget(widget)
         row2.addLayout(self.change_row2_inner)
+        row2.addWidget(self.selectmethods)
+        row2.addWidget(self.selectnumbers)
+        row2.addWidget(QLabel('选择前X个'))
+        row2.addWidget(self.selectok)
 
         column.addLayout(row1)
         column.addLayout(row2)
-        self.setLayout(column)
+
+        grid.addWidget(self.help_button, 0, 0)
+        grid.addWidget(self.insert_code_button, 0, 1)
+        grid.addWidget(self.cfg_style_button, 1, 0)
+        group = QGroupBox()
+        group.setLayout(grid)
+
+        row.addLayout(column)
+        row.addWidget(group)
+
+        self.setLayout(row)
 
     def __link(self) -> None:
         self.open_file_button.clicked.connect(self.open_file_button_func)
@@ -128,14 +151,14 @@ class ToolBar(QWidget):
         else:
             if self.WOSModels[self.__current_model] != self.WOSModels[text]:
                 # 先把上次的隐藏
-                widget : QHBoxLayout
                 for widget in self.WOSModels[self.__current_model]:
-                    self.change_row2_inner.removeItem(widget)
+                    self.change_row2_inner.removeWidget(widget)
+                    widget.setHidden(True)
                 # 更新当前操作模型
                 self.__current_model = text
                 for widget in self.WOSModels[text]:
-                    self.change_row2_inner.addLayout(widget)
-
+                    self.change_row2_inner.addWidget(widget)
+                    widget.setHidden(False)
 
 if __name__ == '__main__':
     app = QApplication([])
