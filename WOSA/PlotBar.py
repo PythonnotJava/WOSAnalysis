@@ -128,6 +128,7 @@ class DefaultPlotSetting:
 class PlotBar(QScrollArea):
     # 放到类属性中，做统一同步
     defaultPlotSetting = DefaultPlotSetting()
+    plotSignal = Signal(tuple[str, Any])
 
     def __init__(self):
         super().__init__()
@@ -309,7 +310,10 @@ class PlotBar(QScrollArea):
         self.draw_new_button.setEnabled(bool(self.models.currentIndex()))
 
         # connect
-        self.models.currentIndexChanged.connect(lambda index : self.draw_new_button.setEnabled(bool(index)))
+        self.models.currentIndexChanged.connect(self.model_currentIndexChanged)
+
+    def model_currentIndexChanged(self, index : int) -> None:
+        self.draw_new_button.setEnabled(bool(index))
 
     @staticmethod
     def addH(l : QFormLayout, w : QWidget):

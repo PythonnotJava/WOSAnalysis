@@ -1,7 +1,7 @@
 from typing import *
 from PySide6.QtWidgets import *
 from PySide6.QtGui import *
-from PySide6.QtCore import Qt
+from PySide6.QtCore import *
 
 class SplitterLine(QFrame):
     def __init__(self, horizontal : bool = True, width : int = 2):
@@ -16,9 +16,11 @@ class SplitterLine(QFrame):
         self.setLineWidth(width)
 
 class Check(QCheckBox):
-    def __init__(self, s : Qt.CheckState = Qt.CheckState.Checked, **kwargs):
+    def __init__(self, s : Qt.CheckState = Qt.CheckState.Checked, unabled : bool = False, **kwargs):
         super().__init__(**kwargs)
         self.setCheckState(s)
+
+        self.setEnabled(unabled)
 
 class Spin(QSpinBox):
     def __init__(self, value : int = 0, range_from : int = 0, range_to : int = 180, step : int = 1, minW : Optional[int] = 50, **kwargs):
@@ -74,10 +76,23 @@ class LineInput(QTextEdit):
         self.setPlaceholderText(p)
 
 class LineEdit(QLineEdit):
-    def __init__(self, minW : Optional[int] = None):
+    def __init__(self, minW : Optional[int] = None, p : Optional[str] = None, abled : bool = True):
         super().__init__()
 
         if minW:
             self.setMinimumWidth(minW)
+        if p:
+            self.setPlaceholderText(p)
+
+        self.setEnabled(abled)
 
 
+class RowWidgetByWidget(QHBoxLayout):
+    def __init__(self, w1, w2):
+        super().__init__()
+
+        self.addWidget(w1)
+        self.addWidget(w2)
+
+        self.w1 = w1
+        self.w2 = w2
