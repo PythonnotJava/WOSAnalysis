@@ -16,11 +16,11 @@ class SplitterLine(QFrame):
         self.setLineWidth(width)
 
 class Check(QCheckBox):
-    def __init__(self, s : Qt.CheckState = Qt.CheckState.Checked, unabled : bool = False, **kwargs):
+    def __init__(self, s : Qt.CheckState = Qt.CheckState.Checked, abled : bool = True, **kwargs):
         super().__init__(**kwargs)
         self.setCheckState(s)
 
-        self.setEnabled(unabled)
+        self.setEnabled(abled)
 
 class Spin(QSpinBox):
     def __init__(self, value : int = 0, range_from : int = 0, range_to : int = 180, step : int = 1, minW : Optional[int] = 50, **kwargs):

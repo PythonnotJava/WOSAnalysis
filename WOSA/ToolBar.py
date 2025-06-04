@@ -27,31 +27,6 @@ class RecordType:
         with open(filename, 'rb') as f:
             return pickle.load(f)
 
-# 长度不为1的都支持：从小到大、从大到小、乱序三种模式，共享操作
-common_models_mixin = [
-    RowWidgetByWidget(Check(), QLabel('Json格式')),
-    RowWidgetByWidget(Check(), QLabel('横向柱状图')),
-    RowWidgetByWidget(Check(), QLabel('纵向柱状图')),
-    RowWidgetByWidget(Check(), QLabel('饼状图')),
-    RowWidgetByWidget(Check(), QLabel('词云图'))
-]
-
-common_models_text = [RowWidgetByWidget(Check(unabled=True), QLabel('纯文本格式'))]
-common_models_json = [RowWidgetByWidget(Check(unabled=True), QLabel('Json格式'))]
-
-WOSModels = {
-    '出版类型' : common_models_mixin,
-    '文献标题' : common_models_text,
-    '期刊名' : common_models_mixin,
-    '文献类型描述' : common_models_mixin,
-    '作者关键词' : common_models_text,
-    '摘要' : common_models_text,
-    '参考文献数' : common_models_json,
-    '被引用次数' : common_models_mixin,
-    '综合被引次数' : common_models_mixin,
-    '发表年份' : common_models_mixin,
-}
-
 # 记录类型是专门备份当前打开文件和解析到的内容
 class ToolBar(QWidget):
     def __init__(self):
@@ -64,8 +39,35 @@ class ToolBar(QWidget):
         self.open_file_edit = LineEdit(200, '暂无路径', False)
         self.open_file_button = TButton('打开', qtIcon('ei.folder-open'))
 
-        self.selcetmodels = SelectBox(0, list(WOSModels.keys()))
+        # 长度不为1的都支持：从小到大、从大到小、乱序三种模式，不共享操作
+
+        self.common_models_mixin = [
+            RowWidgetByWidget(Check(), QLabel('Json格式')),
+            RowWidgetByWidget(Check(), QLabel('横向柱状图')),
+            RowWidgetByWidget(Check(), QLabel('纵向柱状图')),
+            RowWidgetByWidget(Check(), QLabel('饼状图')),
+            RowWidgetByWidget(Check(), QLabel('词云图'))
+        ]
+
+        self.common_models_text = [RowWidgetByWidget(Check(abled=False), QLabel('纯文本格式'))]
+        self.common_models_json = [RowWidgetByWidget(Check(abled=False), QLabel('Json格式'))]
+
+        self.WOSModels = {
+            '综合被引次数': self.common_models_mixin,
+            '出版类型': self.common_models_mixin,
+            '文献标题': self.common_models_text,
+            '期刊名': self.common_models_mixin,
+            '文献类型描述': self.common_models_mixin,
+            '作者关键词': self.common_models_text,
+            '摘要': self.common_models_text,
+            '参考文献数': self.common_models_json,
+            '被引用次数': self.common_models_mixin,
+            '发表年份': self.common_models_mixin
+        }
+        self.selcetmodels = SelectBox(0, list(self.WOSModels.keys()))
         self.change_row2_inner = QHBoxLayout()
+
+        self.__current_model = '综合被引次数'
 
         self.__setUI()
         self.__link()
@@ -83,9 +85,12 @@ class ToolBar(QWidget):
         row2 = QHBoxLayout()
         row2.addWidget(QLabel('匹配模式'))
         row2.addWidget(self.selcetmodels)
+        for widget in self.WOSModels[self.__current_model]:
+            self.change_row2_inner.addLayout(widget)
         row2.addLayout(self.change_row2_inner)
 
         column.addLayout(row1)
+        column.addLayout(row2)
         self.setLayout(column)
 
     def __link(self) -> None:
@@ -118,9 +123,18 @@ class ToolBar(QWidget):
                 self.return_record_type = RecordType(len(_c_s), _c_s, filePath)
 
     def selcetmodels_changed(self, text : str) -> None:
-        if text == self.selcetmodels.currentText():
+        if text == self.__current_model:
             return
         else:
+            if self.WOSModels[self.__current_model] != self.WOSModels[text]:
+                # 先把上次的隐藏
+                widget : QHBoxLayout
+                for widget in self.WOSModels[self.__current_model]:
+                    self.change_row2_inner.removeItem(widget)
+                # 更新当前操作模型
+                self.__current_model = text
+                for widget in self.WOSModels[text]:
+                    self.change_row2_inner.addLayout(widget)
 
 
 if __name__ == '__main__':
