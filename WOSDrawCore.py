@@ -1,13 +1,10 @@
 from typing import Optional
 
 from matplotlib.axes import Axes
-from wordcloud import WordCloud
 from matplotlib.figure import Figure
 from matplotlib import rcParams
 import matplotlib.pyplot as plt
-
-from WOSUtil import match_pu, SliceableDict, sort_by_value, load, get_count_single
-from WOSPie import draw_pie_more
+from wordcloud import WordCloud
 
 # 设置字体族，首选 'Times New Roman' (类似“新罗马”)
 rcParams['font.family'] = 'Times New Roman'
@@ -88,7 +85,6 @@ def draw_pie(data : dict, title : str, **kwargs) -> Figure:
     ax.set_title(title)
     ax.set(**kwargs)
     return fig
-
 # records = load('savedrecs.txt')
 
 # 年份统计
@@ -165,10 +161,3 @@ def draw_pie(data : dict, title : str, **kwargs) -> Figure:
 # plt.show()
 # 画饼状图
 # draw_pie_more(publisher_data, 'Article attribution to publisher statistics')
-
-if __name__ == '__main__':
-    records = load('savedrecs.txt')
-    publisher = [match_pu(r) for r in records]
-    publisher_data = get_count_single(publisher)
-    publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
-    draw_pie_more(publisher_data, 'Article attribution to publisher statistics')

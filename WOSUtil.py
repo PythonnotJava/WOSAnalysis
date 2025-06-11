@@ -1,8 +1,10 @@
-import re, os, platform, shutil
-from typing import Optional
+import re, os, platform, shutil, warnings
+from typing import *
 from collections import OrderedDict
 
 from docx import Document
+
+warnings.filterwarnings("ignore", category=UserWarning)
 
 # 可切片字典
 class SliceableDict(OrderedDict):
@@ -169,10 +171,14 @@ def sort_by_z9(records : list[str], reverse=True) -> dict[str, int]:
             print(ti)
     return sort_by_value(result, reverse)
 
-# 匹配文章的DOI，一定有
+# 匹配文章的DOI
 def match_di(entry : str) -> str:
     match = re.search(r'^DI (.+)', entry, flags=re.MULTILINE)
-    return match.group(1).strip()
+    if match:
+        return match.group(1).strip()
+    else:
+        return 'DOI缺失'
+
 
 # 根据引用次数对论文排序，默认从大到小，同时附加DOI
 def sort_by_z9_doi(records : list[str], reverse=True) -> dict[str, tuple[int, str]]:

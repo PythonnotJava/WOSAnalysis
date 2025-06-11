@@ -1,13 +1,10 @@
-import sys
-
 from PySide6.QtWidgets import *
 from PySide6.QtCharts import *
 from PySide6.QtGui import *
 from PySide6.QtCore import *
-
 from qtawesome import icon as qtIcon
 
-from WOSUtil import get_desktop_path
+from command.WOSUtil import get_desktop_path
 
 class ChartWindow(QMainWindow):
     # topshow表示显示几个为真正的名字，剩下的打包到其他
@@ -115,7 +112,7 @@ class ChartWindow(QMainWindow):
 def draw_pie_more(data : dict, title : str, topshow : int = 9):
     app = QApplication([])
     app.setApplicationName('右键可以操作')
-    app.setFont(QFont('Times New Roman', 16))
+    app.setFont(QFont('Times New Roman'))
     window = ChartWindow(data, title, topshow)
     window.show()
     app.exec()

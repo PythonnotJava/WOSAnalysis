@@ -1,5 +1,8 @@
-git init
 git add .
-git commit -m "NEW"
-git push origin main --force
+
+git commit -m "new"
+
+git push origin main
+
+
 cmd

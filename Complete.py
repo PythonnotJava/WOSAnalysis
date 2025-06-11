@@ -1,10 +1,10 @@
-import sys
+import sys, os
 from PySide6.QtWidgets import QApplication
 from PySide6.QtGui import QFont
 
-from WOSUtil import *
-from WOSDrawCore import *
-from WOSPie import ChartWindow
+from command.WOSUtil import *
+from command.WOSPie import ChartWindow
+from command.WOSDrawCore import *
 
 # 设置字体族，首选 'Times New Roman' (类似“新罗马”)
 rcParams['font.family'] = 'Times New Roman'
