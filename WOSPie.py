@@ -4,14 +4,14 @@ from PySide6.QtGui import *
 from PySide6.QtCore import *
 from qtawesome import icon as qtIcon
 
-from command.WOSUtil import get_desktop_path
+from WOSUtil import get_desktop_path
 
 class ChartWindow(QMainWindow):
     # topshow表示显示几个为真正的名字，剩下的打包到其他
     def __init__(self, data : dict, title : str, topshow : int = 9):
         super().__init__()
-        self.setWindowTitle("Discipline Distribution Pie Chart")
-        self.resize(1600, 1200)
+        # self.setWindowTitle("Discipline Distribution Pie Chart")
+        self.resize(3900, 1900)
 
         total = sum(data.values())
         series = QPieSeries()
@@ -33,6 +33,7 @@ class ChartWindow(QMainWindow):
             slice_.setLabelVisible(True)
             slice_.setProperty("legendLabel", legend_label)
 
+
         # 添加“其他”
         if others_total > 0:
             percent = (others_total / total) * 100
@@ -46,8 +47,7 @@ class ChartWindow(QMainWindow):
         chart = QChart()
         chart.addSeries(series)
         chart.setTitle(title)
-        chart.legend().setVisible(True)
-        chart.legend().setAlignment(Qt.AlignmentFlag.AlignRight)
+
 
         for marker in chart.legend().markers(series):
             legend_label = marker.slice().property("legendLabel")
@@ -70,6 +70,13 @@ class ChartWindow(QMainWindow):
 
         self.chartview = chart_view
         self.chart = chart
+        self.chart.setTheme(QChart.ChartTheme.ChartThemeBlueCerulean)
+
+        chart.legend().setVisible(True)
+        chart.legend().setAlignment(Qt.AlignmentFlag.AlignRight)
+        chart.legend().setFont(QFont('Times New Roman', 12))
+        chart.legend().setMinimumWidth(300)  # 可以根据需要调整
+        chart.legend().setAlignment(Qt.AlignmentFlag.AlignRight)
 
     def contextMenuEvent(self, event : QContextMenuEvent):
         menu = QMenu()
@@ -106,13 +113,21 @@ class ChartWindow(QMainWindow):
         if not filePath:
             QMessageBox.warning(self, '警告', '取消保存！', QMessageBox.StandardButton.Ok)
         else:
-            p = self.chartview.grab()
-            p.save(filePath)
+            # p = self.chartview.grab()
+            # p.save(filePath)
+            image = QImage(self.chart.size().toSize(), QImage.Format.Format_ARGB32)
+            image.fill(Qt.GlobalColor.transparent)
+
+            painter = QPainter(image)
+            self.chart.scene().render(painter)
+            painter.end()
+
+            image.save(filePath)
 
 def draw_pie_more(data : dict, title : str, topshow : int = 9):
     app = QApplication([])
     app.setApplicationName('右键可以操作')
-    app.setFont(QFont('Times New Roman'))
+    app.setFont(QFont('Times New Roman', 12))
     window = ChartWindow(data, title, topshow)
     window.show()
     app.exec()

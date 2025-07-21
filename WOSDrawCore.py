@@ -1,15 +1,20 @@
 from typing import Optional
 
+from PySide6.QtGui import QFont
+from PySide6.QtWidgets import QApplication
 from matplotlib.axes import Axes
 from matplotlib.figure import Figure
 from matplotlib import rcParams
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
+from WOSPie import ChartWindow
+from WOSUtil import *
+
 # 设置字体族，首选 'Times New Roman' (类似“新罗马”)
 rcParams['font.family'] = 'Times New Roman'
 # 设置中文字体优先级
-rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'Arial']
+# rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'Arial']
 # 负号正常显示
 rcParams['axes.unicode_minus'] = False
 
@@ -33,7 +38,7 @@ def draw_bar_v(data : dict, xlabel : str, ylabel : str, title : str, **kwargs):
     values = list(data.values())
     fig = plt.figure()
     ax : Axes = fig.gca()
-    ax.bar(keys, values)
+    ax.bar(keys, values, width=.8)
     ax.set_title(title)
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
@@ -161,3 +166,43 @@ def draw_pie(data : dict, title : str, **kwargs) -> Figure:
 # plt.show()
 # 画饼状图
 # draw_pie_more(publisher_data, 'Article attribution to publisher statistics')
+
+if __name__ == '__main__':
+    rcParams['font.family'] = 'Times New Roman'
+    plt.rcParams['axes.labelsize'] = 18  # 轴标签字体大小
+    plt.rcParams['xtick.labelsize'] = 14  # x轴刻度字体大小
+    plt.rcParams['ytick.labelsize'] = 12  # y轴刻度字体大小
+
+    records = load('src/main.txt')
+
+    # 研究领域
+    publisher = [match_pu(r) for r in records]
+    publisher_data = get_count_single(publisher)
+    publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
+    # fig = draw_word_cloud(publisher_data)
+    # # fig.gca().tick_params(axis='y', labelsize=8)
+    # fig.set_size_inches(8, 6)
+    # fig.set_dpi(200)
+    # fig.savefig('out/出版商统计.png')
+    # plt.show()
+    # 画饼状图
+    # draw_pie_more(publisher_data, 'Article attribution to publisher statistics')
+
+    # fig = draw_bar_h(subjects_data, 'Number of records', 'Subject', '')
+    # fig.gca().tick_params(axis='y', labelsize=8)
+    #
+    # fig.set_size_inches(12, 8)
+    # fig.set_dpi(160)
+
+    # plt.savefig('学科分类全系列词云.png', bbox_inches='tight', pad_inches=0.1)
+
+
+    # 饼状图
+    # a = QApplication([])
+    # a.setFont(QFont('Times New Roman', 20))
+    # # 画饼状图
+    # w = ChartWindow(publisher_data, '', topshow=15)
+    #
+    # w.show()
+    # a.exec()
+

@@ -1,17 +1,19 @@
 import sys, os
 from PySide6.QtWidgets import QApplication
 from PySide6.QtGui import QFont
+from matplotlib import rcParams, pyplot as plt
 
-from command.WOSUtil import *
-from command.WOSPie import ChartWindow
-from command.WOSDrawCore import *
+from WOSDrawCore import *
+from WOSPie import *
+from WOSUtil import *
 
-# 设置字体族，首选 'Times New Roman' (类似“新罗马”)
 rcParams['font.family'] = 'Times New Roman'
-# 设置中文字体优先级
-rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'Arial']
-# 负号正常显示
-rcParams['axes.unicode_minus'] = False
+plt.rcParams['axes.labelsize'] = 18  # 轴标签字体大小
+plt.rcParams['xtick.labelsize'] = 14  # x轴刻度字体大小
+plt.rcParams['ytick.labelsize'] = 12  # y轴刻度字体大小
+
+figsize = (20, 12)
+dpi = 300
 
 out = os.path.dirname(os.path.abspath(__file__)) + r'\out'
 
@@ -27,14 +29,14 @@ def example_run():
     years_data = SliceableDict(sort_by_key(years_data))[:]
     # 纵向柱状图
     fig = draw_bar_v(years_data, 'Year', 'Number of published articles', 'Published articles by year')
-    fig.set_size_inches(10, 8)
-    fig.set_dpi(150)
+    fig.set_size_inches(*figsize)
+    fig.set_dpi(dpi)
     fig.savefig(f'{out}/年份变化_v.png')
     plt.show()
     # 横向柱状图
     fig = draw_bar_h(years_data, 'Number of published articles', 'Year', 'Published articles by year')
-    fig.set_size_inches(10, 8)
-    fig.set_dpi(150)
+    fig.set_size_inches(*figsize)
+    fig.set_dpi(dpi)
     fig.gca().tick_params(axis='y', labelsize=8)
     fig.savefig(f'{out}/年份变化_h.png')
     plt.show()
@@ -50,8 +52,8 @@ def example_run():
     # 期刊前20，考虑到期刊名字较长，图会偏移，需要适当调整，只能横向，纵向太太太丑了
     journals_data_top20 = SliceableDict(journals_data)[:20]
     fig = draw_bar_h(journals_data_top20, 'Journal collection', 'Journal', 'Top 20 journals indexed')
-    fig.set_size_inches(10, 8)
-    fig.set_dpi(150)
+    fig.set_size_inches(*figsize)
+    fig.set_dpi(dpi)
     plt.title(fig.gca().get_title(), x=-.25)
     plt.subplots_adjust(left=0.6)
     fig.gca().tick_params(axis='y', labelsize=8)
@@ -70,8 +72,8 @@ def example_run():
     subjects_data = SliceableDict(sort_by_value(subjects, reverse=True))[:]
     fig = draw_bar_h(subjects_data, 'Number of records', 'Subject', 'Statistics by discipline')
     fig.gca().tick_params(axis='y', labelsize=8)
-    fig.set_size_inches(10, 8)
-    fig.set_dpi(150)
+    fig.set_size_inches(*figsize)
+    fig.set_dpi(dpi)
     fig.savefig(f'{out}/学科分类_h.png')
     plt.show()
     # 学科分类全系列词云
@@ -92,8 +94,8 @@ def example_run():
     researchArea_data = get_count_mult(researchArea)
     researchArea_data = SliceableDict(sort_by_value(researchArea_data, reverse=True))[:]
     fig = draw_bar_h(researchArea_data, 'Quantity', 'Field for research', 'Research field statistics')
-    fig.set_size_inches(10, 8)
-    fig.set_dpi(150)
+    fig.set_size_inches(*figsize)
+    fig.set_dpi(dpi)
     fig.gca().tick_params(axis='y', labelsize=8)
     fig.savefig(f'{out}/研究领域_h.png')
     plt.show()
@@ -112,8 +114,8 @@ def example_run():
     publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
     fig = draw_bar_h(publisher_data, 'Quantity', 'Name', 'Article attribution to publisher statistics')
     fig.gca().tick_params(axis='y', labelsize=8)
-    fig.set_size_inches(10, 8)
-    fig.set_dpi(150)
+    fig.set_size_inches(*figsize)
+    fig.set_dpi(dpi)
     fig.gca().tick_params(axis='y', labelsize=8)
     fig.savefig(f'{out}/出版商统计_h.png')
     plt.show()
@@ -128,4 +130,14 @@ def example_run():
     app.exec()
 
 if __name__ == '__main__':
-    example_run()
+    records = load(r'1.txt')
+    publisher = [match_pu(r) for r in records]
+    publisher_data = get_count_single(publisher)
+    publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
+    a = QApplication([])
+    a.setFont(QFont('Times New Roman', 24))
+    # 画饼状图
+    w = ChartWindow(publisher_data, '', topshow=9)
+
+    w.show()
+    a.exec()

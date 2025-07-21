@@ -6,6 +6,7 @@ from docx import Document
 
 warnings.filterwarnings("ignore", category=UserWarning)
 
+
 # 可切片字典
 class SliceableDict(OrderedDict):
     def __init__(self, original_dict : dict):
