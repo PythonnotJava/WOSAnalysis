@@ -1,3 +1,4 @@
+import random
 from typing import Optional
 
 from PySide6.QtGui import QFont
@@ -8,7 +9,7 @@ from matplotlib import rcParams
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
-from WOSPie import ChartWindow
+from WOSPie import ChartWindow, draw_pie_more
 from WOSUtil import *
 
 # 设置字体族，首选 'Times New Roman' (类似“新罗马”)
@@ -46,6 +47,21 @@ def draw_bar_v(data : dict, xlabel : str, ylabel : str, title : str, **kwargs):
     plt.tight_layout()
     return fig
 
+def dark_blue_black_purple(*args, **kwargs):
+    # 候选深色
+    colors = [
+        "#2e2e6f",  # 深蓝
+        "#000080",  # 藏青
+        "#4b0082",  # 靛蓝
+        "#301934",  # 深紫
+        "#191970",  # 午夜蓝
+        "#2c003e" ,
+        "#8dda91",
+        "#fbeb4e",
+        "#2e6e8e"
+    ]
+    return random.choice(colors)
+
 # 画词云图
 def draw_word_cloud(
     data : dict,
@@ -53,6 +69,9 @@ def draw_word_cloud(
     width=1600,
     height=1000,
     bgc : str = 'mintcream',
+    color_func=None,
+        max_font_size=300,  # 最大字号更大
+        relative_scaling=0.5,  # 越大差距越明显
     **kwargs
 ) -> Figure:
     wordcloud : WordCloud = WordCloud(
@@ -60,7 +79,10 @@ def draw_word_cloud(
         height=height,
         background_color=bgc,
         margin=0,
-        prefer_horizontal=1.0
+        prefer_horizontal=1.0,
+        color_func=color_func,
+        max_font_size=300,  # 最大字号更大
+        relative_scaling=0.3,  # 越大差距越明显
     ).generate_from_frequencies(data)
 
     fig = plt.figure(figsize=(width / 100, height / 100), dpi=100)
@@ -74,22 +96,151 @@ def draw_word_cloud(
     ax.set(**kwargs)
     return fig
 
-# 画饼状图
-def draw_pie(data : dict, title : str, **kwargs) -> Figure:
-    labels = list(data.keys())
-    sizes = list(data.values())
+# 柱状图中添加折线图反应趋势
+import matplotlib.pyplot as plt
+from matplotlib.figure import Figure
+from typing import Optional
 
-    fig = plt.figure()
-    ax : Axes = fig.gca()
-    ax.pie(
-        sizes,
-        labels=labels,
-        autopct='%1.1f%%',  # 显示百分比
-        startangle=90,  # 旋转起始角度
-    )
+def draw_bar_with_plot(
+    data_bar: dict,
+    data_line: Optional[dict] = None,
+    xlabel: str = '',
+    ylabel: str = '',
+    title: str = '',
+    line_color: str = '#e63946',
+    bar_color: str = '#457b9d',
+    **kwargs
+) -> Figure:
+    """
+    画柱状图 + 折线图叠加图（共享同一个Y轴）
+    折线点精确对齐柱顶中心。
+    """
+    keys = list(data_bar.keys())
+    bar_values = list(data_bar.values())
+
+    if data_line is None:
+        data_line = data_bar
+    line_values = [data_line.get(k, 0) for k in keys]
+
+    fig, ax = plt.subplots()
+
+    bar_width = 0.7
+    x = range(len(keys))
+
+    # --- 柱状图 ---
+    bars = ax.bar(x, bar_values, color=bar_color, alpha=0.75, width=bar_width, label='Bar')
+
+    # --- 折线图：共享Y轴 ---
+    # ✅ 用每根柱子的中心点作为折线的x位置
+    line_x = [bar.get_x() + bar.get_width() / 2 for bar in bars]
+    ax.plot(line_x, line_values, color=line_color, marker='o', linewidth=2.5, label='Line')
+
+    # --- 坐标轴与标题 ---
+    ax.set_xlabel(xlabel)
+    ax.set_ylabel(ylabel)
+    ax.set_xticks(x)
+    ax.set_xticklabels(keys)
     ax.set_title(title)
     ax.set(**kwargs)
+
+    # --- 图例 ---
+    ax.legend(loc='upper left')
+
+    fig.tight_layout()
     return fig
+
+import plotly.graph_objects as go
+
+# 新引擎
+def draw_bar_with_plot_by_plotly(
+    data_bar: dict,
+    data_line: Optional[dict] = None,
+    xlabel: str = '',
+    ylabel: str = '',
+    title: str = '',
+    bar_color: str = '#457b9d',
+    line_color: str = '#e63946',
+    **kwargs
+):
+    keys = list(data_bar.keys())
+    bar_values = list(data_bar.values())
+
+    if data_line is None:
+        data_line = data_bar
+    line_values = [data_line.get(k, 0) for k in keys]
+
+    fig = go.Figure()
+
+    # --- 柱状图 ---
+    fig.add_trace(go.Bar(
+        x=keys,
+        y=bar_values,
+        name=ylabel or 'Bar',
+        marker_color=bar_color,
+        opacity=0.75
+    ))
+
+    # --- 折线图（共享y轴） ---
+    fig.add_trace(go.Scatter(
+        x=keys,
+        y=line_values,
+        mode='lines+markers',
+        name='Trend',
+        line=dict(color=line_color, width=3),
+        marker=dict(size=8)
+    ))
+
+    # --- 美化布局 ---
+    fig.update_layout(
+        title=title,
+        xaxis_title=xlabel,
+        yaxis_title=ylabel,
+        template='plotly_white',
+        legend=dict(x=0.02, y=0.98, bgcolor='rgba(255,255,255,0)', bordercolor='rgba(0,0,0,0)'),
+        **kwargs
+    )
+
+    # 可以保存为静态图或 HTML
+    # fig.write_image("out/年份变化.png", scale=3)
+    # fig.write_html("out/年份变化.html")
+
+    return fig
+
+from pyecharts.charts import WordCloud as WordCloud_pyecharts
+from pyecharts import options as opts
+
+def draw_word_cloud_by_pyecharts(
+    data: dict,
+    title: str = '',
+    width: int = 1600,
+    height: int = 1000,
+    bgc: str = 'rgba(255,255,255,0)',  # 背景透明
+    color_func=None,
+    **kwargs
+) -> WordCloud_pyecharts:
+    """
+    绘制现代词云（使用 pyecharts 引擎）
+    """
+    words = [(k, int(v)) for k, v in data.items()]
+    wc = (
+        WordCloud_pyecharts(init_opts=opts.InitOpts(width=f"{width}px", height=f"{height}px", bg_color=bgc))
+        .add(
+            "",
+            words,
+            word_size_range=[12, 80],
+            shape="circle",  # 可改为 "diamond", "star", "pentagon"
+            rotate_step=30,
+        )
+        .set_global_opts(
+            title_opts=opts.TitleOpts(
+                title=title,
+                title_textstyle_opts=opts.TextStyleOpts(font_size=22),
+            ),
+            tooltip_opts=opts.TooltipOpts(is_show=True),
+        )
+    )
+    return wc
+
 # records = load('savedrecs.txt')
 
 # 年份统计
@@ -168,17 +319,55 @@ def draw_pie(data : dict, title : str, **kwargs) -> Figure:
 # draw_pie_more(publisher_data, 'Article attribution to publisher statistics')
 
 if __name__ == '__main__':
-    rcParams['font.family'] = 'Times New Roman'
+    # rcParams['font.family'] = 'Times New Roman'
+    rcParams['font.family'] = 'Microsoft YaHei'
+
     plt.rcParams['axes.labelsize'] = 18  # 轴标签字体大小
-    plt.rcParams['xtick.labelsize'] = 14  # x轴刻度字体大小
-    plt.rcParams['ytick.labelsize'] = 12  # y轴刻度字体大小
+    plt.rcParams['xtick.labelsize'] = 16  # x轴刻度字体大小
+    plt.rcParams['ytick.labelsize'] = 16  # y轴刻度字体大小
+    rcParams['axes.labelsize'] = 16  # 设置坐标轴标签大小（这里 12pt = 小四号）
 
-    records = load('src/main.txt')
+    # file = merge_large_text_file('src/1.txt', 'src/2.txt', 'src/main.txt')
 
-    # 研究领域
-    publisher = [match_pu(r) for r in records]
-    publisher_data = get_count_single(publisher)
-    publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
+    records = load(r'C:\Users\20281\Desktop\refix\WOSAnalysis\src\main.txt')
+
+    # years = [match_py(e) for e in records]
+    # years_data = get_count_single(years)
+    # {'2022': 97, '2024': 124, '2017': 51, '2025': 142, '2023': 117, '2014': 45, '2021': 82, '2018': 66, '2020': 69,
+    #  '2016': 43, '2019': 75, '2015': 39}
+    # years_data = SliceableDict(sort_by_key(years_data))[:]
+    # fig = draw_bar_with_plot(years_data, xlabel='Year', ylabel='Number of published articles', title='Published articles by year', bar_color='#864CE4')
+    # fig.set_size_inches(10, 8)
+    # fig.set_dpi(150)
+    # fig.savefig('out/年份变化.png')
+    # plt.show()
+    # fig = draw_bar_with_plot_by_plotly(years_data, xlabel='Year', ylabel='Number of published articles',
+    #                          title='Published articles by year', bar_color='rgba(76, 94, 228, 0.7)')
+
+    # fig.show()
+    # 新
+    # years = [match_py(e) for e in records]
+    # years_data = get_count_single(years)
+    # years_data = SliceableDict(sort_by_key(years_data))[:]
+    # fig = draw_bar_v(years_data, 'Year', 'Number of related articles published in the current year', '')
+    # fig.set_size_inches(10, 8)
+    # fig.set_dpi(150)
+    # fig.savefig('out/年份变化.png')
+    # plt.show()
+
+    # 新
+    # publisher = [match_pu(r) for r in records]
+    # publisher_data = get_count_single(publisher)
+    # publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
+    # draw_pie_more(publisher_data, '', )
+
+    # subjects = get_count_mult([match_wc(e) for e in records])
+    # subjects_data = SliceableDict(sort_by_value(subjects, reverse=True))[:]
+    # fig = draw_word_cloud(subjects_data, None, bgc="#f5fffa", color_func=dark_blue_black_purple)
+    # fig.savefig('out/c1.png')
+    # plt.show()
+    # #f5fffa
+
     # fig = draw_word_cloud(publisher_data)
     # # fig.gca().tick_params(axis='y', labelsize=8)
     # fig.set_size_inches(8, 6)
@@ -205,4 +394,17 @@ if __name__ == '__main__':
     #
     # w.show()
     # a.exec()
+    out = os.path.dirname(os.path.abspath(__file__)) + r'\out'
+    journals = [match_so(e) for e in records]
+    journals_data = get_count_single(journals)
+    journals_data = sort_by_value(journals_data, reverse=True)
+    # 期刊全系列词云
+    fig = draw_word_cloud_by_pyecharts(journals_data, )
+    fig.render("out/词云.html")  # ✅ 保存为交互式HTML
+    # fig.savefig(f'{out}/期刊词云.png')
+    # plt.show()
+
+    # reference_with_doi = sort_by_z9_doi(records, True)
+    # reference_top20_with_doi = SliceableDict(sort_by_point_value(reference_with_doi, 0))[:60]
+    # gen_word_table(reference_top20_with_doi, f'{out}/table_top60_reference')
 

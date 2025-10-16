@@ -4,7 +4,7 @@ from PySide6.QtGui import *
 from PySide6.QtCore import *
 from qtawesome import icon as qtIcon
 
-from WOSUtil import get_desktop_path
+from base import get_desktop_path
 
 class ChartWindow(QMainWindow):
     # topshow表示显示几个为真正的名字，剩下的打包到其他

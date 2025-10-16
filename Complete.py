@@ -63,8 +63,8 @@ def example_run():
     # 引用前20名的表格，带DOI和引用数
     reference = sort_by_z9(records)
     reference_with_doi = sort_by_z9_doi(records, True)
-    reference_top20_with_doi = SliceableDict(sort_by_point_value(reference_with_doi, 0))[:20]
-    gen_word_table(reference_top20_with_doi, f'{out}/table_top20_reference')
+    reference_top20_with_doi = SliceableDict(sort_by_point_value(reference_with_doi, 0))[:40]
+    gen_word_table(reference_top20_with_doi, f'{out}/table_top40_reference')
 
     # 学科分类
     # 这个也只能画横向柱状图
@@ -129,15 +129,18 @@ def example_run():
 
     app.exec()
 
-if __name__ == '__main__':
-    records = load(r'1.txt')
-    publisher = [match_pu(r) for r in records]
-    publisher_data = get_count_single(publisher)
-    publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
-    a = QApplication([])
-    a.setFont(QFont('Times New Roman', 24))
-    # 画饼状图
-    w = ChartWindow(publisher_data, '', topshow=9)
+# if __name__ == '__main__':
+#     records = load(r'src/main.txt')
+#     publisher = [match_pu(r) for r in records]
+#     publisher_data = get_count_single(publisher)
+#     publisher_data = SliceableDict(sort_by_value(publisher_data, True))[:]
+#     a = QApplication([])
+#     a.setFont(QFont('Times New Roman', 24))
+#     # 画饼状图
+#     w = ChartWindow(publisher_data, '', topshow=9)
+#
+#     w.show()
+#     a.exec()
 
-    w.show()
-    a.exec()
+if __name__ == '__main__':
+    example_run()
