@@ -53,4 +53,10 @@
 | DA   | 数据导出日期                |
 | ER   | 记录结束标志                |
 
+## 💡升级了引擎，基于Flutter，制图更加精美
+link: https://github.com/PythonnotJava/flutter_wordcloud/tree/main/wos
+
+
+
+
 
