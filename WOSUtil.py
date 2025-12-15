@@ -180,6 +180,17 @@ def match_di(entry : str) -> str:
     else:
         return 'DOI缺失'
 
+# 匹配国家地址
+def match_c1(entry: str) -> Optional[str]:
+    m = re.search(
+        r'^C1\s+(.*?)(?=^\b[A-Z]{2}\s)',
+        entry,
+        flags=re.MULTILINE | re.DOTALL
+    )
+    if m:
+        return m.group(1).rstrip().split(', ')[-1].split('\n')[0]
+    return None
+
 
 # 根据引用次数对论文排序，默认从大到小，同时附加DOI
 def sort_by_z9_doi(records : list[str], reverse=True) -> dict[str, tuple[int, str]]:
@@ -223,3 +234,44 @@ def gen_word_table(articles : dict[str, tuple[int, str]], output : str) -> None:
         row_cells[2].text = str(citations)
 
     doc.save(f'{output}.docx')
+
+# 统计直方图
+def _getHistCount[T](datas: list[T]) -> dict[T, int]:
+    result: dict[T, int] = {}
+    for data in datas:
+        result.update({data: result.get(data, 0) + 1})
+    return result
+
+# 清洗match_c1到`getHistCount`匹配的数据
+def _getRuleCount(datas: dict[str, int]) -> None:
+    for k, v in list(datas.items()):
+        if 'USA' in k and k != 'USA':
+            datas['USA'] = datas.get('USA', 0) + v
+            datas.pop(k)
+        elif k == 'Peoples R China' or k == 'PRC':
+            datas['China'] = datas.get('China', 0) + v
+            datas.pop(k)
+        elif k == 'Turkiye':
+            datas['Turkey'] = datas['Turkey'] + v
+            datas.pop(k)
+        elif k == 'Scotland' or k == 'Wales':
+            datas['England'] += datas['England'] + v
+            datas.pop(k)
+        elif k == 'Taiwan':
+            datas['China'] = datas.get('China', 0) + v
+            datas.pop(k)
+    return
+
+# 处理好的国家统计图
+def getCopedCountryMap(datas: list[str]) -> dict[str, int]:
+    countryMaps = _getHistCount(datas)
+    _getRuleCount(countryMaps)
+    return countryMaps
+
+if __name__ == '__main__':
+    records = load('src/main.txt')
+    l = []
+    for entry in records:
+        l.append(match_c1(entry))
+    a = getCopedCountryMap(l)
+    print(sum(a.values()))
