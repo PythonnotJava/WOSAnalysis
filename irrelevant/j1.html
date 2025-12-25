@@ -1,295 +1,176 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>关键词时间轴图还原 (HTML/CSS - 无 X 轴刻度)</title>
-    <style>
-        /* 1. 字体和基础样式 */
-        body {
-            font-family: "Microsoft YaHei", "微软雅黑", sans-serif; /* 设置微软雅黑字体 */
-            padding: 20px;
-            background-color: #f7f7f7;
-        }
+<meta charset="UTF-8">
+<title>Top Keywords with the Strongest Citation Bursts</title>
 
-        /* 2. 主容器：设置总宽度为 1200px */
-        .chart-container {
-            display: grid;
-            /* 调整列宽以适应 1200px 总宽 */
-            grid-template-columns: 250px 400px 550px;
-            width: 1200px;
-            font-size: 20px;
-            border: 1px solid #ccc; /* 外部边框 */
-            background-color: white;
-            margin: 0 auto; /* 居中显示 */
-        }
-
-        /* 3. 表格头部样式 */
-        .header {
-            font-weight: bold;
-            padding: 8px 10px;
-            background-color: #f0f0f0;
-            border-bottom: 2px solid #ccc;
-            text-align: center;
-        }
-        .header.keywords { grid-column: 1; text-align: left; }
-        .header.data { grid-column: 2; display: flex; }
-        .header.data > div { flex: 1; text-align: center; }
-        .header.timeline {
-            grid-column: 3;
-            text-align: right;
-            padding-right: 15px;
-            /* 确保时间轴标题与图表底部对齐，因为 X 轴被移除 */
-            padding-bottom: 8px;
-        }
-
-        /* 4. 数据行样式 */
-        .data-row {
-            display: contents;
-        }
-        .data-row:not(:last-child) .cell {
-            border-bottom: 1px dashed #eee; /* 行之间的虚线 */
-        }
-
-        /* 5. 单元格样式 */
-        .cell {
-            padding: 8px 10px;
-            display: flex;
-            align-items: center;
-            border-right: 1px solid #eee;
-            height: 30px;
-        }
-        .keywords-cell {
-            grid-column: 1;
-            justify-content: flex-start;
-            font-size: 20px;
-        }
-        .table-data-cell {
-            grid-column: 2;
-            display: grid;
-            grid-template-columns: repeat(4, 1fr); /* Year, Strength, Begin, End 四列 */
-            border-right: 2px solid #ccc; /* 表格与时间轴之间的粗分隔线 */
-        }
-        .table-data-cell > div { text-align: center; }
-        .table-data-cell .bold { font-weight: bold; } /* Begin 年份加粗 */
-
-        /* 6. 时间轴单元格样式 */
-        .timeline-cell {
-            grid-column: 3;
-            position: relative;
-            padding: 0 15px;
-            align-items: center;
-            overflow: hidden;
-            background-color: white;
-        }
-
-        /* 7. 时间轴条形样式 */
-        .time-bar-bg {
-            position: absolute;
-            left: 15px;
-            right: 15px;
-            height: 8px;
-            background-color: #A9D9D9; /* 浅青色背景 */
-            border-radius: 2px;
-        }
-
-        .time-bar-red {
-            position: absolute;
-            top: 50%;
-            height: 8px;
-            background-color: red; /* 红色强度条 */
-            transform: translateY(-50%);
-            border-radius: 2px;
-        }
-
-        /* 8. 关键词特定样式 - 百分比计算不变 */
-        /* microgrids (2016-2022) */
-        .bar-0 { left: 18.18%; width: 54.54%; }
-        /* energy hub (2018-2020) */
-        .bar-1 { left: 36.36%; width: 18.18%; }
-        /* natural gas (2018-2019) */
-        .bar-2 { left: 36.36%; width: 9.09%; }
-        /* consumption (2018-2020) */
-        .bar-3 { left: 36.36%; width: 18.18%; }
-        /* optimal power flow (2018-2020) */
-        .bar-4 { left: 36.36%; width: 18.18%; }
-        /* wind power (2019-2021) */
-        .bar-5 { left: 45.45%; width: 18.18%; }
-        /* district heating network (2020-2021) */
-        .bar-6 { left: 54.54%; width: 9.09%; }
-        /* network (2021-2022) */
-        .bar-7 { left: 63.63%; width: 9.09%; }
-        /* market (2021-2022) */
-        .bar-8 { left: 63.63%; width: 9.09%; }
-        /* carbon trading (2023-2025) */
-        .bar-9 { left: 81.81%; width: 18.18%; }
+<style>
+body{
+    font-family: "Times New Roman", "Microsoft YaHei", sans-serif;
+    background:#f7f7f7;
+    padding:20px;
+}
 
 
-        /* 9. X轴刻度样式 (被移除，但为了保留布局结构，我们将它留空) */
-        .x-axis {
-            grid-column: 3;
-            height: 10px; /* 减小 X 轴区域的高度 */
-            border-top: 1px solid #ccc; /* 添加一条细线分隔内容和底部 */
-        }
-    </style>
+.chart-container{
+    width:1200px;
+    margin:auto;
+    background:#fff;
+    border:1px solid #ccc;
+    display:grid;
+    grid-template-columns:260px 420px 520px;
+    font-size:18px;
+}
+
+.header{
+    font-weight:bold;
+    background:#f0f0f0;
+    padding:10px;
+    border-bottom:2px solid #ccc;
+}
+
+.header.data{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    text-align:center;
+}
+
+.header.timeline{
+    text-align:right;
+    padding-right:20px;
+}
+
+.data-row{
+    display:contents;
+}
+
+.cell{
+    padding:8px 10px;
+    border-bottom:1px dashed #eee;
+    display:flex;
+    align-items:center;
+}
+
+.keywords-cell{
+    justify-content:flex-start;
+}
+
+.table-data-cell{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    text-align:center;
+    border-right:2px solid #ccc;
+}
+
+.table-data-cell .bold{
+    font-weight:bold;
+}
+
+.timeline-cell{
+    position:relative;
+    padding:0 20px;
+}
+
+.time-bar-bg{
+    position:absolute;
+    left:20px;
+    right:20px;
+    height:8px;
+    background:#A9D9D9;
+    border-radius:2px;
+    top:50%;
+    transform:translateY(-50%);
+}
+
+.time-bar-red{
+    position:absolute;
+    height:8px;
+    background:red;
+    top:50%;
+    transform:translateY(-50%);
+    border-radius:2px;
+}
+
+/* ====== 突现区间（2014–2025） ====== */
+
+/* organic matter 2014–2018 */
+.bar-1{left:4%;width:33.36%;}
+
+/* oxide emissions 2015–2020 */
+.bar-3{left:9.09%;width:45.45%;}
+
+/* land use 2015–2016 */
+.bar-4{left:9.09%;width:9.09%;}
+
+/* agricultural mechanization 2016–2020 */
+.bar-5{left:18.18%;width:36.36%;}
+
+/* agricultural soils 2017–2018 */
+.bar-6{left:27.27%;width:9.09%;}
+
+/* fertilizer 2018–2020 */
+.bar-7{left:36.36%;width:18.18%;}
+
+/* life cycle assessment 2018–2020 */
+.bar-8{left:36.36%;width:18.18%;}
+
+/* crop production 2019–2021 */
+.bar-9{left:45.45%;width:18.18%;}
+
+/* agricultural informatization 2020–2023 */
+.bar-10{left:54.54%;width:27.27%;}
+
+/* smart agriculture 2023–2025 */
+.bar-11{left:81.81%;width:14.18%;}
+
+</style>
 </head>
+
 <body>
 
 <div class="chart-container">
 
-    <div class="header keywords">Keywords</div>
-    <div class="header data">
-        <div style="flex: 1.1;">Year</div>
-        <div style="flex: 1.2;">Strength</div>
-        <div class="bold" style="flex: 1.2;">Begin</div>
-        <div style="flex: 1.2;">End</div>
-    </div>
-    <div class="header timeline">2014 - 2025</div>
+<div class="header">Keywords</div>
+<div class="header data">
+    <div>Year</div>
+    <div>Strength</div>
+    <div class="bold">Begin</div>
+    <div>End</div>
+</div>
+<div class="header timeline">2014 - 2025</div>
 
-    <div class="data-row">
-        <div class="cell keywords-cell">microgrids</div>
-        <div class="cell table-data-cell">
-            <div>2016</div>
-            <div>3.97</div>
-            <div class="bold">2016</div>
-            <div>2022</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-0"></div>
-        </div>
-    </div>
+<!-- rows -->
+<script>
+const data = [
+["organic matter",2014,4.04,2014,2018,1],
+["oxide emissions",2015,2.78,2015,2020,3],
+["land use",2015,2.66,2015,2016,4],
+["agricultural mechanization",2016,3.51,2016,2020,5],
+["agricultural soils",2014,4.52,2017,2018,6],
+["fertilizer",2018,3.31,2018,2020,7],
+["life cycle assessment",2015,2.98,2018,2020,8],
+["crop production",2019,3.26,2019,2021,9],
+["agricultural informatization",2020,3.34,2020,2023,10],
+["smart agriculture",2023,3.56,2023,2025,11]
+];
 
-    <div class="data-row">
-        <div class="cell keywords-cell">energy hub</div>
-        <div class="cell table-data-cell">
-            <div>2018</div>
-            <div>4.4</div>
-            <div class="bold">2018</div>
-            <div>2020</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-1"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">natural gas</div>
-        <div class="cell table-data-cell">
-            <div>2017</div>
-            <div>3.91</div>
-            <div class="bold">2018</div>
-            <div>2019</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-2"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">consumption</div>
-        <div class="cell table-data-cell">
-            <div>2018</div>
-            <div>2.98</div>
-            <div class="bold">2018</div>
-            <div>2020</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-3"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">optimal power flow</div>
-        <div class="cell table-data-cell">
-            <div>2018</div>
-            <div>2.79</div>
-            <div class="bold">2018</div>
-            <div>2020</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-4"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">wind power</div>
-        <div class="cell table-data-cell">
-            <div>2019</div>
-            <div>6.81</div>
-            <div class="bold">2019</div>
-            <div>2021</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-5"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">district heating network</div>
-        <div class="cell table-data-cell">
-            <div>2020</div>
-            <div>2.59</div>
-            <div class="bold">2020</div>
-            <div>2021</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-6"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">network</div>
-        <div class="cell table-data-cell">
-            <div>2017</div>
-            <div>3.45</div>
-            <div class="bold">2021</div>
-            <div>2022</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-7"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">market</div>
-        <div class="cell table-data-cell">
-            <div>2021</div>
-            <div>3.23</div>
-            <div class="bold">2021</div>
-            <div>2022</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-8"></div>
-        </div>
-    </div>
-
-    <div class="data-row">
-        <div class="cell keywords-cell">carbon trading</div>
-        <div class="cell table-data-cell">
-            <div>2023</div>
-            <div>3.08</div>
-            <div class="bold">2023</div>
-            <div>2025</div>
-        </div>
-        <div class="cell timeline-cell">
-            <div class="time-bar-bg"></div>
-            <div class="time-bar-red bar-9"></div>
-        </div>
-    </div>
-
-    <div class="x-axis">
-    </div>
+document.write(data.map(d=>`
+<div class="data-row">
+  <div class="cell keywords-cell">${d[0]}</div>
+  <div class="cell table-data-cell">
+    <div>${d[1]}</div>
+    <div>${d[2]}</div>
+    <div class="bold">${d[3]}</div>
+    <div>${d[4]}</div>
+  </div>
+  <div class="cell timeline-cell">
+    <div class="time-bar-bg"></div>
+    <div class="time-bar-red bar-${d[5]}"></div>
+  </div>
+</div>
+`).join(""));
+</script>
 
 </div>
-
 </body>
 </html>
