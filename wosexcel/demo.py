@@ -46,6 +46,7 @@ def getCountryToList(dataFrames: pandas.DataFrame):
 def getCopedCountryMap(datas: list[str]) -> dict[str, int]:
     countryMaps = getHistCount(datas)
     getRuleCount(countryMaps)
+    countryMaps['Taiwan'] = countryMaps['China']
     return countryMaps
 
 

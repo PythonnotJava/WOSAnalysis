@@ -17,6 +17,7 @@ class ChartWindow(QMainWindow):
         series = QPieSeries()
 
         # 保证按数量从大到小排序（如果传入没排好）
+        data = {k: v for k, v in data.items() if k and k.strip()}
         sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
         topshow = min(topshow, len(sorted_data))
         top_items = sorted_data[:topshow]
@@ -43,6 +44,7 @@ class ChartWindow(QMainWindow):
             slice_ = series.append(display_label, others_total)
             slice_.setLabelVisible(True)
             slice_.setProperty("legendLabel", legend_label)
+            slice_.setLabelFont(QFont("Times New Roman", 12))
 
         chart = QChart()
         chart.addSeries(series)
@@ -74,7 +76,7 @@ class ChartWindow(QMainWindow):
 
         chart.legend().setVisible(True)
         chart.legend().setAlignment(Qt.AlignmentFlag.AlignRight)
-        chart.legend().setFont(QFont('Times New Roman', 12))
+        chart.legend().setFont(QFont('Times New Roman', 16))
         chart.legend().setMinimumWidth(300)  # 可以根据需要调整
         chart.legend().setAlignment(Qt.AlignmentFlag.AlignRight)
 
@@ -127,8 +129,9 @@ class ChartWindow(QMainWindow):
 def draw_pie_more(data : dict, title : str, topshow : int = 9):
     app = QApplication([])
     app.setApplicationName('右键可以操作')
-    app.setFont(QFont('Microsoft YaHei', 12))
+    app.setFont(QFont('Times New Roman', 18))
     window = ChartWindow(data, title, topshow)
     window.setBaseSize(1200, 800)
+    window.setMaximumSize(2400, 1600)
     window.show()
     app.exec()

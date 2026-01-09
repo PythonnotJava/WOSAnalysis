@@ -329,7 +329,8 @@ if __name__ == '__main__':
 
     # file = merge_large_text_file('src/1.txt', 'src/2.txt', 'src/main.txt')
 
-    records = load(r'C:\Users\20281\Desktop\refix\WOSAnalysis\src\main.txt')
+    records = load('src/1.9.txt')
+
 
     # years = [match_py(e) for e in records]
     # years_data = get_count_single(years)
@@ -394,17 +395,22 @@ if __name__ == '__main__':
     #
     # w.show()
     # a.exec()
-    out = os.path.dirname(os.path.abspath(__file__)) + r'\out'
-    journals = [match_so(e) for e in records]
-    journals_data = get_count_single(journals)
-    journals_data = sort_by_value(journals_data, reverse=True)
+    # out = os.path.dirname(os.path.abspath(__file__)) + r'\out'
+    # journals = [match_so(e) for e in records]
+    # journals_data = get_count_single(journals)
+    # journals_data = sort_by_value(journals_data, reverse=True)
     # 期刊全系列词云
-    fig = draw_word_cloud_by_pyecharts(journals_data, )
-    fig.render("out/词云.html")  # ✅ 保存为交互式HTML
+    # fig = draw_word_cloud_by_pyecharts(journals_data, )
+    # fig.render("out/词云.html")  # ✅ 保存为交互式HTML
     # fig.savefig(f'{out}/期刊词云.png')
     # plt.show()
 
     # reference_with_doi = sort_by_z9_doi(records, True)
     # reference_top20_with_doi = SliceableDict(sort_by_point_value(reference_with_doi, 0))[:60]
     # gen_word_table(reference_top20_with_doi, f'{out}/table_top60_reference')
+
+    subjects = get_count_mult([match_wc(e) for e in records])
+    subjects_data = SliceableDict(sort_by_value(subjects, reverse=True))[:]
+
+    draw_pie_more(subjects_data, ' ', 20)
 

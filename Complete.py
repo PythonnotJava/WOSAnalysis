@@ -22,7 +22,7 @@ def example_run():
     app.setApplicationName('右键可以操作')
     app.setFont(QFont('Times New Roman'))
 
-    records = load(sys.argv[1])
+    records = load('src/1.9.txt')
     # 年份统计
     years = [match_py(e) for e in records]
     years_data = get_count_single(years)
